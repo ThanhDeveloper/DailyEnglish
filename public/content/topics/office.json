@@ -73,6 +73,46 @@
       "translation": "phan hoi",
       "example": "The manager gave positive feedback on my work.",
       "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "brainstorm",
+      "ipa": "/ˈbreɪnstɔːrm/",
+      "meaning": "To generate ideas freely in a group",
+      "translation": "trao doi y tuong",
+      "example": "Let's brainstorm solutions to this problem.",
+      "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "collaborate",
+      "ipa": "/kəˈlæbəreɪt/",
+      "meaning": "To work jointly with others",
+      "translation": "hop tac",
+      "example": "We need to collaborate across departments.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "delegate",
+      "ipa": "/ˈdelɪɡeɪt/",
+      "meaning": "To assign a task to someone else",
+      "translation": "uy quyen / giao viec",
+      "example": "Good managers know how to delegate tasks.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "KPI",
+      "ipa": "/keɪ piː aɪ/",
+      "meaning": "Key Performance Indicator — a measurable goal",
+      "translation": "chi so hieu suat",
+      "example": "We set KPIs at the beginning of each quarter.",
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "remote work",
+      "ipa": "/rɪˈmoʊt wɜːrk/",
+      "meaning": "Working from home or outside the office",
+      "translation": "lam viec tu xa",
+      "example": "Many companies now offer remote work options.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=300&h=200&fit=crop"
     }
   ],
   "quiz": [

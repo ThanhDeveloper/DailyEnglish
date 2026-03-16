@@ -6,7 +6,9 @@
     { "id": "office", "title": "Office", "icon": "briefcase", "color": "#f59e0b" },
     { "id": "hospital", "title": "Hospital", "icon": "heart-pulse", "color": "#ec4899" },
     { "id": "travel", "title": "Travel", "icon": "map", "color": "#10b981" },
-    { "id": "daily-conversation", "title": "Daily Conversation", "icon": "message-circle", "color": "#06b6d4" }
+    { "id": "daily-conversation", "title": "Daily Conversation", "icon": "message-circle", "color": "#06b6d4" },
+    { "id": "shopping", "title": "Shopping", "icon": "shopping-bag", "color": "#f97316" },
+    { "id": "technology", "title": "Technology", "icon": "laptop", "color": "#7c3aed" }
   ],
   "podcasts": [
     { "id": "beginner", "title": "Beginner English Podcasts" },

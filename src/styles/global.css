@@ -57,6 +57,7 @@ button {
   border: none;
   background: none;
   font-size: inherit;
+  touch-action: manipulation;
 }
 
 img {
@@ -69,7 +70,7 @@ img {
 .container {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 0 24px;
 }
 
 .sr-only {
@@ -109,6 +110,7 @@ img {
   font-size: 0.9375rem;
   transition: all 0.15s;
   white-space: nowrap;
+  touch-action: manipulation;
 }
 
 .btn-primary {
@@ -213,11 +215,25 @@ img {
 
 /* Responsive */
 @media (max-width: 768px) {
+  .container {
+    padding: 0 16px;
+  }
+
+  .section {
+    padding: 32px 0;
+  }
+
   .section-title {
     font-size: 1.375rem;
   }
 
   .grid-3 {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (min-width: 769px) {
+  .container {
+    padding: 0 24px;
   }
 }

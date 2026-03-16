@@ -59,6 +59,22 @@ export function MessageCircleIcon({ size = 24, className }: IconProps) {
   );
 }
 
+export function ShoppingBagIcon({ size = 24, className }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+      <path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z" /><line x1="3" x2="21" y1="6" y2="6" /><path d="M16 10a4 4 0 0 1-8 0" />
+    </svg>
+  );
+}
+
+export function LaptopIcon({ size = 24, className }: IconProps) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+      <path d="M20 16V7a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v9m16 0H4m16 0 1.28 2.55a1 1 0 0 1-.9 1.45H3.62a1 1 0 0 1-.9-1.45L4 16" />
+    </svg>
+  );
+}
+
 export function SearchIcon({ size = 24, className }: IconProps) {
   return (
     <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
@@ -155,6 +171,8 @@ const iconMap: Record<string, React.FC<IconProps>> = {
   'heart-pulse': HeartPulseIcon,
   map: MapIcon,
   'message-circle': MessageCircleIcon,
+  'shopping-bag': ShoppingBagIcon,
+  laptop: LaptopIcon,
   search: SearchIcon,
   volume: VolumeIcon,
   mic: MicIcon,

@@ -1,0 +1,121 @@
+{
+  "id": "shopping",
+  "title": "Shopping",
+  "description": "Vocabulary for shopping, prices, and retail interactions",
+  "icon": "shopping-bag",
+  "color": "#f97316",
+  "video": {
+    "title": "Shopping English - Useful Phrases",
+    "youtubeId": "Hj0yfxGiNV0",
+    "duration": "10:45"
+  },
+  "vocabulary": [
+    {
+      "word": "discount",
+      "ipa": "/ˈdɪskaʊnt/",
+      "meaning": "A reduction in the original price",
+      "translation": "giam gia",
+      "example": "There is a 30% discount on all items today.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "meaning": "A printed record of a purchase",
+      "translation": "hoa don mua hang",
+      "example": "Please keep your receipt for returns.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "refund",
+      "ipa": "/ˈriːfʌnd/",
+      "meaning": "Money returned after returning an item",
+      "translation": "hoan tien",
+      "example": "I would like a refund for this defective item.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "fitting room",
+      "ipa": "/ˈfɪtɪŋ ruːm/",
+      "meaning": "A room in a store where you try on clothes",
+      "translation": "phong thu do",
+      "example": "The fitting rooms are at the back of the store.",
+      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "cashier",
+      "ipa": "/kæˈʃɪər/",
+      "meaning": "A person who handles payments in a store",
+      "translation": "thu ngan",
+      "example": "Please go to any open cashier.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "sale",
+      "ipa": "/seɪl/",
+      "meaning": "A period when items are sold at lower prices",
+      "translation": "khuyen mai",
+      "example": "The end-of-season sale starts this weekend.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "exchange",
+      "ipa": "/ɪksˈtʃeɪndʒ/",
+      "meaning": "To swap a purchased item for another",
+      "translation": "doi hang",
+      "example": "Can I exchange this for a larger size?",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "cart",
+      "ipa": "/kɑːrt/",
+      "meaning": "A basket on wheels used while shopping",
+      "translation": "xe day hang",
+      "example": "I'll grab a cart near the entrance.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "bargain",
+      "ipa": "/ˈbɑːrɡɪn/",
+      "meaning": "An item bought at a lower price than usual",
+      "translation": "hang re / mac ca",
+      "example": "This coat was a real bargain at 50% off.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "checkout",
+      "ipa": "/ˈtʃekaʊt/",
+      "meaning": "The place in a store where you pay for items",
+      "translation": "quay thanh toan",
+      "example": "Please proceed to checkout when ready.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=300&h=200&fit=crop"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is a reduction in the original price called?",
+      "options": ["Sale", "Discount", "Bargain", "Offer"],
+      "answer": 1
+    },
+    {
+      "question": "Where do you try on clothes in a store?",
+      "options": ["Stockroom", "Fitting room", "Changing area", "Display room"],
+      "answer": 1
+    },
+    {
+      "question": "What do you ask for when returning a defective item?",
+      "options": ["Exchange", "Discount", "Refund", "Voucher"],
+      "answer": 2
+    },
+    {
+      "question": "What is the person who handles payments called?",
+      "options": ["Salesperson", "Manager", "Cashier", "Assistant"],
+      "answer": 2
+    },
+    {
+      "question": "What do you use to carry items while shopping?",
+      "options": ["Bag", "Cart", "Basket", "Trolley"],
+      "answer": 1
+    }
+  ]
+}

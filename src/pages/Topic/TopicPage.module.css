@@ -35,6 +35,12 @@
   box-shadow: var(--shadow-sm);
   overflow-x: auto;
   margin-bottom: 24px;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.tabs::-webkit-scrollbar {
+  display: none;
 }
 
 .tab {
@@ -103,7 +109,7 @@
 
 @media (max-width: 768px) {
   .title {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
   }
 
   .tabs {
@@ -111,7 +117,7 @@
   }
 
   .tab {
-    padding: 8px 12px;
+    padding: 8px 14px;
     font-size: 0.8125rem;
   }
 }

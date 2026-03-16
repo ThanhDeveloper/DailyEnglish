@@ -89,6 +89,46 @@
       "translation": "tiep vien hang khong",
       "example": "The flight attendant offered drinks to passengers.",
       "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "delay",
+      "ipa": "/dɪˈleɪ/",
+      "meaning": "When a flight is late or postponed",
+      "translation": "tre chuyen",
+      "example": "The flight has a 2-hour delay due to weather.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "layover",
+      "ipa": "/ˈleɪoʊvər/",
+      "meaning": "A stop between connecting flights",
+      "translation": "qua canh",
+      "example": "We have a 3-hour layover in Tokyo.",
+      "image": "https://images.unsplash.com/photo-1529074448010-db7bdb09bf1c?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "overhead bin",
+      "ipa": "/ˈoʊvərhed bɪn/",
+      "meaning": "Storage compartment above seats on a plane",
+      "translation": "ngan chua hanh ly tren cao",
+      "example": "Please store your bag in the overhead bin.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "aisle",
+      "ipa": "/aɪl/",
+      "meaning": "The passage between rows of seats on a plane",
+      "translation": "loi di",
+      "example": "I prefer an aisle seat for more legroom.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "immigration",
+      "ipa": "/ˌɪmɪˈɡreɪʃən/",
+      "meaning": "The process of officially entering a country",
+      "translation": "nhap cu / kiem tra ho chieu",
+      "example": "Please join the immigration line for foreign passports.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&h=200&fit=crop"
     }
   ],
   "quiz": [
@@ -115,6 +155,16 @@
     {
       "question": "What is another word for bags and suitcases?",
       "options": ["Cargo", "Luggage", "Package", "Container"],
+      "answer": 1
+    },
+    {
+      "question": "What do you call a stop between connecting flights?",
+      "options": ["Transfer", "Layover", "Stopover", "Transit"],
+      "answer": 1
+    },
+    {
+      "question": "What is the storage above seats on a plane?",
+      "options": ["Luggage rack", "Overhead bin", "Storage bay", "Cargo hold"],
       "answer": 1
     }
   ]

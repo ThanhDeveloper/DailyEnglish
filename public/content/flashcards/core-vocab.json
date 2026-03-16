@@ -18,6 +18,18 @@
     { "word": "opportunity", "ipa": "/ˌɑːpərˈtuːnəti/", "meaning": "A favorable time or situation", "example": "This is a great opportunity for growth." },
     { "word": "participate", "ipa": "/pɑːrˈtɪsɪpeɪt/", "meaning": "To take part in something", "example": "Everyone should participate in the discussion." },
     { "word": "require", "ipa": "/rɪˈkwaɪər/", "meaning": "To need something", "example": "This task requires careful attention." },
-    { "word": "significant", "ipa": "/sɪɡˈnɪfɪkənt/", "meaning": "Large enough to be noticed or important", "example": "There has been a significant improvement." }
+    { "word": "significant", "ipa": "/sɪɡˈnɪfɪkənt/", "meaning": "Large enough to be noticed or important", "example": "There has been a significant improvement." },
+    { "word": "achieve", "ipa": "/əˈtʃiːv/", "meaning": "To successfully reach a goal", "example": "We achieved our sales target this quarter." },
+    { "word": "challenge", "ipa": "/ˈtʃælɪndʒ/", "meaning": "A difficult task that requires effort", "example": "This project is a real challenge for the team." },
+    { "word": "deadline", "ipa": "/ˈdedlaɪn/", "meaning": "The latest time something must be done", "example": "We must submit the report before the deadline." },
+    { "word": "effective", "ipa": "/ɪˈfektɪv/", "meaning": "Producing the desired result", "example": "This is an effective method for learning English." },
+    { "word": "flexible", "ipa": "/ˈfleksɪbəl/", "meaning": "Willing to change or adapt", "example": "Our schedule is flexible this week." },
+    { "word": "initiative", "ipa": "/ɪˈnɪʃɪətɪv/", "meaning": "The ability to take action without being asked", "example": "She showed great initiative by starting the project early." },
+    { "word": "objective", "ipa": "/əbˈdʒektɪv/", "meaning": "A goal or target to be achieved", "example": "Our main objective is customer satisfaction." },
+    { "word": "priority", "ipa": "/praɪˈɒrɪti/", "meaning": "Something more important than other things", "example": "Customer service is our top priority." },
+    { "word": "strategy", "ipa": "/ˈstrætɪdʒi/", "meaning": "A plan designed to achieve a long-term goal", "example": "We need a new marketing strategy." },
+    { "word": "sustainable", "ipa": "/səˈsteɪnəbəl/", "meaning": "Able to continue long-term without harming resources", "example": "We are committed to sustainable practices." },
+    { "word": "transparent", "ipa": "/trænsˈpærənt/", "meaning": "Open and honest, easy to understand", "example": "The company is transparent about its policies." },
+    { "word": "collaborate", "ipa": "/kəˈlæbəreɪt/", "meaning": "To work jointly with others toward a goal", "example": "Let's collaborate on this presentation." }
   ]
 }

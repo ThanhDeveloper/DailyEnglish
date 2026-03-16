@@ -90,3 +90,14 @@
   color: var(--color-text-secondary);
   margin-top: auto;
 }
+
+@media (max-width: 768px) {
+  .card {
+    height: 360px;
+    max-width: 100%;
+  }
+
+  .word {
+    font-size: 1.75rem;
+  }
+}

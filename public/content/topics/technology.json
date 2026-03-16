@@ -1,0 +1,121 @@
+{
+  "id": "technology",
+  "title": "Technology",
+  "description": "Modern tech vocabulary for digital communication",
+  "icon": "laptop",
+  "color": "#7c3aed",
+  "video": {
+    "title": "Technology English Vocabulary",
+    "youtubeId": "kqnVnCbGZxA",
+    "duration": "11:00"
+  },
+  "vocabulary": [
+    {
+      "word": "bandwidth",
+      "ipa": "/ˈbændwɪdθ/",
+      "meaning": "The amount of data a network can transmit",
+      "translation": "bang thong",
+      "example": "We need more bandwidth for video calls.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "update",
+      "ipa": "/ˈʌpdeɪt/",
+      "meaning": "A newer version of software or an app",
+      "translation": "cap nhat",
+      "example": "Please install the latest security update.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "password",
+      "ipa": "/ˈpæswɜːrd/",
+      "meaning": "A secret word used to access an account",
+      "translation": "mat khau",
+      "example": "Use a strong password with letters and numbers.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "download",
+      "ipa": "/ˈdaʊnloʊd/",
+      "meaning": "To copy a file from the internet to your device",
+      "translation": "tai xuong",
+      "example": "Download the app from the App Store.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "upload",
+      "ipa": "/ˈʌploʊd/",
+      "meaning": "To send a file from your device to the internet",
+      "translation": "tai len",
+      "example": "Please upload the document to Google Drive.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "notification",
+      "ipa": "/ˌnoʊtɪfɪˈkeɪʃən/",
+      "meaning": "A message alert from an app",
+      "translation": "thong bao",
+      "example": "Turn off notifications during meetings.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "screenshot",
+      "ipa": "/ˈskriːnʃɒt/",
+      "meaning": "A captured image of your screen",
+      "translation": "chup man hinh",
+      "example": "Take a screenshot and send it to me.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "backup",
+      "ipa": "/ˈbækʌp/",
+      "meaning": "A copy of data stored for safety",
+      "translation": "sao luu",
+      "example": "Always backup your important files.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "troubleshoot",
+      "ipa": "/ˈtrʌbəlʃuːt/",
+      "meaning": "To find and fix problems in a system",
+      "translation": "xu ly su co",
+      "example": "Let me troubleshoot this connection issue.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "cloud storage",
+      "ipa": "/klaʊd ˈstɔːrɪdʒ/",
+      "meaning": "Storing data on internet servers",
+      "translation": "luu tru dam may",
+      "example": "My photos are saved in cloud storage.",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=300&h=200&fit=crop"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What do you do to get an app from the internet?",
+      "options": ["Upload", "Download", "Backup", "Update"],
+      "answer": 1
+    },
+    {
+      "question": "What is a captured image of your screen?",
+      "options": ["Snapshot", "Screenshot", "Photo", "Capture"],
+      "answer": 1
+    },
+    {
+      "question": "What is a copy of data stored for safety?",
+      "options": ["Archive", "Backup", "Upload", "Cache"],
+      "answer": 1
+    },
+    {
+      "question": "What is used to protect your account?",
+      "options": ["Username", "Password", "Email", "Pin"],
+      "answer": 1
+    },
+    {
+      "question": "What do you do when fixing system problems?",
+      "options": ["Restart", "Troubleshoot", "Update", "Reset"],
+      "answer": 1
+    }
+  ]
+}

@@ -119,3 +119,13 @@
   color: var(--color-text-secondary);
   margin-bottom: 24px;
 }
+
+@media (max-width: 768px) {
+  .quiz {
+    padding: 16px;
+  }
+
+  .option {
+    padding: 12px;
+  }
+}
