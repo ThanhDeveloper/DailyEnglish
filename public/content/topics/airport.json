@@ -1,0 +1,121 @@
+{
+  "id": "airport",
+  "title": "Airport",
+  "description": "Essential vocabulary and phrases for traveling through airports",
+  "icon": "plane",
+  "color": "#3b82f6",
+  "video": {
+    "title": "Airport English - Check In, Security, Boarding",
+    "youtubeId": "kMR3Z3PaJtU",
+    "duration": "12:34"
+  },
+  "vocabulary": [
+    {
+      "word": "boarding pass",
+      "ipa": "/ˈbɔːrdɪŋ pæs/",
+      "meaning": "A card that allows you to board an airplane",
+      "translation": "the giay len may bay",
+      "example": "Please show your boarding pass at the gate.",
+      "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "check-in",
+      "ipa": "/tʃek ɪn/",
+      "meaning": "The process of registering at the airport",
+      "translation": "lam thu tuc",
+      "example": "Online check-in opens 24 hours before departure.",
+      "image": "https://images.unsplash.com/photo-1556388158-158ea5ccacbd?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "departure",
+      "ipa": "/dɪˈpɑːrtʃər/",
+      "meaning": "The act of leaving a place",
+      "translation": "khoi hanh",
+      "example": "The departure time is 10:30 AM.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "arrival",
+      "ipa": "/əˈraɪvəl/",
+      "meaning": "The act of reaching a destination",
+      "translation": "den noi",
+      "example": "The arrival hall is on the ground floor.",
+      "image": "https://images.unsplash.com/photo-1529074448010-db7bdb09bf1c?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "luggage",
+      "ipa": "/ˈlʌɡɪdʒ/",
+      "meaning": "Bags and suitcases used for traveling",
+      "translation": "hanh ly",
+      "example": "Please collect your luggage at carousel 3.",
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "customs",
+      "ipa": "/ˈkʌstəmz/",
+      "meaning": "The place where officials check goods entering a country",
+      "translation": "hai quan",
+      "example": "You must declare items at customs.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "terminal",
+      "ipa": "/ˈtɜːrmɪnəl/",
+      "meaning": "A building at an airport where passengers arrive and depart",
+      "translation": "nha ga",
+      "example": "International flights depart from Terminal 2.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "passport",
+      "ipa": "/ˈpæspɔːrt/",
+      "meaning": "An official document for international travel",
+      "translation": "ho chieu",
+      "example": "Make sure your passport is valid for at least 6 months.",
+      "image": "https://images.unsplash.com/photo-1544725176-7c40e7580c37?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "gate",
+      "ipa": "/ɡeɪt/",
+      "meaning": "The area where passengers board the plane",
+      "translation": "cong",
+      "example": "Boarding will begin at gate B12.",
+      "image": "https://images.unsplash.com/photo-1540339832862-474599807836?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "flight attendant",
+      "ipa": "/flaɪt əˈtendənt/",
+      "meaning": "A person who serves passengers on an airplane",
+      "translation": "tiep vien hang khong",
+      "example": "The flight attendant offered drinks to passengers.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=300&h=200&fit=crop"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What document do you need to board an airplane?",
+      "options": ["Boarding pass", "Library card", "Credit card", "Business card"],
+      "answer": 0
+    },
+    {
+      "question": "Where do you collect your bags after landing?",
+      "options": ["Gate", "Terminal exit", "Baggage claim", "Check-in counter"],
+      "answer": 2
+    },
+    {
+      "question": "What is the person who serves you on the plane called?",
+      "options": ["Pilot", "Flight attendant", "Security officer", "Gate agent"],
+      "answer": 1
+    },
+    {
+      "question": "Where do officials check goods entering a country?",
+      "options": ["Customs", "Gate", "Terminal", "Lounge"],
+      "answer": 0
+    },
+    {
+      "question": "What is another word for bags and suitcases?",
+      "options": ["Cargo", "Luggage", "Package", "Container"],
+      "answer": 1
+    }
+  ]
+}

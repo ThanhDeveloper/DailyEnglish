@@ -1,0 +1,100 @@
+{
+  "id": "hotel",
+  "title": "Hotel",
+  "description": "Useful vocabulary for checking in and staying at hotels",
+  "icon": "building",
+  "color": "#8b5cf6",
+  "video": {
+    "title": "Hotel English - Check In Conversation",
+    "youtubeId": "jHqYn4MrJOE",
+    "duration": "8:45"
+  },
+  "vocabulary": [
+    {
+      "word": "reception",
+      "ipa": "/rɪˈsepʃən/",
+      "meaning": "The front desk area of a hotel",
+      "translation": "le tan",
+      "example": "Please check in at the reception desk.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "suite",
+      "ipa": "/swiːt/",
+      "meaning": "A set of connected rooms in a hotel",
+      "translation": "phong suite",
+      "example": "We booked a suite with an ocean view.",
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d955dc49c?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "vacancy",
+      "ipa": "/ˈveɪkənsi/",
+      "meaning": "An available room in a hotel",
+      "translation": "phong trong",
+      "example": "Do you have any vacancies for tonight?",
+      "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "room service",
+      "ipa": "/ruːm ˈsɜːrvɪs/",
+      "meaning": "Food and drink delivered to your hotel room",
+      "translation": "dich vu phong",
+      "example": "Let's order room service for dinner.",
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "checkout",
+      "ipa": "/ˈtʃekaʊt/",
+      "meaning": "The process of leaving and paying at a hotel",
+      "translation": "tra phong",
+      "example": "Checkout time is 11 AM.",
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "housekeeping",
+      "ipa": "/ˈhaʊsˌkiːpɪŋ/",
+      "meaning": "The department that cleans hotel rooms",
+      "translation": "don phong",
+      "example": "I called housekeeping for extra towels.",
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "amenities",
+      "ipa": "/əˈmenɪtiz/",
+      "meaning": "Useful features or facilities of a hotel",
+      "translation": "tien nghi",
+      "example": "The hotel amenities include a pool and gym.",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "concierge",
+      "ipa": "/ˌkɑːnsiˈerʒ/",
+      "meaning": "A hotel employee who helps guests with travel plans",
+      "translation": "nhan vien ho tro",
+      "example": "Ask the concierge for restaurant recommendations.",
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=300&h=200&fit=crop"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Where do you check in at a hotel?",
+      "options": ["Restaurant", "Reception", "Room", "Lobby bar"],
+      "answer": 1
+    },
+    {
+      "question": "What is food delivered to your room called?",
+      "options": ["Takeaway", "Room service", "Catering", "Buffet"],
+      "answer": 1
+    },
+    {
+      "question": "Who helps guests with travel plans at a hotel?",
+      "options": ["Housekeeper", "Bellboy", "Concierge", "Manager"],
+      "answer": 2
+    },
+    {
+      "question": "What is the process of leaving a hotel called?",
+      "options": ["Check-in", "Checkout", "Departure", "Vacancy"],
+      "answer": 1
+    }
+  ]
+}

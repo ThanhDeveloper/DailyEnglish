@@ -1,0 +1,82 @@
+.card {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  background: var(--color-surface);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  transition: box-shadow 0.15s;
+}
+
+.card:hover {
+  box-shadow: var(--shadow-md);
+}
+
+.image {
+  width: 80px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: var(--radius-sm);
+  flex-shrink: 0;
+}
+
+.content {
+  flex: 1;
+  min-width: 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 2px;
+}
+
+.word {
+  font-size: 1.0625rem;
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.speakBtn {
+  color: var(--color-primary);
+  padding: 4px;
+  border-radius: 50%;
+  display: flex;
+  transition: background 0.15s;
+}
+
+.speakBtn:hover {
+  background: rgba(37, 99, 235, 0.1);
+}
+
+.ipa {
+  font-size: 0.8125rem;
+  color: var(--color-primary);
+  font-style: italic;
+  margin-bottom: 4px;
+}
+
+.meaning {
+  font-size: 0.875rem;
+  color: var(--color-text);
+  margin-bottom: 2px;
+}
+
+.translation {
+  font-size: 0.8125rem;
+  color: var(--color-text-secondary);
+  margin-bottom: 4px;
+}
+
+.example {
+  font-size: 0.8125rem;
+  color: var(--color-text-secondary);
+  font-style: italic;
+}
+
+@media (max-width: 480px) {
+  .image {
+    display: none;
+  }
+}

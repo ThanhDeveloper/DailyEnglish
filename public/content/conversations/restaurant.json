@@ -1,0 +1,34 @@
+{
+  "id": "restaurant-conversation",
+  "title": "At the Restaurant",
+  "description": "Practice ordering food and dining conversations",
+  "dialogues": [
+    {
+      "id": "ordering",
+      "title": "Ordering Food",
+      "speakers": ["Customer", "Waiter"],
+      "lines": [
+        { "speaker": "Waiter", "text": "Good evening. Welcome to our restaurant. Table for how many?" },
+        { "speaker": "Customer", "text": "Table for two, please." },
+        { "speaker": "Waiter", "text": "Right this way. Here are your menus." },
+        { "speaker": "Customer", "text": "Thank you. What do you recommend?" },
+        { "speaker": "Waiter", "text": "Our grilled salmon is very popular today." },
+        { "speaker": "Customer", "text": "I'll have the salmon, please. And a glass of water." },
+        { "speaker": "Waiter", "text": "Excellent choice. I'll be right back with your drink." }
+      ]
+    },
+    {
+      "id": "paying",
+      "title": "Paying the Bill",
+      "speakers": ["Customer", "Waiter"],
+      "lines": [
+        { "speaker": "Customer", "text": "Excuse me, could we have the bill, please?" },
+        { "speaker": "Waiter", "text": "Of course. Here you are." },
+        { "speaker": "Customer", "text": "Can I pay by card?" },
+        { "speaker": "Waiter", "text": "Yes, we accept all major cards." },
+        { "speaker": "Customer", "text": "Great. The food was delicious, thank you." },
+        { "speaker": "Waiter", "text": "Thank you! We hope to see you again." }
+      ]
+    }
+  ]
+}

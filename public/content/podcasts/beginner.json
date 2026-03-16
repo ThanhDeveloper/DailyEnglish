@@ -1,0 +1,36 @@
+{
+  "id": "beginner",
+  "title": "Beginner English Podcasts",
+  "description": "Easy listening for English learners",
+  "episodes": [
+    {
+      "id": "ep1",
+      "title": "Introducing Yourself",
+      "description": "Learn how to introduce yourself in English",
+      "youtubeId": "oGMnukmLJdA",
+      "duration": "8:30",
+      "level": "beginner",
+      "transcript": [
+        { "time": "0:00", "text": "Hello and welcome to our English learning podcast." },
+        { "time": "0:05", "text": "Today we're going to learn how to introduce yourself." },
+        { "time": "0:10", "text": "The most common way is to say: Hi, my name is..." },
+        { "time": "0:18", "text": "You can also say: I'm... Nice to meet you." },
+        { "time": "0:25", "text": "When someone introduces themselves, you can respond with: Nice to meet you too." }
+      ]
+    },
+    {
+      "id": "ep2",
+      "title": "Ordering Food",
+      "description": "Practice ordering food at restaurants",
+      "youtubeId": "nGSHnCnObkQ",
+      "duration": "10:15",
+      "level": "beginner",
+      "transcript": [
+        { "time": "0:00", "text": "Welcome back to our podcast. Today's topic is ordering food." },
+        { "time": "0:06", "text": "When you arrive at a restaurant, the waiter might ask: How many?" },
+        { "time": "0:12", "text": "To order, you can say: I'd like... or Can I have..." },
+        { "time": "0:20", "text": "At the end, ask for the bill: Could I have the check, please?" }
+      ]
+    }
+  ]
+}

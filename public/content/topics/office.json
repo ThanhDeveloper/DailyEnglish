@@ -1,0 +1,100 @@
+{
+  "id": "office",
+  "title": "Office",
+  "description": "Common workplace vocabulary for professional communication",
+  "icon": "briefcase",
+  "color": "#f59e0b",
+  "video": {
+    "title": "Office English - Business Vocabulary",
+    "youtubeId": "sn1RZhbKN_g",
+    "duration": "11:20"
+  },
+  "vocabulary": [
+    {
+      "word": "deadline",
+      "ipa": "/ˈdedlaɪn/",
+      "meaning": "The latest time by which something must be completed",
+      "translation": "han chot",
+      "example": "The project deadline is next Friday.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "meeting",
+      "ipa": "/ˈmiːtɪŋ/",
+      "meaning": "A gathering of people for discussion",
+      "translation": "cuoc hop",
+      "example": "We have a team meeting at 10 AM.",
+      "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "colleague",
+      "ipa": "/ˈkɑːliːɡ/",
+      "meaning": "A person you work with",
+      "translation": "dong nghiep",
+      "example": "My colleague helped me with the report.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "presentation",
+      "ipa": "/ˌprezənˈteɪʃən/",
+      "meaning": "A talk given to an audience, often with slides",
+      "translation": "bai thuyet trinh",
+      "example": "I'm preparing a presentation for the client.",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "overtime",
+      "ipa": "/ˈoʊvərtaɪm/",
+      "meaning": "Time worked beyond normal hours",
+      "translation": "lam them gio",
+      "example": "I had to work overtime to finish the project.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "promotion",
+      "ipa": "/prəˈmoʊʃən/",
+      "meaning": "An advance in position or rank at work",
+      "translation": "thang chuc",
+      "example": "She received a well-deserved promotion.",
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "agenda",
+      "ipa": "/əˈdʒendə/",
+      "meaning": "A list of items to be discussed at a meeting",
+      "translation": "chuong trinh nghi su",
+      "example": "Let's review the agenda before the meeting.",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "feedback",
+      "ipa": "/ˈfiːdbæk/",
+      "meaning": "Comments about someone's work or performance",
+      "translation": "phan hoi",
+      "example": "The manager gave positive feedback on my work.",
+      "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=300&h=200&fit=crop"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is the latest time to complete a task called?",
+      "options": ["Schedule", "Deadline", "Agenda", "Timeline"],
+      "answer": 1
+    },
+    {
+      "question": "What is a person you work with called?",
+      "options": ["Client", "Customer", "Colleague", "Competitor"],
+      "answer": 2
+    },
+    {
+      "question": "What is time worked beyond normal hours?",
+      "options": ["Shift", "Break", "Overtime", "Part-time"],
+      "answer": 2
+    },
+    {
+      "question": "What is a list of items discussed in a meeting?",
+      "options": ["Minutes", "Report", "Agenda", "Memo"],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "topics": [
+    { "id": "airport", "title": "Airport", "icon": "plane", "color": "#3b82f6" },
+    { "id": "restaurant", "title": "Restaurant", "icon": "utensils", "color": "#ef4444" },
+    { "id": "hotel", "title": "Hotel", "icon": "building", "color": "#8b5cf6" },
+    { "id": "office", "title": "Office", "icon": "briefcase", "color": "#f59e0b" },
+    { "id": "hospital", "title": "Hospital", "icon": "heart-pulse", "color": "#ec4899" },
+    { "id": "travel", "title": "Travel", "icon": "map", "color": "#10b981" },
+    { "id": "daily-conversation", "title": "Daily Conversation", "icon": "message-circle", "color": "#06b6d4" }
+  ],
+  "podcasts": [
+    { "id": "beginner", "title": "Beginner English Podcasts" },
+    { "id": "daily", "title": "Daily English Practice" }
+  ],
+  "conversations": [
+    { "id": "airport", "title": "At the Airport" },
+    { "id": "restaurant", "title": "At the Restaurant" }
+  ],
+  "flashcardSets": [
+    { "id": "core-vocab", "title": "Core Vocabulary" }
+  ]
+}

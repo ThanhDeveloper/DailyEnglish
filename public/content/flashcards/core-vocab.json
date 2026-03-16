@@ -1,0 +1,23 @@
+{
+  "id": "core-vocab",
+  "title": "Core Vocabulary",
+  "description": "Essential English words everyone should know",
+  "cards": [
+    { "word": "accomplish", "ipa": "/əˈkɑːmplɪʃ/", "meaning": "To succeed in doing something", "example": "We accomplished our goal ahead of schedule." },
+    { "word": "beneficial", "ipa": "/ˌbenɪˈfɪʃəl/", "meaning": "Helpful or producing good results", "example": "Exercise is beneficial for your health." },
+    { "word": "comprehensive", "ipa": "/ˌkɑːmprɪˈhensɪv/", "meaning": "Including all or nearly all elements", "example": "This is a comprehensive guide to English." },
+    { "word": "determine", "ipa": "/dɪˈtɜːrmɪn/", "meaning": "To find out or decide something", "example": "We need to determine the best approach." },
+    { "word": "efficient", "ipa": "/ɪˈfɪʃənt/", "meaning": "Working well with minimal waste", "example": "This method is more efficient." },
+    { "word": "frequent", "ipa": "/ˈfriːkwənt/", "meaning": "Happening often", "example": "He is a frequent visitor to our office." },
+    { "word": "generate", "ipa": "/ˈdʒenəreɪt/", "meaning": "To produce or create", "example": "The project will generate new jobs." },
+    { "word": "highlight", "ipa": "/ˈhaɪlaɪt/", "meaning": "To emphasize or make prominent", "example": "I'd like to highlight three key points." },
+    { "word": "implement", "ipa": "/ˈɪmplɪment/", "meaning": "To put a plan into action", "example": "We will implement the new system next week." },
+    { "word": "justify", "ipa": "/ˈdʒʌstɪfaɪ/", "meaning": "To show something is right or reasonable", "example": "Can you justify the additional cost?" },
+    { "word": "maintain", "ipa": "/meɪnˈteɪn/", "meaning": "To keep in good condition", "example": "It's important to maintain good relationships." },
+    { "word": "negotiate", "ipa": "/nɪˈɡoʊʃieɪt/", "meaning": "To discuss to reach an agreement", "example": "We need to negotiate the contract terms." },
+    { "word": "opportunity", "ipa": "/ˌɑːpərˈtuːnəti/", "meaning": "A favorable time or situation", "example": "This is a great opportunity for growth." },
+    { "word": "participate", "ipa": "/pɑːrˈtɪsɪpeɪt/", "meaning": "To take part in something", "example": "Everyone should participate in the discussion." },
+    { "word": "require", "ipa": "/rɪˈkwaɪər/", "meaning": "To need something", "example": "This task requires careful attention." },
+    { "word": "significant", "ipa": "/sɪɡˈnɪfɪkənt/", "meaning": "Large enough to be noticed or important", "example": "There has been a significant improvement." }
+  ]
+}

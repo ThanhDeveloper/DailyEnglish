@@ -1,0 +1,35 @@
+{
+  "id": "daily",
+  "title": "Daily English Practice",
+  "description": "Short daily episodes to improve your English",
+  "episodes": [
+    {
+      "id": "daily1",
+      "title": "Morning Routine Vocabulary",
+      "description": "Words and phrases for talking about your morning",
+      "youtubeId": "NJEfE1q3s_o",
+      "duration": "7:45",
+      "level": "beginner",
+      "transcript": [
+        { "time": "0:00", "text": "Good morning! Let's learn about morning routines." },
+        { "time": "0:05", "text": "I wake up at 7 AM. Then I brush my teeth." },
+        { "time": "0:12", "text": "After that, I take a shower and get dressed." },
+        { "time": "0:18", "text": "I have breakfast and then head to work." }
+      ]
+    },
+    {
+      "id": "daily2",
+      "title": "Small Talk at Work",
+      "description": "How to make conversation with colleagues",
+      "youtubeId": "sn1RZhbKN_g",
+      "duration": "9:00",
+      "level": "intermediate",
+      "transcript": [
+        { "time": "0:00", "text": "Today we'll practice small talk for the workplace." },
+        { "time": "0:06", "text": "Common starters: How was your weekend? How's your day going?" },
+        { "time": "0:14", "text": "You can talk about weather, weekends, or current events." },
+        { "time": "0:22", "text": "Keep it light and friendly. Avoid controversial topics." }
+      ]
+    }
+  ]
+}

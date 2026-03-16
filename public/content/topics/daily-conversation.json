@@ -1,0 +1,100 @@
+{
+  "id": "daily-conversation",
+  "title": "Daily Conversation",
+  "description": "Everyday phrases for common social situations",
+  "icon": "message-circle",
+  "color": "#06b6d4",
+  "video": {
+    "title": "Daily English Conversation Practice",
+    "youtubeId": "juKd26qaF5o",
+    "duration": "15:00"
+  },
+  "vocabulary": [
+    {
+      "word": "greet",
+      "ipa": "/ɡriːt/",
+      "meaning": "To say hello or welcome someone",
+      "translation": "chao hoi",
+      "example": "She greeted me with a warm smile.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "introduce",
+      "ipa": "/ˌɪntrəˈduːs/",
+      "meaning": "To make someone known to others",
+      "translation": "gioi thieu",
+      "example": "Let me introduce you to my friend.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "apologize",
+      "ipa": "/əˈpɑːlədʒaɪz/",
+      "meaning": "To say sorry for something",
+      "translation": "xin loi",
+      "example": "I'd like to apologize for being late.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "compliment",
+      "ipa": "/ˈkɑːmplɪment/",
+      "meaning": "A nice thing said about someone",
+      "translation": "loi khen",
+      "example": "Thank you for the compliment!",
+      "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "invitation",
+      "ipa": "/ˌɪnvɪˈteɪʃən/",
+      "meaning": "A request for someone to come or do something",
+      "translation": "loi moi",
+      "example": "Thank you for the invitation to dinner.",
+      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "favor",
+      "ipa": "/ˈfeɪvər/",
+      "meaning": "A kind act done to help someone",
+      "translation": "giup do",
+      "example": "Could you do me a favor?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "recommend",
+      "ipa": "/ˌrekəˈmend/",
+      "meaning": "To suggest something as good or suitable",
+      "translation": "de xuat / goi y",
+      "example": "Can you recommend a good restaurant?",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "schedule",
+      "ipa": "/ˈskedʒuːl/",
+      "meaning": "A plan of activities with times",
+      "translation": "lich trinh",
+      "example": "What's your schedule for tomorrow?",
+      "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=300&h=200&fit=crop"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What does 'greet' mean?",
+      "options": ["To leave", "To say hello", "To argue", "To ignore"],
+      "answer": 1
+    },
+    {
+      "question": "What is a kind act done to help someone?",
+      "options": ["Compliment", "Invitation", "Favor", "Schedule"],
+      "answer": 2
+    },
+    {
+      "question": "What does 'apologize' mean?",
+      "options": ["To thank", "To say sorry", "To greet", "To praise"],
+      "answer": 1
+    },
+    {
+      "question": "What is suggesting something good called?",
+      "options": ["Introducing", "Recommending", "Inviting", "Scheduling"],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "restaurant",
+  "title": "Restaurant",
+  "description": "Words and phrases for dining out and ordering food",
+  "icon": "utensils",
+  "color": "#ef4444",
+  "video": {
+    "title": "Restaurant English - Ordering Food",
+    "youtubeId": "nGSHnCnObkQ",
+    "duration": "10:15"
+  },
+  "vocabulary": [
+    {
+      "word": "reservation",
+      "ipa": "/ˌrezərˈveɪʃən/",
+      "meaning": "An arrangement to have a table kept for you",
+      "translation": "dat cho truoc",
+      "example": "I'd like to make a reservation for two.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "appetizer",
+      "ipa": "/ˈæpɪtaɪzər/",
+      "meaning": "A small dish served before the main course",
+      "translation": "mon khai vi",
+      "example": "Would you like to start with an appetizer?",
+      "image": "https://images.unsplash.com/photo-1541014741259-de529411b96a?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "main course",
+      "ipa": "/meɪn kɔːrs/",
+      "meaning": "The largest and most important part of a meal",
+      "translation": "mon chinh",
+      "example": "For the main course, I'll have the grilled salmon.",
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "dessert",
+      "ipa": "/dɪˈzɜːrt/",
+      "meaning": "A sweet dish served at the end of a meal",
+      "translation": "mon trang mieng",
+      "example": "What desserts do you have today?",
+      "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "bill",
+      "ipa": "/bɪl/",
+      "meaning": "A statement of charges for food and drinks",
+      "translation": "hoa don",
+      "example": "Could we have the bill, please?",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "tip",
+      "ipa": "/tɪp/",
+      "meaning": "Extra money given to a server for good service",
+      "translation": "tien tip / boa",
+      "example": "It's customary to leave a 15-20% tip.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "waiter",
+      "ipa": "/ˈweɪtər/",
+      "meaning": "A person who serves food in a restaurant",
+      "translation": "nguoi phuc vu",
+      "example": "The waiter took our order quickly.",
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "menu",
+      "ipa": "/ˈmenjuː/",
+      "meaning": "A list of food and drinks available",
+      "translation": "thuc don",
+      "example": "May I see the menu, please?",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=300&h=200&fit=crop"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What do you make to reserve a table?",
+      "options": ["An order", "A reservation", "A complaint", "A payment"],
+      "answer": 1
+    },
+    {
+      "question": "What is served before the main course?",
+      "options": ["Dessert", "Bill", "Appetizer", "Tip"],
+      "answer": 2
+    },
+    {
+      "question": "What is the sweet dish at the end of a meal?",
+      "options": ["Appetizer", "Main course", "Side dish", "Dessert"],
+      "answer": 3
+    },
+    {
+      "question": "What extra money do you give for good service?",
+      "options": ["Bill", "Tip", "Tax", "Fee"],
+      "answer": 1
+    }
+  ]
+}

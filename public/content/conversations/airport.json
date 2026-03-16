@@ -1,0 +1,36 @@
+{
+  "id": "airport-conversation",
+  "title": "At the Airport",
+  "description": "Practice common airport conversations",
+  "dialogues": [
+    {
+      "id": "checkin",
+      "title": "Checking In",
+      "speakers": ["Passenger", "Agent"],
+      "lines": [
+        { "speaker": "Agent", "text": "Good morning. May I see your passport and booking confirmation?" },
+        { "speaker": "Passenger", "text": "Sure, here you go." },
+        { "speaker": "Agent", "text": "Would you like a window or aisle seat?" },
+        { "speaker": "Passenger", "text": "Window seat, please." },
+        { "speaker": "Agent", "text": "Do you have any checked luggage?" },
+        { "speaker": "Passenger", "text": "Yes, one suitcase." },
+        { "speaker": "Agent", "text": "Here's your boarding pass. Gate B12. Boarding starts at 9:30." },
+        { "speaker": "Passenger", "text": "Thank you very much." }
+      ]
+    },
+    {
+      "id": "security",
+      "title": "Going Through Security",
+      "speakers": ["Traveler", "Officer"],
+      "lines": [
+        { "speaker": "Officer", "text": "Please place your bags on the belt and remove any laptops." },
+        { "speaker": "Traveler", "text": "Do I need to take off my shoes?" },
+        { "speaker": "Officer", "text": "Yes, and please remove your belt too." },
+        { "speaker": "Traveler", "text": "Okay, here you go." },
+        { "speaker": "Officer", "text": "Please step through the scanner." },
+        { "speaker": "Officer", "text": "You're all clear. Have a nice flight!" },
+        { "speaker": "Traveler", "text": "Thank you!" }
+      ]
+    }
+  ]
+}

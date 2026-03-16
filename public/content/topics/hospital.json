@@ -1,0 +1,100 @@
+{
+  "id": "hospital",
+  "title": "Hospital",
+  "description": "Medical vocabulary for hospital visits and health conversations",
+  "icon": "heart-pulse",
+  "color": "#ec4899",
+  "video": {
+    "title": "Hospital English - Medical Vocabulary",
+    "youtubeId": "WsqdB03sLHc",
+    "duration": "9:30"
+  },
+  "vocabulary": [
+    {
+      "word": "appointment",
+      "ipa": "/əˈpɔɪntmənt/",
+      "meaning": "A scheduled meeting with a doctor",
+      "translation": "cuoc hen",
+      "example": "I have an appointment with Dr. Smith at 3 PM.",
+      "image": "https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "prescription",
+      "ipa": "/prɪˈskrɪpʃən/",
+      "meaning": "A doctor's written order for medicine",
+      "translation": "don thuoc",
+      "example": "The doctor wrote a prescription for antibiotics.",
+      "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "symptom",
+      "ipa": "/ˈsɪmptəm/",
+      "meaning": "A sign of illness or disease",
+      "translation": "trieu chung",
+      "example": "What symptoms are you experiencing?",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "emergency",
+      "ipa": "/ɪˈmɜːrdʒənsi/",
+      "meaning": "A serious situation needing immediate action",
+      "translation": "cap cuu",
+      "example": "Call 911 in case of emergency.",
+      "image": "https://images.unsplash.com/photo-1587351021759-3772687fe598?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "diagnosis",
+      "ipa": "/ˌdaɪəɡˈnoʊsɪs/",
+      "meaning": "The identification of an illness",
+      "translation": "chan doan",
+      "example": "The diagnosis confirmed it was just a cold.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "insurance",
+      "ipa": "/ɪnˈʃʊrəns/",
+      "meaning": "A plan that helps pay for medical care",
+      "translation": "bao hiem",
+      "example": "Do you have health insurance?",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "pharmacy",
+      "ipa": "/ˈfɑːrməsi/",
+      "meaning": "A store where medicines are sold",
+      "translation": "nha thuoc",
+      "example": "Pick up your medicine at the pharmacy.",
+      "image": "https://images.unsplash.com/photo-1585435557343-3b092031a831?w=300&h=200&fit=crop"
+    },
+    {
+      "word": "surgeon",
+      "ipa": "/ˈsɜːrdʒən/",
+      "meaning": "A doctor who performs operations",
+      "translation": "bac si phau thuat",
+      "example": "The surgeon explained the procedure.",
+      "image": "https://images.unsplash.com/photo-1551190822-a9ce113ac100?w=300&h=200&fit=crop"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is a doctor's written order for medicine?",
+      "options": ["Receipt", "Prescription", "Invoice", "Report"],
+      "answer": 1
+    },
+    {
+      "question": "What is a sign of illness called?",
+      "options": ["Cure", "Treatment", "Symptom", "Surgery"],
+      "answer": 2
+    },
+    {
+      "question": "Where do you buy medicine?",
+      "options": ["Hospital", "Clinic", "Pharmacy", "Laboratory"],
+      "answer": 2
+    },
+    {
+      "question": "What is identifying an illness called?",
+      "options": ["Treatment", "Diagnosis", "Surgery", "Therapy"],
+      "answer": 1
+    }
+  ]
+}
