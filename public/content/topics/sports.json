@@ -4,68 +4,464 @@
   "description": "Vocabulary for talking about sports, games, and athletic competitions",
   "icon": "trophy",
   "color": "#0284c7",
-  "video": { "title": "Sports English Vocabulary", "youtubeId": "dQw4w9WgXcQ", "duration": "11:45" },
+  "video": {
+    "title": "Sports English Vocabulary",
+    "youtubeId": "dQw4w9WgXcQ",
+    "duration": "11:45"
+  },
   "vocabulary": [
-    { "word": "championship", "ipa": "/ˈtʃæmpiənʃɪp/", "meaning": "A competition to determine the best team or player", "translation": "giải vô địch", "example": "They won the national championship for the third time." },
-    { "word": "tournament", "ipa": "/ˈtɔːrnəmənt/", "meaning": "A series of contests with multiple competitors", "translation": "giải đấu", "example": "The tennis tournament runs for two weeks." },
-    { "word": "athlete", "ipa": "/ˈæθliːt/", "meaning": "A person who trains and competes in sports", "translation": "vận động viên", "example": "Professional athletes train for hours every day." },
-    { "word": "referee", "ipa": "/ˌrefəˈriː/", "meaning": "An official who enforces rules during a sports game", "translation": "trọng tài", "example": "The referee awarded a penalty kick." },
-    { "word": "foul", "ipa": "/faʊl/", "meaning": "A violation of the rules in a sport", "translation": "phạm lỗi", "example": "The player was given a yellow card for the foul." },
-    { "word": "penalty", "ipa": "/ˈpenəlti/", "meaning": "A punishment given for breaking a rule", "translation": "hình phạt trong thể thao", "example": "They scored from the penalty spot." },
-    { "word": "substitute", "ipa": "/ˈsʌbstɪtjuːt/", "meaning": "A player who replaces another during a game", "translation": "cầu thủ dự bị", "example": "The substitute came on in the second half." },
-    { "word": "overtime", "ipa": "/ˈəʊvətaɪm/", "meaning": "Extra time played when a game is tied", "translation": "hiệp phụ", "example": "The game went to overtime after a 2-2 draw." },
-    { "word": "draw", "ipa": "/drɔː/", "meaning": "A result where both teams or players end with equal scores", "translation": "hòa", "example": "The match ended in a 1-1 draw." },
-    { "word": "rally", "ipa": "/ˈræli/", "meaning": "A series of back-and-forth exchanges in tennis or badminton", "translation": "loạt đánh qua lại", "example": "The final rally lasted 30 shots." },
-    { "word": "podium", "ipa": "/ˈpəʊdiəm/", "meaning": "The raised platform where winners stand at a ceremony", "translation": "bục vinh quang", "example": "She stood on the podium after winning gold." },
-    { "word": "qualifier", "ipa": "/ˈkwɒlɪfaɪər/", "meaning": "A match or round that determines who advances", "translation": "vòng loại", "example": "They need to win the qualifier to reach the finals." },
-    { "word": "sprint", "ipa": "/sprɪnt/", "meaning": "To run at full speed over a short distance", "translation": "chạy nước rút", "example": "He sprinted to the finish line." },
-    { "word": "stamina", "ipa": "/ˈstæmɪnə/", "meaning": "The ability to sustain physical effort for a long time", "translation": "sức bền", "example": "Long-distance runners need incredible stamina." },
-    { "word": "doping", "ipa": "/ˈdəʊpɪŋ/", "meaning": "Using banned performance-enhancing drugs", "translation": "sử dụng doping", "example": "The athlete was banned for doping violations." },
-    { "word": "offside", "ipa": "/ˌɒfˈsaɪd/", "meaning": "A position violation in football/soccer or other team sports", "translation": "việt vị", "example": "The goal was disallowed for offside." },
-    { "word": "tackle", "ipa": "/ˈtækəl/", "meaning": "To stop an opponent by physical contact", "translation": "tranh cướp bóng", "example": "He made a clean tackle to win the ball." },
-    { "word": "pace", "ipa": "/peɪs/", "meaning": "The speed of movement in a game or race", "translation": "tốc độ trong thể thao", "example": "She set a fast pace from the start of the race." },
-    { "word": "endurance", "ipa": "/ɪnˈdjʊərəns/", "meaning": "The ability to sustain physical activity for a long period", "translation": "sức bền", "example": "Marathon running tests your endurance to the limit." },
-    { "word": "agility", "ipa": "/əˈdʒɪlɪti/", "meaning": "The ability to move quickly and easily", "translation": "sự nhanh nhẹn", "example": "Basketball players need both agility and strength." },
-    { "word": "coach", "ipa": "/kəʊtʃ/", "meaning": "A person who trains athletes or teams", "translation": "huấn luyện viên", "example": "The coach made key changes at halftime." },
-    { "word": "squad", "ipa": "/skwɒd/", "meaning": "A group of players forming a team", "translation": "đội tuyển, nhóm cầu thủ", "example": "The national squad was announced yesterday." },
-    { "word": "captain", "ipa": "/ˈkæptɪn/", "meaning": "The leader of a sports team", "translation": "đội trưởng", "example": "She was named captain for the World Cup." },
-    { "word": "debut", "ipa": "/ˈdeɪbjuː/", "meaning": "A player's first appearance in a competition", "translation": "lần đầu ra sân", "example": "He scored on his international debut." },
-    { "word": "fixture", "ipa": "/ˈfɪkstʃər/", "meaning": "A scheduled sports match", "translation": "trận đấu đã được lên lịch", "example": "The fixture list for the new season is out." },
-    { "word": "league", "ipa": "/liːɡ/", "meaning": "A group of teams competing in the same competition", "translation": "giải đấu, liên đoàn", "example": "They were promoted to the Premier League." },
-    { "word": "match", "ipa": "/mætʃ/", "meaning": "A single sports contest between two teams or players", "translation": "trận đấu", "example": "The match kicks off at 8 PM." },
-    { "word": "knockout", "ipa": "/ˈnɒkaʊt/", "meaning": "A round where the loser is eliminated from the competition", "translation": "vòng loại trực tiếp", "example": "The knockout stage begins next week." },
-    { "word": "seed", "ipa": "/siːd/", "meaning": "A player ranked in advance of a tournament", "translation": "hạt giống trong giải đấu", "example": "She is the top seed at Wimbledon." },
-    { "word": "sportsmanship", "ipa": "/ˈspɔːrtsmənʃɪp/", "meaning": "Fair and ethical behavior in sport", "translation": "tinh thần thể thao", "example": "Good sportsmanship means respecting opponents." },
-    { "word": "concede", "ipa": "/kənˈsiːd/", "meaning": "To allow the opposing team to score", "translation": "để thủng lưới, chịu thua", "example": "They conceded two goals in the final minutes." },
-    { "word": "halftime", "ipa": "/ˈhɑːftaɪm/", "meaning": "The break between two halves of a game", "translation": "giờ nghỉ giữa hai hiệp", "example": "The coach gave a motivational speech at halftime." },
-    { "word": "pitch", "ipa": "/pɪtʃ/", "meaning": "The playing field in sports like football or cricket", "translation": "sân bóng đá/cricket", "example": "The pitch was in excellent condition for the final." },
-    { "word": "warm-up", "ipa": "/ˈwɔːrm ʌp/", "meaning": "Light exercise done before a game or training session", "translation": "khởi động", "example": "The team completed a 15-minute warm-up." },
-    { "word": "record", "ipa": "/ˈrekɔːrd/", "meaning": "The best performance achieved in a sport", "translation": "kỷ lục", "example": "She broke the world record in the 100m sprint." },
-    { "word": "hat-trick", "ipa": "/ˈhæt trɪk/", "meaning": "Three goals or points scored by one player in one game", "translation": "hat-trick (ghi ba bàn)", "example": "He scored a hat-trick in last night's game." },
-    { "word": "underdog", "ipa": "/ˈʌndədɒɡ/", "meaning": "A competitor expected to lose", "translation": "đội/người ít được kỳ vọng hơn", "example": "The underdog team won the championship against all odds." },
-    { "word": "injury time", "ipa": "/ˈɪndʒəri taɪm/", "meaning": "Extra time added at the end due to stoppages", "translation": "thời gian bù giờ", "example": "They scored the winner in injury time." },
-    { "word": "rematch", "ipa": "/ˈriːmætʃ/", "meaning": "A second contest between the same opponents", "translation": "trận tái đấu", "example": "The champion agreed to a rematch." },
-    { "word": "comeback", "ipa": "/ˈkʌmbæk/", "meaning": "A return to success after a period of difficulty", "translation": "trở lại sau thất bại", "example": "She made a remarkable comeback after her injury." },
-    { "word": "dominant", "ipa": "/ˈdɒmɪnənt/", "meaning": "Having control and being very strong in a competition", "translation": "thống trị, vượt trội", "example": "The team was dominant throughout the entire match." },
-    { "word": "stride", "ipa": "/straɪd/", "meaning": "A long step taken when running", "translation": "sải chân dài", "example": "Her long stride gives her an advantage in sprinting." },
-    { "word": "tactical", "ipa": "/ˈtæktɪkəl/", "meaning": "Related to planned strategy in a sports game", "translation": "chiến thuật", "example": "The coach made a tactical substitution." },
-    { "word": "rivalry", "ipa": "/ˈraɪvəlri/", "meaning": "An ongoing competition between two opponents", "translation": "sự cạnh tranh, kình địch", "example": "The local derby is a fierce rivalry." },
-    { "word": "spectator", "ipa": "/spekˈteɪtər/", "meaning": "A person who watches a sporting event", "translation": "khán giả", "example": "Thousands of spectators filled the stadium." },
-    { "word": "commentator", "ipa": "/ˈkɒmənteɪtər/", "meaning": "A person who describes a sports event on TV or radio", "translation": "bình luận viên thể thao", "example": "The commentator described every exciting moment." },
-    { "word": "disqualify", "ipa": "/dɪsˈkwɒlɪfaɪ/", "meaning": "To bar a competitor from an event for breaking rules", "translation": "truất quyền thi đấu", "example": "He was disqualified for a false start." },
-    { "word": "trophy", "ipa": "/ˈtrəʊfi/", "meaning": "A prize awarded to the winner of a competition", "translation": "cúp, chiến tích", "example": "They lifted the trophy in front of 80,000 fans." },
-    { "word": "training camp", "ipa": "/ˈtreɪnɪŋ kæmp/", "meaning": "An intensive period of preparation for a competition", "translation": "trại huấn luyện", "example": "The team held a two-week training camp." }
+    {
+      "word": "championship",
+      "ipa": "/ˈtʃæmpiənʃɪp/",
+      "meaning": "A competition to determine the best team or player",
+      "translation": "giải vô địch",
+      "example": "They won the national championship for the third time."
+    },
+    {
+      "word": "tournament",
+      "ipa": "/ˈtɔːrnəmənt/",
+      "meaning": "A series of contests with multiple competitors",
+      "translation": "giải đấu",
+      "example": "The tennis tournament runs for two weeks."
+    },
+    {
+      "word": "athlete",
+      "ipa": "/ˈæθliːt/",
+      "meaning": "A person who trains and competes in sports",
+      "translation": "vận động viên",
+      "example": "Professional athletes train for hours every day."
+    },
+    {
+      "word": "referee",
+      "ipa": "/ˌrefəˈriː/",
+      "meaning": "An official who enforces rules during a sports game",
+      "translation": "trọng tài",
+      "example": "The referee awarded a penalty kick."
+    },
+    {
+      "word": "foul",
+      "ipa": "/faʊl/",
+      "meaning": "A violation of the rules in a sport",
+      "translation": "phạm lỗi",
+      "example": "The player was given a yellow card for the foul."
+    },
+    {
+      "word": "penalty",
+      "ipa": "/ˈpenəlti/",
+      "meaning": "A punishment given for breaking a rule",
+      "translation": "hình phạt trong thể thao",
+      "example": "They scored from the penalty spot."
+    },
+    {
+      "word": "substitute",
+      "ipa": "/ˈsʌbstɪtjuːt/",
+      "meaning": "A player who replaces another during a game",
+      "translation": "cầu thủ dự bị",
+      "example": "The substitute came on in the second half."
+    },
+    {
+      "word": "overtime",
+      "ipa": "/ˈəʊvətaɪm/",
+      "meaning": "Extra time played when a game is tied",
+      "translation": "hiệp phụ",
+      "example": "The game went to overtime after a 2-2 draw."
+    },
+    {
+      "word": "draw",
+      "ipa": "/drɔː/",
+      "meaning": "A result where both teams or players end with equal scores",
+      "translation": "hòa",
+      "example": "The match ended in a 1-1 draw."
+    },
+    {
+      "word": "rally",
+      "ipa": "/ˈræli/",
+      "meaning": "A series of back-and-forth exchanges in tennis or badminton",
+      "translation": "loạt đánh qua lại",
+      "example": "The final rally lasted 30 shots."
+    },
+    {
+      "word": "podium",
+      "ipa": "/ˈpəʊdiəm/",
+      "meaning": "The raised platform where winners stand at a ceremony",
+      "translation": "bục vinh quang",
+      "example": "She stood on the podium after winning gold."
+    },
+    {
+      "word": "qualifier",
+      "ipa": "/ˈkwɒlɪfaɪər/",
+      "meaning": "A match or round that determines who advances",
+      "translation": "vòng loại",
+      "example": "They need to win the qualifier to reach the finals."
+    },
+    {
+      "word": "sprint",
+      "ipa": "/sprɪnt/",
+      "meaning": "To run at full speed over a short distance",
+      "translation": "chạy nước rút",
+      "example": "He sprinted to the finish line."
+    },
+    {
+      "word": "stamina",
+      "ipa": "/ˈstæmɪnə/",
+      "meaning": "The ability to sustain physical effort for a long time",
+      "translation": "sức bền",
+      "example": "Long-distance runners need incredible stamina."
+    },
+    {
+      "word": "doping",
+      "ipa": "/ˈdəʊpɪŋ/",
+      "meaning": "Using banned performance-enhancing drugs",
+      "translation": "sử dụng doping",
+      "example": "The athlete was banned for doping violations."
+    },
+    {
+      "word": "offside",
+      "ipa": "/ˌɒfˈsaɪd/",
+      "meaning": "A position violation in football/soccer or other team sports",
+      "translation": "việt vị",
+      "example": "The goal was disallowed for offside."
+    },
+    {
+      "word": "tackle",
+      "ipa": "/ˈtækəl/",
+      "meaning": "To stop an opponent by physical contact",
+      "translation": "tranh cướp bóng",
+      "example": "He made a clean tackle to win the ball."
+    },
+    {
+      "word": "pace",
+      "ipa": "/peɪs/",
+      "meaning": "The speed of movement in a game or race",
+      "translation": "tốc độ trong thể thao",
+      "example": "She set a fast pace from the start of the race."
+    },
+    {
+      "word": "endurance",
+      "ipa": "/ɪnˈdjʊərəns/",
+      "meaning": "The ability to sustain physical activity for a long period",
+      "translation": "sức bền",
+      "example": "Marathon running tests your endurance to the limit."
+    },
+    {
+      "word": "agility",
+      "ipa": "/əˈdʒɪlɪti/",
+      "meaning": "The ability to move quickly and easily",
+      "translation": "sự nhanh nhẹn",
+      "example": "Basketball players need both agility and strength."
+    },
+    {
+      "word": "coach",
+      "ipa": "/kəʊtʃ/",
+      "meaning": "A person who trains athletes or teams",
+      "translation": "huấn luyện viên",
+      "example": "The coach made key changes at halftime."
+    },
+    {
+      "word": "squad",
+      "ipa": "/skwɒd/",
+      "meaning": "A group of players forming a team",
+      "translation": "đội tuyển, nhóm cầu thủ",
+      "example": "The national squad was announced yesterday."
+    },
+    {
+      "word": "captain",
+      "ipa": "/ˈkæptɪn/",
+      "meaning": "The leader of a sports team",
+      "translation": "đội trưởng",
+      "example": "She was named captain for the World Cup."
+    },
+    {
+      "word": "debut",
+      "ipa": "/ˈdeɪbjuː/",
+      "meaning": "A player's first appearance in a competition",
+      "translation": "lần đầu ra sân",
+      "example": "He scored on his international debut."
+    },
+    {
+      "word": "fixture",
+      "ipa": "/ˈfɪkstʃər/",
+      "meaning": "A scheduled sports match",
+      "translation": "trận đấu đã được lên lịch",
+      "example": "The fixture list for the new season is out."
+    },
+    {
+      "word": "league",
+      "ipa": "/liːɡ/",
+      "meaning": "A group of teams competing in the same competition",
+      "translation": "giải đấu, liên đoàn",
+      "example": "They were promoted to the Premier League."
+    },
+    {
+      "word": "match",
+      "ipa": "/mætʃ/",
+      "meaning": "A single sports contest between two teams or players",
+      "translation": "trận đấu",
+      "example": "The match kicks off at 8 PM."
+    },
+    {
+      "word": "knockout",
+      "ipa": "/ˈnɒkaʊt/",
+      "meaning": "A round where the loser is eliminated from the competition",
+      "translation": "vòng loại trực tiếp",
+      "example": "The knockout stage begins next week."
+    },
+    {
+      "word": "seed",
+      "ipa": "/siːd/",
+      "meaning": "A player ranked in advance of a tournament",
+      "translation": "hạt giống trong giải đấu",
+      "example": "She is the top seed at Wimbledon."
+    },
+    {
+      "word": "sportsmanship",
+      "ipa": "/ˈspɔːrtsmənʃɪp/",
+      "meaning": "Fair and ethical behavior in sport",
+      "translation": "tinh thần thể thao",
+      "example": "Good sportsmanship means respecting opponents."
+    },
+    {
+      "word": "concede",
+      "ipa": "/kənˈsiːd/",
+      "meaning": "To allow the opposing team to score",
+      "translation": "để thủng lưới, chịu thua",
+      "example": "They conceded two goals in the final minutes."
+    },
+    {
+      "word": "halftime",
+      "ipa": "/ˈhɑːftaɪm/",
+      "meaning": "The break between two halves of a game",
+      "translation": "giờ nghỉ giữa hai hiệp",
+      "example": "The coach gave a motivational speech at halftime."
+    },
+    {
+      "word": "pitch",
+      "ipa": "/pɪtʃ/",
+      "meaning": "The playing field in sports like football or cricket",
+      "translation": "sân bóng đá/cricket",
+      "example": "The pitch was in excellent condition for the final."
+    },
+    {
+      "word": "warm-up",
+      "ipa": "/ˈwɔːrm ʌp/",
+      "meaning": "Light exercise done before a game or training session",
+      "translation": "khởi động",
+      "example": "The team completed a 15-minute warm-up."
+    },
+    {
+      "word": "record",
+      "ipa": "/ˈrekɔːrd/",
+      "meaning": "The best performance achieved in a sport",
+      "translation": "kỷ lục",
+      "example": "She broke the world record in the 100m sprint."
+    },
+    {
+      "word": "hat-trick",
+      "ipa": "/ˈhæt trɪk/",
+      "meaning": "Three goals or points scored by one player in one game",
+      "translation": "hat-trick (ghi ba bàn)",
+      "example": "He scored a hat-trick in last night's game."
+    },
+    {
+      "word": "underdog",
+      "ipa": "/ˈʌndədɒɡ/",
+      "meaning": "A competitor expected to lose",
+      "translation": "đội/người ít được kỳ vọng hơn",
+      "example": "The underdog team won the championship against all odds."
+    },
+    {
+      "word": "injury time",
+      "ipa": "/ˈɪndʒəri taɪm/",
+      "meaning": "Extra time added at the end due to stoppages",
+      "translation": "thời gian bù giờ",
+      "example": "They scored the winner in injury time."
+    },
+    {
+      "word": "rematch",
+      "ipa": "/ˈriːmætʃ/",
+      "meaning": "A second contest between the same opponents",
+      "translation": "trận tái đấu",
+      "example": "The champion agreed to a rematch."
+    },
+    {
+      "word": "comeback",
+      "ipa": "/ˈkʌmbæk/",
+      "meaning": "A return to success after a period of difficulty",
+      "translation": "trở lại sau thất bại",
+      "example": "She made a remarkable comeback after her injury."
+    },
+    {
+      "word": "dominant",
+      "ipa": "/ˈdɒmɪnənt/",
+      "meaning": "Having control and being very strong in a competition",
+      "translation": "thống trị, vượt trội",
+      "example": "The team was dominant throughout the entire match."
+    },
+    {
+      "word": "stride",
+      "ipa": "/straɪd/",
+      "meaning": "A long step taken when running",
+      "translation": "sải chân dài",
+      "example": "Her long stride gives her an advantage in sprinting."
+    },
+    {
+      "word": "tactical",
+      "ipa": "/ˈtæktɪkəl/",
+      "meaning": "Related to planned strategy in a sports game",
+      "translation": "chiến thuật",
+      "example": "The coach made a tactical substitution."
+    },
+    {
+      "word": "rivalry",
+      "ipa": "/ˈraɪvəlri/",
+      "meaning": "An ongoing competition between two opponents",
+      "translation": "sự cạnh tranh, kình địch",
+      "example": "The local derby is a fierce rivalry."
+    },
+    {
+      "word": "spectator",
+      "ipa": "/spekˈteɪtər/",
+      "meaning": "A person who watches a sporting event",
+      "translation": "khán giả",
+      "example": "Thousands of spectators filled the stadium."
+    },
+    {
+      "word": "commentator",
+      "ipa": "/ˈkɒmənteɪtər/",
+      "meaning": "A person who describes a sports event on TV or radio",
+      "translation": "bình luận viên thể thao",
+      "example": "The commentator described every exciting moment."
+    },
+    {
+      "word": "disqualify",
+      "ipa": "/dɪsˈkwɒlɪfaɪ/",
+      "meaning": "To bar a competitor from an event for breaking rules",
+      "translation": "truất quyền thi đấu",
+      "example": "He was disqualified for a false start."
+    },
+    {
+      "word": "trophy",
+      "ipa": "/ˈtrəʊfi/",
+      "meaning": "A prize awarded to the winner of a competition",
+      "translation": "cúp, chiến tích",
+      "example": "They lifted the trophy in front of 80,000 fans."
+    },
+    {
+      "word": "training camp",
+      "ipa": "/ˈtreɪnɪŋ kæmp/",
+      "meaning": "An intensive period of preparation for a competition",
+      "translation": "trại huấn luyện",
+      "example": "The team held a two-week training camp."
+    },
+    {
+      "word": "tournament",
+      "ipa": "/ˈtʊənəmənt/",
+      "meaning": "A series of contests to determine a champion",
+      "translation": "Giải đấu",
+      "example": "The team qualified for the national tournament.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=400&q=80"
+    }
   ],
   "quiz": [
-    { "question": "What is a 'tournament'?", "options": ["A single match between two teams", "A series of contests with multiple competitors", "An overtime period", "A training session"], "answer": 1 },
-    { "question": "What does 'offside' mean in football?", "options": ["A foul tackle", "A position violation by an attacking player", "A penalty kick", "A yellow card"], "answer": 1 },
-    { "question": "What is a 'hat-trick'?", "options": ["A trick in basketball", "Three goals scored by one player in one game", "Winning three matches in a row", "A defensive tactic"], "answer": 1 },
-    { "question": "What is 'doping' in sports?", "options": ["A training technique", "Using banned performance-enhancing drugs", "A type of warm-up", "A foul in basketball"], "answer": 1 },
-    { "question": "What is a 'substitute'?", "options": ["The team captain", "A player who replaces another during a game", "The team referee", "A supporter in the stands"], "answer": 1 },
-    { "question": "What is 'injury time'?", "options": ["Time spent treating an injury", "Extra time added at the end due to stoppages", "A medical timeout", "Penalty shootout time"], "answer": 1 },
-    { "question": "What is 'sportsmanship'?", "options": ["Athletic physical ability", "Fair and ethical behavior in sport", "Playing professionally", "Competing for money"], "answer": 1 },
-    { "question": "What is the 'podium' in sports?", "options": ["The team bench", "The raised platform where winners stand", "The penalty area", "The stadium seating"], "answer": 1 },
-    { "question": "What does 'concede' mean?", "options": ["Score a goal", "Allow the opposing team to score", "Win the match", "Receive a red card"], "answer": 1 },
-    { "question": "What is an 'underdog'?", "options": ["The top-ranked player", "A competitor expected to lose", "A new team member", "The match referee"], "answer": 1 }
+    {
+      "question": "What is a 'tournament'?",
+      "options": [
+        "A single match between two teams",
+        "A series of contests with multiple competitors",
+        "An overtime period",
+        "A training session"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'offside' mean in football?",
+      "options": [
+        "A foul tackle",
+        "A position violation by an attacking player",
+        "A penalty kick",
+        "A yellow card"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'hat-trick'?",
+      "options": [
+        "A trick in basketball",
+        "Three goals scored by one player in one game",
+        "Winning three matches in a row",
+        "A defensive tactic"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 'doping' in sports?",
+      "options": [
+        "A training technique",
+        "Using banned performance-enhancing drugs",
+        "A type of warm-up",
+        "A foul in basketball"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'substitute'?",
+      "options": [
+        "The team captain",
+        "A player who replaces another during a game",
+        "The team referee",
+        "A supporter in the stands"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 'injury time'?",
+      "options": [
+        "Time spent treating an injury",
+        "Extra time added at the end due to stoppages",
+        "A medical timeout",
+        "Penalty shootout time"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 'sportsmanship'?",
+      "options": [
+        "Athletic physical ability",
+        "Fair and ethical behavior in sport",
+        "Playing professionally",
+        "Competing for money"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the 'podium' in sports?",
+      "options": [
+        "The team bench",
+        "The raised platform where winners stand",
+        "The penalty area",
+        "The stadium seating"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'concede' mean?",
+      "options": [
+        "Score a goal",
+        "Allow the opposing team to score",
+        "Win the match",
+        "Receive a red card"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an 'underdog'?",
+      "options": [
+        "The top-ranked player",
+        "A competitor expected to lose",
+        "A new team member",
+        "The match referee"
+      ],
+      "answer": 1
+    }
   ]
 }

@@ -16,7 +16,7 @@
       "meaning": "A reduction in the original price",
       "translation": "giam gia",
       "example": "There is a 30% discount on all items today.",
-      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
     },
     {
       "word": "receipt",
@@ -24,7 +24,7 @@
       "meaning": "A printed record of a purchase",
       "translation": "hoa don mua hang",
       "example": "Please keep your receipt for returns.",
-      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
     },
     {
       "word": "refund",
@@ -32,7 +32,7 @@
       "meaning": "Money returned after returning an item",
       "translation": "hoan tien",
       "example": "I would like a refund for this defective item.",
-      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
     },
     {
       "word": "fitting room",
@@ -40,7 +40,7 @@
       "meaning": "A room in a store where you try on clothes",
       "translation": "phong thu do",
       "example": "The fitting rooms are at the back of the store.",
-      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400&q=80"
     },
     {
       "word": "cashier",
@@ -48,7 +48,7 @@
       "meaning": "A person who handles payments in a store",
       "translation": "thu ngan",
       "example": "Please go to any open cashier.",
-      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
     },
     {
       "word": "sale",
@@ -56,7 +56,7 @@
       "meaning": "A period when items are sold at lower prices",
       "translation": "khuyen mai",
       "example": "The end-of-season sale starts this weekend.",
-      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
     },
     {
       "word": "exchange",
@@ -64,7 +64,7 @@
       "meaning": "To swap a purchased item for another",
       "translation": "doi hang",
       "example": "Can I exchange this for a larger size?",
-      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
     },
     {
       "word": "cart",
@@ -72,7 +72,7 @@
       "meaning": "A basket on wheels used while shopping",
       "translation": "xe day hang",
       "example": "I'll grab a cart near the entrance.",
-      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
     },
     {
       "word": "bargain",
@@ -80,7 +80,7 @@
       "meaning": "An item bought at a lower price than usual",
       "translation": "hang re / mac ca",
       "example": "This coat was a real bargain at 50% off.",
-      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
     },
     {
       "word": "checkout",
@@ -88,7 +88,327 @@
       "meaning": "The place in a store where you pay for items",
       "translation": "quay thanh toan",
       "example": "Please proceed to checkout when ready.",
-      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
+    },
+    {
+      "word": "clearance",
+      "ipa": "/ˈklɪərəns/",
+      "meaning": "A sale to clear out old stock at reduced prices",
+      "translation": "thanh ly hang ton",
+      "example": "These shoes are on clearance — 70% off.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "size",
+      "ipa": "/saɪz/",
+      "meaning": "A measurement used for clothing or shoes",
+      "translation": "co / size",
+      "example": "Do you have this shirt in a large size?",
+      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400&q=80"
+    },
+    {
+      "word": "brand",
+      "ipa": "/brænd/",
+      "meaning": "A named product or company known for its goods",
+      "translation": "thuong hieu",
+      "example": "Which brand do you prefer?",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "label",
+      "ipa": "/ˈleɪbəl/",
+      "meaning": "A tag attached to a product with information",
+      "translation": "nhan mac",
+      "example": "Check the label for washing instructions.",
+      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400&q=80"
+    },
+    {
+      "word": "barcode",
+      "ipa": "/ˈbɑːrkoʊd/",
+      "meaning": "A machine-readable pattern on a product for pricing",
+      "translation": "ma vach",
+      "example": "The cashier scanned the barcode.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
+    },
+    {
+      "word": "queue",
+      "ipa": "/kjuː/",
+      "meaning": "A line of people waiting to be served",
+      "translation": "hang doi",
+      "example": "There is a long queue at the checkout.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
+    },
+    {
+      "word": "loyalty card",
+      "ipa": "/ˈlɔɪəlti kɑːrd/",
+      "meaning": "A card that earns points for purchases at a store",
+      "translation": "the tich diem khach hang",
+      "example": "Do you have a loyalty card with us?",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
+    },
+    {
+      "word": "gift card",
+      "ipa": "/ɡɪft kɑːrd/",
+      "meaning": "A prepaid card used as a gift that can be spent in a store",
+      "translation": "the mua hang tang",
+      "example": "I received a gift card for my birthday.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "voucher",
+      "ipa": "/ˈvaʊtʃər/",
+      "meaning": "A paper or digital token that gives a discount",
+      "translation": "phieu giam gia",
+      "example": "Use this voucher for 20% off your next order.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "online shopping",
+      "ipa": "/ˈɒnlaɪn ˈʃɒpɪŋ/",
+      "meaning": "Buying goods via the internet",
+      "translation": "mua sam truc tuyen",
+      "example": "Online shopping is very convenient.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "delivery",
+      "ipa": "/dɪˈlɪvəri/",
+      "meaning": "The process of bringing goods to a customer",
+      "translation": "giao hang",
+      "example": "Free delivery on orders over $50.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
+    },
+    {
+      "word": "tracking",
+      "ipa": "/ˈtrækɪŋ/",
+      "meaning": "Following the delivery progress of an order",
+      "translation": "theo doi don hang",
+      "example": "Use the tracking number to check your parcel.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
+    },
+    {
+      "word": "return policy",
+      "ipa": "/rɪˈtɜːrn ˈpɒlɪsi/",
+      "meaning": "Rules about returning purchased items to a store",
+      "translation": "chinh sach doi tra hang",
+      "example": "Please read the return policy before buying.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "warranty",
+      "ipa": "/ˈwɒrənti/",
+      "meaning": "A guarantee that a product will be repaired or replaced if faulty",
+      "translation": "bao hanh",
+      "example": "This laptop comes with a 2-year warranty.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "guarantee",
+      "ipa": "/ˌɡærənˈtiː/",
+      "meaning": "A formal promise about a product's quality",
+      "translation": "cam ket chat luong",
+      "example": "We offer a 30-day money-back guarantee.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "store credit",
+      "ipa": "/stɔːr ˈkredɪt/",
+      "meaning": "Credit given in place of a cash refund to spend in the store",
+      "translation": "tin dung tai cua hang",
+      "example": "You can use the store credit on your next visit.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
+    },
+    {
+      "word": "installment",
+      "ipa": "/ɪnˈstɔːlmənt/",
+      "meaning": "Paying for goods in several regular payments",
+      "translation": "tra gop",
+      "example": "You can pay in monthly installments.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "bulk buy",
+      "ipa": "/bʌlk baɪ/",
+      "meaning": "Purchasing a large quantity of something at once",
+      "translation": "mua si / mua so luong lon",
+      "example": "Bulk buying saves money in the long run.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
+    },
+    {
+      "word": "retail",
+      "ipa": "/ˈriːteɪl/",
+      "meaning": "Selling goods to individual customers in a store",
+      "translation": "ban le",
+      "example": "The retail price is higher than online.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "customer service",
+      "ipa": "/ˈkʌstəmər ˈsɜːrvɪs/",
+      "meaning": "The department that helps customers with issues",
+      "translation": "cham soc khach hang",
+      "example": "Contact customer service for help.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
+    },
+    {
+      "word": "out of stock",
+      "ipa": "/aʊt əv stɒk/",
+      "meaning": "When a product is unavailable because it has been sold out",
+      "translation": "het hang",
+      "example": "Sorry, that item is out of stock.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "pre-order",
+      "ipa": "/priː ˈɔːrdər/",
+      "meaning": "Ordering a product before it is available",
+      "translation": "dat hang truoc",
+      "example": "You can pre-order the new phone today.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "limited edition",
+      "ipa": "/ˈlɪmɪtɪd ɪˈdɪʃən/",
+      "meaning": "A product made in small numbers for a short time",
+      "translation": "phien ban gioi han",
+      "example": "This is a limited edition sneaker.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "price tag",
+      "ipa": "/praɪs tæɡ/",
+      "meaning": "A label attached to a product showing its price",
+      "translation": "the gia",
+      "example": "Check the price tag before adding to your cart.",
+      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400&q=80"
+    },
+    {
+      "word": "aisle",
+      "ipa": "/aɪl/",
+      "meaning": "A passage between rows of shelves in a supermarket",
+      "translation": "lo di giua cac ke hang",
+      "example": "The cereal is in aisle 3.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
+    },
+    {
+      "word": "shopping mall",
+      "ipa": "/ˈʃɒpɪŋ mɔːl/",
+      "meaning": "A large building with many stores inside",
+      "translation": "trung tam thuong mai",
+      "example": "Let's meet at the shopping mall this afternoon.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "impulse buy",
+      "ipa": "/ˈɪmpʌls baɪ/",
+      "meaning": "An unplanned purchase made on sudden desire",
+      "translation": "mua hang bat chot",
+      "example": "I made an impulse buy at the checkout.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "price match",
+      "ipa": "/praɪs mætʃ/",
+      "meaning": "A store's policy to match a competitor's lower price",
+      "translation": "chinh sach ngang bang gia doi thu",
+      "example": "We offer a price match guarantee.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "second-hand",
+      "ipa": "/ˌsekənd ˈhænd/",
+      "meaning": "Previously owned or used by someone else",
+      "translation": "do cu / hang cu",
+      "example": "I bought a second-hand bicycle.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "window shopping",
+      "ipa": "/ˈwɪndoʊ ˈʃɒpɪŋ/",
+      "meaning": "Looking at goods in shop windows without buying",
+      "translation": "di dao xem hang khong mua",
+      "example": "I enjoy window shopping on weekends.",
+      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400&q=80"
+    },
+    {
+      "word": "complaint",
+      "ipa": "/kəmˈpleɪnt/",
+      "meaning": "An expression of dissatisfaction about a product or service",
+      "translation": "khieu nai",
+      "example": "I made a complaint about the damaged product.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
+    },
+    {
+      "word": "retail therapy",
+      "ipa": "/ˈriːteɪl ˈθerəpi/",
+      "meaning": "Shopping as a way to improve one's mood",
+      "translation": "mua sam de giai toa tam trang",
+      "example": "She went for some retail therapy after a stressful week.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "shopping basket",
+      "ipa": "/ˈʃɒpɪŋ ˈbɑːskɪt/",
+      "meaning": "A hand-held basket for carrying items in a store",
+      "translation": "gio dung hang",
+      "example": "I grabbed a shopping basket at the entrance.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
+    },
+    {
+      "word": "price comparison",
+      "ipa": "/praɪs kəmˈpærɪsən/",
+      "meaning": "Checking prices from different shops before buying",
+      "translation": "so sanh gia ca",
+      "example": "Always do a price comparison before buying electronics.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "flash sale",
+      "ipa": "/flæʃ seɪl/",
+      "meaning": "A short-time sale offering big discounts",
+      "translation": "khuyen mai thoi gian ngan",
+      "example": "The flash sale lasted only two hours.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "change",
+      "ipa": "/tʃeɪndʒ/",
+      "meaning": "Money returned when you pay more than the price",
+      "translation": "tien thua",
+      "example": "Here is your change — $5.50.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "credit card",
+      "ipa": "/ˈkredɪt kɑːrd/",
+      "meaning": "A card allowing you to buy goods and pay later",
+      "translation": "the tin dung",
+      "example": "Can I pay by credit card?",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
+    },
+    {
+      "word": "shopaholic",
+      "ipa": "/ˌʃɒpəˈhɒlɪk/",
+      "meaning": "A person who loves to shop excessively",
+      "translation": "nguoi nghien mua sam",
+      "example": "She is a shopaholic — always buying something new.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "open hours",
+      "ipa": "/ˈoʊpən ˈaʊərz/",
+      "meaning": "The times when a store is open for business",
+      "translation": "gio mo cua",
+      "example": "Check the store's open hours before visiting.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "self-checkout",
+      "ipa": "/self ˈtʃekaʊt/",
+      "meaning": "A machine that lets you scan and pay for items yourself",
+      "translation": "thanh toan tu dong",
+      "example": "I used the self-checkout to avoid the queue.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
     }
   ],
   "quiz": [

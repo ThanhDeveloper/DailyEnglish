@@ -16,7 +16,7 @@
       "meaning": "A planned route or journey",
       "translation": "lich trinh",
       "example": "Our itinerary includes three cities.",
-      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=400&q=80"
     },
     {
       "word": "accommodation",
@@ -24,7 +24,7 @@
       "meaning": "A place to stay during travel",
       "translation": "cho o",
       "example": "We need to book accommodation for the trip.",
-      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400&q=80"
     },
     {
       "word": "souvenir",
@@ -32,7 +32,7 @@
       "meaning": "A thing bought to remember a place",
       "translation": "qua luu niem",
       "example": "I bought a souvenir from the gift shop.",
-      "image": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=400&q=80"
     },
     {
       "word": "currency",
@@ -40,7 +40,7 @@
       "meaning": "The system of money used in a country",
       "translation": "tien te",
       "example": "You should exchange currency before traveling.",
-      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=400&q=80"
     },
     {
       "word": "sightseeing",
@@ -48,7 +48,7 @@
       "meaning": "Visiting interesting places as a tourist",
       "translation": "tham quan",
       "example": "We spent the day sightseeing in Paris.",
-      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=400&q=80"
     },
     {
       "word": "destination",
@@ -56,7 +56,7 @@
       "meaning": "The place to which someone is going",
       "translation": "diem den",
       "example": "Bali is a popular travel destination.",
-      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=80"
     },
     {
       "word": "guidebook",
@@ -64,7 +64,7 @@
       "meaning": "A book of information for travelers",
       "translation": "sach huong dan",
       "example": "The guidebook recommends this restaurant.",
-      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&q=80"
     },
     {
       "word": "round trip",
@@ -72,7 +72,343 @@
       "meaning": "A journey to a place and back again",
       "translation": "khu hoi",
       "example": "A round trip ticket is cheaper.",
-      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "passport",
+      "ipa": "/ˈpæspɔːrt/",
+      "meaning": "An official document required for international travel",
+      "translation": "ho chieu",
+      "example": "Make sure your passport is valid before you travel.",
+      "image": "https://images.unsplash.com/photo-1544725176-7c40e7580c37?w=400&q=80"
+    },
+    {
+      "word": "visa",
+      "ipa": "/ˈviːzə/",
+      "meaning": "An official permit to enter a foreign country",
+      "translation": "thi thuc",
+      "example": "I need to apply for a tourist visa.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "customs",
+      "ipa": "/ˈkʌstəmz/",
+      "meaning": "The official check of goods entering a country",
+      "translation": "hai quan",
+      "example": "You must declare items at customs.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "immigration",
+      "ipa": "/ˌɪmɪˈɡreɪʃən/",
+      "meaning": "The process of entering and being checked in a foreign country",
+      "translation": "kiem tra nhap canh",
+      "example": "Join the immigration queue for foreign nationals.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "baggage",
+      "ipa": "/ˈbæɡɪdʒ/",
+      "meaning": "Bags and suitcases for travel",
+      "translation": "hanh ly",
+      "example": "Each passenger is allowed 23 kg of baggage.",
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=400&q=80"
+    },
+    {
+      "word": "carry-on",
+      "ipa": "/ˈkæri ɒn/",
+      "meaning": "A small bag taken into the aircraft cabin",
+      "translation": "hanh ly xach tay",
+      "example": "Your carry-on must fit in the overhead bin.",
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=400&q=80"
+    },
+    {
+      "word": "boarding",
+      "ipa": "/ˈbɔːrdɪŋ/",
+      "meaning": "The process of getting onto an airplane",
+      "translation": "len may bay",
+      "example": "Boarding begins 40 minutes before departure.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "connection",
+      "ipa": "/kəˈnekʃən/",
+      "meaning": "A flight that follows after an initial flight",
+      "translation": "chuyen bay noi chuyen",
+      "example": "I missed my connection in Frankfurt.",
+      "image": "https://images.unsplash.com/photo-1529074448010-db7bdb09bf1c?w=400&q=80"
+    },
+    {
+      "word": "layover",
+      "ipa": "/ˈleɪoʊvər/",
+      "meaning": "A stop between connecting flights",
+      "translation": "qua canh",
+      "example": "We have a 4-hour layover in Dubai.",
+      "image": "https://images.unsplash.com/photo-1529074448010-db7bdb09bf1c?w=400&q=80"
+    },
+    {
+      "word": "transit",
+      "ipa": "/ˈtrænzɪt/",
+      "meaning": "Passing through a country without stopping",
+      "translation": "qua canh / chuyen tiep",
+      "example": "Passengers in transit do not need a visa.",
+      "image": "https://images.unsplash.com/photo-1529074448010-db7bdb09bf1c?w=400&q=80"
+    },
+    {
+      "word": "currency exchange",
+      "ipa": "/ˈkɜːrənsi ɪksˈtʃeɪndʒ/",
+      "meaning": "Converting one country's money into another",
+      "translation": "doi tien te",
+      "example": "The currency exchange rate is favorable today.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=400&q=80"
+    },
+    {
+      "word": "travel insurance",
+      "ipa": "/ˈtrævəl ɪnˈʃʊrəns/",
+      "meaning": "Insurance that covers problems during a trip",
+      "translation": "bao hiem du lich",
+      "example": "Always buy travel insurance before a trip.",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=400&q=80"
+    },
+    {
+      "word": "hostel",
+      "ipa": "/ˈhɒstəl/",
+      "meaning": "A cheap accommodation with shared rooms and facilities",
+      "translation": "nha tro / ky tuc xa",
+      "example": "Backpackers often stay in hostels to save money.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400&q=80"
+    },
+    {
+      "word": "resort",
+      "ipa": "/rɪˈzɔːrt/",
+      "meaning": "A luxurious holiday destination with many facilities",
+      "translation": "khu nghi duong",
+      "example": "We stayed at an all-inclusive beach resort.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400&q=80"
+    },
+    {
+      "word": "tour guide",
+      "ipa": "/tʊr ɡaɪd/",
+      "meaning": "A person who leads tourists and provides information",
+      "translation": "huong dan vien du lich",
+      "example": "Our tour guide was very knowledgeable.",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=80"
+    },
+    {
+      "word": "landmark",
+      "ipa": "/ˈlændmɑːrk/",
+      "meaning": "A famous or recognizable feature of a place",
+      "translation": "diem moc / diem noi tieng",
+      "example": "The Eiffel Tower is a famous landmark.",
+      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=400&q=80"
+    },
+    {
+      "word": "ferry",
+      "ipa": "/ˈferi/",
+      "meaning": "A boat that transports people and vehicles across water",
+      "translation": "phan / tau qua song",
+      "example": "We took a ferry to the island.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "timetable",
+      "ipa": "/ˈtaɪmteɪbəl/",
+      "meaning": "A list showing departure and arrival times",
+      "translation": "lich trình gio tau / xe",
+      "example": "Check the timetable before going to the station.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "platform",
+      "ipa": "/ˈplætfɔːrm/",
+      "meaning": "The area at a train station where passengers board",
+      "translation": "ben tau / ke ga",
+      "example": "The train departs from platform 4.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "cancellation",
+      "ipa": "/ˌkænsəˈleɪʃən/",
+      "meaning": "The act of calling off a booking or travel plan",
+      "translation": "huy bo dat cho",
+      "example": "Due to bad weather, there was a cancellation.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "jet lag",
+      "ipa": "/dʒet læɡ/",
+      "meaning": "Tiredness after a long flight crossing time zones",
+      "translation": "lech gio sinh hoc sau chuyen bay dai",
+      "example": "I suffered from jet lag for two days.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "time zone",
+      "ipa": "/taɪm zoʊn/",
+      "meaning": "A region with a uniform standard time",
+      "translation": "mui gio",
+      "example": "New York and London are in different time zones.",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=400&q=80"
+    },
+    {
+      "word": "weather forecast",
+      "ipa": "/ˈweðər ˈfɔːrkæst/",
+      "meaning": "A prediction of upcoming weather conditions",
+      "translation": "du bao thoi tiet",
+      "example": "Check the weather forecast before packing.",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=80"
+    },
+    {
+      "word": "hiking",
+      "ipa": "/ˈhaɪkɪŋ/",
+      "meaning": "Walking long distances in nature or mountains",
+      "translation": "leo nui / di bo da ngoai",
+      "example": "We went hiking in the national park.",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=80"
+    },
+    {
+      "word": "backpacking",
+      "ipa": "/ˈbækpækɪŋ/",
+      "meaning": "Traveling with just a backpack on a budget",
+      "translation": "du lich balo",
+      "example": "She spent a year backpacking across Asia.",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=80"
+    },
+    {
+      "word": "excursion",
+      "ipa": "/ɪkˈskɜːrʒən/",
+      "meaning": "A short trip as part of a holiday",
+      "translation": "chuyen da ngoai",
+      "example": "We joined a day excursion to the waterfalls.",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=80"
+    },
+    {
+      "word": "departure gate",
+      "ipa": "/dɪˈpɑːrtʃər ɡeɪt/",
+      "meaning": "The gate at an airport where passengers board their plane",
+      "translation": "cua len may bay",
+      "example": "Proceed to departure gate B7.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "check-in",
+      "ipa": "/tʃek ɪn/",
+      "meaning": "Registering for your flight at the airport",
+      "translation": "lam thu tuc check in",
+      "example": "Online check-in opens 24 hours before departure.",
+      "image": "https://images.unsplash.com/photo-1556388158-158ea5ccacbd?w=400&q=80"
+    },
+    {
+      "word": "traveler",
+      "ipa": "/ˈtrævələr/",
+      "meaning": "A person who travels",
+      "translation": "du khach / nguoi di du lich",
+      "example": "The airport was full of tired travelers.",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=400&q=80"
+    },
+    {
+      "word": "tourist trap",
+      "ipa": "/ˈtʊərɪst træp/",
+      "meaning": "A place that exploits tourists with high prices",
+      "translation": "dia diem danh vao khach du lich",
+      "example": "Avoid the tourist traps near the main square.",
+      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=400&q=80"
+    },
+    {
+      "word": "off the beaten path",
+      "ipa": "/ɒf ðə ˈbiːtən pɑːθ/",
+      "meaning": "A place that is remote and not usually visited by tourists",
+      "translation": "noi it ai biet den",
+      "example": "We love discovering places off the beaten path.",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=80"
+    },
+    {
+      "word": "local transport",
+      "ipa": "/ˈloʊkəl ˈtrænspɔːrt/",
+      "meaning": "Public transportation in a city or town",
+      "translation": "phuong tien cong cong dia phuong",
+      "example": "Use local transport to save money.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "rideshare",
+      "ipa": "/ˈraɪdʃer/",
+      "meaning": "A service where passengers share a vehicle booked via an app",
+      "translation": "dich vu goi xe qua ung dung",
+      "example": "We used a rideshare app to get to the hotel.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "bus pass",
+      "ipa": "/bʌs pæs/",
+      "meaning": "A prepaid card for unlimited bus travel",
+      "translation": "the di xe buyt",
+      "example": "Buy a weekly bus pass to get around the city.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "travel adapter",
+      "ipa": "/ˈtrævəl əˈdæptər/",
+      "meaning": "A device that allows foreign plugs to work in local sockets",
+      "translation": "o chuyen doi phich cam",
+      "example": "Pack a travel adapter for your electronics.",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=400&q=80"
+    },
+    {
+      "word": "culture shock",
+      "ipa": "/ˈkʌltʃər ʃɒk/",
+      "meaning": "Disorientation when experiencing a very different culture",
+      "translation": "soc van hoa",
+      "example": "Moving to Japan was a real culture shock at first.",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=80"
+    },
+    {
+      "word": "travel diary",
+      "ipa": "/ˈtrævəl ˈdaɪəri/",
+      "meaning": "A journal where travelers record their experiences",
+      "translation": "nhat ky du lich",
+      "example": "She kept a travel diary throughout her trip.",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=400&q=80"
+    },
+    {
+      "word": "travel budget",
+      "ipa": "/ˈtrævəl ˈbʌdʒɪt/",
+      "meaning": "The amount of money planned for a trip",
+      "translation": "ngan sach du lich",
+      "example": "We set a travel budget of $2,000 for the holiday.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=400&q=80"
+    },
+    {
+      "word": "local cuisine",
+      "ipa": "/ˈloʊkəl kwɪˈziːn/",
+      "meaning": "The traditional food of a particular place",
+      "translation": "am thuc dia phuong",
+      "example": "Trying local cuisine is the best part of travel.",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=80"
+    },
+    {
+      "word": "travel companion",
+      "ipa": "/ˈtrævəl kəmˈpænjən/",
+      "meaning": "A person who travels with you",
+      "translation": "ban dong hanh",
+      "example": "She was a wonderful travel companion.",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=80"
+    },
+    {
+      "word": "scenic route",
+      "ipa": "/ˈsiːnɪk ruːt/",
+      "meaning": "A road or path chosen for its beautiful views",
+      "translation": "tuyen duong phong canh dep",
+      "example": "We took the scenic route along the coast.",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=400&q=80"
+    },
+    {
+      "word": "overland travel",
+      "ipa": "/ˌoʊvərˈlænd ˈtrævəl/",
+      "meaning": "Traveling across land rather than by air or sea",
+      "translation": "di du lich duong bo",
+      "example": "We did overland travel from London to Istanbul.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
     }
   ],
   "quiz": [

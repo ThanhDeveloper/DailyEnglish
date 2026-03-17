@@ -16,7 +16,7 @@
       "meaning": "To say hello or welcome someone",
       "translation": "chao hoi",
       "example": "She greeted me with a warm smile.",
-      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
     },
     {
       "word": "introduce",
@@ -24,7 +24,7 @@
       "meaning": "To make someone known to others",
       "translation": "gioi thieu",
       "example": "Let me introduce you to my friend.",
-      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
     },
     {
       "word": "apologize",
@@ -32,7 +32,7 @@
       "meaning": "To say sorry for something",
       "translation": "xin loi",
       "example": "I'd like to apologize for being late.",
-      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
     },
     {
       "word": "compliment",
@@ -40,7 +40,7 @@
       "meaning": "A nice thing said about someone",
       "translation": "loi khen",
       "example": "Thank you for the compliment!",
-      "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=400&q=80"
     },
     {
       "word": "invitation",
@@ -48,7 +48,7 @@
       "meaning": "A request for someone to come or do something",
       "translation": "loi moi",
       "example": "Thank you for the invitation to dinner.",
-      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&q=80"
     },
     {
       "word": "favor",
@@ -56,7 +56,7 @@
       "meaning": "A kind act done to help someone",
       "translation": "giup do",
       "example": "Could you do me a favor?",
-      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
     },
     {
       "word": "recommend",
@@ -64,7 +64,7 @@
       "meaning": "To suggest something as good or suitable",
       "translation": "de xuat / goi y",
       "example": "Can you recommend a good restaurant?",
-      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
     },
     {
       "word": "schedule",
@@ -72,7 +72,343 @@
       "meaning": "A plan of activities with times",
       "translation": "lich trinh",
       "example": "What's your schedule for tomorrow?",
-      "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=400&q=80"
+    },
+    {
+      "word": "farewell",
+      "ipa": "/ˌferˈwel/",
+      "meaning": "An expression of good wishes when saying goodbye",
+      "translation": "loi tam biet",
+      "example": "We had a farewell party for our departing colleague.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "gratitude",
+      "ipa": "/ˈɡrætɪtjuːd/",
+      "meaning": "The quality of being thankful",
+      "translation": "long biet on",
+      "example": "She expressed her gratitude for our help.",
+      "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=400&q=80"
+    },
+    {
+      "word": "small talk",
+      "ipa": "/smɔːl tɔːk/",
+      "meaning": "Casual, polite conversation about everyday topics",
+      "translation": "cuoc noi chuyen xa giao",
+      "example": "We made small talk while waiting.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "clarification",
+      "ipa": "/ˌklærɪfɪˈkeɪʃən/",
+      "meaning": "Asking for something to be explained more clearly",
+      "translation": "su lam ro",
+      "example": "Could you give me some clarification on that?",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "confirmation",
+      "ipa": "/ˌkɒnfəˈmeɪʃən/",
+      "meaning": "A statement that something is correct or will happen",
+      "translation": "xac nhan",
+      "example": "Can you send me a confirmation by email?",
+      "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=400&q=80"
+    },
+    {
+      "word": "sympathy",
+      "ipa": "/ˈsɪmpəθi/",
+      "meaning": "Feelings of sorrow for someone else's misfortune",
+      "translation": "su dong cam / long thuong xot",
+      "example": "Please accept our deepest sympathies.",
+      "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=400&q=80"
+    },
+    {
+      "word": "encouragement",
+      "ipa": "/ɪnˈkɜːrɪdʒmənt/",
+      "meaning": "Support or confidence given to someone",
+      "translation": "su dong vien khuyen khich",
+      "example": "Thank you for your encouragement.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "reminder",
+      "ipa": "/rɪˈmaɪndər/",
+      "meaning": "A message that helps someone remember something",
+      "translation": "loi nhac nho",
+      "example": "I sent a reminder about the meeting.",
+      "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=400&q=80"
+    },
+    {
+      "word": "agreement",
+      "ipa": "/əˈɡriːmənt/",
+      "meaning": "A situation where people have the same opinion",
+      "translation": "su dong y / su nhat tri",
+      "example": "We reached an agreement on the plan.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "disagreement",
+      "ipa": "/ˌdɪsəˈɡriːmənt/",
+      "meaning": "A situation where people have different opinions",
+      "translation": "su bat dong",
+      "example": "There was a disagreement about the budget.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "opinion",
+      "ipa": "/əˈpɪnjən/",
+      "meaning": "A personal view or belief",
+      "translation": "y kien",
+      "example": "In my opinion, we should wait.",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "suggestion",
+      "ipa": "/səˈdʒestʃən/",
+      "meaning": "An idea put forward for consideration",
+      "translation": "goi y / de nghi",
+      "example": "I have a suggestion for the weekend.",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "request",
+      "ipa": "/rɪˈkwest/",
+      "meaning": "An act of politely asking for something",
+      "translation": "yeu cau / nho vang",
+      "example": "May I make a request?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "excuse",
+      "ipa": "/ɪkˈskjuːz/",
+      "meaning": "A reason given to explain or justify behavior",
+      "translation": "ly do / loi biện hộ",
+      "example": "Excuse me, could you help me?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "preference",
+      "ipa": "/ˈprefərəns/",
+      "meaning": "A greater liking for one thing over another",
+      "translation": "so thich",
+      "example": "Do you have a preference for tea or coffee?",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "hobby",
+      "ipa": "/ˈhɒbi/",
+      "meaning": "An activity done for pleasure in spare time",
+      "translation": "so thich / sở thích",
+      "example": "My hobby is reading and photography.",
+      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&q=80"
+    },
+    {
+      "word": "commute",
+      "ipa": "/kəˈmjuːt/",
+      "meaning": "Travel regularly between home and work",
+      "translation": "di lai hang ngay (di lam)",
+      "example": "My commute takes about 45 minutes.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "neighborhood",
+      "ipa": "/ˈneɪbərhʊd/",
+      "meaning": "The area around where you live",
+      "translation": "khu pho / hang xom",
+      "example": "We live in a quiet neighborhood.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "weekend plans",
+      "ipa": "/ˈwiːkend plænz/",
+      "meaning": "What someone intends to do during the weekend",
+      "translation": "ke hoach cuoi tuan",
+      "example": "Do you have any weekend plans?",
+      "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=400&q=80"
+    },
+    {
+      "word": "catch up",
+      "ipa": "/kætʃ ʌp/",
+      "meaning": "To talk with someone you haven't seen for a while",
+      "translation": "gap gỡ bat kip tin tuc ban be",
+      "example": "Let's catch up over coffee this week.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "keep in touch",
+      "ipa": "/kiːp ɪn tʌtʃ/",
+      "meaning": "To maintain communication with someone",
+      "translation": "giu lien lac",
+      "example": "Let's keep in touch after you move.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "chitchat",
+      "ipa": "/ˈtʃɪttʃæt/",
+      "meaning": "Friendly, informal conversation",
+      "translation": "cuoc tro chuyen nhe nhang",
+      "example": "We had a little chitchat before the meeting.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "address",
+      "ipa": "/ˈædrɛs/",
+      "meaning": "The details of where someone lives",
+      "translation": "dia chi",
+      "example": "Can you give me your home address?",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "phone number",
+      "ipa": "/foʊn ˈnʌmbər/",
+      "meaning": "A sequence of digits for calling someone",
+      "translation": "so dien thoai",
+      "example": "Could I have your phone number?",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "appointment",
+      "ipa": "/əˈpɔɪntmənt/",
+      "meaning": "A fixed time to meet someone",
+      "translation": "cuoc hen gap",
+      "example": "I have an appointment at 2 PM.",
+      "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=400&q=80"
+    },
+    {
+      "word": "get along",
+      "ipa": "/ɡet əˈlɒŋ/",
+      "meaning": "To have a good relationship with someone",
+      "translation": "hoa hop voi nhau",
+      "example": "She gets along well with everyone at work.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "icebreaker",
+      "ipa": "/ˈaɪsbreɪkər/",
+      "meaning": "An activity or question used to start a conversation",
+      "translation": "cach pha vo su lo lang khi gap nguoi la",
+      "example": "The teacher used an icebreaker at the start of class.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "misunderstanding",
+      "ipa": "/ˌmɪsʌndəˈstændɪŋ/",
+      "meaning": "A failure to correctly understand something",
+      "translation": "su hieu lam",
+      "example": "There was a misunderstanding about the time.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "polite",
+      "ipa": "/pəˈlaɪt/",
+      "meaning": "Having or showing good manners and respect",
+      "translation": "lich su",
+      "example": "It's important to be polite in conversation.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "interrupt",
+      "ipa": "/ˌɪntəˈrʌpt/",
+      "meaning": "To stop someone speaking by saying something",
+      "translation": "ngat loi",
+      "example": "Sorry to interrupt, but I have a question.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "fluent",
+      "ipa": "/ˈfluːənt/",
+      "meaning": "Able to speak a language easily and accurately",
+      "translation": "noi luu loat",
+      "example": "She is fluent in three languages.",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "accent",
+      "ipa": "/ˈæksənt/",
+      "meaning": "A distinctive way of pronouncing a language",
+      "translation": "giong dieu",
+      "example": "He has a strong American accent.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "phrase",
+      "ipa": "/freɪz/",
+      "meaning": "A short group of words used in conversation",
+      "translation": "cum tu / cau ngan",
+      "example": "Learn common phrases for daily conversation.",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "body language",
+      "ipa": "/ˈbɒdi ˈlæŋɡwɪdʒ/",
+      "meaning": "Non-verbal communication through gestures and posture",
+      "translation": "ngon ngu co the",
+      "example": "Good body language helps in conversations.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "gossip",
+      "ipa": "/ˈɡɒsɪp/",
+      "meaning": "Casual talk or rumor about other people",
+      "translation": "tin don / noi chuyen sau lung nguoi khac",
+      "example": "Try to avoid gossip in the workplace.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "argument",
+      "ipa": "/ˈɑːrɡjʊmənt/",
+      "meaning": "A heated discussion where people disagree",
+      "translation": "cuoc tranh luan / cai nhau",
+      "example": "They had an argument about the decision.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "compromise",
+      "ipa": "/ˈkɒmprəmaɪz/",
+      "meaning": "An agreement where both sides give up something",
+      "translation": "su nhuong bo / dung hoa",
+      "example": "They reached a compromise after a long discussion.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "conversation",
+      "ipa": "/ˌkɒnvərˈseɪʃən/",
+      "meaning": "A spoken exchange of ideas between people",
+      "translation": "cuoc hoi thoai",
+      "example": "We had an interesting conversation over dinner.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "feedback",
+      "ipa": "/ˈfiːdbæk/",
+      "meaning": "A response or opinion about something said or done",
+      "translation": "phan hoi",
+      "example": "I'd love to hear your feedback on this idea.",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "tone",
+      "ipa": "/toʊn/",
+      "meaning": "The quality of voice expressing attitude or feeling",
+      "translation": "gong giong / sac thai",
+      "example": "Please speak in a polite tone.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "paraphrase",
+      "ipa": "/ˈpærəfreɪz/",
+      "meaning": "To restate something in different words",
+      "translation": "dien dat lai bang tu khac",
+      "example": "Could you paraphrase that in simpler terms?",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "listening",
+      "ipa": "/ˈlɪsənɪŋ/",
+      "meaning": "Paying attention to what someone is saying",
+      "translation": "lang nghe",
+      "example": "Active listening is key to good communication.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
     }
   ],
   "quiz": [

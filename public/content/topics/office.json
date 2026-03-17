@@ -16,7 +16,7 @@
       "meaning": "The latest time by which something must be completed",
       "translation": "han chot",
       "example": "The project deadline is next Friday.",
-      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
     },
     {
       "word": "meeting",
@@ -24,7 +24,7 @@
       "meaning": "A gathering of people for discussion",
       "translation": "cuoc hop",
       "example": "We have a team meeting at 10 AM.",
-      "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=400&q=80"
     },
     {
       "word": "colleague",
@@ -32,7 +32,7 @@
       "meaning": "A person you work with",
       "translation": "dong nghiep",
       "example": "My colleague helped me with the report.",
-      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
     },
     {
       "word": "presentation",
@@ -40,7 +40,7 @@
       "meaning": "A talk given to an audience, often with slides",
       "translation": "bai thuyet trinh",
       "example": "I'm preparing a presentation for the client.",
-      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=400&q=80"
     },
     {
       "word": "overtime",
@@ -48,7 +48,7 @@
       "meaning": "Time worked beyond normal hours",
       "translation": "lam them gio",
       "example": "I had to work overtime to finish the project.",
-      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
     },
     {
       "word": "promotion",
@@ -56,7 +56,7 @@
       "meaning": "An advance in position or rank at work",
       "translation": "thang chuc",
       "example": "She received a well-deserved promotion.",
-      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&q=80"
     },
     {
       "word": "agenda",
@@ -64,7 +64,7 @@
       "meaning": "A list of items to be discussed at a meeting",
       "translation": "chuong trinh nghi su",
       "example": "Let's review the agenda before the meeting.",
-      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400&q=80"
     },
     {
       "word": "feedback",
@@ -72,7 +72,7 @@
       "meaning": "Comments about someone's work or performance",
       "translation": "phan hoi",
       "example": "The manager gave positive feedback on my work.",
-      "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=400&q=80"
     },
     {
       "word": "brainstorm",
@@ -80,7 +80,7 @@
       "meaning": "To generate ideas freely in a group",
       "translation": "trao doi y tuong",
       "example": "Let's brainstorm solutions to this problem.",
-      "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=400&q=80"
     },
     {
       "word": "collaborate",
@@ -88,7 +88,7 @@
       "meaning": "To work jointly with others",
       "translation": "hop tac",
       "example": "We need to collaborate across departments.",
-      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
     },
     {
       "word": "delegate",
@@ -96,7 +96,7 @@
       "meaning": "To assign a task to someone else",
       "translation": "uy quyen / giao viec",
       "example": "Good managers know how to delegate tasks.",
-      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
     },
     {
       "word": "KPI",
@@ -104,7 +104,7 @@
       "meaning": "Key Performance Indicator — a measurable goal",
       "translation": "chi so hieu suat",
       "example": "We set KPIs at the beginning of each quarter.",
-      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&q=80"
     },
     {
       "word": "remote work",
@@ -112,7 +112,303 @@
       "meaning": "Working from home or outside the office",
       "translation": "lam viec tu xa",
       "example": "Many companies now offer remote work options.",
-      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "cubicle",
+      "ipa": "/ˈkjuːbɪkəl/",
+      "meaning": "A small enclosed workspace within an open office",
+      "translation": "ngan lam viec nho",
+      "example": "Each employee has their own cubicle.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "open plan",
+      "ipa": "/ˈoʊpən plæn/",
+      "meaning": "An office layout without walls between workstations",
+      "translation": "van phong khong vach ngan",
+      "example": "The company uses an open plan office.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
+    },
+    {
+      "word": "hot-desking",
+      "ipa": "/hɒt ˈdeskɪŋ/",
+      "meaning": "A system where employees do not have a fixed desk",
+      "translation": "lam viec khong co ban rieng co dinh",
+      "example": "Hot-desking is common in hybrid offices.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "boardroom",
+      "ipa": "/ˈbɔːrdruːm/",
+      "meaning": "A large room used for senior-level meetings",
+      "translation": "phong hop hoi dong quan tri",
+      "example": "The board meeting is held in the boardroom.",
+      "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=400&q=80"
+    },
+    {
+      "word": "printer",
+      "ipa": "/ˈprɪntər/",
+      "meaning": "A machine that produces paper copies of documents",
+      "translation": "may in",
+      "example": "The printer is out of paper.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "scanner",
+      "ipa": "/ˈskænər/",
+      "meaning": "A device that converts paper documents into digital files",
+      "translation": "may scan",
+      "example": "Use the scanner to digitize the contract.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "stationery",
+      "ipa": "/ˈsteɪʃəneri/",
+      "meaning": "Office supplies such as pens, paper, and envelopes",
+      "translation": "van phong pham",
+      "example": "Order more stationery from the supply room.",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400&q=80"
+    },
+    {
+      "word": "whiteboard",
+      "ipa": "/ˈwaɪtbɔːrd/",
+      "meaning": "A large board used to write notes during meetings",
+      "translation": "bang trang",
+      "example": "Draw the diagram on the whiteboard.",
+      "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=400&q=80"
+    },
+    {
+      "word": "projector",
+      "ipa": "/prəˈdʒektər/",
+      "meaning": "A device that displays images on a screen",
+      "translation": "may chieu",
+      "example": "Connect the laptop to the projector.",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=400&q=80"
+    },
+    {
+      "word": "video call",
+      "ipa": "/ˈvɪdioʊ kɔːl/",
+      "meaning": "A telephone call with live video",
+      "translation": "cuoc goi video",
+      "example": "We held a video call with the overseas team.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "minutes",
+      "ipa": "/ˈmɪnɪts/",
+      "meaning": "A written record of what was discussed in a meeting",
+      "translation": "bien ban hop",
+      "example": "Please send the meeting minutes to everyone.",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400&q=80"
+    },
+    {
+      "word": "action items",
+      "ipa": "/ˈækʃən ˈaɪtəmz/",
+      "meaning": "Tasks agreed upon during a meeting that must be done",
+      "translation": "cac dau muc can thuc hien",
+      "example": "The action items were assigned at the end of the meeting.",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400&q=80"
+    },
+    {
+      "word": "project management",
+      "ipa": "/ˈprɒdʒekt ˈmænɪdʒmənt/",
+      "meaning": "Planning and overseeing the completion of a project",
+      "translation": "quan ly du an",
+      "example": "Good project management ensures deadlines are met.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "deliverable",
+      "ipa": "/dɪˈlɪvərəbəl/",
+      "meaning": "A specific output or result expected from a project",
+      "translation": "san pham / ket qua ban giao",
+      "example": "List all deliverables before starting the project.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "performance review",
+      "ipa": "/pərˈfɔːrməns rɪˈvjuː/",
+      "meaning": "A formal assessment of an employee's work",
+      "translation": "danh gia nang luc lam viec",
+      "example": "Annual performance reviews are done in December.",
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&q=80"
+    },
+    {
+      "word": "resignation",
+      "ipa": "/ˌrezɪɡˈneɪʃən/",
+      "meaning": "Formally leaving a job by giving notice",
+      "translation": "tu chuc",
+      "example": "She handed in her resignation this morning.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "notice period",
+      "ipa": "/ˈnoʊtɪs ˈpɪriəd/",
+      "meaning": "The time between resigning and actually leaving a job",
+      "translation": "thoi han bao truoc khi nghi viec",
+      "example": "My notice period is two weeks.",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400&q=80"
+    },
+    {
+      "word": "payslip",
+      "ipa": "/ˈpeɪslɪp/",
+      "meaning": "A document showing how much an employee has been paid",
+      "translation": "phieu luong",
+      "example": "Check your payslip at the end of each month.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "flexible hours",
+      "ipa": "/ˈfleksɪbəl ˈaʊərz/",
+      "meaning": "Work arrangements where employees choose their hours",
+      "translation": "gio lam linh hoat",
+      "example": "The company offers flexible hours.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "dress code",
+      "ipa": "/dres koʊd/",
+      "meaning": "The required standard of clothing in a workplace",
+      "translation": "quy dinh trang phuc",
+      "example": "Our dress code is business casual.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
+    },
+    {
+      "word": "onboarding",
+      "ipa": "/ˈɒnbɔːrdɪŋ/",
+      "meaning": "The process of integrating a new employee into the company",
+      "translation": "dao tao hoi nhap nhan vien moi",
+      "example": "The onboarding process takes one week.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
+    },
+    {
+      "word": "workshop",
+      "ipa": "/ˈwɜːrkʃɒp/",
+      "meaning": "A hands-on training session",
+      "translation": "hoi thao / khoa hoc thuc hanh",
+      "example": "We attended a leadership workshop.",
+      "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=400&q=80"
+    },
+    {
+      "word": "filing cabinet",
+      "ipa": "/ˈfaɪlɪŋ ˈkæbɪnɪt/",
+      "meaning": "A piece of office furniture for storing documents",
+      "translation": "tu dung ho so",
+      "example": "Store the contract in the filing cabinet.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "memo",
+      "ipa": "/ˈmemoʊ/",
+      "meaning": "A short written message within a company",
+      "translation": "thu noi bo / ghi chu noi bo",
+      "example": "I sent a memo to all staff about the policy change.",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400&q=80"
+    },
+    {
+      "word": "teleconference",
+      "ipa": "/ˈtelɪkɒnfərəns/",
+      "meaning": "A meeting held via telephone or online",
+      "translation": "hop qua dien thoai / truc tuyen",
+      "example": "We hold a weekly teleconference with the US team.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "invoice",
+      "ipa": "/ˈɪnvɔɪs/",
+      "meaning": "A bill sent to a client for payment",
+      "translation": "hoa don thuong mai",
+      "example": "Send the invoice to the client by Friday.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "spreadsheet",
+      "ipa": "/ˈspredʃiːt/",
+      "meaning": "A digital document for organizing data in rows and columns",
+      "translation": "bang tinh",
+      "example": "Update the spreadsheet with this month's figures.",
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&q=80"
+    },
+    {
+      "word": "workload",
+      "ipa": "/ˈwɜːrkloʊd/",
+      "meaning": "The amount of work someone has to do",
+      "translation": "khoi luong cong viec",
+      "example": "My workload has increased this month.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "conference call",
+      "ipa": "/ˈkɒnfərəns kɔːl/",
+      "meaning": "A telephone call in which several people participate",
+      "translation": "cuoc goi hoi nghi",
+      "example": "We had a conference call with clients in New York.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "report",
+      "ipa": "/rɪˈpɔːrt/",
+      "meaning": "A written or spoken account of findings or activities",
+      "translation": "bao cao",
+      "example": "Submit the monthly report by the 5th.",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400&q=80"
+    },
+    {
+      "word": "email",
+      "ipa": "/ˈiːmeɪl/",
+      "meaning": "Electronic messages sent over the internet",
+      "translation": "thu dien tu",
+      "example": "Please email me the updated file.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "probation",
+      "ipa": "/prəˈbeɪʃən/",
+      "meaning": "A trial period for a new employee",
+      "translation": "thoi gian thu viec",
+      "example": "She is still on probation for the first three months.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
+    },
+    {
+      "word": "annual leave",
+      "ipa": "/ˈænjuəl liːv/",
+      "meaning": "Paid days off work given to an employee each year",
+      "translation": "ngay nghi phep hang nam",
+      "example": "I have 15 days of annual leave remaining.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "salary",
+      "ipa": "/ˈsæləri/",
+      "meaning": "A fixed regular payment for employment",
+      "translation": "luong",
+      "example": "Her salary was increased after the promotion.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "taskforce",
+      "ipa": "/ˈtɑːskfɔːrs/",
+      "meaning": "A temporary group assigned to tackle a specific problem",
+      "translation": "nhom cong tac dac biet",
+      "example": "A taskforce was created to handle the crisis.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
+    },
+    {
+      "word": "sick leave",
+      "ipa": "/sɪk liːv/",
+      "meaning": "Time off work due to illness",
+      "translation": "nghi om",
+      "example": "She took sick leave for two days.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "headquarters",
+      "ipa": "/ˈhedkwɔːrtərz/",
+      "meaning": "The main office of a company",
+      "translation": "tru so chinh",
+      "example": "The company's headquarters is in Hanoi.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
     }
   ],
   "quiz": [

@@ -16,7 +16,7 @@
       "meaning": "A card that allows you to board an airplane",
       "translation": "the giay len may bay",
       "example": "Please show your boarding pass at the gate.",
-      "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=400&q=80"
     },
     {
       "word": "check-in",
@@ -24,7 +24,7 @@
       "meaning": "The process of registering at the airport",
       "translation": "lam thu tuc",
       "example": "Online check-in opens 24 hours before departure.",
-      "image": "https://images.unsplash.com/photo-1556388158-158ea5ccacbd?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1556388158-158ea5ccacbd?w=400&q=80"
     },
     {
       "word": "departure",
@@ -32,7 +32,7 @@
       "meaning": "The act of leaving a place",
       "translation": "khoi hanh",
       "example": "The departure time is 10:30 AM.",
-      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
     },
     {
       "word": "arrival",
@@ -40,7 +40,7 @@
       "meaning": "The act of reaching a destination",
       "translation": "den noi",
       "example": "The arrival hall is on the ground floor.",
-      "image": "https://images.unsplash.com/photo-1529074448010-db7bdb09bf1c?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529074448010-db7bdb09bf1c?w=400&q=80"
     },
     {
       "word": "luggage",
@@ -48,7 +48,7 @@
       "meaning": "Bags and suitcases used for traveling",
       "translation": "hanh ly",
       "example": "Please collect your luggage at carousel 3.",
-      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=400&q=80"
     },
     {
       "word": "customs",
@@ -56,7 +56,7 @@
       "meaning": "The place where officials check goods entering a country",
       "translation": "hai quan",
       "example": "You must declare items at customs.",
-      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
     },
     {
       "word": "terminal",
@@ -64,7 +64,7 @@
       "meaning": "A building at an airport where passengers arrive and depart",
       "translation": "nha ga",
       "example": "International flights depart from Terminal 2.",
-      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=400&q=80"
     },
     {
       "word": "passport",
@@ -72,7 +72,7 @@
       "meaning": "An official document for international travel",
       "translation": "ho chieu",
       "example": "Make sure your passport is valid for at least 6 months.",
-      "image": "https://images.unsplash.com/photo-1544725176-7c40e7580c37?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1544725176-7c40e7580c37?w=400&q=80"
     },
     {
       "word": "gate",
@@ -80,7 +80,7 @@
       "meaning": "The area where passengers board the plane",
       "translation": "cong",
       "example": "Boarding will begin at gate B12.",
-      "image": "https://images.unsplash.com/photo-1540339832862-474599807836?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1540339832862-474599807836?w=400&q=80"
     },
     {
       "word": "flight attendant",
@@ -88,7 +88,7 @@
       "meaning": "A person who serves passengers on an airplane",
       "translation": "tiep vien hang khong",
       "example": "The flight attendant offered drinks to passengers.",
-      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
     },
     {
       "word": "delay",
@@ -96,7 +96,7 @@
       "meaning": "When a flight is late or postponed",
       "translation": "tre chuyen",
       "example": "The flight has a 2-hour delay due to weather.",
-      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
     },
     {
       "word": "layover",
@@ -104,7 +104,7 @@
       "meaning": "A stop between connecting flights",
       "translation": "qua canh",
       "example": "We have a 3-hour layover in Tokyo.",
-      "image": "https://images.unsplash.com/photo-1529074448010-db7bdb09bf1c?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529074448010-db7bdb09bf1c?w=400&q=80"
     },
     {
       "word": "overhead bin",
@@ -112,7 +112,7 @@
       "meaning": "Storage compartment above seats on a plane",
       "translation": "ngan chua hanh ly tren cao",
       "example": "Please store your bag in the overhead bin.",
-      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
     },
     {
       "word": "aisle",
@@ -120,7 +120,7 @@
       "meaning": "The passage between rows of seats on a plane",
       "translation": "loi di",
       "example": "I prefer an aisle seat for more legroom.",
-      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
     },
     {
       "word": "immigration",
@@ -128,7 +128,287 @@
       "meaning": "The process of officially entering a country",
       "translation": "nhap cu / kiem tra ho chieu",
       "example": "Please join the immigration line for foreign passports.",
-      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "runway",
+      "ipa": "/ˈrʌnweɪ/",
+      "meaning": "The strip of ground where planes take off and land",
+      "translation": "duong bang",
+      "example": "The plane taxied to the runway.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "aircraft",
+      "ipa": "/ˈerkræft/",
+      "meaning": "A machine capable of flight",
+      "translation": "may bay",
+      "example": "The aircraft departed on time.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "pilot",
+      "ipa": "/ˈpaɪlət/",
+      "meaning": "The person who flies an airplane",
+      "translation": "phi cong",
+      "example": "The pilot announced a smooth flight ahead.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "crew",
+      "ipa": "/kruː/",
+      "meaning": "The team of people working on an aircraft",
+      "translation": "to bay",
+      "example": "The crew welcomed passengers on board.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "carry-on",
+      "ipa": "/ˈkæri ɒn/",
+      "meaning": "A small bag brought onto the plane cabin",
+      "translation": "hanh ly xach tay",
+      "example": "Only one carry-on bag is permitted.",
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=400&q=80"
+    },
+    {
+      "word": "seat belt",
+      "ipa": "/siːt belt/",
+      "meaning": "A safety strap worn around the waist on a plane",
+      "translation": "day an toan",
+      "example": "Please fasten your seat belt during takeoff.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "tray table",
+      "ipa": "/treɪ ˈteɪbəl/",
+      "meaning": "A fold-down table attached to the seat in front on a plane",
+      "translation": "ban gap tren may bay",
+      "example": "Please fold up your tray table for landing.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "window seat",
+      "ipa": "/ˈwɪndoʊ siːt/",
+      "meaning": "A seat on a plane next to the window",
+      "translation": "ghe gan cua so",
+      "example": "I always request a window seat.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "passport control",
+      "ipa": "/ˈpæspɔːrt kənˈtroʊl/",
+      "meaning": "The checkpoint where passports are checked",
+      "translation": "kiem soat ho chieu",
+      "example": "Queue up at passport control when you arrive.",
+      "image": "https://images.unsplash.com/photo-1544725176-7c40e7580c37?w=400&q=80"
+    },
+    {
+      "word": "security screening",
+      "ipa": "/sɪˈkjʊərɪti ˈskriːnɪŋ/",
+      "meaning": "The process of checking passengers and bags for dangerous items",
+      "translation": "kiem tra an ninh",
+      "example": "Remove your shoes at security screening.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "declaration form",
+      "ipa": "/ˌdeklərˈeɪʃən fɔːrm/",
+      "meaning": "A form listing goods you are bringing into a country",
+      "translation": "to khai hai quan",
+      "example": "Fill in the declaration form before landing.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "duty-free",
+      "ipa": "/ˌdjuːti ˈfriː/",
+      "meaning": "Goods sold without local taxes at the airport",
+      "translation": "mien thue",
+      "example": "I bought perfume at the duty-free shop.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=400&q=80"
+    },
+    {
+      "word": "baggage claim",
+      "ipa": "/ˈbæɡɪdʒ kleɪm/",
+      "meaning": "The area where passengers collect their checked bags",
+      "translation": "khu nhan hanh ly",
+      "example": "Your bags will be at baggage claim area B.",
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=400&q=80"
+    },
+    {
+      "word": "carousel",
+      "ipa": "/ˌkærəˈsel/",
+      "meaning": "The moving belt that delivers luggage at an airport",
+      "translation": "bang chuyen hanh ly",
+      "example": "Wait at carousel 4 for your bags.",
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=400&q=80"
+    },
+    {
+      "word": "car rental",
+      "ipa": "/kɑːr ˈrentəl/",
+      "meaning": "A service that lets you hire a car at the airport",
+      "translation": "thue xe o to",
+      "example": "We booked a car rental for our road trip.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "lounge",
+      "ipa": "/laʊndʒ/",
+      "meaning": "A comfortable waiting area for passengers at the airport",
+      "translation": "phong cho hang thuong gia",
+      "example": "Business class passengers have lounge access.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=400&q=80"
+    },
+    {
+      "word": "priority boarding",
+      "ipa": "/praɪˈɒrɪti ˈbɔːrdɪŋ/",
+      "meaning": "The right to board the plane before other passengers",
+      "translation": "len may bay uu tien",
+      "example": "Premium ticket holders get priority boarding.",
+      "image": "https://images.unsplash.com/photo-1540339832862-474599807836?w=400&q=80"
+    },
+    {
+      "word": "business class",
+      "ipa": "/ˈbɪznɪs klæs/",
+      "meaning": "A premium seating section with more comfort on a plane",
+      "translation": "hang thuong gia",
+      "example": "Business class seats are wider and more comfortable.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "economy class",
+      "ipa": "/ɪˈkɒnəmi klæs/",
+      "meaning": "The standard lowest-priced class on a plane",
+      "translation": "hang pho thong",
+      "example": "We flew economy class to save money.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "air bridge",
+      "ipa": "/er brɪdʒ/",
+      "meaning": "A covered walkway connecting the airport to an aircraft",
+      "translation": "cau hang khong",
+      "example": "We walked to the plane via the air bridge.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=400&q=80"
+    },
+    {
+      "word": "ground crew",
+      "ipa": "/ɡraʊnd kruː/",
+      "meaning": "Airport workers who handle baggage and aircraft on the ground",
+      "translation": "to mat dat san bay",
+      "example": "The ground crew loaded the bags quickly.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "check-in counter",
+      "ipa": "/tʃek ɪn ˈkaʊntər/",
+      "meaning": "The desk at the airport where you register for your flight",
+      "translation": "quay lam thu tuc",
+      "example": "Go to the check-in counter two hours before departure.",
+      "image": "https://images.unsplash.com/photo-1556388158-158ea5ccacbd?w=400&q=80"
+    },
+    {
+      "word": "visa",
+      "ipa": "/ˈviːzə/",
+      "meaning": "An official permit to enter a foreign country",
+      "translation": "thi thuc",
+      "example": "I need a tourist visa to visit that country.",
+      "image": "https://images.unsplash.com/photo-1544725176-7c40e7580c37?w=400&q=80"
+    },
+    {
+      "word": "boarding time",
+      "ipa": "/ˈbɔːrdɪŋ taɪm/",
+      "meaning": "The scheduled time to start boarding the plane",
+      "translation": "gio len may bay",
+      "example": "Boarding time is 30 minutes before departure.",
+      "image": "https://images.unsplash.com/photo-1540339832862-474599807836?w=400&q=80"
+    },
+    {
+      "word": "flight number",
+      "ipa": "/flaɪt ˈnʌmbər/",
+      "meaning": "A code that identifies a specific flight",
+      "translation": "so hieu chuyen bay",
+      "example": "Your flight number is VN423.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "tarmac",
+      "ipa": "/ˈtɑːrmæk/",
+      "meaning": "The hard surface of an airport where planes move",
+      "translation": "san bay / mat duong bay",
+      "example": "We waited on the tarmac before takeoff.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "takeoff",
+      "ipa": "/ˈteɪkɒf/",
+      "meaning": "When an airplane leaves the ground and begins to fly",
+      "translation": "cat canh",
+      "example": "Passengers must stay seated during takeoff.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "landing",
+      "ipa": "/ˈlændɪŋ/",
+      "meaning": "When an airplane comes down and touches the ground",
+      "translation": "ha canh",
+      "example": "The landing was smooth despite the bad weather.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "ticket",
+      "ipa": "/ˈtɪkɪt/",
+      "meaning": "A document giving you the right to travel on a flight",
+      "translation": "ve may bay",
+      "example": "I booked my ticket online three months in advance.",
+      "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=400&q=80"
+    },
+    {
+      "word": "excess baggage",
+      "ipa": "/ɪkˈses ˈbæɡɪdʒ/",
+      "meaning": "Luggage that exceeds the weight limit and incurs extra charges",
+      "translation": "hanh ly vuot qua ky",
+      "example": "We had to pay for excess baggage at the airport.",
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=400&q=80"
+    },
+    {
+      "word": "boarding announcement",
+      "ipa": "/ˈbɔːrdɪŋ əˈnaʊnsmənt/",
+      "meaning": "An official message telling passengers to board their plane",
+      "translation": "thong bao len may bay",
+      "example": "Listen for the boarding announcement in the lounge.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=400&q=80"
+    },
+    {
+      "word": "transit visa",
+      "ipa": "/ˈtrænzɪt ˈviːzə/",
+      "meaning": "A visa allowing short stay while connecting to another flight",
+      "translation": "thi thuc qua canh",
+      "example": "You may need a transit visa for that stopover.",
+      "image": "https://images.unsplash.com/photo-1544725176-7c40e7580c37?w=400&q=80"
+    },
+    {
+      "word": "flight route",
+      "ipa": "/flaɪt ruːt/",
+      "meaning": "The path a plane takes from departure to destination",
+      "translation": "tuyen bay",
+      "example": "The flight route goes over the Arctic.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "airline",
+      "ipa": "/ˈerlɑɪn/",
+      "meaning": "A company that provides air transport services",
+      "translation": "hang hang khong",
+      "example": "Which airline are you flying with?",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "turbulence",
+      "ipa": "/ˈtɜːrbjʊləns/",
+      "meaning": "Irregular air movements that cause a bumpy flight",
+      "translation": "nhieu loan khi quyen / may bay bi xoc",
+      "example": "Please fasten your seatbelt due to turbulence.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
     }
   ],
   "quiz": [

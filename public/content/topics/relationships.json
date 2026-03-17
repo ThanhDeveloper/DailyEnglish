@@ -4,68 +4,464 @@
   "description": "Vocabulary for describing family, friendships, and romantic relationships",
   "icon": "heart",
   "color": "#be185d",
-  "video": { "title": "Relationships and Emotions English Vocabulary", "youtubeId": "H6OQVXPdVSc", "duration": "10:50" },
+  "video": {
+    "title": "Relationships and Emotions English Vocabulary",
+    "youtubeId": "H6OQVXPdVSc",
+    "duration": "10:50"
+  },
   "vocabulary": [
-    { "word": "acquaintance", "ipa": "/əˈkweɪntəns/", "meaning": "A person you know slightly but not well", "translation": "người quen biết sơ", "example": "He's an acquaintance from work, not a close friend." },
-    { "word": "bond", "ipa": "/bɒnd/", "meaning": "A strong connection between people", "translation": "sợi dây kết nối", "example": "The shared experience created a strong bond between them." },
-    { "word": "trust", "ipa": "/trʌst/", "meaning": "Firm belief in the reliability of someone", "translation": "lòng tin, sự tin tưởng", "example": "Trust is the foundation of any healthy relationship." },
-    { "word": "commitment", "ipa": "/kəˈmɪtmənt/", "meaning": "The state of being dedicated to a relationship or cause", "translation": "sự cam kết", "example": "Marriage requires lifelong commitment." },
-    { "word": "empathy", "ipa": "/ˈempəθi/", "meaning": "The ability to understand and share another's feelings", "translation": "sự đồng cảm", "example": "Showing empathy helps resolve conflicts." },
-    { "word": "loyalty", "ipa": "/ˈlɔɪəlti/", "meaning": "Faithfulness and support for a person or group", "translation": "lòng trung thành", "example": "Her loyalty to her friends never wavered." },
-    { "word": "mutual", "ipa": "/ˈmjuːtʃʊəl/", "meaning": "Shared or experienced by two parties equally", "translation": "lẫn nhau, hai chiều", "example": "The relationship was built on mutual respect." },
-    { "word": "reconcile", "ipa": "/ˈrekənsaɪl/", "meaning": "To restore a friendly relationship after a disagreement", "translation": "hòa giải", "example": "They finally reconciled after years of estrangement." },
-    { "word": "compatible", "ipa": "/kəmˈpætɪbəl/", "meaning": "Able to live or work together harmoniously", "translation": "hòa hợp, tương thích", "example": "They are highly compatible in their values and goals." },
-    { "word": "affection", "ipa": "/əˈfekʃən/", "meaning": "A gentle feeling of fondness and liking for someone", "translation": "tình cảm yêu thương", "example": "He showed affection by holding her hand." },
-    { "word": "companionship", "ipa": "/kəmˈpænjənʃɪp/", "meaning": "Friendship and pleasant company", "translation": "tình bạn đồng hành", "example": "He valued the companionship of his longtime friends." },
-    { "word": "boundaries", "ipa": "/ˈbaʊndriz/", "meaning": "Personal limits that define acceptable behavior", "translation": "ranh giới cá nhân", "example": "Healthy relationships require clear boundaries." },
-    { "word": "compromise", "ipa": "/ˈkɒmprəmaɪz/", "meaning": "An agreement where both parties give something up", "translation": "sự thỏa hiệp", "example": "A good marriage requires constant compromise." },
-    { "word": "conflict", "ipa": "/ˈkɒnflɪkt/", "meaning": "A serious disagreement or argument", "translation": "mâu thuẫn, xung đột", "example": "They resolved the conflict through open communication." },
-    { "word": "estranged", "ipa": "/ɪˈstreɪndʒd/", "meaning": "No longer close or friendly; alienated", "translation": "xa cách, không còn gần gũi", "example": "He is estranged from his father." },
-    { "word": "platonic", "ipa": "/pləˈtɒnɪk/", "meaning": "A close relationship without romantic or sexual elements", "translation": "tình bạn thuần túy, không lãng mạn", "example": "Their friendship is entirely platonic." },
-    { "word": "attachment", "ipa": "/əˈtætʃmənt/", "meaning": "An emotional connection to a person or thing", "translation": "sự gắn bó", "example": "She has a strong attachment to her hometown." },
-    { "word": "courtship", "ipa": "/ˈkɔːrtʃɪp/", "meaning": "The period of developing a romantic relationship before marriage", "translation": "thời gian tìm hiểu trước hôn nhân", "example": "Their courtship lasted two years before they got engaged." },
-    { "word": "infatuation", "ipa": "/ɪnˌfætʃuˈeɪʃən/", "meaning": "An intense but short-lived romantic passion", "translation": "tình yêu bồng bột", "example": "What he felt was infatuation, not deep love." },
-    { "word": "jealousy", "ipa": "/ˈdʒeləsi/", "meaning": "Resentment toward a rival or person perceived as a threat", "translation": "lòng ghen tuông, đố kỵ", "example": "Jealousy can destroy even strong friendships." },
-    { "word": "forgiveness", "ipa": "/fəˈɡɪvnəs/", "meaning": "The action of forgiving someone for a wrong done", "translation": "sự tha thứ", "example": "Forgiveness is essential for healing a relationship." },
-    { "word": "intimacy", "ipa": "/ˈɪntɪməsi/", "meaning": "Closeness and familiarity in a relationship", "translation": "sự thân mật, gần gũi", "example": "Emotional intimacy is more important than physical closeness." },
-    { "word": "devotion", "ipa": "/dɪˈvəʊʃən/", "meaning": "Love and loyalty shown to someone", "translation": "sự tận tụy, hiến dâng", "example": "His devotion to his family was admirable." },
-    { "word": "heartbreak", "ipa": "/ˈhɑːrtbreɪk/", "meaning": "Overwhelming sorrow from loss of love", "translation": "tan vỡ trái tim, đau khổ", "example": "Heartbreak after a breakup takes time to heal." },
-    { "word": "proposal", "ipa": "/prəˈpəʊzəl/", "meaning": "An act of asking someone to marry you", "translation": "cầu hôn", "example": "He got down on one knee for the proposal." },
-    { "word": "engagement", "ipa": "/ɪnˈɡeɪdʒmənt/", "meaning": "A formal agreement to marry", "translation": "đính hôn", "example": "They announced their engagement at dinner." },
-    { "word": "separation", "ipa": "/ˌsepəˈreɪʃən/", "meaning": "The process of living apart from a romantic partner", "translation": "chia tay, ly thân", "example": "After years of conflict, they chose separation." },
-    { "word": "divorce", "ipa": "/dɪˈvɔːrs/", "meaning": "The legal end of a marriage", "translation": "ly hôn", "example": "The divorce was finalized after six months." },
-    { "word": "sibling", "ipa": "/ˈsɪblɪŋ/", "meaning": "A brother or sister", "translation": "anh chị em ruột", "example": "She is the youngest of three siblings." },
-    { "word": "guardian", "ipa": "/ˈɡɑːrdiən/", "meaning": "A person who is responsible for caring for another", "translation": "người giám hộ", "example": "Her aunt was appointed as her legal guardian." },
-    { "word": "extended family", "ipa": "/ɪkˈstendɪd ˈfæmɪli/", "meaning": "A family group beyond parents and children", "translation": "đại gia đình", "example": "We gather with our extended family every Lunar New Year." },
-    { "word": "surrogate", "ipa": "/ˈsʌrəɡət/", "meaning": "A person who acts as a substitute, often in a parental role", "translation": "người thay thế vai trò cha/mẹ", "example": "Her teacher became a surrogate mother figure." },
-    { "word": "grief", "ipa": "/ɡriːf/", "meaning": "Deep sorrow from loss", "translation": "nỗi đau mất mát", "example": "Grief after losing a loved one is natural." },
-    { "word": "comfort", "ipa": "/ˈkʌmfərt/", "meaning": "A feeling of ease and support from someone", "translation": "sự an ủi, vỗ về", "example": "Her presence brought great comfort in difficult times." },
-    { "word": "support", "ipa": "/səˈpɔːrt/", "meaning": "To give help or encouragement to someone", "translation": "ủng hộ, hỗ trợ", "example": "He always supported her dreams unconditionally." },
-    { "word": "admire", "ipa": "/ədˈmaɪər/", "meaning": "To regard someone with respect and approval", "translation": "ngưỡng mộ", "example": "I really admire her strength and courage." },
-    { "word": "cherish", "ipa": "/ˈtʃerɪʃ/", "meaning": "To hold something or someone dear and protect it lovingly", "translation": "trân trọng, yêu quý", "example": "He cherished every moment with his children." },
-    { "word": "distant", "ipa": "/ˈdɪstənt/", "meaning": "Far away emotionally or physically; not close", "translation": "xa cách về tình cảm", "example": "They grew distant after moving to different cities." },
-    { "word": "nurture", "ipa": "/ˈnɜːrtʃər/", "meaning": "To care for and encourage the development of someone", "translation": "nuôi dưỡng, chăm sóc", "example": "Parents nurture their children's emotional wellbeing." },
-    { "word": "reconciliation", "ipa": "/ˌrekənsɪliˈeɪʃən/", "meaning": "The restoration of friendly relations", "translation": "hòa giải", "example": "The reconciliation between the brothers took years." },
-    { "word": "admiration", "ipa": "/ˌædməˈreɪʃən/", "meaning": "A feeling of great respect and liking", "translation": "sự ngưỡng mộ", "example": "Her admiration for him grew over time." },
-    { "word": "partnership", "ipa": "/ˈpɑːrtnərʃɪp/", "meaning": "A relationship of two people working together", "translation": "mối quan hệ đối tác, hôn nhân/tình cảm", "example": "A good marriage is a true partnership." },
-    { "word": "vulnerable", "ipa": "/ˈvʌlnərəbəl/", "meaning": "Open to emotional hurt or criticism", "translation": "dễ bị tổn thương", "example": "Being vulnerable with someone requires great trust." },
-    { "word": "soulmate", "ipa": "/ˈsəʊlmeɪt/", "meaning": "A person ideally suited to another as a partner", "translation": "người tri kỷ", "example": "She says her husband is her true soulmate." },
-    { "word": "long-distance relationship", "ipa": "/lɒŋ ˈdɪstəns rɪˈleɪʃənʃɪp/", "meaning": "A romantic relationship maintained over a large geographical distance", "translation": "tình yêu xa", "example": "Their long-distance relationship lasted three years." },
-    { "word": "breakup", "ipa": "/ˈbreɪkʌp/", "meaning": "The end of a romantic relationship", "translation": "chia tay", "example": "The breakup was painful but necessary." },
-    { "word": "match", "ipa": "/mætʃ/", "meaning": "A person considered suitable as a romantic partner", "translation": "người phù hợp để yêu/lấy", "example": "They're a perfect match for each other." },
-    { "word": "affectionate", "ipa": "/əˈfekʃənɪt/", "meaning": "Showing fondness and warmth toward someone", "translation": "tình cảm, âu yếm", "example": "She is very affectionate with her family." },
-    { "word": "unrequited", "ipa": "/ˌʌnrɪˈkwaɪtɪd/", "meaning": "Love or feelings not returned by the other person", "translation": "tình yêu đơn phương", "example": "He suffered from unrequited love for years." }
+    {
+      "word": "acquaintance",
+      "ipa": "/əˈkweɪntəns/",
+      "meaning": "A person you know slightly but not well",
+      "translation": "người quen biết sơ",
+      "example": "He's an acquaintance from work, not a close friend."
+    },
+    {
+      "word": "bond",
+      "ipa": "/bɒnd/",
+      "meaning": "A strong connection between people",
+      "translation": "sợi dây kết nối",
+      "example": "The shared experience created a strong bond between them."
+    },
+    {
+      "word": "trust",
+      "ipa": "/trʌst/",
+      "meaning": "Firm belief in the reliability of someone",
+      "translation": "lòng tin, sự tin tưởng",
+      "example": "Trust is the foundation of any healthy relationship."
+    },
+    {
+      "word": "commitment",
+      "ipa": "/kəˈmɪtmənt/",
+      "meaning": "The state of being dedicated to a relationship or cause",
+      "translation": "sự cam kết",
+      "example": "Marriage requires lifelong commitment."
+    },
+    {
+      "word": "empathy",
+      "ipa": "/ˈempəθi/",
+      "meaning": "The ability to understand and share another's feelings",
+      "translation": "sự đồng cảm",
+      "example": "Showing empathy helps resolve conflicts."
+    },
+    {
+      "word": "loyalty",
+      "ipa": "/ˈlɔɪəlti/",
+      "meaning": "Faithfulness and support for a person or group",
+      "translation": "lòng trung thành",
+      "example": "Her loyalty to her friends never wavered."
+    },
+    {
+      "word": "mutual",
+      "ipa": "/ˈmjuːtʃʊəl/",
+      "meaning": "Shared or experienced by two parties equally",
+      "translation": "lẫn nhau, hai chiều",
+      "example": "The relationship was built on mutual respect."
+    },
+    {
+      "word": "reconcile",
+      "ipa": "/ˈrekənsaɪl/",
+      "meaning": "To restore a friendly relationship after a disagreement",
+      "translation": "hòa giải",
+      "example": "They finally reconciled after years of estrangement."
+    },
+    {
+      "word": "compatible",
+      "ipa": "/kəmˈpætɪbəl/",
+      "meaning": "Able to live or work together harmoniously",
+      "translation": "hòa hợp, tương thích",
+      "example": "They are highly compatible in their values and goals."
+    },
+    {
+      "word": "affection",
+      "ipa": "/əˈfekʃən/",
+      "meaning": "A gentle feeling of fondness and liking for someone",
+      "translation": "tình cảm yêu thương",
+      "example": "He showed affection by holding her hand."
+    },
+    {
+      "word": "companionship",
+      "ipa": "/kəmˈpænjənʃɪp/",
+      "meaning": "Friendship and pleasant company",
+      "translation": "tình bạn đồng hành",
+      "example": "He valued the companionship of his longtime friends."
+    },
+    {
+      "word": "boundaries",
+      "ipa": "/ˈbaʊndriz/",
+      "meaning": "Personal limits that define acceptable behavior",
+      "translation": "ranh giới cá nhân",
+      "example": "Healthy relationships require clear boundaries."
+    },
+    {
+      "word": "compromise",
+      "ipa": "/ˈkɒmprəmaɪz/",
+      "meaning": "An agreement where both parties give something up",
+      "translation": "sự thỏa hiệp",
+      "example": "A good marriage requires constant compromise."
+    },
+    {
+      "word": "conflict",
+      "ipa": "/ˈkɒnflɪkt/",
+      "meaning": "A serious disagreement or argument",
+      "translation": "mâu thuẫn, xung đột",
+      "example": "They resolved the conflict through open communication."
+    },
+    {
+      "word": "estranged",
+      "ipa": "/ɪˈstreɪndʒd/",
+      "meaning": "No longer close or friendly; alienated",
+      "translation": "xa cách, không còn gần gũi",
+      "example": "He is estranged from his father."
+    },
+    {
+      "word": "platonic",
+      "ipa": "/pləˈtɒnɪk/",
+      "meaning": "A close relationship without romantic or sexual elements",
+      "translation": "tình bạn thuần túy, không lãng mạn",
+      "example": "Their friendship is entirely platonic."
+    },
+    {
+      "word": "attachment",
+      "ipa": "/əˈtætʃmənt/",
+      "meaning": "An emotional connection to a person or thing",
+      "translation": "sự gắn bó",
+      "example": "She has a strong attachment to her hometown."
+    },
+    {
+      "word": "courtship",
+      "ipa": "/ˈkɔːrtʃɪp/",
+      "meaning": "The period of developing a romantic relationship before marriage",
+      "translation": "thời gian tìm hiểu trước hôn nhân",
+      "example": "Their courtship lasted two years before they got engaged."
+    },
+    {
+      "word": "infatuation",
+      "ipa": "/ɪnˌfætʃuˈeɪʃən/",
+      "meaning": "An intense but short-lived romantic passion",
+      "translation": "tình yêu bồng bột",
+      "example": "What he felt was infatuation, not deep love."
+    },
+    {
+      "word": "jealousy",
+      "ipa": "/ˈdʒeləsi/",
+      "meaning": "Resentment toward a rival or person perceived as a threat",
+      "translation": "lòng ghen tuông, đố kỵ",
+      "example": "Jealousy can destroy even strong friendships."
+    },
+    {
+      "word": "forgiveness",
+      "ipa": "/fəˈɡɪvnəs/",
+      "meaning": "The action of forgiving someone for a wrong done",
+      "translation": "sự tha thứ",
+      "example": "Forgiveness is essential for healing a relationship."
+    },
+    {
+      "word": "intimacy",
+      "ipa": "/ˈɪntɪməsi/",
+      "meaning": "Closeness and familiarity in a relationship",
+      "translation": "sự thân mật, gần gũi",
+      "example": "Emotional intimacy is more important than physical closeness."
+    },
+    {
+      "word": "devotion",
+      "ipa": "/dɪˈvəʊʃən/",
+      "meaning": "Love and loyalty shown to someone",
+      "translation": "sự tận tụy, hiến dâng",
+      "example": "His devotion to his family was admirable."
+    },
+    {
+      "word": "heartbreak",
+      "ipa": "/ˈhɑːrtbreɪk/",
+      "meaning": "Overwhelming sorrow from loss of love",
+      "translation": "tan vỡ trái tim, đau khổ",
+      "example": "Heartbreak after a breakup takes time to heal."
+    },
+    {
+      "word": "proposal",
+      "ipa": "/prəˈpəʊzəl/",
+      "meaning": "An act of asking someone to marry you",
+      "translation": "cầu hôn",
+      "example": "He got down on one knee for the proposal."
+    },
+    {
+      "word": "engagement",
+      "ipa": "/ɪnˈɡeɪdʒmənt/",
+      "meaning": "A formal agreement to marry",
+      "translation": "đính hôn",
+      "example": "They announced their engagement at dinner."
+    },
+    {
+      "word": "separation",
+      "ipa": "/ˌsepəˈreɪʃən/",
+      "meaning": "The process of living apart from a romantic partner",
+      "translation": "chia tay, ly thân",
+      "example": "After years of conflict, they chose separation."
+    },
+    {
+      "word": "divorce",
+      "ipa": "/dɪˈvɔːrs/",
+      "meaning": "The legal end of a marriage",
+      "translation": "ly hôn",
+      "example": "The divorce was finalized after six months."
+    },
+    {
+      "word": "sibling",
+      "ipa": "/ˈsɪblɪŋ/",
+      "meaning": "A brother or sister",
+      "translation": "anh chị em ruột",
+      "example": "She is the youngest of three siblings."
+    },
+    {
+      "word": "guardian",
+      "ipa": "/ˈɡɑːrdiən/",
+      "meaning": "A person who is responsible for caring for another",
+      "translation": "người giám hộ",
+      "example": "Her aunt was appointed as her legal guardian."
+    },
+    {
+      "word": "extended family",
+      "ipa": "/ɪkˈstendɪd ˈfæmɪli/",
+      "meaning": "A family group beyond parents and children",
+      "translation": "đại gia đình",
+      "example": "We gather with our extended family every Lunar New Year."
+    },
+    {
+      "word": "surrogate",
+      "ipa": "/ˈsʌrəɡət/",
+      "meaning": "A person who acts as a substitute, often in a parental role",
+      "translation": "người thay thế vai trò cha/mẹ",
+      "example": "Her teacher became a surrogate mother figure."
+    },
+    {
+      "word": "grief",
+      "ipa": "/ɡriːf/",
+      "meaning": "Deep sorrow from loss",
+      "translation": "nỗi đau mất mát",
+      "example": "Grief after losing a loved one is natural."
+    },
+    {
+      "word": "comfort",
+      "ipa": "/ˈkʌmfərt/",
+      "meaning": "A feeling of ease and support from someone",
+      "translation": "sự an ủi, vỗ về",
+      "example": "Her presence brought great comfort in difficult times."
+    },
+    {
+      "word": "support",
+      "ipa": "/səˈpɔːrt/",
+      "meaning": "To give help or encouragement to someone",
+      "translation": "ủng hộ, hỗ trợ",
+      "example": "He always supported her dreams unconditionally."
+    },
+    {
+      "word": "admire",
+      "ipa": "/ədˈmaɪər/",
+      "meaning": "To regard someone with respect and approval",
+      "translation": "ngưỡng mộ",
+      "example": "I really admire her strength and courage."
+    },
+    {
+      "word": "cherish",
+      "ipa": "/ˈtʃerɪʃ/",
+      "meaning": "To hold something or someone dear and protect it lovingly",
+      "translation": "trân trọng, yêu quý",
+      "example": "He cherished every moment with his children."
+    },
+    {
+      "word": "distant",
+      "ipa": "/ˈdɪstənt/",
+      "meaning": "Far away emotionally or physically; not close",
+      "translation": "xa cách về tình cảm",
+      "example": "They grew distant after moving to different cities."
+    },
+    {
+      "word": "nurture",
+      "ipa": "/ˈnɜːrtʃər/",
+      "meaning": "To care for and encourage the development of someone",
+      "translation": "nuôi dưỡng, chăm sóc",
+      "example": "Parents nurture their children's emotional wellbeing."
+    },
+    {
+      "word": "reconciliation",
+      "ipa": "/ˌrekənsɪliˈeɪʃən/",
+      "meaning": "The restoration of friendly relations",
+      "translation": "hòa giải",
+      "example": "The reconciliation between the brothers took years."
+    },
+    {
+      "word": "admiration",
+      "ipa": "/ˌædməˈreɪʃən/",
+      "meaning": "A feeling of great respect and liking",
+      "translation": "sự ngưỡng mộ",
+      "example": "Her admiration for him grew over time."
+    },
+    {
+      "word": "partnership",
+      "ipa": "/ˈpɑːrtnərʃɪp/",
+      "meaning": "A relationship of two people working together",
+      "translation": "mối quan hệ đối tác, hôn nhân/tình cảm",
+      "example": "A good marriage is a true partnership."
+    },
+    {
+      "word": "vulnerable",
+      "ipa": "/ˈvʌlnərəbəl/",
+      "meaning": "Open to emotional hurt or criticism",
+      "translation": "dễ bị tổn thương",
+      "example": "Being vulnerable with someone requires great trust."
+    },
+    {
+      "word": "soulmate",
+      "ipa": "/ˈsəʊlmeɪt/",
+      "meaning": "A person ideally suited to another as a partner",
+      "translation": "người tri kỷ",
+      "example": "She says her husband is her true soulmate."
+    },
+    {
+      "word": "long-distance relationship",
+      "ipa": "/lɒŋ ˈdɪstəns rɪˈleɪʃənʃɪp/",
+      "meaning": "A romantic relationship maintained over a large geographical distance",
+      "translation": "tình yêu xa",
+      "example": "Their long-distance relationship lasted three years."
+    },
+    {
+      "word": "breakup",
+      "ipa": "/ˈbreɪkʌp/",
+      "meaning": "The end of a romantic relationship",
+      "translation": "chia tay",
+      "example": "The breakup was painful but necessary."
+    },
+    {
+      "word": "match",
+      "ipa": "/mætʃ/",
+      "meaning": "A person considered suitable as a romantic partner",
+      "translation": "người phù hợp để yêu/lấy",
+      "example": "They're a perfect match for each other."
+    },
+    {
+      "word": "affectionate",
+      "ipa": "/əˈfekʃənɪt/",
+      "meaning": "Showing fondness and warmth toward someone",
+      "translation": "tình cảm, âu yếm",
+      "example": "She is very affectionate with her family."
+    },
+    {
+      "word": "unrequited",
+      "ipa": "/ˌʌnrɪˈkwaɪtɪd/",
+      "meaning": "Love or feelings not returned by the other person",
+      "translation": "tình yêu đơn phương",
+      "example": "He suffered from unrequited love for years."
+    },
+    {
+      "word": "compromise",
+      "ipa": "/ˈkɒmprəmaɪz/",
+      "meaning": "An agreement reached by both sides making concessions",
+      "translation": "Sự thỏa hiệp",
+      "example": "Good relationships require compromise.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    }
   ],
   "quiz": [
-    { "question": "What is an 'acquaintance'?", "options": ["A close best friend", "A person you know slightly but not well", "A family member", "A romantic partner"], "answer": 1 },
-    { "question": "What does 'empathy' mean?", "options": ["Feeling jealous of others", "The ability to understand and share another's feelings", "Disliking someone", "Being competitive"], "answer": 1 },
-    { "question": "What is a 'platonic' relationship?", "options": ["A romantic relationship", "A close relationship without romantic elements", "A business partnership", "A family relationship"], "answer": 1 },
-    { "question": "What is a 'compromise' in a relationship?", "options": ["Winning an argument", "An agreement where both parties give something up", "Ignoring problems", "Ending a relationship"], "answer": 1 },
-    { "question": "What does 'reconcile' mean?", "options": ["To end a relationship", "To restore a friendly relationship after a disagreement", "To start a new relationship", "To feel jealous"], "answer": 1 },
-    { "question": "What is 'unrequited' love?", "options": ["A deeply mutual love", "Love that is not returned by the other person", "Long-distance love", "A new relationship"], "answer": 1 },
-    { "question": "What does it mean to 'cherish' someone?", "options": ["To argue with someone", "To hold someone dear and protect them lovingly", "To ignore someone", "To compete with someone"], "answer": 1 },
-    { "question": "What is 'infatuation'?", "options": ["Deep and lasting love", "An intense but short-lived romantic passion", "A family bond", "Friendship between coworkers"], "answer": 1 },
-    { "question": "What does 'vulnerable' mean in a relationship context?", "options": ["Being very strong", "Being open to emotional hurt or criticism", "Being independent", "Being confident"], "answer": 1 },
-    { "question": "What is a 'soulmate'?", "options": ["A colleague", "A person ideally suited to another as a life partner", "A childhood friend", "A distant relative"], "answer": 1 }
+    {
+      "question": "What is an 'acquaintance'?",
+      "options": [
+        "A close best friend",
+        "A person you know slightly but not well",
+        "A family member",
+        "A romantic partner"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'empathy' mean?",
+      "options": [
+        "Feeling jealous of others",
+        "The ability to understand and share another's feelings",
+        "Disliking someone",
+        "Being competitive"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'platonic' relationship?",
+      "options": [
+        "A romantic relationship",
+        "A close relationship without romantic elements",
+        "A business partnership",
+        "A family relationship"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'compromise' in a relationship?",
+      "options": [
+        "Winning an argument",
+        "An agreement where both parties give something up",
+        "Ignoring problems",
+        "Ending a relationship"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'reconcile' mean?",
+      "options": [
+        "To end a relationship",
+        "To restore a friendly relationship after a disagreement",
+        "To start a new relationship",
+        "To feel jealous"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 'unrequited' love?",
+      "options": [
+        "A deeply mutual love",
+        "Love that is not returned by the other person",
+        "Long-distance love",
+        "A new relationship"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does it mean to 'cherish' someone?",
+      "options": [
+        "To argue with someone",
+        "To hold someone dear and protect them lovingly",
+        "To ignore someone",
+        "To compete with someone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 'infatuation'?",
+      "options": [
+        "Deep and lasting love",
+        "An intense but short-lived romantic passion",
+        "A family bond",
+        "Friendship between coworkers"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'vulnerable' mean in a relationship context?",
+      "options": [
+        "Being very strong",
+        "Being open to emotional hurt or criticism",
+        "Being independent",
+        "Being confident"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'soulmate'?",
+      "options": [
+        "A colleague",
+        "A person ideally suited to another as a life partner",
+        "A childhood friend",
+        "A distant relative"
+      ],
+      "answer": 1
+    }
   ]
 }

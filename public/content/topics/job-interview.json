@@ -4,68 +4,464 @@
   "description": "Key vocabulary and phrases to succeed in English job interviews",
   "icon": "user-check",
   "color": "#059669",
-  "video": { "title": "Job Interview English: Common Questions & Answers", "youtubeId": "KGhcTBkHp34", "duration": "16:42" },
+  "video": {
+    "title": "Job Interview English: Common Questions & Answers",
+    "youtubeId": "KGhcTBkHp34",
+    "duration": "16:42"
+  },
   "vocabulary": [
-    { "word": "resume", "ipa": "/ˈrezjʊmeɪ/", "meaning": "A document summarizing education, work experience and skills", "translation": "hồ sơ xin việc", "example": "Please email your resume to our HR department." },
-    { "word": "qualification", "ipa": "/ˌkwɒlɪfɪˈkeɪʃən/", "meaning": "A skill or achievement that makes you suitable for a job", "translation": "bằng cấp, năng lực", "example": "Do you have the qualifications required for this role?" },
-    { "word": "cover letter", "ipa": "/ˈkʌvər ˌletər/", "meaning": "A letter of introduction sent with a resume", "translation": "thư xin việc", "example": "Your cover letter should explain why you want this job." },
-    { "word": "candidate", "ipa": "/ˈkændɪdət/", "meaning": "A person applying for a job or position", "translation": "ứng viên", "example": "We interviewed ten candidates for the position." },
-    { "word": "recruiter", "ipa": "/rɪˈkruːtər/", "meaning": "A person who finds and hires employees", "translation": "nhà tuyển dụng", "example": "A recruiter reached out to me on LinkedIn." },
-    { "word": "headhunter", "ipa": "/ˈhedhʌntər/", "meaning": "A recruiter who seeks talent for specific senior roles", "translation": "người săn tìm nhân tài", "example": "A headhunter approached me with a great offer." },
-    { "word": "competency", "ipa": "/ˈkɒmpɪtənsi/", "meaning": "A skill or ability required to perform a job well", "translation": "năng lực cụ thể", "example": "Leadership is a key competency for this role." },
-    { "word": "behavioral question", "ipa": "/bɪˈheɪvjərəl ˈkwestʃən/", "meaning": "An interview question about past experience using STAR method", "translation": "câu hỏi hành vi", "example": "Tell me about a time you handled conflict — that's a behavioral question." },
-    { "word": "STAR method", "ipa": "/stɑːr ˈmeθəd/", "meaning": "Situation, Task, Action, Result — a framework for answering interview questions", "translation": "phương pháp STAR", "example": "Use the STAR method to structure your answers." },
-    { "word": "probationary period", "ipa": "/prəˈbeɪʃəneri ˈpɪəriəd/", "meaning": "A trial period at the start of a job to assess performance", "translation": "thời gian thử việc", "example": "The probationary period is three months." },
-    { "word": "compensation", "ipa": "/ˌkɒmpenˈseɪʃən/", "meaning": "Total pay including salary, bonuses and benefits", "translation": "thu nhập tổng thể", "example": "What compensation package does the role offer?" },
-    { "word": "benefits", "ipa": "/ˈbenɪfɪts/", "meaning": "Non-wage perks like insurance, leave and allowances", "translation": "phúc lợi", "example": "The company offers great health benefits." },
-    { "word": "reference", "ipa": "/ˈrefərəns/", "meaning": "A person who can vouch for your abilities and character", "translation": "người tham khảo/bảo lãnh", "example": "Please provide two professional references." },
-    { "word": "onboarding", "ipa": "/ˈɒnbɔːrdɪŋ/", "meaning": "The process of integrating a new employee into a company", "translation": "quy trình hội nhập", "example": "Onboarding will take one week." },
-    { "word": "aptitude", "ipa": "/ˈæptɪtjuːd/", "meaning": "Natural ability to learn or do something", "translation": "năng khiếu", "example": "He showed a strong aptitude for problem-solving." },
-    { "word": "initiative", "ipa": "/ɪˈnɪʃɪətɪv/", "meaning": "The ability to take action without being told", "translation": "tính chủ động", "example": "We value candidates who show initiative." },
-    { "word": "adaptability", "ipa": "/əˌdæptəˈbɪlɪti/", "meaning": "The ability to adjust to new conditions", "translation": "khả năng thích nghi", "example": "Adaptability is crucial in a fast-changing industry." },
-    { "word": "interpersonal skills", "ipa": "/ˌɪntərˈpɜːrsənəl skɪlz/", "meaning": "Abilities to communicate and interact with others effectively", "translation": "kỹ năng giao tiếp", "example": "Strong interpersonal skills are essential in sales." },
-    { "word": "critical thinking", "ipa": "/ˈkrɪtɪkəl ˈθɪŋkɪŋ/", "meaning": "The ability to analyze and evaluate information objectively", "translation": "tư duy phản biện", "example": "Critical thinking is tested in our assessment." },
-    { "word": "work ethic", "ipa": "/wɜːrk ˈeθɪk/", "meaning": "A belief in the value and importance of working hard", "translation": "đạo đức nghề nghiệp", "example": "She is known for her strong work ethic." },
-    { "word": "strengths", "ipa": "/streŋθs/", "meaning": "Skills and qualities you are particularly good at", "translation": "điểm mạnh", "example": "What are your main strengths for this position?" },
-    { "word": "weaknesses", "ipa": "/ˈwiːknəsɪz/", "meaning": "Areas where you need improvement", "translation": "điểm yếu", "example": "Be honest when discussing your weaknesses." },
-    { "word": "career path", "ipa": "/kəˈrɪər pɑːθ/", "meaning": "The sequence of jobs leading toward a career goal", "translation": "lộ trình nghề nghiệp", "example": "Where do you see your career path in five years?" },
-    { "word": "leadership", "ipa": "/ˈliːdərʃɪp/", "meaning": "The ability to guide and inspire a team", "translation": "khả năng lãnh đạo", "example": "Tell me about your leadership experience." },
-    { "word": "teamwork", "ipa": "/ˈtiːmwɜːrk/", "meaning": "Working cooperatively with others to achieve a goal", "translation": "làm việc nhóm", "example": "Teamwork is a core value of our culture." },
-    { "word": "multitasking", "ipa": "/ˌmʌltiˈtɑːskɪŋ/", "meaning": "Handling multiple tasks at the same time", "translation": "làm nhiều việc cùng lúc", "example": "Can you give an example of effective multitasking?" },
-    { "word": "deadline", "ipa": "/ˈdedlaɪn/", "meaning": "A time by which something must be completed", "translation": "hạn chót", "example": "How do you manage tasks when facing tight deadlines?" },
-    { "word": "notice period", "ipa": "/ˈnəʊtɪs ˌpɪəriəd/", "meaning": "The time between resignation and last working day", "translation": "thời gian báo trước khi nghỉ", "example": "My notice period is one month." },
-    { "word": "salary expectation", "ipa": "/ˈsæləri ˌekspekˈteɪʃən/", "meaning": "The salary you hope to receive in a new role", "translation": "mức lương mong muốn", "example": "What are your salary expectations?" },
-    { "word": "remote work", "ipa": "/rɪˈməʊt wɜːrk/", "meaning": "Working from a location outside the main office", "translation": "làm việc từ xa", "example": "Is remote work available for this position?" },
-    { "word": "growth opportunity", "ipa": "/ɡrəʊθ ˌɒpərˈtjuːnɪti/", "meaning": "Chances to develop skills and advance in a career", "translation": "cơ hội phát triển", "example": "I'm looking for growth opportunities in my next role." },
-    { "word": "panel interview", "ipa": "/ˈpænəl ˈɪntəvjuː/", "meaning": "An interview conducted by multiple interviewers at once", "translation": "phỏng vấn hội đồng", "example": "You'll face a panel interview with three managers." },
-    { "word": "cultural fit", "ipa": "/ˈkʌltʃərəl fɪt/", "meaning": "How well a candidate matches a company's values and environment", "translation": "phù hợp văn hóa công ty", "example": "Cultural fit matters as much as technical skills here." },
-    { "word": "open-ended question", "ipa": "/ˈəʊpən ˈendɪd ˈkwestʃən/", "meaning": "A question requiring a detailed answer, not just yes or no", "translation": "câu hỏi mở", "example": "Tell me about yourself is an open-ended question." },
-    { "word": "accomplishment", "ipa": "/əˈkʌmplɪʃmənt/", "meaning": "Something achieved successfully", "translation": "thành tích", "example": "Share your greatest professional accomplishment." },
-    { "word": "enthusiasm", "ipa": "/ɪnˈθjuːziæzəm/", "meaning": "Intense enjoyment and eagerness", "translation": "nhiệt huyết, sự hăng say", "example": "Show enthusiasm throughout the interview." },
-    { "word": "articulate", "ipa": "/ɑːrˈtɪkjʊleɪt/", "meaning": "To express ideas clearly and effectively", "translation": "diễn đạt rõ ràng", "example": "She was able to articulate her goals very clearly." },
-    { "word": "negotiate", "ipa": "/nɪˈɡəʊʃieɪt/", "meaning": "To discuss terms to reach a mutual agreement", "translation": "đàm phán", "example": "Don't be afraid to negotiate your salary offer." },
-    { "word": "portfolio", "ipa": "/pɔːrtˈfəʊliəʊ/", "meaning": "A collection of work samples showing your abilities", "translation": "danh mục công việc", "example": "Please bring your portfolio to the interview." },
-    { "word": "background check", "ipa": "/ˈbækɡraʊnd tʃek/", "meaning": "Verification of a candidate's history and credentials", "translation": "kiểm tra lý lịch", "example": "We conduct background checks on all new hires." },
-    { "word": "job offer", "ipa": "/dʒɒb ˈɒfər/", "meaning": "A formal offer of employment from a company", "translation": "đề nghị việc làm", "example": "I received a job offer with a great package." },
-    { "word": "rejection", "ipa": "/rɪˈdʒekʃən/", "meaning": "Being turned down for a position applied to", "translation": "bị từ chối", "example": "Don't be discouraged by rejection — keep applying." },
-    { "word": "soft skills", "ipa": "/sɒft skɪlz/", "meaning": "Non-technical interpersonal skills like communication and empathy", "translation": "kỹ năng mềm", "example": "Soft skills are just as important as technical skills." },
-    { "word": "hard skills", "ipa": "/hɑːrd skɪlz/", "meaning": "Specific technical abilities learned through training", "translation": "kỹ năng cứng", "example": "Python and SQL are hard skills for this role." },
-    { "word": "first impression", "ipa": "/fɜːrst ɪmˈpreʃən/", "meaning": "The initial opinion formed about someone", "translation": "ấn tượng đầu tiên", "example": "A firm handshake creates a good first impression." },
-    { "word": "dress code", "ipa": "/dres kəʊd/", "meaning": "Rules about what is appropriate to wear", "translation": "quy định trang phục", "example": "Business formal is the dress code for the interview." },
-    { "word": "follow up", "ipa": "/ˈfɒləʊ ʌp/", "meaning": "To make contact after an initial meeting or interview", "translation": "theo dõi sau phỏng vấn", "example": "Always follow up with a thank-you email after an interview." },
-    { "word": "shortlist", "ipa": "/ˈʃɔːrtlɪst/", "meaning": "A reduced list of the best candidates selected for the next stage", "translation": "danh sách rút gọn", "example": "You've been shortlisted for the second interview." },
-    { "word": "hiring manager", "ipa": "/ˈhaɪərɪŋ ˈmænɪdʒər/", "meaning": "The person responsible for making the hiring decision", "translation": "người quyết định tuyển dụng", "example": "The hiring manager will call you this afternoon." }
+    {
+      "word": "resume",
+      "ipa": "/ˈrezjʊmeɪ/",
+      "meaning": "A document summarizing education, work experience and skills",
+      "translation": "hồ sơ xin việc",
+      "example": "Please email your resume to our HR department."
+    },
+    {
+      "word": "qualification",
+      "ipa": "/ˌkwɒlɪfɪˈkeɪʃən/",
+      "meaning": "A skill or achievement that makes you suitable for a job",
+      "translation": "bằng cấp, năng lực",
+      "example": "Do you have the qualifications required for this role?"
+    },
+    {
+      "word": "cover letter",
+      "ipa": "/ˈkʌvər ˌletər/",
+      "meaning": "A letter of introduction sent with a resume",
+      "translation": "thư xin việc",
+      "example": "Your cover letter should explain why you want this job."
+    },
+    {
+      "word": "candidate",
+      "ipa": "/ˈkændɪdət/",
+      "meaning": "A person applying for a job or position",
+      "translation": "ứng viên",
+      "example": "We interviewed ten candidates for the position."
+    },
+    {
+      "word": "recruiter",
+      "ipa": "/rɪˈkruːtər/",
+      "meaning": "A person who finds and hires employees",
+      "translation": "nhà tuyển dụng",
+      "example": "A recruiter reached out to me on LinkedIn."
+    },
+    {
+      "word": "headhunter",
+      "ipa": "/ˈhedhʌntər/",
+      "meaning": "A recruiter who seeks talent for specific senior roles",
+      "translation": "người săn tìm nhân tài",
+      "example": "A headhunter approached me with a great offer."
+    },
+    {
+      "word": "competency",
+      "ipa": "/ˈkɒmpɪtənsi/",
+      "meaning": "A skill or ability required to perform a job well",
+      "translation": "năng lực cụ thể",
+      "example": "Leadership is a key competency for this role."
+    },
+    {
+      "word": "behavioral question",
+      "ipa": "/bɪˈheɪvjərəl ˈkwestʃən/",
+      "meaning": "An interview question about past experience using STAR method",
+      "translation": "câu hỏi hành vi",
+      "example": "Tell me about a time you handled conflict — that's a behavioral question."
+    },
+    {
+      "word": "STAR method",
+      "ipa": "/stɑːr ˈmeθəd/",
+      "meaning": "Situation, Task, Action, Result — a framework for answering interview questions",
+      "translation": "phương pháp STAR",
+      "example": "Use the STAR method to structure your answers."
+    },
+    {
+      "word": "probationary period",
+      "ipa": "/prəˈbeɪʃəneri ˈpɪəriəd/",
+      "meaning": "A trial period at the start of a job to assess performance",
+      "translation": "thời gian thử việc",
+      "example": "The probationary period is three months."
+    },
+    {
+      "word": "compensation",
+      "ipa": "/ˌkɒmpenˈseɪʃən/",
+      "meaning": "Total pay including salary, bonuses and benefits",
+      "translation": "thu nhập tổng thể",
+      "example": "What compensation package does the role offer?"
+    },
+    {
+      "word": "benefits",
+      "ipa": "/ˈbenɪfɪts/",
+      "meaning": "Non-wage perks like insurance, leave and allowances",
+      "translation": "phúc lợi",
+      "example": "The company offers great health benefits."
+    },
+    {
+      "word": "reference",
+      "ipa": "/ˈrefərəns/",
+      "meaning": "A person who can vouch for your abilities and character",
+      "translation": "người tham khảo/bảo lãnh",
+      "example": "Please provide two professional references."
+    },
+    {
+      "word": "onboarding",
+      "ipa": "/ˈɒnbɔːrdɪŋ/",
+      "meaning": "The process of integrating a new employee into a company",
+      "translation": "quy trình hội nhập",
+      "example": "Onboarding will take one week."
+    },
+    {
+      "word": "aptitude",
+      "ipa": "/ˈæptɪtjuːd/",
+      "meaning": "Natural ability to learn or do something",
+      "translation": "năng khiếu",
+      "example": "He showed a strong aptitude for problem-solving."
+    },
+    {
+      "word": "initiative",
+      "ipa": "/ɪˈnɪʃɪətɪv/",
+      "meaning": "The ability to take action without being told",
+      "translation": "tính chủ động",
+      "example": "We value candidates who show initiative."
+    },
+    {
+      "word": "adaptability",
+      "ipa": "/əˌdæptəˈbɪlɪti/",
+      "meaning": "The ability to adjust to new conditions",
+      "translation": "khả năng thích nghi",
+      "example": "Adaptability is crucial in a fast-changing industry."
+    },
+    {
+      "word": "interpersonal skills",
+      "ipa": "/ˌɪntərˈpɜːrsənəl skɪlz/",
+      "meaning": "Abilities to communicate and interact with others effectively",
+      "translation": "kỹ năng giao tiếp",
+      "example": "Strong interpersonal skills are essential in sales."
+    },
+    {
+      "word": "critical thinking",
+      "ipa": "/ˈkrɪtɪkəl ˈθɪŋkɪŋ/",
+      "meaning": "The ability to analyze and evaluate information objectively",
+      "translation": "tư duy phản biện",
+      "example": "Critical thinking is tested in our assessment."
+    },
+    {
+      "word": "work ethic",
+      "ipa": "/wɜːrk ˈeθɪk/",
+      "meaning": "A belief in the value and importance of working hard",
+      "translation": "đạo đức nghề nghiệp",
+      "example": "She is known for her strong work ethic."
+    },
+    {
+      "word": "strengths",
+      "ipa": "/streŋθs/",
+      "meaning": "Skills and qualities you are particularly good at",
+      "translation": "điểm mạnh",
+      "example": "What are your main strengths for this position?"
+    },
+    {
+      "word": "weaknesses",
+      "ipa": "/ˈwiːknəsɪz/",
+      "meaning": "Areas where you need improvement",
+      "translation": "điểm yếu",
+      "example": "Be honest when discussing your weaknesses."
+    },
+    {
+      "word": "career path",
+      "ipa": "/kəˈrɪər pɑːθ/",
+      "meaning": "The sequence of jobs leading toward a career goal",
+      "translation": "lộ trình nghề nghiệp",
+      "example": "Where do you see your career path in five years?"
+    },
+    {
+      "word": "leadership",
+      "ipa": "/ˈliːdərʃɪp/",
+      "meaning": "The ability to guide and inspire a team",
+      "translation": "khả năng lãnh đạo",
+      "example": "Tell me about your leadership experience."
+    },
+    {
+      "word": "teamwork",
+      "ipa": "/ˈtiːmwɜːrk/",
+      "meaning": "Working cooperatively with others to achieve a goal",
+      "translation": "làm việc nhóm",
+      "example": "Teamwork is a core value of our culture."
+    },
+    {
+      "word": "multitasking",
+      "ipa": "/ˌmʌltiˈtɑːskɪŋ/",
+      "meaning": "Handling multiple tasks at the same time",
+      "translation": "làm nhiều việc cùng lúc",
+      "example": "Can you give an example of effective multitasking?"
+    },
+    {
+      "word": "deadline",
+      "ipa": "/ˈdedlaɪn/",
+      "meaning": "A time by which something must be completed",
+      "translation": "hạn chót",
+      "example": "How do you manage tasks when facing tight deadlines?"
+    },
+    {
+      "word": "notice period",
+      "ipa": "/ˈnəʊtɪs ˌpɪəriəd/",
+      "meaning": "The time between resignation and last working day",
+      "translation": "thời gian báo trước khi nghỉ",
+      "example": "My notice period is one month."
+    },
+    {
+      "word": "salary expectation",
+      "ipa": "/ˈsæləri ˌekspekˈteɪʃən/",
+      "meaning": "The salary you hope to receive in a new role",
+      "translation": "mức lương mong muốn",
+      "example": "What are your salary expectations?"
+    },
+    {
+      "word": "remote work",
+      "ipa": "/rɪˈməʊt wɜːrk/",
+      "meaning": "Working from a location outside the main office",
+      "translation": "làm việc từ xa",
+      "example": "Is remote work available for this position?"
+    },
+    {
+      "word": "growth opportunity",
+      "ipa": "/ɡrəʊθ ˌɒpərˈtjuːnɪti/",
+      "meaning": "Chances to develop skills and advance in a career",
+      "translation": "cơ hội phát triển",
+      "example": "I'm looking for growth opportunities in my next role."
+    },
+    {
+      "word": "panel interview",
+      "ipa": "/ˈpænəl ˈɪntəvjuː/",
+      "meaning": "An interview conducted by multiple interviewers at once",
+      "translation": "phỏng vấn hội đồng",
+      "example": "You'll face a panel interview with three managers."
+    },
+    {
+      "word": "cultural fit",
+      "ipa": "/ˈkʌltʃərəl fɪt/",
+      "meaning": "How well a candidate matches a company's values and environment",
+      "translation": "phù hợp văn hóa công ty",
+      "example": "Cultural fit matters as much as technical skills here."
+    },
+    {
+      "word": "open-ended question",
+      "ipa": "/ˈəʊpən ˈendɪd ˈkwestʃən/",
+      "meaning": "A question requiring a detailed answer, not just yes or no",
+      "translation": "câu hỏi mở",
+      "example": "Tell me about yourself is an open-ended question."
+    },
+    {
+      "word": "accomplishment",
+      "ipa": "/əˈkʌmplɪʃmənt/",
+      "meaning": "Something achieved successfully",
+      "translation": "thành tích",
+      "example": "Share your greatest professional accomplishment."
+    },
+    {
+      "word": "enthusiasm",
+      "ipa": "/ɪnˈθjuːziæzəm/",
+      "meaning": "Intense enjoyment and eagerness",
+      "translation": "nhiệt huyết, sự hăng say",
+      "example": "Show enthusiasm throughout the interview."
+    },
+    {
+      "word": "articulate",
+      "ipa": "/ɑːrˈtɪkjʊleɪt/",
+      "meaning": "To express ideas clearly and effectively",
+      "translation": "diễn đạt rõ ràng",
+      "example": "She was able to articulate her goals very clearly."
+    },
+    {
+      "word": "negotiate",
+      "ipa": "/nɪˈɡəʊʃieɪt/",
+      "meaning": "To discuss terms to reach a mutual agreement",
+      "translation": "đàm phán",
+      "example": "Don't be afraid to negotiate your salary offer."
+    },
+    {
+      "word": "portfolio",
+      "ipa": "/pɔːrtˈfəʊliəʊ/",
+      "meaning": "A collection of work samples showing your abilities",
+      "translation": "danh mục công việc",
+      "example": "Please bring your portfolio to the interview."
+    },
+    {
+      "word": "background check",
+      "ipa": "/ˈbækɡraʊnd tʃek/",
+      "meaning": "Verification of a candidate's history and credentials",
+      "translation": "kiểm tra lý lịch",
+      "example": "We conduct background checks on all new hires."
+    },
+    {
+      "word": "job offer",
+      "ipa": "/dʒɒb ˈɒfər/",
+      "meaning": "A formal offer of employment from a company",
+      "translation": "đề nghị việc làm",
+      "example": "I received a job offer with a great package."
+    },
+    {
+      "word": "rejection",
+      "ipa": "/rɪˈdʒekʃən/",
+      "meaning": "Being turned down for a position applied to",
+      "translation": "bị từ chối",
+      "example": "Don't be discouraged by rejection — keep applying."
+    },
+    {
+      "word": "soft skills",
+      "ipa": "/sɒft skɪlz/",
+      "meaning": "Non-technical interpersonal skills like communication and empathy",
+      "translation": "kỹ năng mềm",
+      "example": "Soft skills are just as important as technical skills."
+    },
+    {
+      "word": "hard skills",
+      "ipa": "/hɑːrd skɪlz/",
+      "meaning": "Specific technical abilities learned through training",
+      "translation": "kỹ năng cứng",
+      "example": "Python and SQL are hard skills for this role."
+    },
+    {
+      "word": "first impression",
+      "ipa": "/fɜːrst ɪmˈpreʃən/",
+      "meaning": "The initial opinion formed about someone",
+      "translation": "ấn tượng đầu tiên",
+      "example": "A firm handshake creates a good first impression."
+    },
+    {
+      "word": "dress code",
+      "ipa": "/dres kəʊd/",
+      "meaning": "Rules about what is appropriate to wear",
+      "translation": "quy định trang phục",
+      "example": "Business formal is the dress code for the interview."
+    },
+    {
+      "word": "follow up",
+      "ipa": "/ˈfɒləʊ ʌp/",
+      "meaning": "To make contact after an initial meeting or interview",
+      "translation": "theo dõi sau phỏng vấn",
+      "example": "Always follow up with a thank-you email after an interview."
+    },
+    {
+      "word": "shortlist",
+      "ipa": "/ˈʃɔːrtlɪst/",
+      "meaning": "A reduced list of the best candidates selected for the next stage",
+      "translation": "danh sách rút gọn",
+      "example": "You've been shortlisted for the second interview."
+    },
+    {
+      "word": "hiring manager",
+      "ipa": "/ˈhaɪərɪŋ ˈmænɪdʒər/",
+      "meaning": "The person responsible for making the hiring decision",
+      "translation": "người quyết định tuyển dụng",
+      "example": "The hiring manager will call you this afternoon."
+    },
+    {
+      "word": "probation",
+      "ipa": "/prəˈbeɪʃən/",
+      "meaning": "A trial period at the start of employment",
+      "translation": "Thời gian thử việc",
+      "example": "She passed her three-month probation successfully.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    }
   ],
   "quiz": [
-    { "question": "What is a 'cover letter'?", "options": ["A job contract", "A letter of introduction sent with a resume", "A performance review", "A resignation letter"], "answer": 1 },
-    { "question": "What does the STAR method stand for?", "options": ["Skills, Training, Aptitude, Results", "Situation, Task, Action, Result", "Strength, Talent, Ability, Reasoning", "Structure, Task, Analyze, Report"], "answer": 1 },
-    { "question": "What is a 'probationary period'?", "options": ["A punishment at work", "A trial period to assess performance", "Annual leave", "A background check"], "answer": 1 },
-    { "question": "What are 'soft skills'?", "options": ["Technical abilities like coding", "Non-technical interpersonal skills", "Foreign language skills", "Computer skills"], "answer": 1 },
-    { "question": "What is a 'panel interview'?", "options": ["An interview on a TV panel", "An interview with multiple interviewers at once", "A written interview", "A phone interview"], "answer": 1 },
-    { "question": "What is a 'notice period'?", "options": ["A warning from a manager", "Time between resignation and last working day", "Time to study for a job", "A hiring timeline"], "answer": 1 },
-    { "question": "What does it mean to 'negotiate' your salary?", "options": ["Accept the first offer", "Discuss terms to reach a mutual agreement", "Refuse the job offer", "Ask for fewer benefits"], "answer": 1 },
-    { "question": "What is 'cultural fit'?", "options": ["Working abroad", "How well a candidate matches the company's values", "Wearing the correct dress code", "Speaking multiple languages"], "answer": 1 },
-    { "question": "What is a 'shortlist'?", "options": ["A brief job description", "A reduced list of the best candidates", "A list of job requirements", "A salary range"], "answer": 1 },
-    { "question": "Why should you send a follow-up after an interview?", "options": ["To complain about the questions", "To show gratitude and maintain a good impression", "To ask for a higher salary immediately", "To cancel the interview"], "answer": 1 }
+    {
+      "question": "What is a 'cover letter'?",
+      "options": [
+        "A job contract",
+        "A letter of introduction sent with a resume",
+        "A performance review",
+        "A resignation letter"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the STAR method stand for?",
+      "options": [
+        "Skills, Training, Aptitude, Results",
+        "Situation, Task, Action, Result",
+        "Strength, Talent, Ability, Reasoning",
+        "Structure, Task, Analyze, Report"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'probationary period'?",
+      "options": [
+        "A punishment at work",
+        "A trial period to assess performance",
+        "Annual leave",
+        "A background check"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are 'soft skills'?",
+      "options": [
+        "Technical abilities like coding",
+        "Non-technical interpersonal skills",
+        "Foreign language skills",
+        "Computer skills"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'panel interview'?",
+      "options": [
+        "An interview on a TV panel",
+        "An interview with multiple interviewers at once",
+        "A written interview",
+        "A phone interview"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'notice period'?",
+      "options": [
+        "A warning from a manager",
+        "Time between resignation and last working day",
+        "Time to study for a job",
+        "A hiring timeline"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does it mean to 'negotiate' your salary?",
+      "options": [
+        "Accept the first offer",
+        "Discuss terms to reach a mutual agreement",
+        "Refuse the job offer",
+        "Ask for fewer benefits"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 'cultural fit'?",
+      "options": [
+        "Working abroad",
+        "How well a candidate matches the company's values",
+        "Wearing the correct dress code",
+        "Speaking multiple languages"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'shortlist'?",
+      "options": [
+        "A brief job description",
+        "A reduced list of the best candidates",
+        "A list of job requirements",
+        "A salary range"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Why should you send a follow-up after an interview?",
+      "options": [
+        "To complain about the questions",
+        "To show gratitude and maintain a good impression",
+        "To ask for a higher salary immediately",
+        "To cancel the interview"
+      ],
+      "answer": 1
+    }
   ]
 }

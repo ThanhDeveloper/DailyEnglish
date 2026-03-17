@@ -16,7 +16,7 @@
       "meaning": "The amount of data a network can transmit",
       "translation": "bang thong",
       "example": "We need more bandwidth for video calls.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
     },
     {
       "word": "update",
@@ -24,7 +24,7 @@
       "meaning": "A newer version of software or an app",
       "translation": "cap nhat",
       "example": "Please install the latest security update.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
     },
     {
       "word": "password",
@@ -32,7 +32,7 @@
       "meaning": "A secret word used to access an account",
       "translation": "mat khau",
       "example": "Use a strong password with letters and numbers.",
-      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
     },
     {
       "word": "download",
@@ -40,7 +40,7 @@
       "meaning": "To copy a file from the internet to your device",
       "translation": "tai xuong",
       "example": "Download the app from the App Store.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
     },
     {
       "word": "upload",
@@ -48,7 +48,7 @@
       "meaning": "To send a file from your device to the internet",
       "translation": "tai len",
       "example": "Please upload the document to Google Drive.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
     },
     {
       "word": "notification",
@@ -56,7 +56,7 @@
       "meaning": "A message alert from an app",
       "translation": "thong bao",
       "example": "Turn off notifications during meetings.",
-      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
     },
     {
       "word": "screenshot",
@@ -64,7 +64,7 @@
       "meaning": "A captured image of your screen",
       "translation": "chup man hinh",
       "example": "Take a screenshot and send it to me.",
-      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
     },
     {
       "word": "backup",
@@ -72,7 +72,7 @@
       "meaning": "A copy of data stored for safety",
       "translation": "sao luu",
       "example": "Always backup your important files.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
     },
     {
       "word": "troubleshoot",
@@ -80,7 +80,7 @@
       "meaning": "To find and fix problems in a system",
       "translation": "xu ly su co",
       "example": "Let me troubleshoot this connection issue.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
     },
     {
       "word": "cloud storage",
@@ -88,7 +88,327 @@
       "meaning": "Storing data on internet servers",
       "translation": "luu tru dam may",
       "example": "My photos are saved in cloud storage.",
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&q=80"
+    },
+    {
+      "word": "smartphone",
+      "ipa": "/ˈsmɑːrtfoʊn/",
+      "meaning": "A mobile phone with internet and computer capabilities",
+      "translation": "dien thoai thong minh",
+      "example": "Most people carry a smartphone these days.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "laptop",
+      "ipa": "/ˈlæptɒp/",
+      "meaning": "A portable personal computer",
+      "translation": "may tinh xach tay",
+      "example": "I work on my laptop at home.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "tablet",
+      "ipa": "/ˈtæblɪt/",
+      "meaning": "A portable touchscreen computer",
+      "translation": "may tinh bang",
+      "example": "Kids love using a tablet for learning.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "processor",
+      "ipa": "/ˈprɒsesər/",
+      "meaning": "The main chip in a computer that runs programs",
+      "translation": "bo xu ly",
+      "example": "A fast processor improves performance.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "RAM",
+      "ipa": "/ræm/",
+      "meaning": "Random Access Memory — temporary storage for running programs",
+      "translation": "bon nho tam thoi",
+      "example": "Adding more RAM will speed up your computer.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "storage",
+      "ipa": "/ˈstɔːrɪdʒ/",
+      "meaning": "The capacity to save files and data on a device",
+      "translation": "bo nho luu tru",
+      "example": "I need more storage for my photos.",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&q=80"
+    },
+    {
+      "word": "charger",
+      "ipa": "/ˈtʃɑːrdʒər/",
+      "meaning": "A device used to recharge a battery",
+      "translation": "sac pin",
+      "example": "Don't forget your phone charger.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "wireless",
+      "ipa": "/ˈwaɪərləs/",
+      "meaning": "Connecting to a network without physical cables",
+      "translation": "khong day",
+      "example": "The printer is wireless — no cables needed.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "Bluetooth",
+      "ipa": "/ˈbluːtuːθ/",
+      "meaning": "A short-range wireless technology for connecting devices",
+      "translation": "cong nghe Bluetooth",
+      "example": "Pair your headphones via Bluetooth.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "wifi",
+      "ipa": "/ˈwaɪfaɪ/",
+      "meaning": "Wireless internet connection",
+      "translation": "mang khong day wifi",
+      "example": "Connect to the wifi network in the office.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "hotspot",
+      "ipa": "/ˈhɒtspɒt/",
+      "meaning": "A location offering wifi access or a phone used as a router",
+      "translation": "diem phat song wifi",
+      "example": "Use your phone as a hotspot.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "stream",
+      "ipa": "/striːm/",
+      "meaning": "To watch or listen to media online without downloading",
+      "translation": "xem / nghe truc tuyen",
+      "example": "I stream music on Spotify every day.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "buffer",
+      "ipa": "/ˈbʌfər/",
+      "meaning": "A pause in streaming when data is loading",
+      "translation": "xu ly dem du lieu",
+      "example": "The video keeps buffering due to slow internet.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "username",
+      "ipa": "/ˈjuːzərneɪm/",
+      "meaning": "A name used to identify yourself on a system",
+      "translation": "ten dang nhap",
+      "example": "Enter your username and password to log in.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
+    },
+    {
+      "word": "login",
+      "ipa": "/ˈlɒɡɪn/",
+      "meaning": "The process of entering your credentials to access a system",
+      "translation": "dang nhap",
+      "example": "Click the login button to access your account.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
+    },
+    {
+      "word": "privacy",
+      "ipa": "/ˈprɪvəsi/",
+      "meaning": "The right to control who sees your personal information",
+      "translation": "quyen rieng tu",
+      "example": "Review your privacy settings regularly.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
+    },
+    {
+      "word": "firewall",
+      "ipa": "/ˈfaɪərwɔːl/",
+      "meaning": "Security software that blocks unauthorized network access",
+      "translation": "tuong lua bao mat",
+      "example": "The firewall blocked the malicious traffic.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "antivirus",
+      "ipa": "/ˌæntiˈvaɪrəs/",
+      "meaning": "Software designed to detect and remove malware",
+      "translation": "phan mem diet virus",
+      "example": "Install antivirus software on your computer.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
+    },
+    {
+      "word": "malware",
+      "ipa": "/ˈmælwer/",
+      "meaning": "Software designed to damage or gain unauthorized access",
+      "translation": "phan mem doc hai",
+      "example": "The computer was infected with malware.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "phishing",
+      "ipa": "/ˈfɪʃɪŋ/",
+      "meaning": "A scam to steal personal data via fake emails",
+      "translation": "lua dao lay thong tin",
+      "example": "Beware of phishing emails from unknown senders.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
+    },
+    {
+      "word": "encryption",
+      "ipa": "/ɪnˈkrɪpʃən/",
+      "meaning": "Converting data into a coded format to prevent unauthorized access",
+      "translation": "ma hoa du lieu",
+      "example": "Your messages are protected by encryption.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
+    },
+    {
+      "word": "two-factor authentication",
+      "ipa": "/tuː ˈfæktər ɔːˌθentɪˈkeɪʃən/",
+      "meaning": "A security process requiring two forms of verification",
+      "translation": "xac thuc hai buoc",
+      "example": "Enable two-factor authentication for added security.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
+    },
+    {
+      "word": "app",
+      "ipa": "/æp/",
+      "meaning": "A software application for a phone or computer",
+      "translation": "ung dung",
+      "example": "Download the banking app from the store.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "software",
+      "ipa": "/ˈsɒftweər/",
+      "meaning": "Programs and operating systems used by a computer",
+      "translation": "phan mem",
+      "example": "The software needs to be updated.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "hardware",
+      "ipa": "/ˈhɑːrdweər/",
+      "meaning": "The physical components of a computer",
+      "translation": "phan cung",
+      "example": "The hardware upgrade improved speed significantly.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "operating system",
+      "ipa": "/ˈɒpəreɪtɪŋ ˈsɪstəm/",
+      "meaning": "The main software that manages a computer's resources",
+      "translation": "he dieu hanh",
+      "example": "Windows and macOS are popular operating systems.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "browser",
+      "ipa": "/ˈbraʊzər/",
+      "meaning": "A program used to access the internet",
+      "translation": "trinh duyet web",
+      "example": "Chrome is a popular web browser.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "search engine",
+      "ipa": "/sɜːrtʃ ˈendʒɪn/",
+      "meaning": "A website used to search for information online",
+      "translation": "cong cu tim kiem",
+      "example": "Google is the most used search engine.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "install",
+      "ipa": "/ɪnˈstɔːl/",
+      "meaning": "To set up a program on a device",
+      "translation": "cai dat",
+      "example": "Install the update to fix the bug.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "upgrade",
+      "ipa": "/ˈʌpɡreɪd/",
+      "meaning": "Replacing something with a newer or better version",
+      "translation": "nang cap",
+      "example": "I need to upgrade my laptop's memory.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "debug",
+      "ipa": "/diːˈbʌɡ/",
+      "meaning": "To find and fix errors in a computer program",
+      "translation": "sua loi chuong trinh",
+      "example": "The developer spent hours debugging the code.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "cache",
+      "ipa": "/kæʃ/",
+      "meaning": "Temporary data stored for faster access",
+      "translation": "bo nho dem",
+      "example": "Clear the cache to free up space.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "server",
+      "ipa": "/ˈsɜːrvər/",
+      "meaning": "A computer that provides data to other computers",
+      "translation": "may chu",
+      "example": "The server went down for maintenance.",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&q=80"
+    },
+    {
+      "word": "data",
+      "ipa": "/ˈdeɪtə/",
+      "meaning": "Information processed or stored by a computer",
+      "translation": "du lieu",
+      "example": "Back up your data regularly.",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&q=80"
+    },
+    {
+      "word": "algorithm",
+      "ipa": "/ˈælɡərɪðəm/",
+      "meaning": "A set of rules or steps used to solve a problem",
+      "translation": "thuat toan",
+      "example": "Social media feeds use an algorithm.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "interface",
+      "ipa": "/ˈɪntərfeɪs/",
+      "meaning": "The part of software you see and interact with",
+      "translation": "giao dien nguoi dung",
+      "example": "The app has a simple and clean interface.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "satellite",
+      "ipa": "/ˈsætəlaɪt/",
+      "meaning": "An object in orbit used for communications and GPS",
+      "translation": "ve tinh",
+      "example": "GPS relies on satellite signals.",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&q=80"
+    },
+    {
+      "word": "artificial intelligence",
+      "ipa": "/ˌɑːrtɪˈfɪʃəl ɪnˈtelɪdʒəns/",
+      "meaning": "Computer systems that simulate human intelligence",
+      "translation": "tri tue nhan tao",
+      "example": "Artificial intelligence is changing many industries.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "virtual reality",
+      "ipa": "/ˈvɜːrtʃuəl riˈæləti/",
+      "meaning": "A computer-generated simulated environment",
+      "translation": "thuc te ao",
+      "example": "Virtual reality headsets are becoming popular.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "cybersecurity",
+      "ipa": "/ˌsaɪbərsɪˈkjʊərɪti/",
+      "meaning": "The practice of protecting systems from digital attacks",
+      "translation": "an ninh mang",
+      "example": "Cybersecurity is a top priority for all companies.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
     }
   ],
   "quiz": [

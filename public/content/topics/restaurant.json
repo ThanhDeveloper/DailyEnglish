@@ -16,7 +16,7 @@
       "meaning": "An arrangement to have a table kept for you",
       "translation": "dat cho truoc",
       "example": "I'd like to make a reservation for two.",
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80"
     },
     {
       "word": "appetizer",
@@ -24,7 +24,7 @@
       "meaning": "A small dish served before the main course",
       "translation": "mon khai vi",
       "example": "Would you like to start with an appetizer?",
-      "image": "https://images.unsplash.com/photo-1541014741259-de529411b96a?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1541014741259-de529411b96a?w=400&q=80"
     },
     {
       "word": "main course",
@@ -32,7 +32,7 @@
       "meaning": "The largest and most important part of a meal",
       "translation": "mon chinh",
       "example": "For the main course, I'll have the grilled salmon.",
-      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&q=80"
     },
     {
       "word": "dessert",
@@ -40,7 +40,7 @@
       "meaning": "A sweet dish served at the end of a meal",
       "translation": "mon trang mieng",
       "example": "What desserts do you have today?",
-      "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=400&q=80"
     },
     {
       "word": "bill",
@@ -48,7 +48,7 @@
       "meaning": "A statement of charges for food and drinks",
       "translation": "hoa don",
       "example": "Could we have the bill, please?",
-      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
     },
     {
       "word": "tip",
@@ -56,7 +56,7 @@
       "meaning": "Extra money given to a server for good service",
       "translation": "tien tip / boa",
       "example": "It's customary to leave a 15-20% tip.",
-      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
     },
     {
       "word": "waiter",
@@ -64,7 +64,7 @@
       "meaning": "A person who serves food in a restaurant",
       "translation": "nguoi phuc vu",
       "example": "The waiter took our order quickly.",
-      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&q=80"
     },
     {
       "word": "menu",
@@ -72,7 +72,375 @@
       "meaning": "A list of food and drinks available",
       "translation": "thuc don",
       "example": "May I see the menu, please?",
-      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80"
+    },
+    {
+      "word": "entree",
+      "ipa": "/ˈɑːntreɪ/",
+      "meaning": "The main dish of a meal in American English",
+      "translation": "mon chinh (theo tieng My)",
+      "example": "The entree comes with a side salad.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "beverage",
+      "ipa": "/ˈbevərɪdʒ/",
+      "meaning": "A drink of any kind",
+      "translation": "do uong",
+      "example": "Would you like a beverage while you wait?",
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=400&q=80"
+    },
+    {
+      "word": "chef",
+      "ipa": "/ʃef/",
+      "meaning": "A professional cook in a restaurant",
+      "translation": "bep truong",
+      "example": "The chef prepared a special dish for us.",
+      "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=400&q=80"
+    },
+    {
+      "word": "cuisine",
+      "ipa": "/kwɪˈziːn/",
+      "meaning": "A style or method of cooking from a particular country",
+      "translation": "am thuc",
+      "example": "Italian cuisine is popular worldwide.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "portion",
+      "ipa": "/ˈpɔːrʃən/",
+      "meaning": "The amount of food served to one person",
+      "translation": "phan an",
+      "example": "The portions here are very generous.",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&q=80"
+    },
+    {
+      "word": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "meaning": "A printed proof of payment",
+      "translation": "bien lai thanh toan",
+      "example": "Can I have a receipt, please?",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "takeaway",
+      "ipa": "/ˈteɪkəweɪ/",
+      "meaning": "Food ordered to eat somewhere else, not in the restaurant",
+      "translation": "do an mang ve",
+      "example": "I'll have that as a takeaway, please.",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80"
+    },
+    {
+      "word": "dietary",
+      "ipa": "/ˈdaɪəteri/",
+      "meaning": "Relating to a person's diet or food requirements",
+      "translation": "che do an uong",
+      "example": "Do you have any dietary restrictions?",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80"
+    },
+    {
+      "word": "vegetarian",
+      "ipa": "/ˌvedʒɪˈteriən/",
+      "meaning": "A person who does not eat meat",
+      "translation": "an chay / nguoi an chay",
+      "example": "Do you have any vegetarian options?",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80"
+    },
+    {
+      "word": "allergy",
+      "ipa": "/ˈælərdʒi/",
+      "meaning": "A medical reaction to certain foods",
+      "translation": "di ung",
+      "example": "I have a nut allergy — is this dish safe?",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=400&q=80"
+    },
+    {
+      "word": "spicy",
+      "ipa": "/ˈspaɪsi/",
+      "meaning": "Having a strong hot flavor from spices",
+      "translation": "cay",
+      "example": "Is this dish very spicy?",
+      "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=400&q=80"
+    },
+    {
+      "word": "mild",
+      "ipa": "/maɪld/",
+      "meaning": "Not strong or spicy in flavor",
+      "translation": "nhe / khong cay",
+      "example": "I prefer something mild, not too spicy.",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=400&q=80"
+    },
+    {
+      "word": "special",
+      "ipa": "/ˈspeʃəl/",
+      "meaning": "A dish not on the regular menu, offered that day",
+      "translation": "mon dac biet",
+      "example": "What is today's special?",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "complimentary",
+      "ipa": "/ˌkɑːmplɪˈmentri/",
+      "meaning": "Given free of charge as a gift",
+      "translation": "mien phi / tang kem",
+      "example": "Bread rolls are complimentary at this restaurant.",
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&q=80"
+    },
+    {
+      "word": "ambiance",
+      "ipa": "/ˈæmbiɑːns/",
+      "meaning": "The mood or atmosphere of a place",
+      "translation": "khong khi / bau khong khi",
+      "example": "The restaurant has a romantic ambiance.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "dine-in",
+      "ipa": "/daɪn ɪn/",
+      "meaning": "Eating your meal inside the restaurant",
+      "translation": "an tai nha hang",
+      "example": "Is this order for dine-in or takeaway?",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80"
+    },
+    {
+      "word": "buffet",
+      "ipa": "/bʊˈfeɪ/",
+      "meaning": "A meal where guests serve themselves from a variety of dishes",
+      "translation": "tiec buffet / an tu chon",
+      "example": "The hotel offers a breakfast buffet.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&q=80"
+    },
+    {
+      "word": "a la carte",
+      "ipa": "/ˌɑː lɑː ˈkɑːrt/",
+      "meaning": "Ordering individual dishes from the menu rather than a set meal",
+      "translation": "goi mon rieng le",
+      "example": "We ordered a la carte rather than the set menu.",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80"
+    },
+    {
+      "word": "tasting menu",
+      "ipa": "/ˈteɪstɪŋ ˈmenjuː/",
+      "meaning": "A series of small dishes chosen by the chef to showcase the restaurant",
+      "translation": "thuc don nem thu",
+      "example": "We tried the tasting menu — seven courses!",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "sommelier",
+      "ipa": "/ˌsɒməlˈjeɪ/",
+      "meaning": "A trained wine expert who recommends wines in a restaurant",
+      "translation": "chuyen gia ruou",
+      "example": "The sommelier suggested a red wine to pair with the steak.",
+      "image": "https://images.unsplash.com/photo-1474722883778-792e7fb1bd9c?w=400&q=80"
+    },
+    {
+      "word": "garnish",
+      "ipa": "/ˈɡɑːrnɪʃ/",
+      "meaning": "A decoration added to food before serving",
+      "translation": "do trang tri mon an",
+      "example": "The dish was garnished with fresh herbs.",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&q=80"
+    },
+    {
+      "word": "seasoning",
+      "ipa": "/ˈsiːzənɪŋ/",
+      "meaning": "Salt, herbs, or spices added to improve flavor",
+      "translation": "gia vi",
+      "example": "Add seasoning to taste before serving.",
+      "image": "https://images.unsplash.com/photo-1518778578993-ec3579fee39f?w=400&q=80"
+    },
+    {
+      "word": "sauce",
+      "ipa": "/sɔːs/",
+      "meaning": "A liquid condiment served with food",
+      "translation": "sot",
+      "example": "Would you like extra sauce on the side?",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80"
+    },
+    {
+      "word": "marinate",
+      "ipa": "/ˈmærɪneɪt/",
+      "meaning": "To soak food in a sauce before cooking",
+      "translation": "uop gia vi",
+      "example": "The chicken was marinated overnight.",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80"
+    },
+    {
+      "word": "grill",
+      "ipa": "/ɡrɪl/",
+      "meaning": "To cook food over direct heat",
+      "translation": "nuong vi",
+      "example": "The steak is grilled to perfection.",
+      "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=400&q=80"
+    },
+    {
+      "word": "sauté",
+      "ipa": "/soʊˈteɪ/",
+      "meaning": "To cook food quickly in a small amount of oil",
+      "translation": "xao",
+      "example": "Sauté the vegetables in butter for five minutes.",
+      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&q=80"
+    },
+    {
+      "word": "roast",
+      "ipa": "/roʊst/",
+      "meaning": "To cook meat or vegetables in an oven",
+      "translation": "nuong lo",
+      "example": "The roast chicken is our most popular dish.",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+    },
+    {
+      "word": "steam",
+      "ipa": "/stiːm/",
+      "meaning": "To cook food using steam from boiling water",
+      "translation": "hap",
+      "example": "The vegetables are steamed to keep nutrients.",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80"
+    },
+    {
+      "word": "poach",
+      "ipa": "/poʊtʃ/",
+      "meaning": "To cook gently in simmering water or liquid",
+      "translation": "nau bang nuoc nong",
+      "example": "Poached eggs are on the breakfast menu.",
+      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=400&q=80"
+    },
+    {
+      "word": "medium rare",
+      "ipa": "/ˈmiːdiəm rer/",
+      "meaning": "A level of doneness for steak — pink in the center",
+      "translation": "chin vua (thit bo)",
+      "example": "I'd like my steak medium rare, please.",
+      "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=400&q=80"
+    },
+    {
+      "word": "well done",
+      "ipa": "/wel dʌn/",
+      "meaning": "A steak cooked thoroughly with no pink inside",
+      "translation": "chin ky",
+      "example": "My wife would like her steak well done.",
+      "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=400&q=80"
+    },
+    {
+      "word": "pairing",
+      "ipa": "/ˈperɪŋ/",
+      "meaning": "Matching food with a suitable drink, especially wine",
+      "translation": "ket hop mon an va do uong",
+      "example": "White wine pairing with seafood is classic.",
+      "image": "https://images.unsplash.com/photo-1474722883778-792e7fb1bd9c?w=400&q=80"
+    },
+    {
+      "word": "corkage",
+      "ipa": "/ˈkɔːrkɪdʒ/",
+      "meaning": "A fee charged by a restaurant for opening a bottle of wine brought by the customer",
+      "translation": "phi mo ruou tu dem den",
+      "example": "The corkage fee is $20 per bottle.",
+      "image": "https://images.unsplash.com/photo-1474722883778-792e7fb1bd9c?w=400&q=80"
+    },
+    {
+      "word": "decor",
+      "ipa": "/dɪˈkɔːr/",
+      "meaning": "The furnishing and decoration style of a restaurant",
+      "translation": "trang tri noi that",
+      "example": "The restaurant's decor is very modern.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "vegan",
+      "ipa": "/ˈviːɡən/",
+      "meaning": "Eating only plant-based foods with no animal products",
+      "translation": "an thuan chay",
+      "example": "This dish is completely vegan.",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80"
+    },
+    {
+      "word": "gluten-free",
+      "ipa": "/ˈɡluːtən friː/",
+      "meaning": "Food containing no gluten, suitable for celiac patients",
+      "translation": "khong co gluten",
+      "example": "Do you have a gluten-free pasta option?",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=400&q=80"
+    },
+    {
+      "word": "side dish",
+      "ipa": "/saɪd dɪʃ/",
+      "meaning": "A small dish served alongside the main course",
+      "translation": "mon phu",
+      "example": "Choose a side dish: fries or salad.",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&q=80"
+    },
+    {
+      "word": "brunch",
+      "ipa": "/brʌntʃ/",
+      "meaning": "A meal eaten in the late morning combining breakfast and lunch",
+      "translation": "bua an giua sang va trua",
+      "example": "We go for brunch every Sunday.",
+      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=400&q=80"
+    },
+    {
+      "word": "order",
+      "ipa": "/ˈɔːrdər/",
+      "meaning": "To request food or drinks from a waiter",
+      "translation": "goi mon",
+      "example": "Are you ready to order?",
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&q=80"
+    },
+    {
+      "word": "house wine",
+      "ipa": "/haʊs waɪn/",
+      "meaning": "The standard wine sold cheaply by a restaurant",
+      "translation": "ruou cua nha hang",
+      "example": "We'll have a bottle of the house wine.",
+      "image": "https://images.unsplash.com/photo-1474722883778-792e7fb1bd9c?w=400&q=80"
+    },
+    {
+      "word": "wait time",
+      "ipa": "/weɪt taɪm/",
+      "meaning": "How long you must wait for a table or food",
+      "translation": "thoi gian cho",
+      "example": "The wait time for a table is about 20 minutes.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80"
+    },
+    {
+      "word": "doggy bag",
+      "ipa": "/ˈdɒɡi bæɡ/",
+      "meaning": "A container for leftover food to take home",
+      "translation": "tui dung thuc an thua mang ve",
+      "example": "Could we get a doggy bag for the leftovers?",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80"
+    },
+    {
+      "word": "set menu",
+      "ipa": "/set ˈmenjuː/",
+      "meaning": "A fixed selection of courses at a fixed price",
+      "translation": "thuc don co dinh",
+      "example": "The set menu includes three courses.",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&q=80"
+    },
+    {
+      "word": "halal",
+      "ipa": "/həˈlɑːl/",
+      "meaning": "Food prepared according to Islamic law",
+      "translation": "thuc pham halal",
+      "example": "Is the meat here halal?",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "food critic",
+      "ipa": "/fuːd ˈkrɪtɪk/",
+      "meaning": "A person who professionally reviews and evaluates restaurants",
+      "translation": "nha phe binh am thuc",
+      "example": "A food critic gave the restaurant five stars.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "catering",
+      "ipa": "/ˈkeɪtərɪŋ/",
+      "meaning": "Providing food for events or large groups",
+      "translation": "dich vu cung cap tiec",
+      "example": "We need catering for the company event.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&q=80"
     }
   ],
   "quiz": [

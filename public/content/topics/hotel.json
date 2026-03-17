@@ -16,7 +16,7 @@
       "meaning": "The front desk area of a hotel",
       "translation": "le tan",
       "example": "Please check in at the reception desk.",
-      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80"
     },
     {
       "word": "suite",
@@ -24,7 +24,7 @@
       "meaning": "A set of connected rooms in a hotel",
       "translation": "phong suite",
       "example": "We booked a suite with an ocean view.",
-      "image": "https://images.unsplash.com/photo-1590490360182-c33d955dc49c?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d955dc49c?w=400&q=80"
     },
     {
       "word": "vacancy",
@@ -32,7 +32,7 @@
       "meaning": "An available room in a hotel",
       "translation": "phong trong",
       "example": "Do you have any vacancies for tonight?",
-      "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=400&q=80"
     },
     {
       "word": "room service",
@@ -40,7 +40,7 @@
       "meaning": "Food and drink delivered to your hotel room",
       "translation": "dich vu phong",
       "example": "Let's order room service for dinner.",
-      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=400&q=80"
     },
     {
       "word": "checkout",
@@ -48,7 +48,7 @@
       "meaning": "The process of leaving and paying at a hotel",
       "translation": "tra phong",
       "example": "Checkout time is 11 AM.",
-      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400&q=80"
     },
     {
       "word": "housekeeping",
@@ -56,7 +56,7 @@
       "meaning": "The department that cleans hotel rooms",
       "translation": "don phong",
       "example": "I called housekeeping for extra towels.",
-      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400&q=80"
     },
     {
       "word": "amenities",
@@ -64,7 +64,7 @@
       "meaning": "Useful features or facilities of a hotel",
       "translation": "tien nghi",
       "example": "The hotel amenities include a pool and gym.",
-      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400&q=80"
     },
     {
       "word": "concierge",
@@ -72,7 +72,343 @@
       "meaning": "A hotel employee who helps guests with travel plans",
       "translation": "nhan vien ho tro",
       "example": "Ask the concierge for restaurant recommendations.",
-      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=400&q=80"
+    },
+    {
+      "word": "lobby",
+      "ipa": "/ˈlɒbi/",
+      "meaning": "The entrance hall of a hotel",
+      "translation": "sanh cho / hanh lang vao",
+      "example": "Let's meet in the hotel lobby at noon.",
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400&q=80"
+    },
+    {
+      "word": "receptionist",
+      "ipa": "/rɪˈsepʃənɪst/",
+      "meaning": "A person who works at the hotel front desk",
+      "translation": "nhan vien le tan",
+      "example": "The receptionist gave us our room keys.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80"
+    },
+    {
+      "word": "bellhop",
+      "ipa": "/ˈbelhɒp/",
+      "meaning": "A hotel employee who carries guests' luggage",
+      "translation": "nhan vien mang hanh ly",
+      "example": "The bellhop brought our bags to the room.",
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=400&q=80"
+    },
+    {
+      "word": "valet",
+      "ipa": "/ˈvæleɪ/",
+      "meaning": "A service that parks guests' cars for them",
+      "translation": "giu xe",
+      "example": "We used the valet parking service.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80"
+    },
+    {
+      "word": "penthouse",
+      "ipa": "/ˈpenθaʊs/",
+      "meaning": "A luxurious apartment on the top floor of a hotel",
+      "translation": "phong penthouse",
+      "example": "They stayed in the penthouse with city views.",
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d955dc49c?w=400&q=80"
+    },
+    {
+      "word": "minibar",
+      "ipa": "/ˈmɪnibɑːr/",
+      "meaning": "A small refrigerator with drinks and snacks in a hotel room",
+      "translation": "tu lanh mini trong phong",
+      "example": "Items from the minibar will be charged to your room.",
+      "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=400&q=80"
+    },
+    {
+      "word": "laundry",
+      "ipa": "/ˈlɔːndri/",
+      "meaning": "A hotel service that washes your clothes",
+      "translation": "giat ui",
+      "example": "I sent my clothes to the hotel laundry.",
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400&q=80"
+    },
+    {
+      "word": "deposit",
+      "ipa": "/dɪˈpɒzɪt/",
+      "meaning": "A sum of money paid in advance as security",
+      "translation": "tien dat coc",
+      "example": "A deposit of $100 is required at check-in.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "do not disturb",
+      "ipa": "/duː nɒt dɪˈstɜːrb/",
+      "meaning": "A sign placed on a hotel room door to prevent interruptions",
+      "translation": "khong lam phong",
+      "example": "Hang the do not disturb sign when sleeping.",
+      "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=400&q=80"
+    },
+    {
+      "word": "wake-up call",
+      "ipa": "/ˈweɪk ʌp kɔːl/",
+      "meaning": "A phone call from the hotel to wake you at a set time",
+      "translation": "cuoc goi bao thuc",
+      "example": "Can I request a wake-up call at 6 AM?",
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400&q=80"
+    },
+    {
+      "word": "luggage storage",
+      "ipa": "/ˈlʌɡɪdʒ ˈstɔːrɪdʒ/",
+      "meaning": "A place in the hotel to store bags safely",
+      "translation": "noi giu hanh ly",
+      "example": "Can I use luggage storage after checkout?",
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=400&q=80"
+    },
+    {
+      "word": "pool",
+      "ipa": "/puːl/",
+      "meaning": "A swimming pool available for hotel guests",
+      "translation": "ho boi",
+      "example": "The rooftop pool has an amazing view.",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400&q=80"
+    },
+    {
+      "word": "gym",
+      "ipa": "/dʒɪm/",
+      "meaning": "A fitness center in a hotel",
+      "translation": "phong tap the duc",
+      "example": "The hotel gym is open 24 hours.",
+      "image": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=400&q=80"
+    },
+    {
+      "word": "spa",
+      "ipa": "/spɑː/",
+      "meaning": "A place offering beauty and relaxation treatments",
+      "translation": "khu cham soc suc khoe",
+      "example": "I booked a massage at the hotel spa.",
+      "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=400&q=80"
+    },
+    {
+      "word": "conference room",
+      "ipa": "/ˈkɒnfərəns ruːm/",
+      "meaning": "A room for business meetings in a hotel",
+      "translation": "phong hop",
+      "example": "The conference room holds up to 50 people.",
+      "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=400&q=80"
+    },
+    {
+      "word": "king bed",
+      "ipa": "/kɪŋ bed/",
+      "meaning": "The largest standard bed size in a hotel room",
+      "translation": "giuong doi lon",
+      "example": "We requested a room with a king bed.",
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d955dc49c?w=400&q=80"
+    },
+    {
+      "word": "twin room",
+      "ipa": "/twɪn ruːm/",
+      "meaning": "A hotel room with two single beds",
+      "translation": "phong co hai giuong don",
+      "example": "We booked a twin room for the two of us.",
+      "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=400&q=80"
+    },
+    {
+      "word": "ocean view",
+      "ipa": "/ˈoʊʃən vjuː/",
+      "meaning": "A room with a view of the sea",
+      "translation": "nhin ra bien",
+      "example": "Rooms with an ocean view cost more.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400&q=80"
+    },
+    {
+      "word": "balcony",
+      "ipa": "/ˈbælkəni/",
+      "meaning": "An outdoor platform attached to a hotel room",
+      "translation": "ban cong",
+      "example": "We had coffee on the balcony each morning.",
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d955dc49c?w=400&q=80"
+    },
+    {
+      "word": "elevator",
+      "ipa": "/ˈelɪveɪtər/",
+      "meaning": "A machine that carries people between floors",
+      "translation": "thang may",
+      "example": "Take the elevator to the 10th floor.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80"
+    },
+    {
+      "word": "key card",
+      "ipa": "/kiː kɑːrd/",
+      "meaning": "An electronic card used to open a hotel room door",
+      "translation": "the mo phong",
+      "example": "Swipe your key card to enter the room.",
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400&q=80"
+    },
+    {
+      "word": "late checkout",
+      "ipa": "/leɪt ˈtʃekaʊt/",
+      "meaning": "Staying in the room past the normal checkout time",
+      "translation": "tra phong muon",
+      "example": "Can I request a late checkout until 2 PM?",
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400&q=80"
+    },
+    {
+      "word": "early check-in",
+      "ipa": "/ˈɜːrli tʃek ɪn/",
+      "meaning": "Arriving and getting access to your room before the standard time",
+      "translation": "nhan phong som",
+      "example": "We requested early check-in as our flight arrived at 7 AM.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80"
+    },
+    {
+      "word": "pet-friendly",
+      "ipa": "/pet ˈfrendli/",
+      "meaning": "A hotel that allows guests to bring their pets",
+      "translation": "cho phep mang thu cung",
+      "example": "We need a pet-friendly hotel for our dog.",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400&q=80"
+    },
+    {
+      "word": "shuttle service",
+      "ipa": "/ˈʃʌtəl ˈsɜːrvɪs/",
+      "meaning": "A transport service between the hotel and airport",
+      "translation": "dich vu dua don xe con thoi",
+      "example": "The hotel offers a free shuttle service to the airport.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "complimentary breakfast",
+      "ipa": "/ˌkɒmplɪˈmentri ˈbrekfəst/",
+      "meaning": "A free breakfast included in the room rate",
+      "translation": "bua sang mien phi",
+      "example": "The rate includes complimentary breakfast.",
+      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=400&q=80"
+    },
+    {
+      "word": "connecting room",
+      "ipa": "/kəˈnektɪŋ ruːm/",
+      "meaning": "Two adjacent rooms linked by an interior door",
+      "translation": "phong thong nhau",
+      "example": "We booked connecting rooms for our family.",
+      "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=400&q=80"
+    },
+    {
+      "word": "extension",
+      "ipa": "/ɪkˈstenʃən/",
+      "meaning": "Extending your hotel stay beyond the original booking",
+      "translation": "gia han o them",
+      "example": "I'd like a one-day extension on my stay.",
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=400&q=80"
+    },
+    {
+      "word": "fire escape",
+      "ipa": "/ˈfaɪər ɪskeɪp/",
+      "meaning": "An emergency exit route from a building in case of fire",
+      "translation": "loi thoat hiem khi chay",
+      "example": "The fire escape is at the end of each corridor.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80"
+    },
+    {
+      "word": "lounge",
+      "ipa": "/laʊndʒ/",
+      "meaning": "A comfortable sitting area in a hotel",
+      "translation": "phong nghi / phong lounge",
+      "example": "Guests can relax in the lounge on the third floor.",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400&q=80"
+    },
+    {
+      "word": "complimentary wifi",
+      "ipa": "/ˌkɒmplɪˈmentri ˈwaɪfaɪ/",
+      "meaning": "Free wireless internet access provided by the hotel",
+      "translation": "wifi mien phi",
+      "example": "Ask the front desk for the complimentary wifi password.",
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=400&q=80"
+    },
+    {
+      "word": "room rate",
+      "ipa": "/ruːm reɪt/",
+      "meaning": "The price charged per night for a hotel room",
+      "translation": "gia phong moi dem",
+      "example": "What is the room rate for a standard double?",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "turndown service",
+      "ipa": "/ˈtɜːrndaʊn ˈsɜːrvɪs/",
+      "meaning": "An evening service where staff prepare the room for sleep",
+      "translation": "dich vu chuan bi phong buoi toi",
+      "example": "Turndown service includes chocolates on the pillow.",
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=400&q=80"
+    },
+    {
+      "word": "bed and breakfast",
+      "ipa": "/bed ænd ˈbrekfəst/",
+      "meaning": "A type of accommodation with overnight stay and morning meal included",
+      "translation": "noi o co bua sang",
+      "example": "We stayed at a charming bed and breakfast.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400&q=80"
+    },
+    {
+      "word": "check-in",
+      "ipa": "/ˈtʃek ɪn/",
+      "meaning": "The process of arriving and registering at a hotel",
+      "translation": "nhan phong",
+      "example": "Check-in time is from 3 PM onwards.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80"
+    },
+    {
+      "word": "double room",
+      "ipa": "/ˈdʌbəl ruːm/",
+      "meaning": "A hotel room with one large bed for two people",
+      "translation": "phong doi",
+      "example": "We need a double room for our stay.",
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d955dc49c?w=400&q=80"
+    },
+    {
+      "word": "non-smoking",
+      "ipa": "/nɒn ˈsmoʊkɪŋ/",
+      "meaning": "A room or area where smoking is not permitted",
+      "translation": "phong khong hut thuoc",
+      "example": "Please book a non-smoking room for me.",
+      "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=400&q=80"
+    },
+    {
+      "word": "reservation number",
+      "ipa": "/ˌrezərˈveɪʃən ˈnʌmbər/",
+      "meaning": "A unique code given when a hotel room is booked",
+      "translation": "ma dat phong",
+      "example": "Please quote your reservation number at check-in.",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&q=80"
+    },
+    {
+      "word": "porter",
+      "ipa": "/ˈpɔːrtər/",
+      "meaning": "A hotel worker who carries guests' bags",
+      "translation": "nhan vien khuyen vac hanh ly",
+      "example": "The porter helped us to our room.",
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=400&q=80"
+    },
+    {
+      "word": "hotel star rating",
+      "ipa": "/hoʊˈtel stɑːr ˈreɪtɪŋ/",
+      "meaning": "A classification system for hotel quality from 1 to 5 stars",
+      "translation": "phan loai sao cua khach san",
+      "example": "We stayed at a five-star hotel.",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=400&q=80"
+    },
+    {
+      "word": "sauna",
+      "ipa": "/ˈsɔːnə/",
+      "meaning": "A hot steam room for relaxation",
+      "translation": "phong xong hoi",
+      "example": "The hotel has a sauna and jacuzzi.",
+      "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=400&q=80"
+    },
+    {
+      "word": "all-inclusive",
+      "ipa": "/ɔːl ɪnˈkluːsɪv/",
+      "meaning": "A hotel package where all meals and drinks are included",
+      "translation": "goi tron goi bao gom tat ca",
+      "example": "The all-inclusive resort was great value.",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=400&q=80"
     }
   ],
   "quiz": [

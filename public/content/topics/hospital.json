@@ -16,7 +16,7 @@
       "meaning": "A scheduled meeting with a doctor",
       "translation": "cuoc hen",
       "example": "I have an appointment with Dr. Smith at 3 PM.",
-      "image": "https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?w=400&q=80"
     },
     {
       "word": "prescription",
@@ -24,7 +24,7 @@
       "meaning": "A doctor's written order for medicine",
       "translation": "don thuoc",
       "example": "The doctor wrote a prescription for antibiotics.",
-      "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=400&q=80"
     },
     {
       "word": "symptom",
@@ -32,7 +32,7 @@
       "meaning": "A sign of illness or disease",
       "translation": "trieu chung",
       "example": "What symptoms are you experiencing?",
-      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400&q=80"
     },
     {
       "word": "emergency",
@@ -40,7 +40,7 @@
       "meaning": "A serious situation needing immediate action",
       "translation": "cap cuu",
       "example": "Call 911 in case of emergency.",
-      "image": "https://images.unsplash.com/photo-1587351021759-3772687fe598?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1587351021759-3772687fe598?w=400&q=80"
     },
     {
       "word": "diagnosis",
@@ -48,7 +48,7 @@
       "meaning": "The identification of an illness",
       "translation": "chan doan",
       "example": "The diagnosis confirmed it was just a cold.",
-      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
     },
     {
       "word": "insurance",
@@ -56,7 +56,7 @@
       "meaning": "A plan that helps pay for medical care",
       "translation": "bao hiem",
       "example": "Do you have health insurance?",
-      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=400&q=80"
     },
     {
       "word": "pharmacy",
@@ -64,7 +64,7 @@
       "meaning": "A store where medicines are sold",
       "translation": "nha thuoc",
       "example": "Pick up your medicine at the pharmacy.",
-      "image": "https://images.unsplash.com/photo-1585435557343-3b092031a831?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1585435557343-3b092031a831?w=400&q=80"
     },
     {
       "word": "surgeon",
@@ -72,7 +72,343 @@
       "meaning": "A doctor who performs operations",
       "translation": "bac si phau thuat",
       "example": "The surgeon explained the procedure.",
-      "image": "https://images.unsplash.com/photo-1551190822-a9ce113ac100?w=300&h=200&fit=crop"
+      "image": "https://images.unsplash.com/photo-1551190822-a9ce113ac100?w=400&q=80"
+    },
+    {
+      "word": "treatment",
+      "ipa": "/ˈtriːtmənt/",
+      "meaning": "Medical care given to a patient for an illness or injury",
+      "translation": "dieu tri",
+      "example": "The treatment involves medication and rest.",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400&q=80"
+    },
+    {
+      "word": "surgery",
+      "ipa": "/ˈsɜːrdʒəri/",
+      "meaning": "A medical operation performed by a surgeon",
+      "translation": "phau thuat",
+      "example": "The surgery was scheduled for Monday morning.",
+      "image": "https://images.unsplash.com/photo-1551190822-a9ce113ac100?w=400&q=80"
+    },
+    {
+      "word": "recovery",
+      "ipa": "/rɪˈkʌvəri/",
+      "meaning": "The process of getting better after illness or surgery",
+      "translation": "hoi phuc",
+      "example": "The patient's recovery is going well.",
+      "image": "https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?w=400&q=80"
+    },
+    {
+      "word": "ward",
+      "ipa": "/wɔːrd/",
+      "meaning": "A room in a hospital with many beds for patients",
+      "translation": "buong benh",
+      "example": "He was moved to the general ward.",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=400&q=80"
+    },
+    {
+      "word": "nurse",
+      "ipa": "/nɜːrs/",
+      "meaning": "A healthcare professional who cares for patients",
+      "translation": "y ta / dieu duong",
+      "example": "The nurse checked my blood pressure.",
+      "image": "https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?w=400&q=80"
+    },
+    {
+      "word": "specialist",
+      "ipa": "/ˈspeʃəlɪst/",
+      "meaning": "A doctor with expertise in a specific area of medicine",
+      "translation": "bac si chuyen khoa",
+      "example": "Your GP will refer you to a specialist.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+      "word": "referral",
+      "ipa": "/rɪˈfɜːrəl/",
+      "meaning": "A recommendation to see a specialist",
+      "translation": "giay chuyen vien",
+      "example": "I received a referral to see a cardiologist.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+      "word": "ambulance",
+      "ipa": "/ˈæmbjʊləns/",
+      "meaning": "A vehicle that transports sick or injured people to hospital",
+      "translation": "xe cap cuu",
+      "example": "Call an ambulance — it's an emergency!",
+      "image": "https://images.unsplash.com/photo-1587351021759-3772687fe598?w=400&q=80"
+    },
+    {
+      "word": "blood pressure",
+      "ipa": "/blʌd ˈpreʃər/",
+      "meaning": "The force of blood pushing against blood vessel walls",
+      "translation": "huyet ap",
+      "example": "High blood pressure can cause heart problems.",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400&q=80"
+    },
+    {
+      "word": "temperature",
+      "ipa": "/ˈtempərətʃər/",
+      "meaning": "The measurement of body heat",
+      "translation": "nhiet do co the",
+      "example": "The nurse took my temperature with a thermometer.",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=400&q=80"
+    },
+    {
+      "word": "pulse",
+      "ipa": "/pʌls/",
+      "meaning": "The rhythmic beating of the heart, measurable at the wrist",
+      "translation": "mach",
+      "example": "The doctor checked my pulse and breathing.",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400&q=80"
+    },
+    {
+      "word": "medication",
+      "ipa": "/ˌmedɪˈkeɪʃən/",
+      "meaning": "A drug or medicine given to treat a condition",
+      "translation": "thuoc",
+      "example": "Take this medication twice a day after meals.",
+      "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=400&q=80"
+    },
+    {
+      "word": "dosage",
+      "ipa": "/ˈdoʊsɪdʒ/",
+      "meaning": "The recommended amount of medicine to take",
+      "translation": "lieu luong thuoc",
+      "example": "Follow the dosage instructions carefully.",
+      "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=400&q=80"
+    },
+    {
+      "word": "side effects",
+      "ipa": "/saɪd ɪˈfekts/",
+      "meaning": "Unwanted effects of a medicine",
+      "translation": "tac dung phu",
+      "example": "Common side effects include nausea and dizziness.",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=400&q=80"
+    },
+    {
+      "word": "follow-up",
+      "ipa": "/ˈfɒloʊ ʌp/",
+      "meaning": "A later appointment to check on a patient's progress",
+      "translation": "tai kham",
+      "example": "Please schedule a follow-up in two weeks.",
+      "image": "https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?w=400&q=80"
+    },
+    {
+      "word": "discharge",
+      "ipa": "/dɪsˈtʃɑːrdʒ/",
+      "meaning": "When a patient is officially allowed to leave the hospital",
+      "translation": "ra vien",
+      "example": "The patient was discharged after three days.",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=400&q=80"
+    },
+    {
+      "word": "X-ray",
+      "ipa": "/ˈeks reɪ/",
+      "meaning": "A medical imaging technique that shows bones and organs",
+      "translation": "chup X-quang",
+      "example": "The doctor ordered an X-ray of my chest.",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400&q=80"
+    },
+    {
+      "word": "MRI",
+      "ipa": "/em ɑːr ˈaɪ/",
+      "meaning": "Magnetic Resonance Imaging — a detailed body scan",
+      "translation": "chup cong huong tu",
+      "example": "An MRI scan of the knee showed a torn ligament.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+      "word": "test results",
+      "ipa": "/test rɪˈzʌlts/",
+      "meaning": "The outcome of medical laboratory tests",
+      "translation": "ket qua xet nghiem",
+      "example": "Your test results came back normal.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+      "word": "waiting room",
+      "ipa": "/ˈweɪtɪŋ ruːm/",
+      "meaning": "A room where patients wait before seeing a doctor",
+      "translation": "phong cho",
+      "example": "Please wait in the waiting room.",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=400&q=80"
+    },
+    {
+      "word": "triage",
+      "ipa": "/ˈtriɑːʒ/",
+      "meaning": "The process of sorting patients by severity of their condition",
+      "translation": "phan loai benh nhan",
+      "example": "Triage nurses assess patients on arrival.",
+      "image": "https://images.unsplash.com/photo-1587351021759-3772687fe598?w=400&q=80"
+    },
+    {
+      "word": "outpatient",
+      "ipa": "/ˈaʊtpeɪʃənt/",
+      "meaning": "A patient who receives treatment without staying overnight",
+      "translation": "benh nhan ngoai tru",
+      "example": "This is an outpatient procedure.",
+      "image": "https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?w=400&q=80"
+    },
+    {
+      "word": "inpatient",
+      "ipa": "/ˈɪnpeɪʃənt/",
+      "meaning": "A patient who stays overnight in the hospital",
+      "translation": "benh nhan noi tru",
+      "example": "He was admitted as an inpatient for observation.",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=400&q=80"
+    },
+    {
+      "word": "vaccination",
+      "ipa": "/ˌvæksɪˈneɪʃən/",
+      "meaning": "An injection that protects against a disease",
+      "translation": "tiem chung",
+      "example": "Annual flu vaccinations are recommended.",
+      "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=400&q=80"
+    },
+    {
+      "word": "injection",
+      "ipa": "/ɪnˈdʒekʃən/",
+      "meaning": "Giving medicine by inserting a needle under the skin",
+      "translation": "tiem thuoc",
+      "example": "The nurse gave me an injection.",
+      "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=400&q=80"
+    },
+    {
+      "word": "anesthesia",
+      "ipa": "/ˌænəsˈθiːziə/",
+      "meaning": "Medicine that prevents pain during surgery",
+      "translation": "gay me / gay te",
+      "example": "You will be under general anesthesia during the operation.",
+      "image": "https://images.unsplash.com/photo-1551190822-a9ce113ac100?w=400&q=80"
+    },
+    {
+      "word": "vital signs",
+      "ipa": "/ˈvaɪtəl saɪnz/",
+      "meaning": "Key measurements like pulse, blood pressure and temperature",
+      "translation": "cac chi so sinh ton",
+      "example": "The nurse checked his vital signs every hour.",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400&q=80"
+    },
+    {
+      "word": "medical history",
+      "ipa": "/ˈmedɪkəl ˈhɪstəri/",
+      "meaning": "A record of a person's past illnesses and treatments",
+      "translation": "lich su benh an",
+      "example": "Please fill in your medical history form.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+      "word": "consultant",
+      "ipa": "/kənˈsʌltənt/",
+      "meaning": "A senior specialist doctor in a hospital",
+      "translation": "bac si tu van / bac si chinh",
+      "example": "The consultant reviewed my case thoroughly.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+      "word": "scan",
+      "ipa": "/skæn/",
+      "meaning": "A medical imaging test to examine the body internally",
+      "translation": "chup scan",
+      "example": "The scan revealed a small cyst.",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400&q=80"
+    },
+    {
+      "word": "blood test",
+      "ipa": "/blʌd test/",
+      "meaning": "A laboratory analysis of a blood sample",
+      "translation": "xet nghiem mau",
+      "example": "A blood test will check your cholesterol levels.",
+      "image": "https://images.unsplash.com/photo-1585435557343-3b092031a831?w=400&q=80"
+    },
+    {
+      "word": "general practitioner",
+      "ipa": "/ˈdʒenərəl præktɪʃənər/",
+      "meaning": "A family doctor who provides basic medical care",
+      "translation": "bac si da khoa",
+      "example": "See your general practitioner first before seeing a specialist.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=400&q=80"
+    },
+    {
+      "word": "allergy",
+      "ipa": "/ˈælərdʒi/",
+      "meaning": "A strong bodily reaction to a substance",
+      "translation": "di ung",
+      "example": "Tell the doctor about any allergies you have.",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=400&q=80"
+    },
+    {
+      "word": "operating room",
+      "ipa": "/ˈɒpəreɪtɪŋ ruːm/",
+      "meaning": "The room in a hospital where surgeries are performed",
+      "translation": "phong phau thuat",
+      "example": "The patient was taken to the operating room.",
+      "image": "https://images.unsplash.com/photo-1551190822-a9ce113ac100?w=400&q=80"
+    },
+    {
+      "word": "stethoscope",
+      "ipa": "/ˈsteθəskoʊp/",
+      "meaning": "A medical instrument for listening to the heart and lungs",
+      "translation": "ong nghe",
+      "example": "The doctor used a stethoscope to check my heartbeat.",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400&q=80"
+    },
+    {
+      "word": "clinic",
+      "ipa": "/ˈklɪnɪk/",
+      "meaning": "A small medical facility for outpatient treatment",
+      "translation": "phong kham",
+      "example": "I went to the clinic for a routine checkup.",
+      "image": "https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?w=400&q=80"
+    },
+    {
+      "word": "first aid",
+      "ipa": "/fɜːrst eɪd/",
+      "meaning": "Basic medical help given before professional care arrives",
+      "translation": "so cuu / so cuu ban dau",
+      "example": "Every office should have a first aid kit.",
+      "image": "https://images.unsplash.com/photo-1587351021759-3772687fe598?w=400&q=80"
+    },
+    {
+      "word": "rehabilitation",
+      "ipa": "/ˌriːhəˌbɪlɪˈteɪʃən/",
+      "meaning": "The process of recovering and regaining abilities after illness",
+      "translation": "phuc hoi chuc nang",
+      "example": "He underwent rehabilitation after his stroke.",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400&q=80"
+    },
+    {
+      "word": "checkup",
+      "ipa": "/ˈtʃekʌp/",
+      "meaning": "A routine medical examination",
+      "translation": "kham suc khoe dinh ky",
+      "example": "I have my annual checkup next week.",
+      "image": "https://images.unsplash.com/photo-1631815588090-d4bfec5b1ccb?w=400&q=80"
+    },
+    {
+      "word": "bandage",
+      "ipa": "/ˈbændɪdʒ/",
+      "meaning": "A strip of cloth used to cover a wound",
+      "translation": "bang y te / bang bon",
+      "example": "The nurse wrapped a bandage around my arm.",
+      "image": "https://images.unsplash.com/photo-1587351021759-3772687fe598?w=400&q=80"
+    },
+    {
+      "word": "patient",
+      "ipa": "/ˈpeɪʃənt/",
+      "meaning": "A person receiving medical treatment",
+      "translation": "benh nhan",
+      "example": "The patient was admitted to the hospital.",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?w=400&q=80"
+    },
+    {
+      "word": "thermometer",
+      "ipa": "/θərˈmɒmɪtər/",
+      "meaning": "An instrument used to measure body temperature",
+      "translation": "nhiet ke",
+      "example": "Use a thermometer to check if you have a fever.",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=400&q=80"
     }
   ],
   "quiz": [
