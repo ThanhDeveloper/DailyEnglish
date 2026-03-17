@@ -36,3 +36,35 @@
   gap: 12px;
   margin-top: 24px;
 }
+
+.progressBar {
+  height: 6px;
+  background: var(--color-border);
+  border-radius: 3px;
+  margin-bottom: 8px;
+  overflow: hidden;
+}
+
+.progressFill {
+  height: 100%;
+  background: var(--color-primary);
+  border-radius: 3px;
+  transition: width 0.4s ease;
+}
+
+.progressLabel {
+  margin-left: 12px;
+  color: var(--color-text-secondary);
+  font-size: 0.8125rem;
+}
+
+.complete {
+  text-align: center;
+  margin-top: 20px;
+  padding: 12px 20px;
+  background: rgba(16, 185, 129, 0.1);
+  color: #059669;
+  border-radius: var(--radius-md);
+  font-weight: 600;
+  font-size: 0.9375rem;
+}

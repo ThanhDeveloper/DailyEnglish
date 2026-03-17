@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { FlashCard } from '../../components/FlashCard';
 import { ArrowLeftIcon } from '../../components/Icons';
 import { getFlashcardSet, getTopic } from '../../utils/content';
+import { useProgress } from '../../hooks/useProgress';
 import type { FlashcardItem, VocabularyWord } from '../../types';
 import styles from './FlashcardsPage.module.css';
 
@@ -12,6 +13,9 @@ export function FlashcardsPage() {
   const [title, setTitle] = useState('');
   const [idx, setIdx] = useState(0);
   const [loading, setLoading] = useState(true);
+  const setId = id ?? `topic-${topicId}`;
+
+  const { markFlashcard, getFlashcardProgress } = useProgress();
 
   useEffect(() => {
     if (topicId) {
@@ -20,6 +24,15 @@ export function FlashcardsPage() {
         setTitle(`${t.title} Flashcards`);
         setLoading(false);
       });
+    } else if (id === 'saved-words') {
+      // Load saved words from progress
+      const raw = localStorage.getItem('dailyenglish_progress');
+      const saved = raw ? (JSON.parse(raw).savedWords ?? []) : [];
+      setCards(saved.map((w: { word: string; ipa: string; meaning: string; example: string }) => ({
+        word: w.word, ipa: w.ipa, meaning: w.meaning, example: w.example,
+      })));
+      setTitle('My Saved Words');
+      setLoading(false);
     } else if (id) {
       getFlashcardSet(id).then((s) => {
         setCards(s.cards);
@@ -29,17 +42,32 @@ export function FlashcardsPage() {
     }
   }, [id, topicId]);
 
+  // Mark card as studied when viewed
+  useEffect(() => {
+    if (cards.length > 0) {
+      markFlashcard(setId, idx);
+    }
+  }, [idx, cards.length, setId, markFlashcard]);
+
   if (loading) return <div className="loading"><div className="spinner" /></div>;
 
   const card = cards[idx];
+  const prog = getFlashcardProgress(setId, cards.length);
 
   return (
     <div className="page-enter">
-      <Link to="/" className={styles.back}>
+      <Link to={topicId ? `/topic/${topicId}` : '/'} className={styles.back}>
         <ArrowLeftIcon size={18} /> Back
       </Link>
       <h1 className={styles.title}>{title}</h1>
-      <p className={styles.counter}>{idx + 1} of {cards.length}</p>
+
+      <div className={styles.progressBar}>
+        <div className={styles.progressFill} style={{ width: `${prog.percent}%` }} />
+      </div>
+      <p className={styles.counter}>
+        {idx + 1} / {cards.length}
+        <span className={styles.progressLabel}>{prog.studied} studied ({prog.percent}%)</span>
+      </p>
 
       <div className={styles.cardArea}>
         <FlashCard
@@ -67,6 +95,12 @@ export function FlashcardsPage() {
           Next
         </button>
       </div>
+
+      {prog.percent === 100 && (
+        <div className={styles.complete}>
+          All {cards.length} cards studied! Great job.
+        </div>
+      )}
     </div>
   );
 }

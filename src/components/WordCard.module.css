@@ -28,6 +28,7 @@
 .header {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   gap: 8px;
   margin-bottom: 2px;
 }
@@ -36,6 +37,13 @@
   font-size: 1.0625rem;
   font-weight: 600;
   color: var(--color-text);
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
 }
 
 .speakBtn {
@@ -50,11 +58,47 @@
   background: rgba(37, 99, 235, 0.1);
 }
 
+.saveBtn {
+  color: var(--color-text-secondary);
+  padding: 4px;
+  border-radius: 50%;
+  display: flex;
+  transition: color 0.15s, background 0.15s;
+}
+
+.saveBtn:hover {
+  color: #ef4444;
+  background: rgba(239, 68, 68, 0.08);
+}
+
+.saveBtnActive {
+  color: #ef4444;
+}
+
+.ipaRow {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-bottom: 4px;
+}
+
 .ipa {
   font-size: 0.8125rem;
   color: var(--color-primary);
   font-style: italic;
-  margin-bottom: 4px;
+}
+
+.ipaSpeak {
+  color: var(--color-primary);
+  opacity: 0.5;
+  padding: 2px;
+  border-radius: 50%;
+  display: flex;
+  transition: opacity 0.15s;
+}
+
+.ipaSpeak:hover {
+  opacity: 1;
 }
 
 .meaning {
@@ -69,10 +113,36 @@
   margin-bottom: 4px;
 }
 
+.exampleToggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.75rem;
+  color: var(--color-text-secondary);
+  padding: 2px 0;
+  transition: color 0.15s;
+  margin-top: 2px;
+}
+
+.exampleToggle:hover {
+  color: var(--color-primary);
+}
+
+.exampleToggle svg {
+  transition: transform 0.2s;
+}
+
+.chevronOpen {
+  transform: rotate(180deg);
+}
+
 .example {
   font-size: 0.8125rem;
   color: var(--color-text-secondary);
   font-style: italic;
+  margin-top: 6px;
+  padding-left: 8px;
+  border-left: 2px solid var(--color-border);
 }
 
 @media (max-width: 480px) {

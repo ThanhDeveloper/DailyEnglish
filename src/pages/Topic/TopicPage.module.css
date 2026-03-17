@@ -27,30 +27,40 @@
 }
 
 .tabs {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
   gap: 4px;
   padding: 4px;
   background: var(--color-surface);
   border-radius: var(--radius-md);
   box-shadow: var(--shadow-sm);
-  overflow-x: auto;
   margin-bottom: 24px;
-  -webkit-overflow-scrolling: touch;
-  scrollbar-width: none;
-}
-
-.tabs::-webkit-scrollbar {
-  display: none;
 }
 
 .tab {
-  padding: 10px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  padding: 8px 4px;
   border-radius: var(--radius-sm);
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   font-weight: 500;
   color: var(--color-text-secondary);
   white-space: nowrap;
   transition: all 0.15s;
+  min-width: 0;
+}
+
+.tabIcon {
+  font-size: 1.125rem;
+  line-height: 1;
+}
+
+.tabLabel {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
 }
 
 .tab:hover {
@@ -107,17 +117,61 @@
   padding: 32px 0;
 }
 
+.wordFilters {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.wordFilterBtn {
+  padding: 5px 14px;
+  border-radius: 999px;
+  border: 1.5px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-secondary);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.wordFilterBtn:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+.wordFilterActive {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: #fff;
+}
+
+.wordFilterActive:hover {
+  color: #fff;
+}
+
+.emptyFilter {
+  color: var(--color-text-secondary);
+  font-size: 0.9375rem;
+  text-align: center;
+  padding: 32px 0;
+}
+
 @media (max-width: 768px) {
   .title {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
   }
 
   .tabs {
     gap: 2px;
+    padding: 3px;
   }
 
   .tab {
-    padding: 8px 14px;
-    font-size: 0.8125rem;
+    padding: 7px 2px;
+  }
+
+  .tabIcon {
+    font-size: 1rem;
   }
 }

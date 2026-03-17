@@ -11,6 +11,12 @@ const TopicPage = lazy(() =>
 const FlashcardsPage = lazy(() =>
   import('../pages/Flashcards/FlashcardsPage').then((m) => ({ default: m.FlashcardsPage }))
 );
+const FlashcardsListPage = lazy(() =>
+  import('../pages/Flashcards/FlashcardsListPage').then((m) => ({ default: m.FlashcardsListPage }))
+);
+const SavedWordsPage = lazy(() =>
+  import('../pages/SavedWords/SavedWordsPage').then((m) => ({ default: m.SavedWordsPage }))
+);
 const PodcastPage = lazy(() =>
   import('../pages/Podcast/PodcastPage').then((m) => ({ default: m.PodcastPage }))
 );
@@ -47,6 +53,10 @@ export const router = createBrowserRouter([
         element: <SuspenseWrap><TopicPage /></SuspenseWrap>,
       },
       {
+        path: 'flashcards',
+        element: <SuspenseWrap><FlashcardsListPage /></SuspenseWrap>,
+      },
+      {
         path: 'flashcards/:id',
         element: <SuspenseWrap><FlashcardsPage /></SuspenseWrap>,
       },
@@ -65,6 +75,10 @@ export const router = createBrowserRouter([
       {
         path: 'search',
         element: <SuspenseWrap><SearchPage /></SuspenseWrap>,
+      },
+      {
+        path: 'saved',
+        element: <SuspenseWrap><SavedWordsPage /></SuspenseWrap>,
       },
     ],
   },

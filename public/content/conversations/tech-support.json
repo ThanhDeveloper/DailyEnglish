@@ -1,0 +1,68 @@
+{
+  "id": "tech-support",
+  "title": "Tech Support",
+  "description": "Practice conversations with tech support for common software and hardware problems",
+  "dialogues": [
+    {
+      "id": "internet-issue",
+      "title": "Internet Connection Problem",
+      "speakers": ["Support Agent", "Customer"],
+      "lines": [
+        { "speaker": "Support Agent", "text": "Thank you for calling TechConnect Support. My name is Ryan. How can I help you today?" },
+        { "speaker": "Customer", "text": "Hi Ryan. I've been having terrible internet issues for the past three days. The connection keeps dropping every hour or so and it's affecting my work." },
+        { "speaker": "Support Agent", "text": "I'm sorry to hear that. I'll do my best to help you get this resolved. Can I start by getting your account number or the phone number associated with your account?" },
+        { "speaker": "Customer", "text": "Sure, it's 555-384-9201." },
+        { "speaker": "Support Agent", "text": "Thank you. I can see your account, Ms. Williams. I'm looking at your modem's signal levels and I can see some instability in the downstream signal. When you say the connection drops, does the Wi-Fi also disappear from your devices, or does the Wi-Fi stay connected but just have no internet?" },
+        { "speaker": "Customer", "text": "Actually, the Wi-Fi icon stays connected on my phone and laptop, but when I try to load a webpage it says 'no internet connection.'" },
+        { "speaker": "Support Agent", "text": "That's very helpful. That tells me the issue is between your modem and our network, not with your router. Have you tried restarting the modem recently?" },
+        { "speaker": "Customer", "text": "I restart it every time it happens but it only helps for a short while." },
+        { "speaker": "Support Agent", "text": "That confirms my suspicion — the modem is connecting and then losing the signal again. I'm going to send a refresh signal to your modem remotely. Please don't touch any cables during this process — it'll take about 30 seconds." },
+        { "speaker": "Customer", "text": "Okay, I won't touch anything." },
+        { "speaker": "Support Agent", "text": "The refresh has completed. I can now see your modem is showing stable signal levels. However, given that this has been happening for three days, I'd like to arrange a technician visit to check the external cable connection to your home. The issue might be with the line outside." },
+        { "speaker": "Customer", "text": "That would be great. When would the earliest appointment be?" },
+        { "speaker": "Support Agent", "text": "I have availability this Thursday between 2 PM and 5 PM, or Saturday between 9 AM and 1 PM. Which would work better for you?" },
+        { "speaker": "Customer", "text": "Thursday afternoon works. Will the technician need to come inside the house?" },
+        { "speaker": "Support Agent", "text": "Possibly, to check the internal cabling as well. If everything looks fine outside, they'll check connections inside. The visit typically takes 30–60 minutes." },
+        { "speaker": "Customer", "text": "That's fine. Can I receive a reminder before the appointment?" },
+        { "speaker": "Support Agent", "text": "Absolutely. I'll set up an automated SMS and email reminder for Wednesday evening. Is the contact number for the technician the same as your account number?" },
+        { "speaker": "Customer", "text": "Yes, that's fine." },
+        { "speaker": "Support Agent", "text": "Perfect. I've scheduled the technician for Thursday, September 12, between 2 and 5 PM. Is there anything else I can help you with today?" },
+        { "speaker": "Customer", "text": "Will I be charged for the technician visit?" },
+        { "speaker": "Support Agent", "text": "Since the issue appears to be on our network side, the visit is completely free of charge. If it turns out to be an issue with equipment you own, there may be a service fee, but we'll discuss that with you before any work is done." },
+        { "speaker": "Customer", "text": "That's reassuring. Thank you for your help, Ryan." },
+        { "speaker": "Support Agent", "text": "You're very welcome, Ms. Williams. I'm sorry again for the inconvenience. If the connection drops again before Thursday, please call us back and reference ticket number 7834921." },
+        { "speaker": "Customer", "text": "Got it. Thanks again." }
+      ]
+    },
+    {
+      "id": "software-troubleshoot",
+      "title": "Software Installation Problem",
+      "speakers": ["Help Desk", "User"],
+      "lines": [
+        { "speaker": "Help Desk", "text": "IT Help Desk, this is Marcus. What can I help you with?" },
+        { "speaker": "User", "text": "Hi Marcus, I'm trying to install the new project management software the IT team sent out, but I keep getting an error message partway through." },
+        { "speaker": "Help Desk", "text": "I can help with that. What does the error message say exactly?" },
+        { "speaker": "User", "text": "It says: 'Installation failed. Error code 0x80070005: Access Denied.'" },
+        { "speaker": "Help Desk", "text": "That error code means the installation process doesn't have administrator permissions on your computer. Are you logged into your machine with your standard user account or an admin account?" },
+        { "speaker": "User", "text": "I'm on my regular work account. I wasn't given an admin account when I was set up." },
+        { "speaker": "Help Desk", "text": "That's the issue. Corporate software installations require admin rights. Can you right-click on the installer file and see if you have an option that says 'Run as administrator'?" },
+        { "speaker": "User", "text": "Let me check... Yes, I can see 'Run as administrator' in the menu." },
+        { "speaker": "Help Desk", "text": "Click that. It will prompt you for an administrator password. I'm going to give you a temporary admin password that expires in 24 hours. Ready to write it down?" },
+        { "speaker": "User", "text": "Yes, go ahead." },
+        { "speaker": "Help Desk", "text": "The temporary password is: TechDesk-4782-X. All caps on 'TechDesk', then a hyphen, the numbers, another hyphen, and capital X." },
+        { "speaker": "User", "text": "Got it. TechDesk-4782-X. I've entered it and the installation is running now." },
+        { "speaker": "Help Desk", "text": "Great. The installation should take about 5–10 minutes. Once it's complete, you'll need to restart your computer for the software to finish setting up." },
+        { "speaker": "User", "text": "It says it's finished. I'll restart now." },
+        { "speaker": "Help Desk", "text": "Perfect. After restarting, launch the software and log in with your regular work email and password. If you encounter any issues with the login, let us know." },
+        { "speaker": "User", "text": "I'm back on after the restart. The software opened fine and I logged in successfully." },
+        { "speaker": "Help Desk", "text": "Excellent! Is there anything you can't access or any features that look different from what you expected?" },
+        { "speaker": "User", "text": "It looks good. The only thing is I don't see the 'Projects' section that my colleagues mentioned." },
+        { "speaker": "Help Desk", "text": "That section may require your manager to assign you to the correct workspace. I'll send a request to your manager now to add you to the appropriate project groups. You should receive a notification within the hour." },
+        { "speaker": "User", "text": "Perfect. That solves everything. Thanks for being so patient with me, Marcus." },
+        { "speaker": "Help Desk", "text": "Not a problem at all. Is there anything else I can help you with today?" },
+        { "speaker": "User", "text": "No, that's everything. Thanks again!" },
+        { "speaker": "Help Desk", "text": "Have a great rest of your day!" }
+      ]
+    }
+  ]
+}

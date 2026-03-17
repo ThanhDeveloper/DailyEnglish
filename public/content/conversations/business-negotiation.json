@@ -1,0 +1,59 @@
+{
+  "id": "business-negotiation",
+  "title": "Business Negotiation",
+  "description": "Practice professional business negotiation conversations in English",
+  "dialogues": [
+    {
+      "id": "contract-negotiation",
+      "title": "Contract Negotiation",
+      "speakers": ["Client", "Vendor"],
+      "lines": [
+        { "speaker": "Client", "text": "Thank you for coming in today. We're very interested in your software platform, but before we move forward, we need to discuss the terms more carefully." },
+        { "speaker": "Vendor", "text": "Of course. We appreciate your interest and we're committed to making this work for both parties. What are your main concerns?" },
+        { "speaker": "Client", "text": "First, the pricing. Your proposal came in at $120,000 annually, which is above our budgeted range of $90,000 to $100,000." },
+        { "speaker": "Vendor", "text": "I understand. The $120,000 includes premium support, unlimited users, and custom integrations. If we narrow the scope slightly, we can work within your range. For example, if you're comfortable with standard support and a limit of 200 users, we could offer the package at $95,000." },
+        { "speaker": "Client", "text": "That's closer. We currently have 150 users but anticipate growth. Could we negotiate a tiered pricing model so costs scale gradually as we add users?" },
+        { "speaker": "Vendor", "text": "Absolutely. We can structure it so the first 200 users are $95,000, then $40 per additional user per year beyond that. That protects your budget now while accommodating growth." },
+        { "speaker": "Client", "text": "That's reasonable. Now, regarding the implementation timeline — you proposed twelve weeks. Our operations team needs the system live by the end of Q2, which is nine weeks away." },
+        { "speaker": "Vendor", "text": "Nine weeks is aggressive but achievable if we prioritize core modules and defer the reporting dashboard to a phase two rollout at no additional cost. Would that be acceptable?" },
+        { "speaker": "Client", "text": "We could accept a phased rollout if the core modules include user management, billing, and client portal. Those are non-negotiable for Q2." },
+        { "speaker": "Vendor", "text": "Confirmed. Those three modules will be live within nine weeks. The reporting and analytics dashboard would follow in an additional six weeks." },
+        { "speaker": "Client", "text": "Good. Let's talk about support. The standard support package is business hours only, but we operate across multiple time zones and need coverage around the clock." },
+        { "speaker": "Vendor", "text": "24/7 support is part of our premium tier, which adds $18,000 annually. However, given the contract size and the multi-year commitment you mentioned, I can offer 24/7 support at $10,000 extra, bringing the total to $105,000." },
+        { "speaker": "Client", "text": "We're willing to consider a two-year commitment, but we'd need a 5% price reduction in year two as an incentive." },
+        { "speaker": "Vendor", "text": "I can offer 3% in year two. That reflects the cost savings from a committed contract but maintains our service quality." },
+        { "speaker": "Client", "text": "We'll accept 3% in year two. There's one more item — data ownership. Our legal team needs assurance that all data remains our property and can be fully exported upon contract termination." },
+        { "speaker": "Vendor", "text": "Absolutely. That's standard in our contracts. You own all your data. Upon termination, we provide a full data export in CSV and JSON formats within 30 days at no charge." },
+        { "speaker": "Client", "text": "That works. I think we're close to an agreement. Let me summarize: $105,000 year one with 24/7 support, 200-user base with tiered pricing, phased rollout in nine weeks for core modules, and 3% discount in year two." },
+        { "speaker": "Vendor", "text": "That's an accurate summary. I'll draft the revised contract and send it to you by end of day Thursday. Shall we schedule a call next Monday to review?" },
+        { "speaker": "Client", "text": "Monday at 10 AM works perfectly. We're looking forward to partnering with you." },
+        { "speaker": "Vendor", "text": "Likewise. We're excited to bring value to your team." }
+      ]
+    },
+    {
+      "id": "salary-negotiation",
+      "title": "Salary Negotiation",
+      "speakers": ["HR Manager", "Candidate"],
+      "lines": [
+        { "speaker": "HR Manager", "text": "Congratulations — we'd like to extend you an offer for the Senior Product Manager role. We're very excited about having you join the team." },
+        { "speaker": "Candidate", "text": "Thank you so much. I'm genuinely excited about this opportunity. I've given the role a lot of thought and I'm very enthusiastic about joining." },
+        { "speaker": "HR Manager", "text": "Wonderful. Our offer is a base salary of $110,000, plus a 15% annual performance bonus, health insurance, and four weeks of paid leave." },
+        { "speaker": "Candidate", "text": "I really appreciate the offer. I was hoping we could discuss the base salary. Based on my research and my seven years of experience managing products at scale, I was expecting closer to $125,000." },
+        { "speaker": "HR Manager", "text": "I understand. Our current band for this level is $108,000 to $118,000. $125,000 would be above our senior PM band." },
+        { "speaker": "Candidate", "text": "I appreciate the transparency. I want to be reasonable. Could we meet at $118,000, which is the top of your band? I believe my track record launching three enterprise products with over $2M in ARR each justifies that level." },
+        { "speaker": "HR Manager", "text": "That's a fair point. I'll need to get approval from our VP, but I'm confident we can reach $118,000. Would that work for you?" },
+        { "speaker": "Candidate", "text": "Yes, that would be acceptable. I also wanted to ask about the equity component — is there stock or options included?" },
+        { "speaker": "HR Manager", "text": "Yes — I should have mentioned it. You'd receive 8,000 stock options vesting over four years with a one-year cliff." },
+        { "speaker": "Candidate", "text": "That's good to know. Given the growth stage of the company, I was hoping for 10,000 options. Is there flexibility there?" },
+        { "speaker": "HR Manager", "text": "I can propose 9,000 options to our leadership. The additional 1,000 above our standard is something I can advocate for given your background." },
+        { "speaker": "Candidate", "text": "I appreciate that. What about the start date? I have a 30-day notice period with my current employer." },
+        { "speaker": "HR Manager", "text": "We can accommodate a 30-day notice. The ideal start would be the first Monday of next month, but we have some flexibility within that week." },
+        { "speaker": "Candidate", "text": "Perfect. One last thing — is there any flexibility in the work-from-home policy? I currently work remotely three days a week." },
+        { "speaker": "HR Manager", "text": "Our current policy is two days remote. However, since you'll be traveling to meet customers regularly, it's likely you'd functionally have additional remote days. I can confirm this with your future manager." },
+        { "speaker": "Candidate", "text": "That's reasonable. Assuming $118,000 base, 9,000 options, and confirmation on the flexible work arrangement, I'm ready to accept." },
+        { "speaker": "HR Manager", "text": "Excellent! I'll send the updated offer letter by tomorrow morning. Welcome aboard — we're thrilled to have you joining the team." },
+        { "speaker": "Candidate", "text": "Thank you so much. I look forward to contributing from day one." }
+      ]
+    }
+  ]
+}

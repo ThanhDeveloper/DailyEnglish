@@ -1,0 +1,67 @@
+{
+  "id": "shopping-mall",
+  "title": "Shopping Mall",
+  "description": "Practice conversations while shopping for clothes, electronics, and more",
+  "dialogues": [
+    {
+      "id": "clothing-store",
+      "title": "Buying Clothes",
+      "speakers": ["Customer", "Sales Assistant"],
+      "lines": [
+        { "speaker": "Sales Assistant", "text": "Hello there! Welcome to Style & Co. Are you looking for something specific today or just browsing?" },
+        { "speaker": "Customer", "text": "Hi! I'm looking for something to wear to a semi-formal dinner this weekend. I'm not sure what style would work." },
+        { "speaker": "Sales Assistant", "text": "Semi-formal is a great occasion to dress up a little. Are you thinking a dress, a blouse and trousers, or something else?" },
+        { "speaker": "Customer", "text": "I'm open to either, actually. I'd prefer something versatile that I could wear again for other occasions." },
+        { "speaker": "Sales Assistant", "text": "Perfect. In that case, I'd recommend this wrap dress — it's a classic silhouette that works for dinner, weddings, and even business events. It comes in navy, burgundy, and forest green." },
+        { "speaker": "Customer", "text": "Oh, the navy is gorgeous. What size would you recommend? I usually wear a medium but I find sizing varies a lot between brands." },
+        { "speaker": "Sales Assistant", "text": "Our sizing here runs slightly small. I'd suggest trying both the medium and the large to be safe. The fitting rooms are just around the corner." },
+        { "speaker": "Customer", "text": "Great. Could I also take a look at that patterned blouse on the mannequin? It caught my eye as I came in." },
+        { "speaker": "Sales Assistant", "text": "Absolutely — that's our new floral print blouse. It pairs beautifully with tailored trousers or a pencil skirt. Would you like to try it in the same size range?" },
+        { "speaker": "Customer", "text": "Yes please. I love floral prints for spring." },
+        { "speaker": "Sales Assistant", "text": "Here you go — the wrap dress in medium and large, and the floral blouse in medium. Take your time in the fitting room and let me know if you need any other sizes." },
+        { "speaker": "Customer", "text": "Thank you! Actually, the medium wrap dress fits perfectly and the navy is exactly the right shade. But the blouse is a bit loose around the shoulders." },
+        { "speaker": "Sales Assistant", "text": "Would you like to try the small in the blouse? Some customers find they prefer a more fitted look in tops." },
+        { "speaker": "Customer", "text": "Yes, let's try that." },
+        { "speaker": "Sales Assistant", "text": "How does the small fit?" },
+        { "speaker": "Customer", "text": "It's much better. I'll take both. What's the return policy if I need to exchange them?" },
+        { "speaker": "Sales Assistant", "text": "We offer free returns and exchanges within 30 days with your receipt, as long as the items are unworn with tags attached." },
+        { "speaker": "Customer", "text": "Perfect. Do you have a loyalty program?" },
+        { "speaker": "Sales Assistant", "text": "Yes! Our Style Rewards card gives you one point per dollar spent. Every 200 points earns a $10 voucher. Signing up is free and takes less than a minute." },
+        { "speaker": "Customer", "text": "I'll sign up for that. Could you ring up these two items for me?" },
+        { "speaker": "Sales Assistant", "text": "Of course. That comes to $158 for both. Are you paying by cash or card?" },
+        { "speaker": "Customer", "text": "Card, please. And could you gift wrap the dress? It's actually a birthday gift for a friend." },
+        { "speaker": "Sales Assistant", "text": "Of course! Gift wrapping is complimentary. Would you like to add a card?" },
+        { "speaker": "Customer", "text": "That would be lovely. Thank you so much for your help today." },
+        { "speaker": "Sales Assistant", "text": "It was my pleasure! Enjoy the dinner and I hope your friend loves her gift." }
+      ]
+    },
+    {
+      "id": "electronics-store",
+      "title": "Buying a Laptop",
+      "speakers": ["Shopper", "Tech Advisor"],
+      "lines": [
+        { "speaker": "Tech Advisor", "text": "Good afternoon! Can I help you find something today?" },
+        { "speaker": "Shopper", "text": "Yes, I'm looking to replace my old laptop. My main uses are video editing and graphic design, so I need something powerful." },
+        { "speaker": "Tech Advisor", "text": "For video editing and design, you'll want a machine with a strong processor, dedicated GPU, and plenty of RAM. What's your budget range?" },
+        { "speaker": "Shopper", "text": "I'd like to stay under $1,800 if possible, but I could stretch to $2,000 for the right machine." },
+        { "speaker": "Tech Advisor", "text": "With that budget, I'd recommend looking at these three options. First, the MacBook Pro M3 at $1,799 — Apple Silicon is exceptional for video work, especially in Final Cut Pro. Second, the Dell XPS 15 with an RTX 4060 GPU at $1,699. Third, the ASUS ProArt at $1,899 with a calibrated display aimed specifically at creatives." },
+        { "speaker": "Shopper", "text": "I primarily use Adobe Premiere and Photoshop. Would the MacBook handle those well?" },
+        { "speaker": "Tech Advisor", "text": "Yes, Adobe's entire Creative Suite is fully optimized for Apple Silicon now. Export speeds are significantly faster than comparable Windows machines for video editing." },
+        { "speaker": "Shopper", "text": "What about storage? I work with large 4K files." },
+        { "speaker": "Tech Advisor", "text": "I'd strongly recommend at least 512GB of internal SSD, ideally 1TB. The MacBook M3 base model comes with 512GB — you can configure it to 1TB for an extra $200, bringing it to $1,999." },
+        { "speaker": "Shopper", "text": "That's at the top of my budget. What about the Dell option?" },
+        { "speaker": "Tech Advisor", "text": "The Dell XPS 15 comes standard with 1TB at $1,699 and has an NVIDIA GPU which is great for GPU-accelerated effects in Premiere. It's a very capable machine." },
+        { "speaker": "Shopper", "text": "Which would you personally recommend for someone who prioritizes export speed and battery life?" },
+        { "speaker": "Tech Advisor", "text": "Honestly, the MacBook M3 wins on both counts. Battery life is around 15–18 hours versus 8–10 on the Dell, and export speeds on the M3 Pro chip are market-leading." },
+        { "speaker": "Shopper", "text": "I'm leaning toward the MacBook then. Does it come with a warranty?" },
+        { "speaker": "Tech Advisor", "text": "It includes Apple's one-year limited warranty. I'd highly recommend adding AppleCare+ for $249 — that extends coverage to three years and includes accidental damage protection." },
+        { "speaker": "Shopper", "text": "Good point. I'll add that. What accessories would you recommend for a creative professional?" },
+        { "speaker": "Tech Advisor", "text": "A USB-C hub is essential since the MacBook has limited ports. I'd also recommend an external SSD for backup and archiving large files, and a color-calibrated monitor if you do a lot of color grading." },
+        { "speaker": "Shopper", "text": "Could you put together a package with the laptop, AppleCare+, and a USB-C hub?" },
+        { "speaker": "Tech Advisor", "text": "Absolutely. With the 1TB MacBook Pro M3, AppleCare+, and this Anker 7-in-1 hub, the total comes to $2,308. We also offer 12 months interest-free financing." },
+        { "speaker": "Shopper", "text": "Let me go with the financing option. This is exactly what I needed. Thank you for your patience explaining everything." },
+        { "speaker": "Tech Advisor", "text": "It's my pleasure! Let me set up the financing paperwork. You're going to love this machine." }
+      ]
+    }
+  ]
+}

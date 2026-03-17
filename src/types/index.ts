@@ -89,5 +89,5 @@ export interface ContentIndex {
   topics: { id: string; title: string; icon: string; color: string }[];
   podcasts: { id: string; title: string }[];
   conversations: { id: string; title: string }[];
-  flashcardSets: { id: string; title: string }[];
+  flashcardSets: { id: string; title: string; level?: string }[];
 }

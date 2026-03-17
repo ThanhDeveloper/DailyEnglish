@@ -1,0 +1,68 @@
+{
+  "id": "bank-visit",
+  "title": "At the Bank",
+  "description": "Practice banking conversations for common financial services",
+  "dialogues": [
+    {
+      "id": "open-account",
+      "title": "Opening a Bank Account",
+      "speakers": ["Bank Officer", "Customer"],
+      "lines": [
+        { "speaker": "Bank Officer", "text": "Good morning! How can I help you today?" },
+        { "speaker": "Customer", "text": "Good morning. I'd like to open a bank account. I recently moved to this city and I need a local account." },
+        { "speaker": "Bank Officer", "text": "Welcome! We'd be happy to help. We offer several account types. Are you looking for a personal checking account, a savings account, or both?" },
+        { "speaker": "Customer", "text": "I'd like both, actually. I need a checking account for daily expenses and a savings account to build an emergency fund." },
+        { "speaker": "Bank Officer", "text": "Great choice. Our Smart Checking account has no monthly fee as long as you maintain a minimum balance of $500 or receive at least one direct deposit per month. It also includes a free debit card and mobile banking." },
+        { "speaker": "Customer", "text": "That sounds good. What about the savings account?" },
+        { "speaker": "Bank Officer", "text": "Our High-Yield Savings account currently earns 4.5% APY with no minimum balance requirement. You can link it to your checking account for easy transfers." },
+        { "speaker": "Customer", "text": "4.5% is impressive. Is that rate guaranteed?" },
+        { "speaker": "Bank Officer", "text": "It's a variable rate, so it can change based on market conditions, but we've maintained competitive rates consistently. Rates are reviewed quarterly." },
+        { "speaker": "Customer", "text": "Understood. What do I need to open these accounts?" },
+        { "speaker": "Bank Officer", "text": "You'll need two forms of identification — typically a passport or driver's license — plus proof of your current address, such as a utility bill or lease agreement." },
+        { "speaker": "Customer", "text": "I have my passport and a copy of my lease agreement. Is that sufficient?" },
+        { "speaker": "Bank Officer", "text": "Perfect. I'll also need your Social Security Number or ITIN, and an initial deposit. The minimum opening deposit for checking is $25 and for savings is $50." },
+        { "speaker": "Customer", "text": "I can do $200 for checking and $500 for savings. I want to start building that emergency fund right away." },
+        { "speaker": "Bank Officer", "text": "Excellent start. Let me take your documents and we'll fill in the application form together." },
+        { "speaker": "Customer", "text": "How long does the process take?" },
+        { "speaker": "Bank Officer", "text": "About 20–30 minutes. Your accounts will be active immediately. You'll receive your debit card in the mail within 5–7 business days, but you can use your account number for online transactions right away." },
+        { "speaker": "Customer", "text": "Perfect. Can I also set up online banking and the mobile app today?" },
+        { "speaker": "Bank Officer", "text": "Absolutely. I'll walk you through the mobile app setup before you leave. It allows you to deposit checks by taking a photo, transfer money, and set up alerts for all transactions." },
+        { "speaker": "Customer", "text": "That's very convenient. One more question — what's the overdraft policy?" },
+        { "speaker": "Bank Officer", "text": "We offer overdraft protection that links your savings account to your checking account. If your checking balance drops below zero, we automatically transfer funds from savings at no fee. Without this link, there's a $35 overdraft fee per transaction." },
+        { "speaker": "Customer", "text": "I'd like to set up the overdraft protection, please." },
+        { "speaker": "Bank Officer", "text": "Of course. I'll include that in your setup. Let's start with your passport, please." },
+        { "speaker": "Customer", "text": "Here you go. I'm also wondering — is there a way to increase the savings interest rate further?" },
+        { "speaker": "Bank Officer", "text": "Yes. If you maintain a balance over $10,000 in savings, the rate bumps up to 4.8%. And our 12-month CD currently offers 5.2% if you want to lock in a portion of your funds." },
+        { "speaker": "Customer", "text": "I'll keep that in mind for the future. For now, let's proceed with the two accounts." },
+        { "speaker": "Bank Officer", "text": "Wonderful. Welcome to First National Bank. We're glad to have you as a customer." }
+      ]
+    },
+    {
+      "id": "loan-inquiry",
+      "title": "Applying for a Personal Loan",
+      "speakers": ["Loan Officer", "Applicant"],
+      "lines": [
+        { "speaker": "Loan Officer", "text": "Good afternoon. I'm James, a Loan Officer. I understand you're interested in a personal loan?" },
+        { "speaker": "Applicant", "text": "Yes, that's right. I need to fund some home renovations — mainly a kitchen remodel and bathroom upgrade. I'm looking at around $30,000." },
+        { "speaker": "Loan Officer", "text": "A personal loan is a great option for home improvements. Could you share a bit about your financial situation so we can find the best fit?" },
+        { "speaker": "Applicant", "text": "Sure. I've been employed for six years at the same company with a stable income of about $85,000 annually. My credit score was 740 the last time I checked." },
+        { "speaker": "Loan Officer", "text": "A 740 credit score puts you in the 'good' category — you'll likely qualify for our most competitive rates. Currently, our personal loan rates for qualified borrowers start at 7.9% APR." },
+        { "speaker": "Applicant", "text": "What would my monthly payments look like on $30,000 at that rate?" },
+        { "speaker": "Loan Officer", "text": "For a 5-year term at 7.9%, your monthly payment would be approximately $608. Total interest paid over the life of the loan would be around $6,480." },
+        { "speaker": "Applicant", "text": "Is there flexibility on the term? I'd prefer a lower monthly payment if possible." },
+        { "speaker": "Loan Officer", "text": "We offer terms of 3, 5, and 7 years. At 7 years, your monthly payment drops to about $466, but total interest increases to approximately $9,144." },
+        { "speaker": "Applicant", "text": "I see the trade-off. What if I want to pay it off early? Are there prepayment penalties?" },
+        { "speaker": "Loan Officer", "text": "No prepayment penalties whatsoever. Many customers start with a 7-year term for flexibility and pay extra each month to reduce total interest." },
+        { "speaker": "Applicant", "text": "That's a smart strategy. What's the application process?" },
+        { "speaker": "Loan Officer", "text": "It's straightforward. I'll need proof of income — recent pay stubs or tax returns — bank statements from the past three months, your ID, and we'll run a credit check with your permission." },
+        { "speaker": "Applicant", "text": "How long does approval take?" },
+        { "speaker": "Loan Officer", "text": "If all documents are in order, we can often give a decision within 24 hours. Funds are typically disbursed within 2–3 business days of approval." },
+        { "speaker": "Applicant", "text": "That's faster than I expected. One concern — I'm thinking of also refinancing my mortgage in the next year. Would taking this personal loan affect that?" },
+        { "speaker": "Loan Officer", "text": "Good thinking to plan ahead. A new loan will temporarily dip your credit score by a few points and increase your debt-to-income ratio. I'd suggest confirming with a mortgage lender what DTI threshold they require before committing." },
+        { "speaker": "Applicant", "text": "That's very helpful advice. I think I'd like to proceed with the application for the 7-year term and pay extra when I can." },
+        { "speaker": "Loan Officer", "text": "Great. Let me pull up the application. I'll need about 15 minutes of your time now, and I'll send you a secure link to upload your documents digitally when you get home." },
+        { "speaker": "Applicant", "text": "That's very convenient. Let's proceed." }
+      ]
+    }
+  ]
+}

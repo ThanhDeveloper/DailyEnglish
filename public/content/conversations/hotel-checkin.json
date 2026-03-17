@@ -1,0 +1,57 @@
+{
+  "id": "hotel-checkin",
+  "title": "Hotel Check-in",
+  "description": "Practice conversations for checking in, making requests, and resolving issues at a hotel",
+  "dialogues": [
+    {
+      "id": "arrival-checkin",
+      "title": "Checking In at the Hotel",
+      "speakers": ["Guest", "Receptionist"],
+      "lines": [
+        { "speaker": "Receptionist", "text": "Good evening and welcome to the Grand Meridian Hotel. Do you have a reservation with us?" },
+        { "speaker": "Guest", "text": "Yes, I do. The reservation is under the name Thompson — James Thompson. I booked a Deluxe King room for three nights." },
+        { "speaker": "Receptionist", "text": "Let me pull that up for you, Mr. Thompson... Yes, I can see your reservation — a Deluxe King room with city view, checking in tonight and checking out on Saturday." },
+        { "speaker": "Guest", "text": "That's correct. I'm hoping I might be able to get an upgrade if anything is available. I'm celebrating my wedding anniversary." },
+        { "speaker": "Receptionist", "text": "Congratulations on your anniversary! I'd be happy to check. We actually have a Junior Suite available tonight — it features a separate living area, a spa bath, and a panoramic city view. It's normally $120 more per night, but I can offer it to you at a complimentary upgrade as a gift from us." },
+        { "speaker": "Guest", "text": "That's incredibly generous, thank you! My wife will love that." },
+        { "speaker": "Receptionist", "text": "Our pleasure. Could I have a credit card for incidentals, please? We'll place a hold of $200 which will be released upon checkout if there are no charges." },
+        { "speaker": "Guest", "text": "Of course, here's my Visa. Also, could you please make sure our room is ready as soon as possible? We've just come off a long flight and we're exhausted." },
+        { "speaker": "Receptionist", "text": "Your suite is ready right now. Housekeeping prepared it just an hour ago. I'll let the bellhop know to take your bags up." },
+        { "speaker": "Guest", "text": "That's wonderful. Could you also have some champagne and chocolates sent up? I pre-arranged a surprise for my wife before we arrived." },
+        { "speaker": "Receptionist", "text": "I see the note in your reservation — the champagne and anniversary platter are already in the suite waiting for you." },
+        { "speaker": "Guest", "text": "Perfect! Is the hotel spa open this late?" },
+        { "speaker": "Receptionist", "text": "The spa is open until 10 PM tonight and from 7 AM tomorrow. Would you like me to book a couples' treatment for tomorrow morning?" },
+        { "speaker": "Guest", "text": "Yes, please. Around 10 AM would be ideal." },
+        { "speaker": "Receptionist", "text": "I've reserved the couples' massage for 10 AM tomorrow. Here are your key cards. Your suite is on the 18th floor — room 1804. The lift is just behind you. Breakfast is served from 6:30 to 10:30 AM in the Terrace Restaurant on the second floor. Is there anything else I can help you with?" },
+        { "speaker": "Guest", "text": "What's the Wi-Fi password?" },
+        { "speaker": "Receptionist", "text": "The password is on this card — GrandMeridian2024. It works throughout the hotel. And if you need anything at any time, just dial zero from your room phone." },
+        { "speaker": "Guest", "text": "Thank you so much. You've made our anniversary very special already." },
+        { "speaker": "Receptionist", "text": "That's our goal. Enjoy your stay, Mr. Thompson. Happy anniversary!" }
+      ]
+    },
+    {
+      "id": "complaint-resolution",
+      "title": "Resolving a Room Problem",
+      "speakers": ["Guest", "Manager"],
+      "lines": [
+        { "speaker": "Guest", "text": "Excuse me, I need to speak with a manager. I have an issue with my room that hasn't been resolved." },
+        { "speaker": "Manager", "text": "Of course. I'm Lisa, the Duty Manager. I'm sorry to hear you're having a problem. What's the issue?" },
+        { "speaker": "Guest", "text": "I'm in room 512. The air conditioning has not been working properly since I checked in two days ago. I reported it to the front desk yesterday morning and was told it would be fixed, but it still isn't working. My room is uncomfortably warm and I can't sleep." },
+        { "speaker": "Manager", "text": "I sincerely apologize for this, and especially for the delayed follow-through on your report. That is not acceptable. Let me check the maintenance log immediately." },
+        { "speaker": "Guest", "text": "I appreciate that. I have one more night here and I really need a comfortable room to sleep in." },
+        { "speaker": "Manager", "text": "I completely understand. I can see the maintenance request was submitted but not yet completed — I'll escalate that right now. In the meantime, I'd like to move you to a comparable room on a higher floor where I know the climate control is working perfectly. Would that work for you?" },
+        { "speaker": "Guest", "text": "That would be acceptable, yes. But I'd like to make sure everything is as described before I move all my belongings." },
+        { "speaker": "Manager", "text": "Absolutely. I'll personally take you to view room 718 before any decision is made. It's a Deluxe room on a corner with a park view — actually a slightly nicer view than your current room." },
+        { "speaker": "Guest", "text": "I'd like to see it first, please." },
+        { "speaker": "Manager", "text": "Of course. Before we go up — as an apology for the inconvenience, I'd like to offer you dinner for two in our restaurant tonight, complimentary, and waive the resort fee for your stay." },
+        { "speaker": "Guest", "text": "I appreciate that gesture. The inconvenience has been significant, though. Two nights without proper sleep has affected my work meetings today." },
+        { "speaker": "Manager", "text": "I understand completely. I'll also apply a 20% discount to your total room bill as additional compensation. I want to ensure you leave with a positive impression of us." },
+        { "speaker": "Guest", "text": "That's fair. Thank you for taking this seriously. Let's go look at the room." },
+        { "speaker": "Manager", "text": "Right this way. And I'll make sure the porter assists with moving your luggage so it's as seamless as possible for you." },
+        { "speaker": "Guest", "text": "I appreciate the personal attention. Room 718 looks lovely — much better than 512 honestly. I'll take it." },
+        { "speaker": "Manager", "text": "Wonderful. Your new keys are ready and I'll have your belongings transferred within 30 minutes. Once again, I'm truly sorry for the disruption to your stay." },
+        { "speaker": "Guest", "text": "I appreciate how you handled this. I'll look forward to a good night's sleep finally." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "bbc-conversations",
+  "title": "BBC English Conversations",
+  "description": "Real-life English conversations from BBC Learning English — natural, everyday dialogue",
+  "episodes": [
+    {
+      "id": "bbcconv-ep1",
+      "title": "At the Coffee Shop",
+      "description": "Listen to a natural conversation between two friends catching up at a coffee shop",
+      "youtubeId": "A2kXH4bCxHo",
+      "duration": "5:30",
+      "level": "beginner",
+      "tags": ["daily life", "food", "conversation"],
+      "transcript": [
+        { "time": "0:00", "text": "Hi Sarah! It's so good to see you. How have you been?" },
+        { "time": "0:05", "text": "Tom! Great to see you too. I've been really busy with work lately." },
+        { "time": "0:11", "text": "Tell me about it. What have you been up to?" },
+        { "time": "0:15", "text": "I just finished a big project. It took three months but we finally launched it last week." },
+        { "time": "0:22", "text": "That's amazing! You must be relieved. Are you celebrating?" },
+        { "time": "0:27", "text": "Well, that's kind of why I wanted to meet. The team is going out for dinner tonight. Would you like to join us?" },
+        { "time": "0:35", "text": "Oh, I'd love to! What kind of food are we having?" },
+        { "time": "0:39", "text": "Italian. There's a new restaurant that just opened downtown. Apparently the pasta is incredible." },
+        { "time": "0:47", "text": "Sounds perfect. What time should I be there?" },
+        { "time": "0:51", "text": "Seven o'clock. I'll send you the address. Oh, and smart casual dress code." },
+        { "time": "0:58", "text": "No problem. I'll be there. Now, what can I get you to drink?" },
+        { "time": "1:03", "text": "A flat white, please. With oat milk if they have it." },
+        { "time": "1:08", "text": "Good choice. I think I'll have the same. The coffee here is really good." },
+        { "time": "1:14", "text": "Exactly. I discovered this place last month. It's become my regular spot." },
+        { "time": "1:20", "text": "Key phrase: 'my regular spot' means a place you go to often. A spot is an informal word for a place." }
+      ]
+    },
+    {
+      "id": "bbcconv-ep2",
+      "title": "Job Application Phone Call",
+      "description": "Hear how to handle a professional phone call about a job application in English",
+      "youtubeId": "P9A0q6GbpVQ",
+      "duration": "6:15",
+      "level": "intermediate",
+      "tags": ["work", "professional", "phone"],
+      "transcript": [
+        { "time": "0:00", "text": "Good morning, Innovatech Solutions. How can I help you?" },
+        { "time": "0:05", "text": "Good morning. My name is James Chen. I'm calling about the software developer position I applied for last week." },
+        { "time": "0:13", "text": "Of course, Mr. Chen. Let me pull up your application. Could you hold for just a moment?" },
+        { "time": "0:19", "text": "Certainly, no problem." },
+        { "time": "0:22", "text": "Thank you for holding. I can see your application here. Our hiring team was impressed with your portfolio." },
+        { "time": "0:30", "text": "Thank you, I'm very excited about the opportunity to join your team." },
+        { "time": "0:35", "text": "We'd like to invite you for a first-round interview. Are you available this Thursday or Friday?" },
+        { "time": "0:42", "text": "Friday would be ideal. Could you tell me the format? Will it be in person or online?" },
+        { "time": "0:49", "text": "It will be a hybrid — a 30-minute video call with the technical team, followed by a brief in-person tour if things go well." },
+        { "time": "0:58", "text": "That sounds great. What time on Friday works best?" },
+        { "time": "1:03", "text": "We have slots at ten in the morning or two in the afternoon." },
+        { "time": "1:08", "text": "Ten in the morning would be perfect, thank you." },
+        { "time": "1:13", "text": "Excellent. I'll send a confirmation email with all the details. Is the email address on your application still current?" },
+        { "time": "1:21", "text": "Yes, james.chen at gmail dot com. That's correct." },
+        { "time": "1:27", "text": "Perfect. We look forward to speaking with you on Friday, Mr. Chen. Have a great day." },
+        { "time": "1:33", "text": "Thank you so much. I look forward to it as well. Goodbye." }
+      ]
+    },
+    {
+      "id": "bbcconv-ep3",
+      "title": "Discussing the News",
+      "description": "Two colleagues discuss a current news story during their lunch break",
+      "youtubeId": "M7lc1UVf-VE",
+      "duration": "7:00",
+      "level": "upper-intermediate",
+      "tags": ["news", "media", "opinion"],
+      "transcript": [
+        { "time": "0:00", "text": "Did you read that article about the new climate agreement this morning?" },
+        { "time": "0:05", "text": "Yes, I did. It's quite significant, isn't it? Over 190 countries signed it." },
+        { "time": "0:12", "text": "It is, but I'm a bit skeptical. I mean, how enforceable is it really?" },
+        { "time": "0:18", "text": "That's a fair point. Skeptical means doubtful — not fully convinced something is true or will work." },
+        { "time": "0:26", "text": "Right. We've seen these agreements before. The Paris Agreement was promising, but many countries missed their targets." },
+        { "time": "0:35", "text": "True. But this one apparently has stronger accountability measures built in. Countries that miss targets face trade penalties." },
+        { "time": "0:44", "text": "That does change things. Economic consequences tend to get governments' attention." },
+        { "time": "0:50", "text": "Exactly. And there's independent monitoring this time — not just self-reporting." },
+        { "time": "0:57", "text": "Self-reporting is when countries measure and report their own progress. Independent monitoring means an outside body verifies it." },
+        { "time": "1:07", "text": "I suppose I'm cautiously optimistic then. The mechanism is stronger, even if the ambition isn't enough." },
+        { "time": "1:15", "text": "Cautiously optimistic — that's a useful phrase. It means hopeful but with some reservations." },
+        { "time": "1:23", "text": "What did the article say about renewable energy targets?" },
+        { "time": "1:28", "text": "The goal is 60% renewable energy globally by 2040. That's ambitious compared to the current 30%." },
+        { "time": "1:36", "text": "It'll require enormous investment. Where's that money supposed to come from?" },
+        { "time": "1:42", "text": "A mix of public funding and private sector investment, apparently. Green bonds are going to play a big role." }
+      ]
+    }
+  ]
+}

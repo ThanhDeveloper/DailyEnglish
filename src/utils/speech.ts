@@ -1,4 +1,34 @@
-export function speak(text: string, rate = 0.9): void {
+const PREFERRED_VOICES = [
+  // High-quality neural/natural voices (Chrome/Edge)
+  'Google US English',
+  'Microsoft Aria Online (Natural) - English (United States)',
+  'Microsoft Jenny Online (Natural) - English (United States)',
+  'Microsoft Guy Online (Natural) - English (United States)',
+  'Google UK English Female',
+  'Google UK English Male',
+  // macOS/iOS
+  'Samantha',
+  'Daniel',
+  // Fallback Google
+  'Google English',
+];
+
+function getBestVoice(): SpeechSynthesisVoice | null {
+  const voices = window.speechSynthesis.getVoices();
+  for (const preferred of PREFERRED_VOICES) {
+    const match = voices.find((v) => v.name === preferred);
+    if (match) return match;
+  }
+  // Fallback: any en-US or en-GB voice
+  return (
+    voices.find((v) => v.lang === 'en-US') ||
+    voices.find((v) => v.lang === 'en-GB') ||
+    voices.find((v) => v.lang.startsWith('en')) ||
+    null
+  );
+}
+
+export function speak(text: string, rate = 0.88): void {
   if (!('speechSynthesis' in window)) return;
   window.speechSynthesis.cancel();
 
@@ -7,13 +37,21 @@ export function speak(text: string, rate = 0.9): void {
   utterance.rate = rate;
   utterance.pitch = 1;
 
-  const voices = window.speechSynthesis.getVoices();
-  const englishVoice = voices.find(
-    (v) => v.lang.startsWith('en') && v.name.includes('Google')
-  ) || voices.find((v) => v.lang.startsWith('en'));
+  // Voices may not be loaded yet on first call
+  const trySpeak = () => {
+    const voice = getBestVoice();
+    if (voice) utterance.voice = voice;
+    window.speechSynthesis.speak(utterance);
+  };
 
-  if (englishVoice) utterance.voice = englishVoice;
-  window.speechSynthesis.speak(utterance);
+  if (window.speechSynthesis.getVoices().length === 0) {
+    window.speechSynthesis.onvoiceschanged = () => {
+      window.speechSynthesis.onvoiceschanged = null;
+      trySpeak();
+    };
+  } else {
+    trySpeak();
+  }
 }
 
 export interface SpeechRecognitionResult {

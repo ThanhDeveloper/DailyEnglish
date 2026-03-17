@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { TopicCard } from '../../components/TopicCard';
+import { StreakWidget } from '../../components/StreakWidget';
 import { SearchIcon, BookIcon, HeadphonesIcon, MessageCircleIcon, MicIcon } from '../../components/Icons';
 import { getContentIndex, getAllTopics } from '../../utils/content';
 import type { ContentIndex, Topic } from '../../types';
@@ -32,11 +33,13 @@ export function HomePage() {
           <Link to="/search" className="btn btn-primary">
             <SearchIcon size={18} /> Search Words
           </Link>
-          <Link to="/flashcards/core-vocab" className="btn btn-outline">
+          <Link to="/flashcards" className="btn btn-outline">
             <BookIcon size={18} /> Flashcards
           </Link>
         </div>
       </section>
+
+      <StreakWidget />
 
       <section className="section">
         <h2 className="section-title">Topics</h2>

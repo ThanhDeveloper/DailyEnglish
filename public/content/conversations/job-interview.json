@@ -1,0 +1,67 @@
+{
+  "id": "job-interview",
+  "title": "Job Interview",
+  "description": "Practice complete job interview conversations in English",
+  "dialogues": [
+    {
+      "id": "software-engineer",
+      "title": "Software Engineer Interview",
+      "speakers": ["Interviewer", "Candidate"],
+      "lines": [
+        { "speaker": "Interviewer", "text": "Good morning! Please come in and have a seat. Can I get you anything — water or coffee?" },
+        { "speaker": "Candidate", "text": "Good morning. Thank you, I'm fine. I appreciate the offer." },
+        { "speaker": "Interviewer", "text": "Great. My name is Sarah, and I'm the Engineering Manager here. Thank you for coming in today." },
+        { "speaker": "Candidate", "text": "Thank you for having me. I've been really looking forward to this opportunity." },
+        { "speaker": "Interviewer", "text": "Excellent. Let's start with the basics. Could you walk me through your background and what brought you to apply for this role?" },
+        { "speaker": "Candidate", "text": "Of course. I have five years of experience in full-stack development, primarily using React on the front end and Node.js on the back end. I've been at my current company for three years building e-commerce platforms, but I'm looking for a new challenge with a team that focuses on scalable infrastructure — which is exactly what drew me to your company." },
+        { "speaker": "Interviewer", "text": "That's great context. Our team is indeed working on some very interesting scaling challenges. Can you tell me about a particularly difficult technical problem you've solved recently?" },
+        { "speaker": "Candidate", "text": "Sure. Last year, our checkout service was experiencing timeouts under heavy load during flash sales. I analyzed the bottleneck and discovered our database was being hit with too many simultaneous queries. I implemented a Redis caching layer and rewrote several queries to use connection pooling. As a result, response times dropped from 4 seconds to under 300 milliseconds." },
+        { "speaker": "Interviewer", "text": "Impressive. How did you approach debugging the problem initially?" },
+        { "speaker": "Candidate", "text": "I started by reviewing the application logs and found a spike in database connection errors during peak hours. I then used a profiling tool to identify the slowest queries. Once I had the data, I reproduced the issue locally with load testing tools before deploying the fix." },
+        { "speaker": "Interviewer", "text": "That's a solid approach. How do you handle disagreements with teammates about technical decisions?" },
+        { "speaker": "Candidate", "text": "I think healthy disagreement leads to better solutions. My approach is to listen carefully to understand the other person's reasoning, then share my perspective with data or examples. If we still can't agree, I suggest we prototype both approaches and measure the results objectively." },
+        { "speaker": "Interviewer", "text": "That's a mature approach. Now let's talk a bit about culture. How would you describe your ideal work environment?" },
+        { "speaker": "Candidate", "text": "I thrive in environments with clear goals but freedom in how to achieve them. I enjoy collaborating closely with designers and product managers, and I appreciate teams where feedback is given openly and constructively. I also value a culture of continuous learning." },
+        { "speaker": "Interviewer", "text": "That aligns well with how we work here. What are you hoping to learn or grow in over the next year if you join us?" },
+        { "speaker": "Candidate", "text": "I'd like to deepen my knowledge of distributed systems and eventually move toward a tech lead role. I'm also interested in mentoring junior developers, which I believe strengthens the whole team." },
+        { "speaker": "Interviewer", "text": "We have opportunities for exactly that. Do you have any questions for me about the role or the team?" },
+        { "speaker": "Candidate", "text": "Yes, a few. What does the onboarding process look like? And how do you typically measure success for someone in this role in the first six months?" },
+        { "speaker": "Interviewer", "text": "Great questions. Onboarding is about four weeks — you'd shadow different team members and complete a starter project. For success metrics, we look at code quality, collaboration, and meeting sprint goals consistently." },
+        { "speaker": "Candidate", "text": "That sounds very structured. I also wanted to ask — what's the biggest challenge your team is facing right now?" },
+        { "speaker": "Interviewer", "text": "Honestly, we're migrating from a monolith to microservices, which is complex. That's actually where someone with your caching and performance experience would add immediate value." },
+        { "speaker": "Candidate", "text": "That's very exciting. I went through a similar migration at my previous job — it's challenging but rewarding when done right." },
+        { "speaker": "Interviewer", "text": "Wonderful. We'll be in touch within the week about next steps. It was a pleasure speaking with you." },
+        { "speaker": "Candidate", "text": "Thank you so much, Sarah. I really enjoyed learning more about the team and the challenges ahead. I look forward to hearing from you." }
+      ]
+    },
+    {
+      "id": "marketing-manager",
+      "title": "Marketing Manager Interview",
+      "speakers": ["Director", "Applicant"],
+      "lines": [
+        { "speaker": "Director", "text": "Welcome! Please make yourself comfortable. I'm David, the Marketing Director. I'm glad you could come in." },
+        { "speaker": "Applicant", "text": "Thank you, David. It's great to be here. I've been following the company's campaigns for a while and I'm really excited about this opportunity." },
+        { "speaker": "Director", "text": "That's good to hear. So tell me — why are you interested in moving into a management role at this stage of your career?" },
+        { "speaker": "Applicant", "text": "I've been a senior marketing specialist for four years and I've naturally taken on leadership responsibilities — mentoring new team members, leading campaign strategy, and presenting results to stakeholders. I feel ready to formalize that role and have a bigger impact on the team's direction." },
+        { "speaker": "Director", "text": "Can you give me an example of a campaign you're particularly proud of?" },
+        { "speaker": "Applicant", "text": "Absolutely. Last quarter I led a multi-channel product launch for our B2B software division. I coordinated content, email, paid social, and PR simultaneously. The campaign generated 40% more leads than our target and we cut cost per acquisition by 25%." },
+        { "speaker": "Director", "text": "That's quite an achievement. How did you manage cross-functional coordination with so many moving parts?" },
+        { "speaker": "Applicant", "text": "I built a shared project management board in Asana, set up weekly sync calls with each channel lead, and created a shared calendar with all key milestones visible to the whole team. Clear communication and visibility were key." },
+        { "speaker": "Director", "text": "How do you prioritize when multiple campaigns need attention at the same time?" },
+        { "speaker": "Applicant", "text": "I use a combination of business impact and urgency. I have a scoring framework that weighs revenue potential, strategic alignment, and deadline proximity. I also make sure to communicate priorities clearly to the team so everyone knows what to focus on." },
+        { "speaker": "Director", "text": "How do you handle underperforming team members?" },
+        { "speaker": "Applicant", "text": "I start by having a one-on-one conversation to understand the root cause — whether it's a skills gap, unclear expectations, or personal challenges. Then I create an actionable development plan with clear milestones. I believe people need clear feedback delivered with empathy." },
+        { "speaker": "Director", "text": "What's your experience with managing marketing budgets?" },
+        { "speaker": "Applicant", "text": "I managed a $500K annual budget across digital channels. I track spend weekly against KPIs, reallocate to channels that outperform, and ensure we're always optimizing for ROI. I also present monthly budget reviews to the CFO." },
+        { "speaker": "Director", "text": "Excellent. We're a data-driven culture here. How comfortable are you with analytics and reporting?" },
+        { "speaker": "Applicant", "text": "Very comfortable. I use Google Analytics, HubSpot, and Tableau daily. I believe marketing decisions should be backed by data, and I'm always building dashboards to make performance visible to leadership." },
+        { "speaker": "Director", "text": "Do you have any questions for me?" },
+        { "speaker": "Applicant", "text": "Yes. What are the top two priorities you'd want the new Marketing Manager to tackle in the first 90 days?" },
+        { "speaker": "Director", "text": "Great question. First, understand our current customer segmentation — it needs a refresh. Second, streamline our content production process, which is currently too slow." },
+        { "speaker": "Applicant", "text": "Those are areas where I have strong experience. I'd be very excited to dig into both." },
+        { "speaker": "Director", "text": "Wonderful. We'll notify candidates about the next round by end of next week. Thank you for your time." },
+        { "speaker": "Applicant", "text": "Thank you, David. I truly appreciate the conversation and I hope to join the team." }
+      ]
+    }
+  ]
+}

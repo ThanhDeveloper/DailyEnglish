@@ -1,0 +1,65 @@
+{
+  "id": "doctor-visit",
+  "title": "Doctor Visit",
+  "description": "Practice conversations at the doctor's office and hospital in English",
+  "dialogues": [
+    {
+      "id": "general-checkup",
+      "title": "General Check-up",
+      "speakers": ["Doctor", "Patient"],
+      "lines": [
+        { "speaker": "Doctor", "text": "Good morning! I'm Dr. Chen. Please have a seat. What brings you in today?" },
+        { "speaker": "Patient", "text": "Good morning, Doctor. I've been having some persistent headaches for about two weeks now and I'm a bit concerned." },
+        { "speaker": "Doctor", "text": "I see. Can you describe the headaches? Are they dull or sharp? Do they happen at a specific time of day?" },
+        { "speaker": "Patient", "text": "They're mostly a dull, throbbing pain, usually starting in the afternoon. They last a few hours and sometimes come with a bit of neck stiffness." },
+        { "speaker": "Doctor", "text": "Are you experiencing any other symptoms — nausea, sensitivity to light or sound, blurred vision?" },
+        { "speaker": "Patient", "text": "Occasionally some sensitivity to light, yes. No nausea though." },
+        { "speaker": "Doctor", "text": "On a scale of one to ten, how severe is the pain when it's at its worst?" },
+        { "speaker": "Patient", "text": "I'd say about a six or seven. It makes it hard to concentrate at work." },
+        { "speaker": "Doctor", "text": "Have you taken anything for the pain?" },
+        { "speaker": "Patient", "text": "I've been taking over-the-counter ibuprofen, which helps a little but doesn't fully resolve it." },
+        { "speaker": "Doctor", "text": "Any recent changes in your lifestyle — new stresses at work, less sleep, changes in your diet or fluid intake?" },
+        { "speaker": "Patient", "text": "Actually, yes. I've been under a lot of stress at work lately and I think I haven't been drinking enough water. I've also been staring at my computer screen much longer than usual." },
+        { "speaker": "Doctor", "text": "Those are likely contributors. Let me do a brief examination. Can you follow my finger with your eyes please?" },
+        { "speaker": "Patient", "text": "Of course." },
+        { "speaker": "Doctor", "text": "Good. I'm also going to check your blood pressure. Have you had it checked recently?" },
+        { "speaker": "Patient", "text": "Not in about a year." },
+        { "speaker": "Doctor", "text": "Your blood pressure is slightly elevated — 138 over 88. It's not critically high, but it's something to monitor. Given your symptoms and the timeline, I believe these are tension headaches, likely triggered by stress, dehydration, and eye strain." },
+        { "speaker": "Patient", "text": "That's a relief. What would you recommend?" },
+        { "speaker": "Doctor", "text": "First, increase your water intake to at least two liters a day. Take regular breaks from your screen using the 20-20-20 rule — every 20 minutes, look at something 20 feet away for 20 seconds. Try to manage stress with light exercise or meditation. If the headaches continue after two weeks, come back and we'll consider further tests." },
+        { "speaker": "Patient", "text": "Should I be concerned about the blood pressure?" },
+        { "speaker": "Doctor", "text": "It's borderline. I'd like you to reduce sodium in your diet and avoid caffeine after noon. Monitor it at a pharmacy over the next two weeks and bring me the readings." },
+        { "speaker": "Patient", "text": "I can do that. Do I need a prescription for anything?" },
+        { "speaker": "Doctor", "text": "Not at this stage. Continue ibuprofen as needed but don't exceed 1200mg per day. If headaches worsen or you develop fever, vision changes, or severe neck pain, go to the emergency room immediately." },
+        { "speaker": "Patient", "text": "Understood. Thank you so much, Doctor. I feel much better knowing what's happening." },
+        { "speaker": "Doctor", "text": "You're welcome. My receptionist will schedule a follow-up in two weeks. Take care of yourself." }
+      ]
+    },
+    {
+      "id": "allergy-consultation",
+      "title": "Allergy Consultation",
+      "speakers": ["Specialist", "Patient"],
+      "lines": [
+        { "speaker": "Specialist", "text": "Hello, I'm Dr. Rivera, an allergist. I've reviewed your referral. Tell me more about your symptoms." },
+        { "speaker": "Patient", "text": "Hi, Doctor. For the past few months I've had constant sneezing, itchy eyes, and a runny nose. It seems worse in the mornings and when I'm near certain plants." },
+        { "speaker": "Specialist", "text": "Do you have any pets?" },
+        { "speaker": "Patient", "text": "Yes, I have a cat. I've had her for two years though, and the symptoms only started recently." },
+        { "speaker": "Specialist", "text": "Allergies can develop at any age, even to animals you've owned for years. Have you noticed any skin reactions — hives, rashes, or itching?" },
+        { "speaker": "Patient", "text": "Sometimes my arms get itchy after the cat sits on me." },
+        { "speaker": "Specialist", "text": "That's significant. Any asthma-like symptoms — wheezing or shortness of breath?" },
+        { "speaker": "Patient", "text": "Occasionally, when I'm around heavy perfume or cigarette smoke." },
+        { "speaker": "Specialist", "text": "I'd like to run an allergy panel — both a skin prick test and a blood test — to identify specific triggers. Are you currently taking any antihistamines?" },
+        { "speaker": "Patient", "text": "I've been taking loratadine daily. It helps somewhat but not completely." },
+        { "speaker": "Specialist", "text": "We'll need to pause antihistamines 72 hours before the skin test for accurate results. I'll also recommend you keep an allergy diary — note your symptoms, location, time of day, and any triggers you suspect." },
+        { "speaker": "Patient", "text": "What if the tests confirm a cat allergy? I really don't want to give up my cat." },
+        { "speaker": "Specialist", "text": "That's understandable. If it's confirmed, we have options. Allergen immunotherapy — commonly called allergy shots — can desensitize your immune system over time. We can also prescribe stronger nasal corticosteroids and discuss environmental controls like air purifiers and keeping the cat out of your bedroom." },
+        { "speaker": "Patient", "text": "How long does immunotherapy take?" },
+        { "speaker": "Specialist", "text": "Typically three to five years for full desensitization. But most patients see noticeable improvement within six months." },
+        { "speaker": "Patient", "text": "That's reassuring. What should I do in the meantime?" },
+        { "speaker": "Specialist", "text": "Wash your hands after touching the cat, vacuum frequently with a HEPA filter, and try to keep windows closed during high pollen season. I'll prescribe a stronger antihistamine and a nasal spray to manage your symptoms while we wait for test results." },
+        { "speaker": "Patient", "text": "Thank you, Doctor. I'll schedule the allergy testing." },
+        { "speaker": "Specialist", "text": "Perfect. We'll have results in about a week and then we can build a proper management plan together." }
+      ]
+    }
+  ]
+}

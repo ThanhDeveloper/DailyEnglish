@@ -8,17 +8,48 @@
     { "id": "travel", "title": "Travel", "icon": "map", "color": "#10b981" },
     { "id": "daily-conversation", "title": "Daily Conversation", "icon": "message-circle", "color": "#06b6d4" },
     { "id": "shopping", "title": "Shopping", "icon": "shopping-bag", "color": "#f97316" },
-    { "id": "technology", "title": "Technology", "icon": "laptop", "color": "#7c3aed" }
+    { "id": "technology", "title": "Technology", "icon": "laptop", "color": "#7c3aed" },
+    { "id": "it-software", "title": "IT & Software", "icon": "code", "color": "#7c3aed" },
+    { "id": "business-meeting", "title": "Business Meetings", "icon": "briefcase", "color": "#0369a1" },
+    { "id": "job-interview", "title": "Job Interview", "icon": "user-check", "color": "#059669" },
+    { "id": "health-fitness", "title": "Health & Fitness", "icon": "heart-pulse", "color": "#dc2626" },
+    { "id": "finance-banking", "title": "Finance & Banking", "icon": "dollar-sign", "color": "#ca8a04" },
+    { "id": "education", "title": "Education", "icon": "graduation-cap", "color": "#0891b2" },
+    { "id": "environment", "title": "Environment", "icon": "leaf", "color": "#16a34a" },
+    { "id": "social-media", "title": "Social Media", "icon": "share-2", "color": "#7c3aed" },
+    { "id": "cooking-food", "title": "Cooking & Food", "icon": "chef-hat", "color": "#ea580c" },
+    { "id": "sports", "title": "Sports", "icon": "trophy", "color": "#0284c7" },
+    { "id": "relationships", "title": "Relationships", "icon": "heart", "color": "#be185d" },
+    { "id": "law-legal", "title": "Law & Legal", "icon": "scale", "color": "#1e3a5f" },
+    { "id": "science-research", "title": "Science & Research", "icon": "flask", "color": "#0369a1" }
   ],
   "podcasts": [
-    { "id": "beginner", "title": "Beginner English Podcasts" },
-    { "id": "daily", "title": "Daily English Practice" }
+    { "id": "bbc-6min", "title": "BBC 6 Minute English" },
+    { "id": "bbc-conversations", "title": "BBC Easy English Conversations" },
+    { "id": "bbc-news-english", "title": "BBC English from the News" }
   ],
   "conversations": [
     { "id": "airport", "title": "At the Airport" },
-    { "id": "restaurant", "title": "At the Restaurant" }
+    { "id": "restaurant", "title": "At the Restaurant" },
+    { "id": "job-interview", "title": "Job Interview" },
+    { "id": "doctor-visit", "title": "Doctor Visit" },
+    { "id": "business-negotiation", "title": "Business Negotiation" },
+    { "id": "shopping-mall", "title": "Shopping Mall" },
+    { "id": "bank-visit", "title": "At the Bank" },
+    { "id": "hotel-checkin", "title": "Hotel Check-in" },
+    { "id": "tech-support", "title": "Tech Support" },
+    { "id": "university-life", "title": "University Life" }
   ],
   "flashcardSets": [
-    { "id": "core-vocab", "title": "Core Vocabulary" }
+    { "id": "a1-beginner", "title": "A1 Beginner", "level": "A1" },
+    { "id": "b1-intermediate", "title": "B1 Intermediate", "level": "B1" },
+    { "id": "b2-upper-intermediate", "title": "B2 Upper Intermediate", "level": "B2" },
+    { "id": "core-vocab", "title": "Core Vocabulary", "level": "B1" },
+    { "id": "ielts-academic", "title": "IELTS Academic Words", "level": "C1" },
+    { "id": "business-english", "title": "Business English", "level": "B2" },
+    { "id": "finance-vocab", "title": "Finance & Banking", "level": "B2" },
+    { "id": "life-english", "title": "Everyday Life English", "level": "B1" },
+    { "id": "study-english", "title": "Academic & Study English", "level": "B2" },
+    { "id": "phrasal-verbs", "title": "Phrasal Verbs", "level": "B1" }
   ]
 }

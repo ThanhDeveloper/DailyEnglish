@@ -29,6 +29,25 @@
   display: flex;
   flex-direction: column;
   gap: 12px;
+  max-height: 520px;
+  overflow-y: auto;
+  padding-right: 4px;
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border) transparent;
+}
+
+.lines::-webkit-scrollbar {
+  width: 4px;
+}
+
+.lines::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.lines::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 2px;
 }
 
 .line {
@@ -46,7 +65,7 @@
   background: var(--color-bg);
   border-left: 3px solid;
   position: relative;
-  transition: background 0.2s;
+  transition: background 0.25s, box-shadow 0.25s, transform 0.2s;
 }
 
 .right .bubble {
@@ -55,7 +74,14 @@
 }
 
 .active .bubble {
-  background: rgba(37, 99, 235, 0.06);
+  background: rgba(37, 99, 235, 0.08);
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.15);
+  transform: scale(1.01);
+}
+
+.stopBtn {
+  border-color: var(--color-danger) !important;
+  color: var(--color-danger) !important;
 }
 
 .name {

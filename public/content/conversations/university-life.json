@@ -1,0 +1,63 @@
+{
+  "id": "university-life",
+  "title": "University Life",
+  "description": "Practice conversations about studying, campus life, and academic challenges",
+  "dialogues": [
+    {
+      "id": "academic-advisor",
+      "title": "Meeting with Academic Advisor",
+      "speakers": ["Student", "Advisor"],
+      "lines": [
+        { "speaker": "Advisor", "text": "Come in! I'm Professor Hammond, your academic advisor. You must be Minh? Please have a seat." },
+        { "speaker": "Student", "text": "Yes, thank you. I'm Minh. I appreciate you making time for me today." },
+        { "speaker": "Advisor", "text": "Of course. So, what's on your mind? You mentioned in your email that you're reconsidering your course selection." },
+        { "speaker": "Student", "text": "That's right. I started my second year as a Computer Science major but honestly I've been struggling and I'm questioning whether it's the right fit for me." },
+        { "speaker": "Advisor", "text": "That's a really important thing to reflect on. Can you tell me more about what's been challenging? Is it the content itself, the workload, or something else?" },
+        { "speaker": "Student", "text": "A bit of everything. I find the theoretical mathematics quite difficult — things like discrete math and algorithms. But I actually enjoy the practical parts, like building applications and working on user interfaces." },
+        { "speaker": "Advisor", "text": "That's actually very useful self-awareness. Have you considered that you might be more aligned with a Software Engineering or Information Systems degree rather than pure Computer Science?" },
+        { "speaker": "Student", "text": "I didn't know those were different. What's the distinction?" },
+        { "speaker": "Advisor", "text": "Computer Science is more theoretical — algorithms, mathematics, AI fundamentals. Software Engineering focuses on the full software development lifecycle with less theoretical math. Information Systems combines computing with business, which is very employable." },
+        { "speaker": "Student", "text": "Software Engineering sounds much more like what I enjoy. What would the process be to change majors?" },
+        { "speaker": "Advisor", "text": "You'd need to submit a change-of-major request form by the end of this semester. The good news is that most of your first-year courses count toward all three programs, so you wouldn't lose credit." },
+        { "speaker": "Student", "text": "That's reassuring. Would I still graduate on time?" },
+        { "speaker": "Advisor", "text": "If you switch now, likely yes — you're early enough in your degree. I'd map out your remaining requirements to confirm. Can you share your transcript so I can review what you've taken?" },
+        { "speaker": "Student", "text": "Sure, here's my student ID so you can pull it up." },
+        { "speaker": "Advisor", "text": "Let me see... You've completed Introduction to Programming, Calculus I, and Academic Writing. With a switch to Software Engineering, these all transfer. You'd need to add Software Requirements, System Design, and two practical project courses." },
+        { "speaker": "Student", "text": "That sounds very manageable. Can I also maintain my current GPA if I switch? I'm at 3.2 right now but I'm worried about dropping." },
+        { "speaker": "Advisor", "text": "Many students actually find their GPA improves after switching to a program better aligned with their strengths. A 3.2 is solid — don't be too hard on yourself." },
+        { "speaker": "Student", "text": "Thank you. That's encouraging. What should my next steps be?" },
+        { "speaker": "Advisor", "text": "First, attend an open class in Software Engineering next week — I'll arrange a visitor pass. Second, talk to two or three SE students about their experience. Then if you're sure, I'll help you complete the transfer form before the deadline." },
+        { "speaker": "Student", "text": "That plan makes a lot of sense. I really appreciate your guidance, Professor Hammond." },
+        { "speaker": "Advisor", "text": "It's what I'm here for. Choosing the right path is one of the most important decisions you'll make. Come back after the open class and we'll take the next step together." }
+      ]
+    },
+    {
+      "id": "study-group",
+      "title": "Forming a Study Group",
+      "speakers": ["Student A", "Student B"],
+      "lines": [
+        { "speaker": "Student A", "text": "Hey! You were in the Advanced Economics lecture, right? I'm Priya." },
+        { "speaker": "Student B", "text": "Yes! I'm Tom. I've seen you in there. That was a pretty intense lecture today, wasn't it?" },
+        { "speaker": "Student A", "text": "Seriously. The section on monetary policy and inflation targeting went way over my head. Are you struggling with it too?" },
+        { "speaker": "Student B", "text": "Absolutely. I was lost from about the third slide. I'm going to need to review it multiple times before the midterm." },
+        { "speaker": "Student A", "text": "I was actually thinking about starting a study group. A few of us have been talking about it. Would you be interested?" },
+        { "speaker": "Student B", "text": "Definitely. I study much better with other people — explaining things out loud helps me understand them." },
+        { "speaker": "Student A", "text": "Exactly! I was thinking maybe three or four people maximum so it doesn't become chaotic." },
+        { "speaker": "Student B", "text": "I agree. A smaller group stays focused. I know Maya from our tutorial group who's quite strong on macroeconomics." },
+        { "speaker": "Student A", "text": "Oh, that would be great to have someone stronger in that area. My strength is more microeconomics and statistics." },
+        { "speaker": "Student B", "text": "And I'm decent at data interpretation and writing essays. Between us we'd cover most of the exam topics." },
+        { "speaker": "Student A", "text": "Perfect. When and where would work for you? I was thinking the library study rooms — they're quiet and have whiteboards." },
+        { "speaker": "Student B", "text": "The library works great. I'm available Tuesday and Thursday evenings after 6 PM, and Sunday afternoons. Are any of those good for you?" },
+        { "speaker": "Student A", "text": "Tuesday evenings are perfect. I have a part-time job on Thursdays." },
+        { "speaker": "Student B", "text": "Tuesdays it is. Should we say 6:30 to 9 PM? That gives us 2.5 hours without it dragging on too long." },
+        { "speaker": "Student A", "text": "That's ideal. I'll book the study room for a recurring Tuesday slot. What should we prepare for the first session?" },
+        { "speaker": "Student B", "text": "I think we should each review today's lecture notes and write down our specific questions. Then we can tackle them together." },
+        { "speaker": "Student A", "text": "Great idea. Should we also rotate who leads each topic? It forces everyone to actually understand it well enough to explain it." },
+        { "speaker": "Student B", "text": "Absolutely. That's a really effective technique. Okay — can we exchange contact details so I can add you to a group chat?" },
+        { "speaker": "Student A", "text": "Sure. My number is 07882 344 110. I'll add Maya and let you know once she confirms." },
+        { "speaker": "Student B", "text": "Perfect. I'm looking forward to it. I feel better about the midterm already just knowing we have a plan." },
+        { "speaker": "Student A", "text": "Same here. See you Tuesday, Tom!" }
+      ]
+    }
+  ]
+}

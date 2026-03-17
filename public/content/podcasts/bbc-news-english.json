@@ -1,0 +1,84 @@
+{
+  "id": "bbc-news-english",
+  "title": "BBC News English",
+  "description": "Improve your English with real BBC news stories — expand vocabulary and comprehension",
+  "episodes": [
+    {
+      "id": "bbcnews-ep1",
+      "title": "The Global Economy in 2024",
+      "description": "Understanding economic trends and how they affect everyday life",
+      "youtubeId": "Vco41qfygRs",
+      "duration": "8:00",
+      "level": "upper-intermediate",
+      "tags": ["economy", "finance", "world"],
+      "transcript": [
+        { "time": "0:00", "text": "This is BBC World News. I'm your presenter, and today we look at the global economic outlook for 2024." },
+        { "time": "0:09", "text": "After years of turbulence caused by the pandemic and geopolitical tensions, economists are cautiously hopeful." },
+        { "time": "0:19", "text": "Turbulence means a state of confusion and disorder — in economics, it refers to instability in markets." },
+        { "time": "0:28", "text": "Inflation — the rate at which prices rise — has been the dominant concern for central banks worldwide." },
+        { "time": "0:37", "text": "In the UK and US, inflation peaked at over 10% in 2022 but has since fallen significantly." },
+        { "time": "0:47", "text": "Central banks raised interest rates aggressively to bring inflation under control." },
+        { "time": "0:54", "text": "Interest rates are the cost of borrowing money. Higher rates slow spending and reduce inflation." },
+        { "time": "1:04", "text": "Now, with inflation easing, there are questions about when rate cuts might begin." },
+        { "time": "1:12", "text": "Easing means becoming less severe or intense — so inflation easing means prices are rising more slowly." },
+        { "time": "1:21", "text": "The International Monetary Fund projects global growth of around 3% — below the historical average but avoiding recession." },
+        { "time": "1:32", "text": "A recession is officially defined as two consecutive quarters of negative economic growth." },
+        { "time": "1:41", "text": "Emerging markets like India and Vietnam are outpacing developed economies in growth terms." },
+        { "time": "1:50", "text": "Outpacing means growing faster than something else." },
+        { "time": "1:56", "text": "Our economics correspondent reports on what this means for ordinary workers and consumers." },
+        { "time": "2:05", "text": "Key vocabulary today: turbulence, inflation, interest rates, recession, emerging markets, outpacing." }
+      ]
+    },
+    {
+      "id": "bbcnews-ep2",
+      "title": "Technology and Democracy",
+      "description": "How social media and AI are reshaping politics and public debate",
+      "youtubeId": "rStL7niR7gs",
+      "duration": "7:30",
+      "level": "advanced",
+      "tags": ["technology", "politics", "society"],
+      "transcript": [
+        { "time": "0:00", "text": "The relationship between technology and democracy is under scrutiny like never before." },
+        { "time": "0:08", "text": "Scrutiny means close and critical examination — when something is under scrutiny, it is being watched carefully." },
+        { "time": "0:17", "text": "Social media platforms have been accused of amplifying misinformation and polarizing societies." },
+        { "time": "0:26", "text": "Misinformation is false or inaccurate information. Polarizing means creating strong division between groups." },
+        { "time": "0:35", "text": "Governments around the world are grappling with how to regulate these platforms." },
+        { "time": "0:43", "text": "Grappling means struggling to deal with something difficult." },
+        { "time": "0:49", "text": "The EU's Digital Services Act is one of the most significant regulatory frameworks to date." },
+        { "time": "0:58", "text": "It requires large platforms to assess and mitigate systemic risks — including threats to elections." },
+        { "time": "1:07", "text": "Mitigate means to reduce the severity of something." },
+        { "time": "1:13", "text": "Meanwhile, artificial intelligence tools are now being used to generate deepfakes — convincing but false videos of public figures." },
+        { "time": "1:24", "text": "Experts warn that this could undermine trust in legitimate news sources." },
+        { "time": "1:31", "text": "Undermine means to erode or weaken something gradually." },
+        { "time": "1:38", "text": "Some researchers argue for digital literacy programs in schools — teaching young people to evaluate sources critically." },
+        { "time": "1:48", "text": "Digital literacy is the ability to use and evaluate digital technology and online content responsibly." },
+        { "time": "1:57", "text": "Key terms today: scrutiny, misinformation, polarizing, grappling, mitigate, undermine, digital literacy." }
+      ]
+    },
+    {
+      "id": "bbcnews-ep3",
+      "title": "Climate Action and Green Energy",
+      "description": "The latest developments in the global shift toward renewable energy",
+      "youtubeId": "EhAemz1v7dQ",
+      "duration": "8:30",
+      "level": "intermediate",
+      "tags": ["environment", "energy", "science"],
+      "transcript": [
+        { "time": "0:00", "text": "Renewable energy now accounts for over 30% of global electricity generation — a record high." },
+        { "time": "0:09", "text": "Accounts for means represents or makes up a certain proportion of a total." },
+        { "time": "0:16", "text": "Solar and wind power have seen dramatic cost reductions over the past decade." },
+        { "time": "0:23", "text": "Dramatic here means very significant or striking — not theatrical." },
+        { "time": "0:29", "text": "In 2010, solar energy was ten times more expensive than it is today." },
+        { "time": "0:36", "text": "This has made renewables competitive with — and often cheaper than — fossil fuels." },
+        { "time": "0:44", "text": "Fossil fuels include coal, oil, and natural gas — energy sources formed from ancient organic material." },
+        { "time": "0:53", "text": "However, challenges remain. Grids must be upgraded to handle the intermittent nature of renewables." },
+        { "time": "1:02", "text": "Intermittent means not continuous — solar panels only generate power when the sun shines." },
+        { "time": "1:10", "text": "Battery storage technology is advancing rapidly to address this problem." },
+        { "time": "1:17", "text": "Countries like Denmark now generate over 50% of electricity from wind on an average day." },
+        { "time": "1:26", "text": "The UK aims to decarbonize its electricity grid entirely by 2030." },
+        { "time": "1:34", "text": "Decarbonize means to eliminate carbon dioxide emissions — usually by replacing fossil fuels with clean energy." },
+        { "time": "1:43", "text": "Key vocabulary: accounts for, dramatic, fossil fuels, intermittent, battery storage, decarbonize." }
+      ]
+    }
+  ]
+}
