@@ -2,7 +2,7 @@ import { useProgress } from '../hooks/useProgress';
 import styles from './StreakWidget.module.css';
 
 export function StreakWidget() {
-  const { getStreak, getLongestStreak, getTotalXP, getTodayXP, getWeeklyActivity } = useProgress();
+  const { getStreak, getLongestStreak, getTotalXP, getTodayXP, getWeeklyActivity, getDailyGoalProgress } = useProgress();
 
   const totalXP = getTotalXP();
   if (totalXP === 0) return null;
@@ -12,6 +12,7 @@ export function StreakWidget() {
   const todayXP = getTodayXP();
   const weekly = getWeeklyActivity();
   const maxXP = Math.max(...weekly.map((d) => d.xp), 1);
+  const goalProgress = getDailyGoalProgress();
 
   return (
     <section className={styles.widget}>
@@ -51,6 +52,21 @@ export function StreakWidget() {
             </div>
           </>
         )}
+      </div>
+
+      <div className={styles.goalMini}>
+        <div className={styles.goalMiniHeader}>
+          <span className={styles.goalMiniLabel}>Daily goal</span>
+          <span className={styles.goalMiniValue}>
+            {goalProgress.completed ? 'Completed!' : `${goalProgress.current}/${goalProgress.goal} XP`}
+          </span>
+        </div>
+        <div className={styles.goalMiniTrack}>
+          <div
+            className={`${styles.goalMiniBar} ${goalProgress.completed ? styles.goalMiniBarDone : ''}`}
+            style={{ width: `${goalProgress.percentage}%` }}
+          />
+        </div>
       </div>
 
       <div className={styles.chart}>

@@ -93,6 +93,15 @@
     { "word": "translate", "ipa": "/trænsˈleɪt/", "meaning": "to change words into another language", "example": "Can you translate this sentence into French?" },
     { "word": "understand", "ipa": "/ˌʌndərˈstænd/", "meaning": "to know the meaning of something", "example": "Do you understand the instructions?" },
     { "word": "view", "ipa": "/vjuː/", "meaning": "an opinion or the ability to see a place", "example": "She has a positive view of the future." },
-    { "word": "test", "ipa": "/tɛst/", "meaning": "to examine or check something", "example": "The teacher will test us on vocabulary tomorrow." }
+    { "word": "test", "ipa": "/tɛst/", "meaning": "to examine or check something", "example": "The teacher will test us on vocabulary tomorrow." },
+    { "word": "struggle", "ipa": "/ˈstrʌɡəl/", "meaning": "to try hard to do something difficult", "example": "She struggled to finish the project on time." },
+    { "word": "wander", "ipa": "/ˈwɒndər/", "meaning": "to walk slowly without a clear direction", "example": "We wandered through the old streets of the city." },
+    { "word": "occupy", "ipa": "/ˈɒkjupaɪ/", "meaning": "to fill or use a space or period of time", "example": "Reading occupies most of her free time." },
+    { "word": "attach", "ipa": "/əˈtætʃ/", "meaning": "to fasten or join one thing to another", "example": "Please attach the document to your email." },
+    { "word": "convince", "ipa": "/kənˈvɪns/", "meaning": "to make someone believe something is true", "example": "He convinced me to join the new project." },
+    { "word": "stretch", "ipa": "/strɛtʃ/", "meaning": "to extend your body or something to full length", "example": "Stretch your arms before you exercise." },
+    { "word": "borrow", "ipa": "/ˈbɒroʊ/", "meaning": "to take something with the intention of returning it", "example": "Can I borrow your pen for a moment?" },
+    { "word": "hesitate", "ipa": "/ˈhɛzɪteɪt/", "meaning": "to pause before doing something because of uncertainty", "example": "Don't hesitate to ask if you need help." },
+    { "word": "guarantee", "ipa": "/ˌɡærənˈtiː/", "meaning": "a promise that something will happen or work", "example": "The product comes with a two-year guarantee." }
   ]
 }

@@ -409,7 +409,386 @@
       "translation": "nhieu loan khi quyen / may bay bi xoc",
       "example": "Please fasten your seatbelt due to turbulence.",
       "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
-    }
+    },
+    {
+      "word": "cockpit",
+      "ipa": "/ˈkɒkpɪt/",
+      "meaning": "The area at the front of a plane where the pilot sits",
+      "translation": "buong lai",
+      "example": "Passengers are not allowed in the cockpit.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "fuselage",
+      "ipa": "/ˈfjuːzəlɑːʒ/",
+      "meaning": "The main body of an airplane",
+      "translation": "than may bay",
+      "example": "The fuselage was painted in the airline's colors.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "hangar",
+      "ipa": "/ˈhæŋər/",
+      "meaning": "A large building where aircraft are stored and maintained",
+      "translation": "nha chua may bay",
+      "example": "The plane was towed into the hangar for repairs.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "taxiing",
+      "ipa": "/ˈtæksiɪŋ/",
+      "meaning": "When a plane moves slowly on the ground before takeoff or after landing",
+      "translation": "lan banh tren duong bang",
+      "example": "The aircraft spent ten minutes taxiing to the runway.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "altitude",
+      "ipa": "/ˈæltɪtjuːd/",
+      "meaning": "The height of a plane above sea level",
+      "translation": "do cao",
+      "example": "The plane reached a cruising altitude of 35,000 feet.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "connecting flight",
+      "ipa": "/kəˈnektɪŋ flaɪt/",
+      "meaning": "A second flight that continues a journey after a stop",
+      "translation": "chuyen bay noi chuyen",
+      "example": "I have a connecting flight in Singapore.",
+      "image": "https://images.unsplash.com/photo-1529074448010-db7bdb09bf1c?w=400&q=80"
+    },
+    {
+      "word": "nonstop flight",
+      "ipa": "/ˌnɒnˈstɒp flaɪt/",
+      "meaning": "A flight that goes directly to the destination without stopping",
+      "translation": "chuyen bay thang",
+      "example": "We booked a nonstop flight to London.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "boarding gate",
+      "ipa": "/ˈbɔːrdɪŋ ɡeɪt/",
+      "meaning": "The specific gate assigned for boarding a particular flight",
+      "translation": "cua len may bay",
+      "example": "The boarding gate has been changed to C5.",
+      "image": "https://images.unsplash.com/photo-1540339832862-474599807836?w=400&q=80"
+    },
+    {
+      "word": "departure board",
+      "ipa": "/dɪˈpɑːrtʃər bɔːrd/",
+      "meaning": "A screen showing flight departure information",
+      "translation": "bang thong tin khoi hanh",
+      "example": "Check the departure board for your gate number.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=400&q=80"
+    },
+    {
+      "word": "first class",
+      "ipa": "/fɜːrst klæs/",
+      "meaning": "The most luxurious and expensive seating class on a plane",
+      "translation": "hang nhat",
+      "example": "First class passengers enjoy private suites.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "jet bridge",
+      "ipa": "/dʒet brɪdʒ/",
+      "meaning": "An enclosed walkway from the terminal to the aircraft door",
+      "translation": "ong long di bo len may bay",
+      "example": "We walked through the jet bridge to board the plane.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=400&q=80"
+    },
+    {
+      "word": "cabin",
+      "ipa": "/ˈkæbɪn/",
+      "meaning": "The passenger area inside an airplane",
+      "translation": "khoang hanh khach",
+      "example": "The cabin crew prepared for landing.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "cargo",
+      "ipa": "/ˈkɑːrɡoʊ/",
+      "meaning": "Goods transported by aircraft in the hold",
+      "translation": "hang hoa van chuyen",
+      "example": "The plane carried both passengers and cargo.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "refueling",
+      "ipa": "/riːˈfjuːəlɪŋ/",
+      "meaning": "The process of adding fuel to an aircraft",
+      "translation": "tiep nhien lieu",
+      "example": "The plane stopped for refueling during the long journey.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "air traffic control",
+      "ipa": "/er ˈtræfɪk kənˈtroʊl/",
+      "meaning": "The service that manages the movement of aircraft",
+      "translation": "kiem soat khong luu",
+      "example": "Air traffic control cleared the plane for takeoff.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "autopilot",
+      "ipa": "/ˈɔːtoʊpaɪlət/",
+      "meaning": "An automatic system that controls the aircraft during flight",
+      "translation": "che do bay tu dong",
+      "example": "The pilot switched on the autopilot at cruising altitude.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "baggage allowance",
+      "ipa": "/ˈbæɡɪdʒ əˈlaʊəns/",
+      "meaning": "The maximum weight or number of bags permitted on a flight",
+      "translation": "hanh ly cho phep mang theo",
+      "example": "The baggage allowance for economy is 23 kilograms.",
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=400&q=80"
+    },
+    {
+      "word": "boarding procedure",
+      "ipa": "/ˈbɔːrdɪŋ prəˈsiːdʒər/",
+      "meaning": "The steps followed when passengers board an aircraft",
+      "translation": "quy trinh len may bay",
+      "example": "The boarding procedure starts with families and priority passengers.",
+      "image": "https://images.unsplash.com/photo-1540339832862-474599807836?w=400&q=80"
+    },
+    {
+      "word": "complimentary meal",
+      "ipa": "/ˌkɒmplɪˈmentəri miːl/",
+      "meaning": "A free meal provided on a flight",
+      "translation": "bua an mien phi tren may bay",
+      "example": "Long-haul flights usually include a complimentary meal.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "disembark",
+      "ipa": "/ˌdɪsɪmˈbɑːrk/",
+      "meaning": "To leave an aircraft after it has landed",
+      "translation": "roi may bay",
+      "example": "Passengers began to disembark after the plane stopped.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=400&q=80"
+    },
+    {
+      "word": "emergency exit",
+      "ipa": "/ɪˈmɜːrdʒənsi ˈeksɪt/",
+      "meaning": "A door on a plane used in an emergency for evacuation",
+      "translation": "loi thoat hiem",
+      "example": "Please locate the nearest emergency exit.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "in-flight entertainment",
+      "ipa": "/ɪn flaɪt ˌentərˈteɪnmənt/",
+      "meaning": "Movies, music, and games available on a plane",
+      "translation": "giai tri tren may bay",
+      "example": "The in-flight entertainment system has over 200 movies.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "life vest",
+      "ipa": "/laɪf vest/",
+      "meaning": "A safety jacket that keeps a person afloat in water",
+      "translation": "ao phao cuu sinh",
+      "example": "The life vest is located under your seat.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "long-haul",
+      "ipa": "/lɒŋ hɔːl/",
+      "meaning": "A flight that covers a very long distance",
+      "translation": "chuyen bay duong dai",
+      "example": "A long-haul flight from Vietnam to the US takes about 20 hours.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "short-haul",
+      "ipa": "/ʃɔːrt hɔːl/",
+      "meaning": "A flight that covers a short distance",
+      "translation": "chuyen bay ngan",
+      "example": "The short-haul flight to Bangkok takes two hours.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "departure lounge",
+      "ipa": "/dɪˈpɑːrtʃər laʊndʒ/",
+      "meaning": "The area in an airport where passengers wait before boarding",
+      "translation": "phong cho khoi hanh",
+      "example": "We relaxed in the departure lounge before our flight.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=400&q=80"
+    },
+    {
+      "word": "e-ticket",
+      "ipa": "/ˈiː tɪkɪt/",
+      "meaning": "An electronic version of a plane ticket stored digitally",
+      "translation": "ve dien tu",
+      "example": "Show your e-ticket on your phone at check-in.",
+      "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=400&q=80"
+    },
+    {
+      "word": "hand luggage",
+      "ipa": "/hænd ˈlʌɡɪdʒ/",
+      "meaning": "Small bags that passengers take into the cabin",
+      "translation": "hanh ly xach tay",
+      "example": "Hand luggage must fit under the seat or in the overhead bin.",
+      "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=400&q=80"
+    },
+    {
+      "word": "immigration officer",
+      "ipa": "/ˌɪmɪˈɡreɪʃən ˈɒfɪsər/",
+      "meaning": "An official who checks travelers' passports and visas",
+      "translation": "nhan vien xuat nhap canh",
+      "example": "The immigration officer asked about the purpose of my visit.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "metal detector",
+      "ipa": "/ˈmetəl dɪˈtektər/",
+      "meaning": "A device used at security to detect metal objects",
+      "translation": "may do kim loai",
+      "example": "Walk through the metal detector slowly.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "no-fly zone",
+      "ipa": "/noʊ flaɪ zoʊn/",
+      "meaning": "An airspace where aircraft are not permitted to fly",
+      "translation": "vung cam bay",
+      "example": "The military declared a no-fly zone over the area.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "overhead compartment",
+      "ipa": "/ˌoʊvərˈhed kəmˈpɑːrtmənt/",
+      "meaning": "The enclosed storage space above the seats in a plane",
+      "translation": "khoang chua do phia tren",
+      "example": "Place your bag in the overhead compartment.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "oxygen mask",
+      "ipa": "/ˈɒksɪdʒən mæsk/",
+      "meaning": "A mask that provides oxygen during an emergency on a plane",
+      "translation": "mat na oxy",
+      "example": "In case of emergency, oxygen masks will drop down automatically.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "passenger",
+      "ipa": "/ˈpæsɪndʒər/",
+      "meaning": "A person traveling on an airplane",
+      "translation": "hanh khach",
+      "example": "All passengers must board before the doors close.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=400&q=80"
+    },
+    {
+      "word": "recline",
+      "ipa": "/rɪˈklaɪn/",
+      "meaning": "To push a seat backward into a more comfortable position",
+      "translation": "ngua ghe",
+      "example": "Please do not recline your seat during meals.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "red-eye flight",
+      "ipa": "/ˈred aɪ flaɪt/",
+      "meaning": "A flight that departs late at night and arrives early in the morning",
+      "translation": "chuyen bay dem",
+      "example": "I took a red-eye flight to save a night at the hotel.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "round trip",
+      "ipa": "/raʊnd trɪp/",
+      "meaning": "A journey to a destination and back to the starting point",
+      "translation": "khu hoi",
+      "example": "A round trip ticket costs less than two one-way tickets.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "one-way ticket",
+      "ipa": "/wʌn weɪ ˈtɪkɪt/",
+      "meaning": "A ticket for travel in one direction only",
+      "translation": "ve mot chieu",
+      "example": "I bought a one-way ticket because I have no return date.",
+      "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=400&q=80"
+    },
+    {
+      "word": "standby",
+      "ipa": "/ˈstændbaɪ/",
+      "meaning": "Waiting for an available seat on a flight without a confirmed booking",
+      "translation": "cho cho trong",
+      "example": "We were on standby and luckily got seats on the next flight.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=400&q=80"
+    },
+    {
+      "word": "stopover",
+      "ipa": "/ˈstɒpoʊvər/",
+      "meaning": "A planned break in a journey, usually lasting a day or more",
+      "translation": "diem dung chan",
+      "example": "We had a two-day stopover in Dubai on our way to London.",
+      "image": "https://images.unsplash.com/photo-1529074448010-db7bdb09bf1c?w=400&q=80"
+    },
+    {
+      "word": "boarding zone",
+      "ipa": "/ˈbɔːrdɪŋ zoʊn/",
+      "meaning": "A numbered group that determines your boarding order",
+      "translation": "nhom len may bay",
+      "example": "Boarding zone 1 passengers may now proceed to the gate.",
+      "image": "https://images.unsplash.com/photo-1540339832862-474599807836?w=400&q=80"
+    },
+    {
+      "word": "tail number",
+      "ipa": "/teɪl ˈnʌmbər/",
+      "meaning": "The registration number displayed on the tail of an aircraft",
+      "translation": "so dang ky may bay",
+      "example": "The tail number identifies each individual aircraft.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "lavatory",
+      "ipa": "/ˈlævətɔːri/",
+      "meaning": "A toilet on an airplane",
+      "translation": "nha ve sinh tren may bay",
+      "example": "The lavatory is located at the rear of the aircraft.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "co-pilot",
+      "ipa": "/ˈkoʊ paɪlət/",
+      "meaning": "The second pilot who assists the captain in flying the plane",
+      "translation": "phi cong phu",
+      "example": "The co-pilot took over the controls during the break.",
+      "image": "https://images.unsplash.com/photo-1540962351504-03099e0a754b?w=400&q=80"
+    },
+    {
+      "word": "charter flight",
+      "ipa": "/ˈtʃɑːrtər flaɪt/",
+      "meaning": "A flight arranged for a specific group rather than scheduled publicly",
+      "translation": "chuyen bay thue bao",
+      "example": "The company arranged a charter flight for the employees.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "domestic flight",
+      "ipa": "/dəˈmestɪk flaɪt/",
+      "meaning": "A flight within the same country",
+      "translation": "chuyen bay noi dia",
+      "example": "Domestic flights do not require a passport.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=400&q=80"
+    },
+    {
+      "word": "international flight",
+      "ipa": "/ˌɪntərˈnæʃənəl flaɪt/",
+      "meaning": "A flight that travels between two different countries",
+      "translation": "chuyen bay quoc te",
+      "example": "International flights depart from Terminal 2.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=400&q=80"
+    },
+    { "word": "aeronautics", "ipa": "/ˌeərəˈnɔːtɪks/", "meaning": "The science or practice of travel through the air", "translation": "hàng không học", "example": "She studied aeronautics at university before becoming a pilot." },
+    { "word": "apron", "ipa": "/ˈeɪprən/", "meaning": "The area of an airport where aircraft are parked or loaded", "translation": "sân đỗ máy bay", "example": "Aircraft are serviced on the apron between flights." },
+    { "word": "tail wind", "ipa": "/teɪl wɪnd/", "meaning": "A wind blowing in the same direction as the aircraft, helping it fly faster", "translation": "gió đuôi (gió thuận)", "example": "A strong tail wind cut 30 minutes off the flight time." }
   ],
   "quiz": [
     {
@@ -446,6 +825,46 @@
       "question": "What is the storage above seats on a plane?",
       "options": ["Luggage rack", "Overhead bin", "Storage bay", "Cargo hold"],
       "answer": 1
+    },
+    {
+      "question": "What is the area at the front of the plane where the pilot sits?",
+      "options": ["Cabin", "Cockpit", "Fuselage", "Galley"],
+      "answer": 1
+    },
+    {
+      "question": "What type of flight goes directly to the destination without stopping?",
+      "options": ["Charter flight", "Connecting flight", "Nonstop flight", "Red-eye flight"],
+      "answer": 2
+    },
+    {
+      "question": "What is the screen showing flight departure information called?",
+      "options": ["Boarding pass", "Departure board", "Timetable", "Flight plan"],
+      "answer": 1
+    },
+    {
+      "question": "What safety equipment drops from above your seat in an emergency?",
+      "options": ["Life vest", "Seat belt", "Oxygen mask", "Parachute"],
+      "answer": 2
+    },
+    {
+      "question": "What is a flight that departs late at night called?",
+      "options": ["Long-haul flight", "Red-eye flight", "Charter flight", "Domestic flight"],
+      "answer": 1
+    },
+    {
+      "question": "What is the maximum luggage weight you can bring on a flight?",
+      "options": ["Excess baggage", "Cargo limit", "Baggage allowance", "Weight cap"],
+      "answer": 2
+    },
+    {
+      "question": "What is the strip of ground where planes take off and land?",
+      "options": ["Tarmac", "Runway", "Taxiway", "Platform"],
+      "answer": 1
+    },
+    {
+      "question": "What do you call a flight within the same country?",
+      "options": ["International flight", "Charter flight", "Domestic flight", "Nonstop flight"],
+      "answer": 2
     }
   ]
 }

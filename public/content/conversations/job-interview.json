@@ -62,6 +62,81 @@
         { "speaker": "Director", "text": "Wonderful. We'll notify candidates about the next round by end of next week. Thank you for your time." },
         { "speaker": "Applicant", "text": "Thank you, David. I truly appreciate the conversation and I hope to join the team." }
       ]
+    },
+    {
+      "id": "teaching-position",
+      "title": "Teaching Position Interview",
+      "speakers": ["Principal", "Teacher"],
+      "lines": [
+        { "speaker": "Principal", "text": "Thank you for coming in today. I'm Mrs. Collins, the principal. Please have a seat." },
+        { "speaker": "Teacher", "text": "Thank you, Mrs. Collins. I'm very excited about the possibility of joining Greenfield Academy." },
+        { "speaker": "Principal", "text": "We're pleased to meet you. Your resume is impressive. Could you tell me what inspired you to become a teacher?" },
+        { "speaker": "Teacher", "text": "I had a history teacher in high school who completely changed the way I saw the world. She made the past feel alive and relevant. I wanted to have that same impact on young people." },
+        { "speaker": "Principal", "text": "That's a wonderful motivation. How would you describe your teaching style?" },
+        { "speaker": "Teacher", "text": "I believe in active learning. I use discussions, group projects, and real-world case studies rather than just lecturing. I want students to think critically, not just memorize facts." },
+        { "speaker": "Principal", "text": "How do you handle students who are disruptive or disengaged in class?" },
+        { "speaker": "Teacher", "text": "I try to understand why they're disengaged. Often it's because the material doesn't feel relevant to them. I find ways to connect lessons to their interests. For truly disruptive behavior, I have a calm, private conversation first before escalating." },
+        { "speaker": "Principal", "text": "We have a diverse student body here. How do you ensure all students feel included in your classroom?" },
+        { "speaker": "Teacher", "text": "I use varied teaching materials that represent different cultures and perspectives. I also create ground rules for respectful discussion from day one, and I make a point of learning every student's name and background within the first week." },
+        { "speaker": "Principal", "text": "How do you use technology in your teaching?" },
+        { "speaker": "Teacher", "text": "I integrate digital tools regularly. I use interactive quizzes for formative assessment, collaborative documents for group work, and educational videos to supplement lessons. But I balance screen time with hands-on activities." },
+        { "speaker": "Principal", "text": "What about communicating with parents? That's a big part of this role." },
+        { "speaker": "Teacher", "text": "I believe in proactive communication. I send a weekly email update to parents, and I make positive phone calls home, not just when there's a problem. Building trust with families makes everything else easier." },
+        { "speaker": "Principal", "text": "Do you have any questions about the school or the position?" },
+        { "speaker": "Teacher", "text": "Yes. What professional development opportunities are available for teachers here?" },
+        { "speaker": "Principal", "text": "We offer an annual training budget of $1,500 per teacher, monthly peer observation sessions, and access to external conferences. We believe strongly in teacher growth." },
+        { "speaker": "Teacher", "text": "That sounds excellent. I'm very enthusiastic about this opportunity." },
+        { "speaker": "Principal", "text": "We'll be making our decision by the end of this week. Thank you for your time today." }
+      ]
+    },
+    {
+      "id": "internship",
+      "title": "Internship Interview",
+      "speakers": ["Manager", "Student"],
+      "lines": [
+        { "speaker": "Manager", "text": "Hi there! Thanks for coming in. I'm Alex, the team lead for the design department. Relax — this is going to be a friendly chat." },
+        { "speaker": "Student", "text": "Thank you, Alex. I'm a bit nervous, but I'm really excited about this internship." },
+        { "speaker": "Manager", "text": "No need to be nervous. So, tell me about yourself. What are you studying and what year are you in?" },
+        { "speaker": "Student", "text": "I'm in my third year of a graphic design degree at State University. I've been focusing on UI/UX design because I love creating things that people actually interact with." },
+        { "speaker": "Manager", "text": "That's great. Do you have any real-world design experience, or mostly academic projects?" },
+        { "speaker": "Student", "text": "I've done a few freelance projects — I designed a website for a local bakery and created social media graphics for a nonprofit. I've also been active in our university design club where we do pro bono work for student organizations." },
+        { "speaker": "Manager", "text": "That shows initiative. What design tools are you comfortable with?" },
+        { "speaker": "Student", "text": "I use Figma daily for UI design, and I'm proficient in Adobe Illustrator and Photoshop. I've also started learning motion graphics in After Effects." },
+        { "speaker": "Manager", "text": "Figma is our primary tool here, so that's a perfect match. What do you hope to gain from this internship?" },
+        { "speaker": "Student", "text": "I want to understand how design works in a professional team setting — things like design reviews, working with developers, and receiving feedback on real products. Classroom projects are great, but they're not the same as designing for actual users." },
+        { "speaker": "Manager", "text": "That's a really mature perspective. How do you handle constructive criticism of your work?" },
+        { "speaker": "Student", "text": "I've learned to separate my ego from my work. Feedback makes the design better, not worse. In my design club, we do weekly critiques and I've grown a lot from hearing different perspectives." },
+        { "speaker": "Manager", "text": "Excellent. The internship is twelve weeks, Monday to Thursday. Does that work with your schedule?" },
+        { "speaker": "Student", "text": "Yes, I've arranged my classes on Fridays specifically for this opportunity." },
+        { "speaker": "Manager", "text": "Perfect. We'll pair you with a senior designer as a mentor. Any questions for me?" },
+        { "speaker": "Student", "text": "What kind of projects would I be working on during the internship?" },
+        { "speaker": "Manager", "text": "You'd work on real product features — not just hypothetical exercises. We're redesigning our mobile app this quarter, and you'd contribute directly to that." },
+        { "speaker": "Student", "text": "That sounds amazing. I can't wait to get started." }
+      ]
+    },
+    {
+      "id": "customer-service",
+      "title": "Customer Service Representative Interview",
+      "speakers": ["Recruiter", "Candidate"],
+      "lines": [
+        { "speaker": "Recruiter", "text": "Good morning. Please take a seat. I'm Patricia from the hiring team. Thank you for applying for the customer service representative position." },
+        { "speaker": "Candidate", "text": "Good morning, Patricia. Thank you for the opportunity to interview." },
+        { "speaker": "Recruiter", "text": "Let's start. What experience do you have in customer-facing roles?" },
+        { "speaker": "Candidate", "text": "I've worked in customer service for three years. I started as a cashier in a retail store, then moved to a call center for a telecommunications company where I handled about fifty calls a day." },
+        { "speaker": "Recruiter", "text": "That's significant volume. How do you stay positive when dealing with frustrated customers?" },
+        { "speaker": "Candidate", "text": "I remind myself that the customer is frustrated with the situation, not with me personally. I listen actively, acknowledge their feelings, and focus on finding a solution. Most people calm down once they feel heard." },
+        { "speaker": "Recruiter", "text": "Can you give me an example of a difficult customer situation you resolved successfully?" },
+        { "speaker": "Candidate", "text": "A customer called furious because they'd been charged twice for a subscription. I apologized immediately, confirmed the double charge in our system, processed a refund, and offered a free month of service as goodwill. The customer went from threatening to cancel to leaving a positive review." },
+        { "speaker": "Recruiter", "text": "Impressive turnaround. This role requires multitasking — managing live chat, email, and phone simultaneously. Are you comfortable with that?" },
+        { "speaker": "Candidate", "text": "Yes. In my current role, I handle phone calls while updating customer records in our CRM system. I'm organized and I use templates and shortcuts to work efficiently across channels." },
+        { "speaker": "Recruiter", "text": "We value teamwork here. How would you help a colleague who's struggling with a difficult case?" },
+        { "speaker": "Candidate", "text": "I'd offer to listen to the situation and share my perspective. Sometimes a fresh pair of eyes can spot a solution. I'd also share any similar cases I've handled before. I believe in supporting each other because it makes the whole team better." },
+        { "speaker": "Recruiter", "text": "What are your salary expectations for this role?" },
+        { "speaker": "Candidate", "text": "Based on my research and my experience level, I'm expecting something in the range of $38,000 to $42,000. But I'm open to discussing this based on the full benefits package." },
+        { "speaker": "Recruiter", "text": "That's within our range. We also offer health insurance, paid training, and quarterly bonuses based on performance metrics." },
+        { "speaker": "Candidate", "text": "That sounds very fair. I'm genuinely enthusiastic about this role." },
+        { "speaker": "Recruiter", "text": "Great. We'll be in touch early next week. Thank you for coming in today." }
+      ]
     }
   ]
 }

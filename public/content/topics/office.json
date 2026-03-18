@@ -409,7 +409,302 @@
       "translation": "tru so chinh",
       "example": "The company's headquarters is in Hanoi.",
       "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
-    }
+    },
+    {
+      "word": "appraisal",
+      "ipa": "/əˈpreɪzəl/",
+      "meaning": "A formal evaluation of an employee's performance",
+      "translation": "danh gia nhan vien",
+      "example": "My annual appraisal is scheduled for next week.",
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&q=80"
+    },
+    {
+      "word": "benchmark",
+      "ipa": "/ˈbentʃmɑːrk/",
+      "meaning": "A standard used for comparison or measurement",
+      "translation": "tieu chuan so sanh",
+      "example": "We use industry benchmarks to evaluate our performance.",
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&q=80"
+    },
+    {
+      "word": "bonus",
+      "ipa": "/ˈboʊnəs/",
+      "meaning": "An extra payment given to an employee as a reward",
+      "translation": "tien thuong",
+      "example": "Employees receive an annual bonus based on performance.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "briefing",
+      "ipa": "/ˈbriːfɪŋ/",
+      "meaning": "A short meeting to give people important information",
+      "translation": "cuoc hop ngan",
+      "example": "There is a morning briefing at 8:30 AM.",
+      "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=400&q=80"
+    },
+    {
+      "word": "budget",
+      "ipa": "/ˈbʌdʒɪt/",
+      "meaning": "The amount of money available for a project or department",
+      "translation": "ngan sach",
+      "example": "We need to stay within the marketing budget.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "burnout",
+      "ipa": "/ˈbɜːrnaʊt/",
+      "meaning": "Physical or mental exhaustion caused by overwork",
+      "translation": "kiet suc vi cong viec",
+      "example": "Taking breaks helps prevent burnout.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "cc",
+      "ipa": "/siː siː/",
+      "meaning": "To send a copy of an email to additional recipients",
+      "translation": "gui ban sao email",
+      "example": "Please cc me on all emails about the project.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "commute",
+      "ipa": "/kəˈmjuːt/",
+      "meaning": "The regular journey between home and workplace",
+      "translation": "di lam hang ngay",
+      "example": "My commute takes about 45 minutes by train.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "contract",
+      "ipa": "/ˈkɒntrækt/",
+      "meaning": "A formal written agreement between employer and employee",
+      "translation": "hop dong",
+      "example": "Please review and sign the employment contract.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "coworking space",
+      "ipa": "/koʊˈwɜːrkɪŋ speɪs/",
+      "meaning": "A shared office space used by freelancers and remote workers",
+      "translation": "khong gian lam viec chung",
+      "example": "I rented a desk at a coworking space downtown.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "downsizing",
+      "ipa": "/ˈdaʊnsaɪzɪŋ/",
+      "meaning": "Reducing the number of employees in a company",
+      "translation": "cat giam nhan su",
+      "example": "The company announced downsizing due to budget cuts.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "employee",
+      "ipa": "/ɪmˈplɔɪiː/",
+      "meaning": "A person hired to work for a company",
+      "translation": "nhan vien",
+      "example": "The company has over 500 employees worldwide.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
+    },
+    {
+      "word": "employer",
+      "ipa": "/ɪmˈplɔɪər/",
+      "meaning": "A person or company that hires workers",
+      "translation": "nguoi su dung lao dong",
+      "example": "A good employer values work-life balance.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "freelancer",
+      "ipa": "/ˈfriːlænsər/",
+      "meaning": "A self-employed person who works for different clients",
+      "translation": "nguoi lam viec tu do",
+      "example": "We hired a freelancer to design the website.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "HR",
+      "ipa": "/eɪtʃ ɑːr/",
+      "meaning": "Human Resources — the department managing employees",
+      "translation": "phong nhan su",
+      "example": "Contact HR if you have questions about your benefits.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
+    },
+    {
+      "word": "hybrid work",
+      "ipa": "/ˈhaɪbrɪd wɜːrk/",
+      "meaning": "A work model combining office and remote work",
+      "translation": "lam viec ket hop",
+      "example": "Our company uses a hybrid work model — three days in office.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "inbox",
+      "ipa": "/ˈɪnbɒks/",
+      "meaning": "The folder where incoming emails are received",
+      "translation": "hop thu den",
+      "example": "I have over 100 unread emails in my inbox.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "intern",
+      "ipa": "/ˈɪntɜːrn/",
+      "meaning": "A student or trainee who works to gain experience",
+      "translation": "thuc tap sinh",
+      "example": "We have two interns joining the marketing team this summer.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
+    },
+    {
+      "word": "lay off",
+      "ipa": "/leɪ ɒf/",
+      "meaning": "To dismiss an employee due to lack of work or budget",
+      "translation": "cho nghi viec / sa thai",
+      "example": "The company had to lay off 50 employees.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "maternity leave",
+      "ipa": "/məˈtɜːrnɪti liːv/",
+      "meaning": "Time off work granted to a mother before and after childbirth",
+      "translation": "nghi thai san",
+      "example": "She is on maternity leave for six months.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "micromanage",
+      "ipa": "/ˈmaɪkroʊmænɪdʒ/",
+      "meaning": "To control every small detail of someone's work",
+      "translation": "quan ly chi tiet qua muc",
+      "example": "Good leaders trust their team and avoid micromanaging.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "milestone",
+      "ipa": "/ˈmaɪlstoʊn/",
+      "meaning": "An important stage or event in the progress of a project",
+      "translation": "cot moc quan trong",
+      "example": "Completing the prototype was a major milestone.",
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&q=80"
+    },
+    {
+      "word": "networking",
+      "ipa": "/ˈnetwɜːrkɪŋ/",
+      "meaning": "Building professional relationships and contacts",
+      "translation": "xay dung moi quan he cong viec",
+      "example": "Networking events are great for career growth.",
+      "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=400&q=80"
+    },
+    {
+      "word": "outsource",
+      "ipa": "/ˈaʊtsɔːrs/",
+      "meaning": "To hire an outside company to do work for your business",
+      "translation": "thue ngoai",
+      "example": "We outsource our IT support to a specialized firm.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "pension",
+      "ipa": "/ˈpenʃən/",
+      "meaning": "A regular payment to a retired employee",
+      "translation": "luong huu",
+      "example": "The company offers a good pension plan.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "productivity",
+      "ipa": "/ˌprɒdʌkˈtɪvɪti/",
+      "meaning": "The rate at which work is completed efficiently",
+      "translation": "nang suat lam viec",
+      "example": "Regular breaks can actually improve productivity.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    {
+      "word": "proposal",
+      "ipa": "/prəˈpoʊzəl/",
+      "meaning": "A formal plan or suggestion put forward for consideration",
+      "translation": "de xuat",
+      "example": "The team submitted a proposal for the new project.",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400&q=80"
+    },
+    {
+      "word": "quarterly",
+      "ipa": "/ˈkwɔːrtərli/",
+      "meaning": "Happening or produced every three months",
+      "translation": "hang quy",
+      "example": "We publish quarterly sales reports.",
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&q=80"
+    },
+    {
+      "word": "recruit",
+      "ipa": "/rɪˈkruːt/",
+      "meaning": "To find and hire new employees",
+      "translation": "tuyen dung",
+      "example": "We need to recruit two more developers.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
+    },
+    {
+      "word": "reimbursement",
+      "ipa": "/ˌriːɪmˈbɜːrsmənt/",
+      "meaning": "Money paid back to an employee for business expenses",
+      "translation": "hoan tra chi phi",
+      "example": "Submit your receipts for travel reimbursement.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "stakeholder",
+      "ipa": "/ˈsteɪkhoʊldər/",
+      "meaning": "A person with an interest or concern in a project or business",
+      "translation": "ben lien quan",
+      "example": "We need approval from all stakeholders before proceeding.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "supervisor",
+      "ipa": "/ˈsuːpərvaɪzər/",
+      "meaning": "A person who oversees and directs the work of others",
+      "translation": "giam sat vien / nguoi quan ly",
+      "example": "Report any issues to your supervisor immediately.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "teamwork",
+      "ipa": "/ˈtiːmwɜːrk/",
+      "meaning": "The combined effort of a group working together",
+      "translation": "lam viec nhom",
+      "example": "Good teamwork leads to better results.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80"
+    },
+    {
+      "word": "turnover",
+      "ipa": "/ˈtɜːrnoʊvər/",
+      "meaning": "The rate at which employees leave and are replaced",
+      "translation": "ti le nghi viec",
+      "example": "High staff turnover can be costly for a company.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80"
+    },
+    {
+      "word": "work-life balance",
+      "ipa": "/wɜːrk laɪf ˈbæləns/",
+      "meaning": "A healthy balance between work and personal life",
+      "translation": "can bang cong viec va cuoc song",
+      "example": "Work-life balance is important for employee well-being.",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=400&q=80"
+    },
+    { "word": "flex time", "ipa": "/fleks taɪm/", "meaning": "A flexible work schedule allowing employees to vary their hours", "translation": "giờ làm linh hoạt", "example": "Flex time lets me pick up my children from school." },
+    { "word": "hot desking", "ipa": "/hɒt ˈdeskɪŋ/", "meaning": "A system where employees share desks rather than having assigned seats", "translation": "làm việc không chỗ ngồi cố định", "example": "Hot desking reduces office space costs." },
+    { "word": "corporate culture", "ipa": "/ˈkɔːrpərɪt ˈkʌltʃər/", "meaning": "The beliefs and behaviors of an organization", "translation": "văn hóa doanh nghiệp", "example": "A positive corporate culture attracts top talent." },
+    { "word": "performance review", "ipa": "/pərˈfɔːrməns rɪˈvjuː/", "meaning": "A formal evaluation of an employee's work and progress", "translation": "đánh giá hiệu suất công việc", "example": "I have my annual performance review next week." },
+    { "word": "onboarding", "ipa": "/ˈɒnbɔːrdɪŋ/", "meaning": "The process of integrating a new employee into the organization", "translation": "quy trình hội nhập nhân viên mới", "example": "The onboarding programme spans the first two weeks." },
+    { "word": "payslip", "ipa": "/ˈpeɪslɪp/", "meaning": "A document showing how much you have been paid", "translation": "phiếu lương", "example": "Check your payslip for deductions." },
+    { "word": "office supplies", "ipa": "/ˈɒfɪs səˈplaɪz/", "meaning": "Items like pens, paper, and staplers used in an office", "translation": "vật phẩm văn phòng", "example": "Order more office supplies before they run out." },
+    { "word": "open-plan office", "ipa": "/ˈəʊpən plæn ˈɒfɪs/", "meaning": "An office with no dividing walls between workspaces", "translation": "văn phòng không vách ngăn", "example": "The company moved to an open-plan office to encourage collaboration." },
+    { "word": "hybrid office", "ipa": "/ˈhaɪbrɪd ˈɒfɪs/", "meaning": "A workplace model mixing remote and in-person work", "translation": "văn phòng kết hợp", "example": "A hybrid office policy requires staff in three days a week." },
+    { "word": "team building", "ipa": "/tiːm ˈbɪldɪŋ/", "meaning": "Activities designed to strengthen relationships within a team", "translation": "xây dựng đội nhóm", "example": "The company does quarterly team building events." },
+    { "word": "mentoring", "ipa": "/ˈmentərɪŋ/", "meaning": "Guidance given by an experienced person to help someone develop", "translation": "cố vấn hướng dẫn", "example": "Senior staff are encouraged to take part in mentoring." },
+    { "word": "performance bonus", "ipa": "/pərˈfɔːrməns ˈbəʊnəs/", "meaning": "Extra pay given for exceptional work performance", "translation": "thưởng hiệu suất", "example": "She earned a performance bonus for exceeding her targets." },
+    { "word": "overtime", "ipa": "/ˈəʊvətaɪm/", "meaning": "Work done beyond the normal working hours", "translation": "làm thêm giờ", "example": "Working overtime is paid at time and a half." },
+    { "word": "company retreat", "ipa": "/ˈkʌmpəni rɪˈtriːt/", "meaning": "A company-organized event away from the office for planning or bonding", "translation": "chuyến du lịch công ty", "example": "We had our annual company retreat in the mountains." },
+    { "word": "workstation", "ipa": "/ˈwɜːrkˌsteɪʃən/", "meaning": "A desk and computer area assigned to an employee", "translation": "trạm làm việc", "example": "Adjust your workstation to avoid back pain." }
   ],
   "quiz": [
     {
@@ -431,6 +726,61 @@
       "question": "What is a list of items discussed in a meeting?",
       "options": ["Minutes", "Report", "Agenda", "Memo"],
       "answer": 2
+    },
+    {
+      "question": "What is physical or mental exhaustion from overwork called?",
+      "options": ["Stress", "Burnout", "Fatigue", "Anxiety"],
+      "answer": 1
+    },
+    {
+      "question": "What does HR stand for?",
+      "options": ["High Revenue", "Human Resources", "Home Reporting", "Hire Review"],
+      "answer": 1
+    },
+    {
+      "question": "What is a formal plan put forward for consideration?",
+      "options": ["Report", "Memo", "Proposal", "Invoice"],
+      "answer": 2
+    },
+    {
+      "question": "What is the journey between home and work called?",
+      "options": ["Transfer", "Commute", "Trip", "Errand"],
+      "answer": 1
+    },
+    {
+      "question": "What is an important stage in a project called?",
+      "options": ["Deadline", "Benchmark", "Milestone", "Target"],
+      "answer": 2
+    },
+    {
+      "question": "What is a student or trainee gaining work experience called?",
+      "options": ["Freelancer", "Intern", "Contractor", "Temp"],
+      "answer": 1
+    },
+    {
+      "question": "What is paying back an employee for business expenses called?",
+      "options": ["Salary", "Bonus", "Reimbursement", "Commission"],
+      "answer": 2
+    },
+    {
+      "question": "What work model combines office and remote work?",
+      "options": ["Full-time", "Part-time", "Hybrid work", "Shift work"],
+      "answer": 2
+    },
+    {
+      "question": "What is the rate at which employees leave a company called?",
+      "options": ["Downsizing", "Turnover", "Layoff", "Resignation"],
+      "answer": 1
+    },
+    {
+      "question": "What is a document showing how much an employee was paid?",
+      "options": ["Invoice", "Payslip", "Receipt", "Contract"],
+      "answer": 1
+    },
+    {
+      "question": "What is the process of hiring an outside company to do work?",
+      "options": ["Delegate", "Outsource", "Recruit", "Subcontract"],
+      "answer": 1
     }
   ]
 }

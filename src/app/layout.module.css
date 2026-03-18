@@ -1,9 +1,13 @@
+/* ════════════════════════════════════
+   LAYOUT SHELL  (mobile-first)
+   ════════════════════════════════════ */
 .layout {
   min-height: 100dvh;
   display: flex;
   flex-direction: column;
 }
 
+/* ── Header ── */
 .header {
   background: var(--color-surface);
   border-bottom: 1px solid var(--color-border);
@@ -16,22 +20,25 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 60px;
+  height: 56px; /* mobile */
 }
 
+@media (min-width: 768px) {
+  .headerInner { height: 60px; }
+}
+
+/* ── Logo ── */
 .logo {
   display: flex;
   align-items: center;
   gap: 10px;
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-weight: 700;
   color: var(--color-text);
   text-decoration: none;
+  /* tap target height via parent headerInner */
 }
-
-.logo:hover {
-  text-decoration: none;
-}
+.logo:hover { text-decoration: none; }
 
 .logoIcon {
   width: 32px;
@@ -44,11 +51,57 @@
   justify-content: center;
   font-weight: 800;
   font-size: 1rem;
+  flex-shrink: 0;
 }
 
-.desktopNav {
+@media (min-width: 768px) {
+  .logo { font-size: 1.125rem; }
+}
+
+/* ── Header right ── */
+.headerRight {
   display: flex;
-  gap: 4px;
+  align-items: center;
+  gap: 8px;
+}
+
+/* ── Accent toggle — meets 44px tap target ── */
+.accentToggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: var(--tap-min);
+  min-height: var(--tap-min);
+  padding: 4px 12px;
+  border: 1.5px solid var(--color-border);
+  border-radius: 999px;
+  background: var(--color-surface);
+  color: var(--color-text-secondary);
+  font-size: 0.8125rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+  touch-action: manipulation;
+}
+.accentToggle:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  background: rgba(37, 99, 235, 0.06);
+}
+.accentLabel { line-height: 1; }
+
+/* ── Desktop nav (hidden on mobile) ── */
+.desktopNav {
+  display: none;
+}
+
+@media (min-width: 769px) {
+  .desktopNav {
+    display: flex;
+    gap: 4px;
+  }
 }
 
 .navLink {
@@ -62,97 +115,97 @@
   color: var(--color-text-secondary);
   text-decoration: none;
   transition: all 0.15s;
+  white-space: nowrap;
 }
-
 .navLink:hover {
   color: var(--color-primary);
   background: rgba(37, 99, 235, 0.06);
   text-decoration: none;
 }
-
 .activeLink {
   color: var(--color-primary);
   background: rgba(37, 99, 235, 0.08);
 }
 
+/* ── Main content ── */
 .main {
   flex: 1;
-  padding-bottom: 32px;
+  /* space for fixed bottom nav on mobile */
+  padding-bottom: calc(68px + env(safe-area-inset-bottom));
 }
 
+@media (min-width: 769px) {
+  .main {
+    padding-bottom: 32px;
+  }
+}
+
+/* ── Footer (desktop only) ── */
 .footer {
-  border-top: 1px solid var(--color-border);
-  padding: 24px 0;
-  text-align: center;
-  font-size: 0.8125rem;
-  color: var(--color-text-secondary);
+  display: none;
 }
 
+@media (min-width: 769px) {
+  .footer {
+    display: block;
+    border-top: 1px solid var(--color-border);
+    padding: 24px 0;
+    text-align: center;
+    font-size: 0.8125rem;
+    color: var(--color-text-secondary);
+  }
+}
+
+/* ── Mobile bottom nav ── */
 .mobileNav {
-  display: none;
   position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
   background: var(--color-surface);
   border-top: 1px solid var(--color-border);
-  padding: 6px 0 calc(6px + env(safe-area-inset-bottom));
+  /* respect iPhone home indicator */
+  padding-bottom: env(safe-area-inset-bottom);
   z-index: 50;
+  display: flex;
+  justify-content: space-around;
 }
 
+@media (min-width: 769px) {
+  .mobileNav { display: none; }
+}
+
+/* Each nav item: full 44px+ tap target */
 .mobileLink {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 2px;
-  font-size: 0.625rem;
+  justify-content: center;
+  gap: 3px;
+  /* stretch to fill available height (nav is ~56px) */
+  flex: 1;
+  min-height: 56px;
+  padding: 6px 4px;
   color: var(--color-text-secondary);
   text-decoration: none;
-  padding: 4px;
-  min-height: 44px;
-  justify-content: center;
+  touch-action: manipulation;
+  /* ensure the whole cell is tappable */
+  -webkit-tap-highlight-color: transparent;
 }
-
-.mobileLink:hover {
-  text-decoration: none;
-}
+.mobileLink:hover { text-decoration: none; }
 
 .mobileLink svg {
-  width: 22px;
-  height: 22px;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
 }
 
 .mobileLinkLabel {
   font-size: 0.6875rem;
+  font-weight: 500;
+  line-height: 1;
 }
 
 .activeMobile {
   color: var(--color-primary);
-}
-
-@media (max-width: 768px) {
-  .desktopNav {
-    display: none;
-  }
-
-  .mobileNav {
-    display: flex;
-    justify-content: space-around;
-  }
-
-  .main {
-    padding-bottom: calc(72px + env(safe-area-inset-bottom));
-  }
-
-  .footer {
-    display: none;
-  }
-
-  .headerInner {
-    height: 56px;
-  }
-
-  .logo {
-    font-size: 1rem;
-  }
 }

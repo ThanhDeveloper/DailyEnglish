@@ -79,6 +79,125 @@
         { "time": "1:34", "text": "Decarbonize means to eliminate carbon dioxide emissions — usually by replacing fossil fuels with clean energy." },
         { "time": "1:43", "text": "Key vocabulary: accounts for, dramatic, fossil fuels, intermittent, battery storage, decarbonize." }
       ]
+    },
+    {
+      "id": "bbcnews-ep4",
+      "title": "The Housing Crisis",
+      "description": "Why housing is unaffordable for millions and what governments are doing about it",
+      "youtubeId": "PLACEHOLDER_BBCNEWS_04",
+      "duration": "8:00",
+      "level": "intermediate",
+      "tags": ["housing", "economy", "society"],
+      "transcript": [
+        { "time": "0:00", "text": "Across the UK, US and Australia, a housing affordability crisis is squeezing young people and low-income families." },
+        { "time": "0:11", "text": "Affordability refers to whether something is priced within the means of an average person." },
+        { "time": "0:19", "text": "In London, the average house price is now more than twelve times the average annual salary." },
+        { "time": "0:28", "text": "This ratio — house price to income — has become a key measure of housing unaffordability." },
+        { "time": "0:37", "text": "The root cause is a shortage of supply — not enough new homes are being built to meet demand." },
+        { "time": "0:46", "text": "Shortage means an insufficient supply of something that is needed." },
+        { "time": "0:52", "text": "Planning restrictions, rising construction costs, and opposition from local residents all contribute." },
+        { "time": "1:02", "text": "NIMBY — Not In My Back Yard — refers to people who support development in principle but oppose it near them." },
+        { "time": "1:13", "text": "Governments are under pressure to reform planning laws and build more social housing." },
+        { "time": "1:22", "text": "Social housing is affordable housing provided by local authorities or housing associations." },
+        { "time": "1:31", "text": "Critics argue that without bold action, home ownership will become impossible for an entire generation." },
+        { "time": "1:40", "text": "Key vocabulary: affordability, shortage, planning, social housing, generation, supply and demand." }
+      ]
+    },
+    {
+      "id": "bbcnews-ep5",
+      "title": "Health Inequality Around the World",
+      "description": "Why your postcode can determine your life expectancy — the global health divide",
+      "youtubeId": "PLACEHOLDER_BBCNEWS_05",
+      "duration": "8:30",
+      "level": "upper-intermediate",
+      "tags": ["health", "inequality", "global"],
+      "transcript": [
+        { "time": "0:00", "text": "A child born in Japan today can expect to live to 84. One born in Sierra Leone may live to just 54." },
+        { "time": "0:12", "text": "This 30-year gap illustrates the stark health inequalities that exist across the world." },
+        { "time": "0:21", "text": "Stark means severe and obvious — a stark contrast means a very clear difference." },
+        { "time": "0:29", "text": "The determinants of health go far beyond access to hospitals and medicine." },
+        { "time": "0:37", "text": "Determinants are the factors that cause or influence something." },
+        { "time": "0:43", "text": "They include income, education, housing, clean water, and food security." },
+        { "time": "0:51", "text": "Food security means reliable access to sufficient, nutritious food." },
+        { "time": "0:58", "text": "Even within wealthy countries, there are significant health gaps between rich and poor neighbourhoods." },
+        { "time": "1:08", "text": "In the UK, men in the most deprived areas live on average nine years less than in the wealthiest areas." },
+        { "time": "1:18", "text": "Deprived means lacking basic resources and opportunities — living in difficult conditions." },
+        { "time": "1:27", "text": "The World Health Organization calls these disparities both unjust and preventable." },
+        { "time": "1:36", "text": "Disparities means notable differences, especially ones that seem unfair." },
+        { "time": "1:44", "text": "Key vocabulary: inequality, determinants, food security, deprived, disparities, life expectancy." }
+      ]
+    },
+    {
+      "id": "bbcnews-ep6",
+      "title": "Migration and Global Cities",
+      "description": "How immigration is shaping the culture and economy of modern cities",
+      "youtubeId": "PLACEHOLDER_BBCNEWS_06",
+      "duration": "8:00",
+      "level": "upper-intermediate",
+      "tags": ["society", "migration", "cities"],
+      "transcript": [
+        { "time": "0:00", "text": "London, New York, Dubai, Singapore — some of the world's great cities are built on migration." },
+        { "time": "0:10", "text": "Migration means moving from one place to another to live, often from one country to another." },
+        { "time": "0:18", "text": "Over 37% of London's population was born outside the UK — among the highest rates of any major city." },
+        { "time": "0:28", "text": "Migrants contribute enormously to host economies — filling labour shortages and starting businesses." },
+        { "time": "0:37", "text": "A labour shortage occurs when there are not enough workers to fill available jobs." },
+        { "time": "0:44", "text": "The NHS, for example, relies heavily on doctors and nurses from overseas." },
+        { "time": "0:51", "text": "However, migration is politically contentious — a subject of strong disagreement." },
+        { "time": "0:59", "text": "Contentious means causing or likely to cause disagreement or argument." },
+        { "time": "1:06", "text": "Critics argue rapid demographic change can strain public services and housing." },
+        { "time": "1:14", "text": "Demographic relates to the structure of a population — its age, origin, income levels and so on." },
+        { "time": "1:23", "text": "Supporters counter that diverse cities are more innovative, creative and economically dynamic." },
+        { "time": "1:32", "text": "Dynamic means characterised by constant change and progress." },
+        { "time": "1:39", "text": "Key vocabulary: migration, labour shortage, contentious, demographic, diverse, integration." }
+      ]
+    },
+    {
+      "id": "bbcnews-ep7",
+      "title": "The Future of Food",
+      "description": "Lab-grown meat, vertical farming, and the science of feeding 10 billion people",
+      "youtubeId": "PLACEHOLDER_BBCNEWS_07",
+      "duration": "8:30",
+      "level": "intermediate",
+      "tags": ["food", "science", "future"],
+      "transcript": [
+        { "time": "0:00", "text": "By 2050, the world will need to feed nearly 10 billion people — 25% more than today." },
+        { "time": "0:10", "text": "Current agricultural systems are already under enormous strain." },
+        { "time": "0:17", "text": "Agricultural relates to farming — growing crops and raising animals for food." },
+        { "time": "0:24", "text": "Scientists and entrepreneurs are exploring radical alternatives to conventional food production." },
+        { "time": "0:33", "text": "Conventional means the traditional or standard way of doing something." },
+        { "time": "0:40", "text": "Lab-grown meat — also called cultivated meat — is produced from animal cells without slaughtering animals." },
+        { "time": "0:50", "text": "Cultivated means grown or developed, particularly in a controlled environment." },
+        { "time": "0:58", "text": "Proponents say it could dramatically reduce emissions and land use from meat production." },
+        { "time": "1:07", "text": "Vertical farming grows crops in stacked layers indoors, using artificial light and minimal water." },
+        { "time": "1:17", "text": "It can produce food year-round regardless of climate, close to where people live." },
+        { "time": "1:26", "text": "Critics question whether these innovations can scale up quickly enough to matter." },
+        { "time": "1:34", "text": "Scale up means to increase the size, production or operation of something." },
+        { "time": "1:41", "text": "Key vocabulary: agricultural, conventional, cultivated, vertical farming, scale up, sustainability." }
+      ]
+    },
+    {
+      "id": "bbcnews-ep8",
+      "title": "Education in the Digital Age",
+      "description": "How technology is transforming classrooms and learning around the world",
+      "youtubeId": "PLACEHOLDER_BBCNEWS_08",
+      "duration": "8:00",
+      "level": "intermediate",
+      "tags": ["education", "technology", "society"],
+      "transcript": [
+        { "time": "0:00", "text": "Education is undergoing its most significant transformation in over a century." },
+        { "time": "0:08", "text": "Undergoing means experiencing a change or process." },
+        { "time": "0:14", "text": "Online learning platforms like Coursera and edX now offer university-level courses free of charge." },
+        { "time": "0:23", "text": "These platforms have enrolled over 200 million learners globally since 2012." },
+        { "time": "0:31", "text": "Enrolled means registered or signed up as a student." },
+        { "time": "0:37", "text": "However, the digital divide remains a serious obstacle — many children lack internet access." },
+        { "time": "0:46", "text": "The digital divide is the gap between those who have access to technology and those who do not." },
+        { "time": "0:55", "text": "In Sub-Saharan Africa, only 34% of schools have internet access, compared to 95% in Europe." },
+        { "time": "1:05", "text": "Artificial intelligence is beginning to personalise learning — adapting content to individual students." },
+        { "time": "1:14", "text": "Personalise means to tailor something to suit a particular person's needs or preferences." },
+        { "time": "1:23", "text": "Critics worry about data privacy and whether screen-based learning undermines deep thinking." },
+        { "time": "1:32", "text": "Undermines means weakens or damages gradually." },
+        { "time": "1:39", "text": "Key vocabulary: transformation, enrolment, digital divide, personalise, access, critical thinking." }
+      ]
     }
   ]
 }

@@ -409,7 +409,288 @@
       "translation": "an ninh mang",
       "example": "Cybersecurity is a top priority for all companies.",
       "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
-    }
+    },
+    {
+      "word": "router",
+      "ipa": "/ˈruːtər/",
+      "meaning": "A device that directs internet traffic between networks",
+      "translation": "bo dinh tuyen",
+      "example": "Restart the router if the internet is slow.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "modem",
+      "ipa": "/ˈmoʊdem/",
+      "meaning": "A device that connects your home network to the internet",
+      "translation": "thiet bi modem",
+      "example": "The modem converts signals from your internet provider.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "pixel",
+      "ipa": "/ˈpɪksəl/",
+      "meaning": "The smallest unit of a digital image or display",
+      "translation": "diem anh",
+      "example": "This screen has a resolution of 1920 by 1080 pixels.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "resolution",
+      "ipa": "/ˌrezəˈluːʃən/",
+      "meaning": "The clarity of an image measured in pixels",
+      "translation": "do phan giai",
+      "example": "High resolution makes photos look sharp and clear.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "touchscreen",
+      "ipa": "/ˈtʌtʃskriːn/",
+      "meaning": "A display that responds to touch input",
+      "translation": "man hinh cam ung",
+      "example": "Most smartphones have a touchscreen display.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "sync",
+      "ipa": "/sɪŋk/",
+      "meaning": "To make data the same across multiple devices",
+      "translation": "dong bo hoa",
+      "example": "Sync your contacts between your phone and laptop.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "crash",
+      "ipa": "/kræʃ/",
+      "meaning": "When a computer or program suddenly stops working",
+      "translation": "bi loi dung dot ngot",
+      "example": "The application crashed and I lost my work.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "reboot",
+      "ipa": "/riːˈbuːt/",
+      "meaning": "To restart a computer or device",
+      "translation": "khoi dong lai",
+      "example": "Try rebooting your computer to fix the issue.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "lag",
+      "ipa": "/læɡ/",
+      "meaning": "A delay in response time on a computer or network",
+      "translation": "do tre / giat",
+      "example": "There's too much lag in this online game.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "podcast",
+      "ipa": "/ˈpɒdkɑːst/",
+      "meaning": "A digital audio series available for streaming or download",
+      "translation": "chuong trinh phat thanh truc tuyen",
+      "example": "I listen to a technology podcast every morning.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "wearable",
+      "ipa": "/ˈwerəbəl/",
+      "meaning": "A small electronic device worn on the body",
+      "translation": "thiet bi deo nguoi",
+      "example": "Smartwatches are popular wearable devices.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "drone",
+      "ipa": "/droʊn/",
+      "meaning": "An unmanned flying device controlled remotely",
+      "translation": "may bay khong nguoi lai",
+      "example": "Drones are used for aerial photography.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "augmented reality",
+      "ipa": "/ɔːɡˈmentɪd riˈæləti/",
+      "meaning": "Technology that overlays digital content on the real world",
+      "translation": "thuc te tang cuong",
+      "example": "Augmented reality apps let you preview furniture in your room.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "biometric",
+      "ipa": "/ˌbaɪəʊˈmetrɪk/",
+      "meaning": "Using body measurements like fingerprints for identification",
+      "translation": "sinh trac hoc",
+      "example": "Biometric scanning unlocks your phone with your fingerprint.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
+    },
+    {
+      "word": "cloud computing",
+      "ipa": "/klaʊd kəmˈpjuːtɪŋ/",
+      "meaning": "Using remote servers on the internet to process and store data",
+      "translation": "dien toan dam may",
+      "example": "Cloud computing lets businesses scale without buying servers.",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&q=80"
+    },
+    {
+      "word": "blockchain",
+      "ipa": "/ˈblɒktʃeɪn/",
+      "meaning": "A decentralized digital ledger for recording transactions",
+      "translation": "chuoi khoi",
+      "example": "Blockchain technology is the foundation of cryptocurrency.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "automation",
+      "ipa": "/ˌɔːtəˈmeɪʃən/",
+      "meaning": "Using technology to perform tasks without human input",
+      "translation": "tu dong hoa",
+      "example": "Automation has improved factory efficiency.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "bandwidth throttling",
+      "ipa": "/ˈbændwɪdθ ˈθrɒtlɪŋ/",
+      "meaning": "Intentionally slowing down internet speed by a provider",
+      "translation": "giam toc do mang co y",
+      "example": "Some providers use bandwidth throttling during peak hours.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "digital footprint",
+      "ipa": "/ˈdɪdʒɪtəl ˈfʊtprɪnt/",
+      "meaning": "The trail of data you leave behind when using the internet",
+      "translation": "dau chan so",
+      "example": "Be careful about your digital footprint on social media.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
+    },
+    {
+      "word": "smart home",
+      "ipa": "/smɑːrt hoʊm/",
+      "meaning": "A home equipped with devices that can be controlled remotely",
+      "translation": "nha thong minh",
+      "example": "Our smart home lets us control the lights with our voice.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "internet of things",
+      "ipa": "/ˈɪntərnet əv θɪŋz/",
+      "meaning": "A network of physical objects connected to the internet",
+      "translation": "internet van vat",
+      "example": "The internet of things connects everyday devices online.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "e-commerce",
+      "ipa": "/ˈiːkɒmɜːrs/",
+      "meaning": "Buying and selling goods online",
+      "translation": "thuong mai dien tu",
+      "example": "E-commerce has grown rapidly in recent years.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "deepfake",
+      "ipa": "/ˈdiːpfeɪk/",
+      "meaning": "Synthetic media created using AI to imitate real people",
+      "translation": "video/anh gia tao bang AI",
+      "example": "Deepfake technology raises concerns about misinformation.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "open source",
+      "ipa": "/ˈəʊpən sɔːrs/",
+      "meaning": "Software whose source code is freely available to anyone",
+      "translation": "ma nguon mo",
+      "example": "Linux is a popular open source operating system.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "latency",
+      "ipa": "/ˈleɪtənsi/",
+      "meaning": "The time delay between sending and receiving data",
+      "translation": "do tre",
+      "example": "Low latency is important for video conferencing.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "peripheral",
+      "ipa": "/pəˈrɪfərəl/",
+      "meaning": "An external device connected to a computer such as a mouse or keyboard",
+      "translation": "thiet bi ngoai vi",
+      "example": "A monitor is a common computer peripheral.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "compatible",
+      "ipa": "/kəmˈpætəbəl/",
+      "meaning": "Able to work together with another device or software",
+      "translation": "tuong thich",
+      "example": "Make sure the charger is compatible with your phone.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&q=80"
+    },
+    {
+      "word": "spam",
+      "ipa": "/spæm/",
+      "meaning": "Unwanted messages sent in bulk, usually by email",
+      "translation": "thu rac",
+      "example": "My inbox is full of spam emails.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
+    },
+    {
+      "word": "cookie",
+      "ipa": "/ˈkʊki/",
+      "meaning": "A small file stored by a website on your computer",
+      "translation": "tep cookie",
+      "example": "This website uses cookies to remember your preferences.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
+    },
+    {
+      "word": "VPN",
+      "ipa": "/ˌviː piː ˈen/",
+      "meaning": "Virtual Private Network — a secure connection over the internet",
+      "translation": "mang rieng ao",
+      "example": "Use a VPN to protect your data on public wifi.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400&q=80"
+    },
+    {
+      "word": "domain",
+      "ipa": "/dəˈmeɪn/",
+      "meaning": "The address name of a website on the internet",
+      "translation": "ten mien",
+      "example": "We registered a new domain for our business website.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "prototype",
+      "ipa": "/ˈprəʊtətaɪp/",
+      "meaning": "An early model of a product built for testing",
+      "translation": "nguyen mau / ban thu nghiem",
+      "example": "The company showed a prototype of the new phone.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    {
+      "word": "glitch",
+      "ipa": "/ɡlɪtʃ/",
+      "meaning": "A small, temporary fault in a system or device",
+      "translation": "loi nho / tro ngai",
+      "example": "There was a glitch in the payment system this morning.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&q=80"
+    },
+    { "word": "generative AI", "ipa": "/ˈdʒenərətɪv ˌeɪ ˈaɪ/", "meaning": "AI that can create text, images, code, or audio from prompts", "translation": "AI tạo sinh", "example": "ChatGPT is a popular generative AI tool." },
+    { "word": "large language model", "ipa": "/lɑːrdʒ ˈlæŋɡwɪdʒ ˈmɒdəl/", "meaning": "An AI trained on vast amounts of text to understand and generate language", "translation": "mô hình ngôn ngữ lớn (LLM)", "example": "GPT-4 is a large language model from OpenAI." },
+    { "word": "edge computing", "ipa": "/edʒ kəmˈpjuːtɪŋ/", "meaning": "Processing data close to where it is generated rather than in a central cloud", "translation": "điện toán biên", "example": "Edge computing reduces latency for IoT devices." },
+    { "word": "quantum computing", "ipa": "/ˈkwɒntəm kəmˈpjuːtɪŋ/", "meaning": "Computers using quantum phenomena to perform calculations", "translation": "máy tính lượng tử", "example": "Quantum computing could break current encryption methods." },
+    { "word": "5G", "ipa": "/faɪv dʒiː/", "meaning": "The fifth generation of mobile network technology", "translation": "mạng 5G", "example": "5G enables download speeds many times faster than 4G." },
+    { "word": "metaverse", "ipa": "/ˈmetəvɜːrs/", "meaning": "An immersive virtual shared space combining physical and digital worlds", "translation": "vũ trụ ảo", "example": "Companies are building workspaces in the metaverse." },
+    { "word": "augmented reality", "ipa": "/ˌɔːɡmentɪd riˈælɪti/", "meaning": "Technology overlaying digital information onto the real world", "translation": "thực tế tăng cường (AR)", "example": "AR apps let you see furniture in your room before buying." },
+    { "word": "virtual reality", "ipa": "/ˌvɜːrtʃuəl riˈælɪti/", "meaning": "A computer-generated immersive three-dimensional environment", "translation": "thực tế ảo (VR)", "example": "Virtual reality headsets provide immersive gaming experiences." },
+    { "word": "digital twin", "ipa": "/ˈdɪdʒɪtəl twɪn/", "meaning": "A virtual replica of a physical object or system", "translation": "bản sao kỹ thuật số", "example": "Engineers use digital twins to simulate factory operations." },
+    { "word": "biometrics", "ipa": "/ˌbaɪəʊˈmetrɪks/", "meaning": "Unique physical characteristics used to identify individuals", "translation": "sinh trắc học", "example": "Biometrics like fingerprints are used for secure login." },
+    { "word": "smart home", "ipa": "/smɑːrt həʊm/", "meaning": "A home with internet-connected devices that can be controlled remotely", "translation": "nhà thông minh", "example": "A smart home system controls lights, heating and security." },
+    { "word": "open source", "ipa": "/ˈəʊpən sɔːrs/", "meaning": "Software with code freely available for anyone to use or modify", "translation": "mã nguồn mở", "example": "Linux is the most famous open source operating system." },
+    { "word": "no-code", "ipa": "/nəʊ kəʊd/", "meaning": "A platform allowing non-programmers to build apps without writing code", "translation": "nền tảng không cần lập trình", "example": "No-code tools let businesses build apps without developers." },
+    { "word": "two-factor authentication", "ipa": "/tuː ˈfæktər ɔːˌθentɪˈkeɪʃən/", "meaning": "A security process requiring two forms of identification", "translation": "xác thực hai yếu tố (2FA)", "example": "Enable two-factor authentication for better account security." },
+    { "word": "zero-day vulnerability", "ipa": "/ˈzɪərəʊ deɪ ˌvʌlnərəˈbɪlɪti/", "meaning": "A software flaw unknown to the developer, exploitable by attackers", "translation": "lỗ hổng zero-day", "example": "The zero-day vulnerability was patched within hours." },
+    { "word": "tech stack", "ipa": "/tek stæk/", "meaning": "The set of technologies used to build an application", "translation": "bộ công nghệ sử dụng", "example": "Our tech stack uses React, Node.js, and PostgreSQL." },
+    { "word": "MVP", "ipa": "/ˌem viː ˈpiː/", "meaning": "Minimum Viable Product — a basic version of a product to test demand", "translation": "sản phẩm khả dụng tối thiểu (MVP)", "example": "Launch an MVP first to get real user feedback." }
   ],
   "quiz": [
     {
@@ -435,6 +716,56 @@
     {
       "question": "What do you do when fixing system problems?",
       "options": ["Restart", "Troubleshoot", "Update", "Reset"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'sync' mean?",
+      "options": ["To delete data", "To make data the same across devices", "To install an app", "To charge a device"],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'router'?",
+      "options": ["A type of software", "A device that directs internet traffic", "A storage device", "A type of cable"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'reboot' mean?",
+      "options": ["To shut down permanently", "To restart a computer", "To uninstall software", "To clear the cache"],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'VPN' used for?",
+      "options": ["Streaming movies", "Creating a secure internet connection", "Blocking ads", "Speeding up downloads"],
+      "answer": 1
+    },
+    {
+      "question": "What is 'augmented reality'?",
+      "options": ["A fully virtual world", "Technology overlaying digital content on the real world", "A type of video game", "An upgraded screen resolution"],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'digital footprint'?",
+      "options": ["A fingerprint scanner", "The trail of data you leave online", "A type of password", "A digital photograph"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'compatible' mean?",
+      "options": ["Very expensive", "Able to work together", "Extremely fast", "Brand new"],
+      "answer": 1
+    },
+    {
+      "question": "What is 'spam'?",
+      "options": ["A type of software", "Unwanted messages sent in bulk", "A computer virus", "A network connection"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'lag' mean in technology?",
+      "options": ["A fast connection", "A delay in response time", "A software update", "A new feature"],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'glitch'?",
+      "options": ["A major system failure", "A small temporary fault", "A new software version", "A security breach"],
       "answer": 1
     }
   ]

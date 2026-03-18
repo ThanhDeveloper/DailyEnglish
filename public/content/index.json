@@ -26,7 +26,8 @@
   "podcasts": [
     { "id": "bbc-6min", "title": "BBC 6 Minute English" },
     { "id": "bbc-conversations", "title": "BBC Easy English Conversations" },
-    { "id": "bbc-news-english", "title": "BBC English from the News" }
+    { "id": "bbc-news-english", "title": "BBC English from the News" },
+    { "id": "reach-english", "title": "REACH - English Podcast" }
   ],
   "conversations": [
     { "id": "airport", "title": "At the Airport" },

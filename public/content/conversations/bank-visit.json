@@ -63,6 +63,75 @@
         { "speaker": "Loan Officer", "text": "Great. Let me pull up the application. I'll need about 15 minutes of your time now, and I'll send you a secure link to upload your documents digitally when you get home." },
         { "speaker": "Applicant", "text": "That's very convenient. Let's proceed." }
       ]
+    },
+    {
+      "id": "wire-transfer",
+      "title": "Sending an International Wire Transfer",
+      "speakers": ["Teller", "Customer"],
+      "lines": [
+        { "speaker": "Customer", "text": "Hi, I need to send money internationally to my family in the Philippines. Can you help me with that?" },
+        { "speaker": "Teller", "text": "Of course. We can process an international wire transfer for you. How much would you like to send?" },
+        { "speaker": "Customer", "text": "I'd like to send $2,000 US dollars. How will it be received — in dollars or in Philippine pesos?" },
+        { "speaker": "Teller", "text": "The recipient will receive it in Philippine pesos at the current exchange rate. Today's rate is approximately 55.8 pesos per dollar, so they'd receive roughly 111,600 pesos." },
+        { "speaker": "Customer", "text": "What fees are involved?" },
+        { "speaker": "Teller", "text": "Our outgoing wire transfer fee is $35 for international transfers. The receiving bank may also charge a small fee on their end, usually around $10 to $20 equivalent." },
+        { "speaker": "Customer", "text": "How long does it take for the money to arrive?" },
+        { "speaker": "Teller", "text": "International wire transfers typically take one to three business days. Transfers to the Philippines usually arrive within two business days." },
+        { "speaker": "Customer", "text": "That's reasonable. What information do I need to provide?" },
+        { "speaker": "Teller", "text": "I'll need the recipient's full name as it appears on their bank account, their bank name, branch address, account number, and the bank's SWIFT code." },
+        { "speaker": "Customer", "text": "I have all of that written down. Here's the information." },
+        { "speaker": "Teller", "text": "Let me enter the details. I'll also need your government-issued ID for compliance purposes, since this is an international transfer." },
+        { "speaker": "Customer", "text": "Here's my driver's license. Is there a limit on how much I can send?" },
+        { "speaker": "Teller", "text": "There's no limit on wire transfers, but amounts over $10,000 require additional documentation under federal regulations. Your $2,000 transfer is straightforward." },
+        { "speaker": "Customer", "text": "Will I get a confirmation when the money arrives?" },
+        { "speaker": "Teller", "text": "You'll receive an email confirmation when the transfer is processed on our end. For confirmation of receipt, you'd need to check with the recipient or their bank." },
+        { "speaker": "Customer", "text": "Perfect. Please go ahead and process it." }
+      ]
+    },
+    {
+      "id": "credit-card-issue",
+      "title": "Reporting a Lost Credit Card",
+      "speakers": ["Agent", "Cardholder"],
+      "lines": [
+        { "speaker": "Agent", "text": "Thank you for calling First National Bank. How can I assist you?" },
+        { "speaker": "Cardholder", "text": "I need to report my credit card as lost. I think I left it at a restaurant last night and when I called them this morning, they said they don't have it." },
+        { "speaker": "Agent", "text": "I'm sorry to hear that. Let me pull up your account right away. Can you verify your name, date of birth, and the last four digits of the card?" },
+        { "speaker": "Cardholder", "text": "David Park, October 3rd, 1988. The last four digits are 7241." },
+        { "speaker": "Agent", "text": "Thank you, Mr. Park. I've located your account. Let me freeze the card immediately so no one can use it. Have you noticed any unauthorized charges?" },
+        { "speaker": "Cardholder", "text": "I checked my app this morning and there's a charge for $87 at a gas station that I didn't make. I haven't been to a gas station in weeks." },
+        { "speaker": "Agent", "text": "I can see that charge. I'll flag it as fraudulent right away. You will not be held responsible for any unauthorized transactions. I'll initiate a dispute and a provisional credit of $87 will appear on your statement within 48 hours." },
+        { "speaker": "Cardholder", "text": "That's a relief. How do I get a replacement card?" },
+        { "speaker": "Agent", "text": "I'll issue a new card with a different number immediately. Standard delivery takes five to seven business days. We also offer expedited delivery within two business days for a $25 fee. Which would you prefer?" },
+        { "speaker": "Cardholder", "text": "I'll take the expedited delivery. I use the card for a lot of online subscriptions and automatic payments." },
+        { "speaker": "Agent", "text": "Good point. Once you receive the new card, you'll need to update your card number on any recurring payments — things like streaming services, gym memberships, and utility bills." },
+        { "speaker": "Cardholder", "text": "Is there a way to see which merchants have my card on file?" },
+        { "speaker": "Agent", "text": "Yes, in our mobile app under 'Recurring Payments,' you can see a list of merchants that regularly charge your card. That should help you update everything." },
+        { "speaker": "Cardholder", "text": "That's very useful. Thank you for handling this so quickly." },
+        { "speaker": "Agent", "text": "You're welcome. Your new card ending in 5893 will arrive within two business days. Is there anything else I can help with?" }
+      ]
+    },
+    {
+      "id": "mortgage-inquiry",
+      "title": "Asking About Mortgage Options",
+      "speakers": ["Mortgage Advisor", "Homebuyer"],
+      "lines": [
+        { "speaker": "Homebuyer", "text": "Good morning. My spouse and I are looking to buy our first home and we'd like to understand our mortgage options." },
+        { "speaker": "Mortgage Advisor", "text": "Congratulations! Buying your first home is exciting. I'd be happy to walk you through the options. Do you have a property in mind, or are you still looking?" },
+        { "speaker": "Homebuyer", "text": "We're still looking, but we want to get pre-approved first so we know our budget. We've been saving for a down payment for three years." },
+        { "speaker": "Mortgage Advisor", "text": "Getting pre-approved is a smart move. It shows sellers you're serious and helps you focus your search. What's your combined annual income?" },
+        { "speaker": "Homebuyer", "text": "Together we make about $130,000. We have $60,000 saved for a down payment." },
+        { "speaker": "Mortgage Advisor", "text": "That's a solid position. With that income and down payment, you'd likely qualify for a home in the $350,000 to $400,000 range, depending on your other debts." },
+        { "speaker": "Homebuyer", "text": "We have some student loans — about $25,000 remaining — and one car payment." },
+        { "speaker": "Mortgage Advisor", "text": "I'll factor those into the debt-to-income calculation. Now, let me explain the main mortgage types. A 30-year fixed rate gives you predictable monthly payments — our current rate is 6.5%. A 15-year fixed rate is 5.8%, which means higher monthly payments but you pay much less interest overall." },
+        { "speaker": "Homebuyer", "text": "What about adjustable rate mortgages? A friend mentioned those might have lower initial rates." },
+        { "speaker": "Mortgage Advisor", "text": "Good question. Our 5/1 ARM starts at 5.5% for the first five years, then adjusts annually based on market rates. It's lower initially but carries the risk of higher payments later. For first-time buyers planning to stay long-term, I generally recommend fixed rates for stability." },
+        { "speaker": "Homebuyer", "text": "We plan to stay at least ten years, so fixed makes more sense for us. How much would we pay monthly on a $340,000 home with a $60,000 down payment?" },
+        { "speaker": "Mortgage Advisor", "text": "On a $280,000 mortgage at 6.5% for 30 years, your principal and interest would be about $1,770 per month. Add property taxes and insurance, and you're looking at roughly $2,200 to $2,400 monthly depending on the area." },
+        { "speaker": "Homebuyer", "text": "That's within what we'd be comfortable paying. What's the next step?" },
+        { "speaker": "Mortgage Advisor", "text": "I'll need your last two years of tax returns, recent pay stubs, bank statements showing your savings, and permission to run a credit check. We can often complete pre-approval within three business days." },
+        { "speaker": "Homebuyer", "text": "We'll gather those documents and come back this week. Thank you for explaining everything so clearly." },
+        { "speaker": "Mortgage Advisor", "text": "My pleasure. Buying a home is a big decision, and I'm here to guide you through every step." }
+      ]
     }
   ]
 }

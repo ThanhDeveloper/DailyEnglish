@@ -354,13 +354,278 @@
       "example": "A class action was filed against the pharmaceutical company."
     },
     {
-      "word": "jurisdiction",
-      "ipa": "/ˌdʒʊərɪsˈdɪkʃən/",
-      "meaning": "The official power to make legal decisions",
-      "translation": "Thẩm quyền pháp lý",
-      "example": "The case falls under federal jurisdiction.",
-      "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=400&q=80"
-    }
+      "word": "deposition",
+      "ipa": "/ˌdepəˈzɪʃən/",
+      "meaning": "Sworn testimony given outside of court, recorded for later use",
+      "translation": "lời khai trước phiên tòa",
+      "example": "The witness gave a deposition before the trial began."
+    },
+    {
+      "word": "plea bargain",
+      "ipa": "/pliː ˈbɑːrɡɪn/",
+      "meaning": "An agreement where the defendant pleads guilty to a lesser charge",
+      "translation": "thỏa thuận nhận tội",
+      "example": "He accepted a plea bargain to avoid a longer sentence."
+    },
+    {
+      "word": "felony",
+      "ipa": "/ˈfeləni/",
+      "meaning": "A serious crime punishable by imprisonment for more than one year",
+      "translation": "tội nghiêm trọng (trọng tội)",
+      "example": "Armed robbery is classified as a felony."
+    },
+    {
+      "word": "misdemeanor",
+      "ipa": "/ˌmɪsdɪˈmiːnər/",
+      "meaning": "A minor criminal offense less serious than a felony",
+      "translation": "tội nhẹ (tiểu tội)",
+      "example": "Petty theft is typically charged as a misdemeanor."
+    },
+    {
+      "word": "plaintiff's counsel",
+      "ipa": "/ˈpleɪntɪfs ˈkaʊnsəl/",
+      "meaning": "The lawyer representing the person bringing the case",
+      "translation": "luật sư bên nguyên đơn",
+      "example": "Plaintiff's counsel presented three key witnesses."
+    },
+    {
+      "word": "restitution",
+      "ipa": "/ˌrestɪˈtjuːʃən/",
+      "meaning": "Compensation ordered by a court for loss or damage",
+      "translation": "bồi thường thiệt hại",
+      "example": "The court ordered restitution of $10,000 to the victim."
+    },
+    {
+      "word": "habeas corpus",
+      "ipa": "/ˌheɪbiəs ˈkɔːrpəs/",
+      "meaning": "A legal order requiring a person under arrest to be brought before a judge",
+      "translation": "lệnh đưa người bị giam ra tòa",
+      "example": "The lawyer filed for habeas corpus to challenge the detention."
+    },
+    {
+      "word": "prosecutor",
+      "ipa": "/ˈprɒsɪkjuːtər/",
+      "meaning": "A legal official who conducts the case against a defendant",
+      "translation": "công tố viên",
+      "example": "The prosecutor asked the court for the maximum sentence."
+    },
+    {
+      "word": "defense attorney",
+      "ipa": "/dɪˈfens əˈtɜːrni/",
+      "meaning": "A lawyer who represents the accused in a criminal case",
+      "translation": "luật sư bào chữa",
+      "example": "The defense attorney argued that the evidence was insufficient."
+    },
+    {
+      "word": "acquit",
+      "ipa": "/əˈkwɪt/",
+      "meaning": "To declare someone not guilty of a criminal charge",
+      "translation": "tuyên trắng án",
+      "example": "The jury acquitted him of all charges."
+    },
+    {
+      "word": "indict",
+      "ipa": "/ɪnˈdaɪt/",
+      "meaning": "To formally charge someone with a crime",
+      "translation": "truy tố, buộc tội",
+      "example": "The grand jury voted to indict the suspect."
+    },
+    {
+      "word": "statute of limitations",
+      "ipa": "/ˈstætʃuːt əv ˌlɪmɪˈteɪʃənz/",
+      "meaning": "The maximum time after an event within which legal action can be taken",
+      "translation": "thời hiệu khởi kiện",
+      "example": "The statute of limitations for fraud is typically five years."
+    },
+    {
+      "word": "emancipation",
+      "ipa": "/ɪˌmænsɪˈpeɪʃən/",
+      "meaning": "The process of being freed from legal, social, or political restrictions",
+      "translation": "giải phóng, trao quyền tự do",
+      "example": "The teenager sought legal emancipation from her parents."
+    },
+    {
+      "word": "arraignment",
+      "ipa": "/əˈreɪnmənt/",
+      "meaning": "The formal reading of charges in court where the accused enters a plea",
+      "translation": "phiên luận tội, đọc cáo trạng",
+      "example": "The arraignment is scheduled for Monday morning."
+    },
+    {
+      "word": "contempt of court",
+      "ipa": "/kənˈtempt əv kɔːrt/",
+      "meaning": "Disobedience or disrespect toward the court or its officers",
+      "translation": "tội xúc phạm tòa án",
+      "example": "He was held in contempt of court for refusing to answer."
+    },
+    {
+      "word": "plaintiff's burden",
+      "ipa": "/ˈpleɪntɪfs ˈbɜːrdən/",
+      "meaning": "The obligation of the accuser to prove their case",
+      "translation": "nghĩa vụ chứng minh của nguyên đơn",
+      "example": "The plaintiff's burden is to prove the claim by a preponderance of evidence."
+    },
+    {
+      "word": "sanction",
+      "ipa": "/ˈsæŋkʃən/",
+      "meaning": "A penalty imposed for violating a law or rule",
+      "translation": "chế tài, hình phạt",
+      "example": "The court imposed sanctions on the company for non-compliance."
+    },
+    {
+      "word": "complainant",
+      "ipa": "/kəmˈpleɪnənt/",
+      "meaning": "A person who makes a formal complaint in a legal case",
+      "translation": "người khiếu nại",
+      "example": "The complainant provided a detailed account of the incident."
+    },
+    {
+      "word": "power of attorney",
+      "ipa": "/ˈpaʊər əv əˈtɜːrni/",
+      "meaning": "Legal authority to act on another person's behalf",
+      "translation": "giấy ủy quyền pháp lý",
+      "example": "She granted power of attorney to her daughter."
+    },
+    {
+      "word": "notarize",
+      "ipa": "/ˈnəʊtəraɪz/",
+      "meaning": "To have a document officially certified by a notary public",
+      "translation": "công chứng",
+      "example": "You need to notarize the document before submitting it."
+    },
+    {
+      "word": "litigation hold",
+      "ipa": "/ˌlɪtɪˈɡeɪʃən həʊld/",
+      "meaning": "A directive to preserve all relevant documents during a legal dispute",
+      "translation": "lệnh giữ tài liệu cho vụ kiện",
+      "example": "The company issued a litigation hold to prevent document destruction."
+    },
+    {
+      "word": "defraud",
+      "ipa": "/dɪˈfrɔːd/",
+      "meaning": "To illegally obtain money by deception",
+      "translation": "lừa đảo để chiếm đoạt tài sản",
+      "example": "He was convicted of defrauding investors of millions."
+    },
+    {
+      "word": "malpractice",
+      "ipa": "/mælˈpræktɪs/",
+      "meaning": "Improper or negligent professional conduct, especially by a doctor or lawyer",
+      "translation": "sai sót nghề nghiệp",
+      "example": "The patient filed a malpractice claim against the surgeon."
+    },
+    {
+      "word": "embezzlement",
+      "ipa": "/ɪmˈbezəlmənt/",
+      "meaning": "The theft of money placed in one's trust",
+      "translation": "tội tham ô, biển thủ",
+      "example": "The accountant was charged with embezzlement of company funds."
+    },
+    {
+      "word": "compliance",
+      "ipa": "/kəmˈplaɪəns/",
+      "meaning": "The act of obeying rules, laws, or regulations",
+      "translation": "sự tuân thủ",
+      "example": "The company invested heavily in regulatory compliance."
+    },
+    {
+      "word": "whistleblower",
+      "ipa": "/ˈwɪsəlbləʊər/",
+      "meaning": "A person who reports illegal or unethical activity within an organization",
+      "translation": "người tố giác sai phạm",
+      "example": "The whistleblower reported the company's tax fraud."
+    },
+    {
+      "word": "affirmative defense",
+      "ipa": "/əˈfɜːrmətɪv dɪˈfens/",
+      "meaning": "A defense where the defendant introduces new evidence to defeat the charge",
+      "translation": "biện hộ tích cực",
+      "example": "Self-defense is an affirmative defense in assault cases."
+    },
+    {
+      "word": "recidivism",
+      "ipa": "/rɪˈsɪdɪvɪzəm/",
+      "meaning": "The tendency of a convicted criminal to reoffend",
+      "translation": "tái phạm tội",
+      "example": "Programs aimed at reducing recidivism focus on rehabilitation."
+    },
+    {
+      "word": "tribunal",
+      "ipa": "/traɪˈbjuːnəl/",
+      "meaning": "A court or other body established to settle disputes",
+      "translation": "tòa án đặc biệt, hội đồng xét xử",
+      "example": "The dispute was referred to an international tribunal."
+    },
+    {
+      "word": "litigant",
+      "ipa": "/ˈlɪtɪɡənt/",
+      "meaning": "A person involved in a lawsuit",
+      "translation": "đương sự, bên tham gia kiện tụng",
+      "example": "Both litigants agreed to settle out of court."
+    },
+    {
+      "word": "corroborate",
+      "ipa": "/kəˈrɒbəreɪt/",
+      "meaning": "To confirm or support a statement with evidence",
+      "translation": "xác nhận, chứng thực",
+      "example": "The witness's account corroborated the video evidence."
+    },
+    {
+      "word": "acquiesce",
+      "ipa": "/ˌækwiˈes/",
+      "meaning": "To accept something reluctantly without protest",
+      "translation": "miễn cưỡng chấp nhận",
+      "example": "She acquiesced to the settlement terms to avoid a trial."
+    },
+    {
+      "word": "adjudicate",
+      "ipa": "/əˈdʒuːdɪkeɪt/",
+      "meaning": "To make a formal judgment or decision on a disputed matter",
+      "translation": "phán xét, xét xử",
+      "example": "The court was asked to adjudicate the boundary dispute."
+    },
+    {
+      "word": "retainer",
+      "ipa": "/rɪˈteɪnər/",
+      "meaning": "A fee paid in advance to secure the services of a lawyer",
+      "translation": "phí giữ chỗ luật sư",
+      "example": "The client paid a $5,000 retainer to the law firm."
+    },
+    {
+      "word": "jurisprudence",
+      "ipa": "/ˌdʒʊərɪsˈpruːdəns/",
+      "meaning": "The theory and philosophy of law",
+      "translation": "luật học, triết lý pháp luật",
+      "example": "She studied jurisprudence at Oxford University."
+    },
+    {
+      "word": "exonerate",
+      "ipa": "/ɪɡˈzɒnəreɪt/",
+      "meaning": "To clear someone of blame or wrongdoing",
+      "translation": "minh oan, giải tội",
+      "example": "New DNA evidence exonerated the wrongly convicted man."
+    },
+    {
+      "word": "damages",
+      "ipa": "/ˈdæmɪdʒɪz/",
+      "meaning": "Money claimed or awarded as compensation for a loss",
+      "translation": "tiền bồi thường thiệt hại",
+      "example": "The jury awarded $2 million in damages."
+    },
+    { "word": "bail", "ipa": "/beɪl/", "meaning": "Money paid to release a suspect from custody while awaiting trial", "translation": "tiền bảo lãnh tại ngoại", "example": "He was released on bail pending his trial." },
+    { "word": "injunction", "ipa": "/ɪnˈdʒʌŋkʃən/", "meaning": "A court order requiring a party to do or stop doing something", "translation": "lệnh cấm của tòa án", "example": "The judge issued an injunction to halt construction." },
+    { "word": "statute of limitations", "ipa": "/ˈstætjuːt əv ˌlɪmɪˈteɪʃənz/", "meaning": "The deadline by which legal action must be started", "translation": "thời hiệu khởi kiện", "example": "The statute of limitations expired before they could sue." },
+    { "word": "legal precedent", "ipa": "/ˈliːɡəl ˈpresɪdənt/", "meaning": "A court ruling that guides future similar cases", "translation": "tiền lệ pháp lý", "example": "This ruling set a significant legal precedent." },
+    { "word": "intellectual property", "ipa": "/ˌɪntəˈlektʃuəl ˈprɒpəti/", "meaning": "Creations of the mind protected by law, like patents and trademarks", "translation": "sở hữu trí tuệ", "example": "Patents protect intellectual property in inventions." },
+    { "word": "arbitration", "ipa": "/ˌɑːrbɪˈtreɪʃən/", "meaning": "Resolving a dispute through a neutral third party outside of court", "translation": "trọng tài", "example": "The contract requires arbitration before any lawsuit." },
+    { "word": "mediation", "ipa": "/ˌmiːdiˈeɪʃən/", "meaning": "A voluntary process where a neutral person helps resolve a dispute", "translation": "hòa giải", "example": "Mediation is faster and cheaper than going to court." },
+    { "word": "probate", "ipa": "/ˈprəʊbeɪt/", "meaning": "The legal process of validating a deceased person's will", "translation": "chứng nhận di chúc", "example": "The estate went through probate before being distributed." },
+    { "word": "jurisdiction", "ipa": "/ˌdʒʊərɪsˈdɪkʃən/", "meaning": "The authority of a court to hear and decide a case", "translation": "quyền tài phán", "example": "This crime falls under federal jurisdiction." },
+    { "word": "power of attorney", "ipa": "/ˈpaʊər əv əˈtɜːrni/", "meaning": "Legal authority to act on someone else's behalf", "translation": "ủy quyền pháp lý", "example": "She gave her brother power of attorney during her illness." },
+    { "word": "subpoena", "ipa": "/səˈpiːnə/", "meaning": "A legal order requiring someone to appear in court or produce evidence", "translation": "giấy triệu tập hầu tòa", "example": "The witness was issued a subpoena to testify." },
+    { "word": "affidavit", "ipa": "/ˌæfɪˈdeɪvɪt/", "meaning": "A written sworn statement of facts used in legal proceedings", "translation": "tuyên thệ bằng văn bản", "example": "The witness signed an affidavit confirming the events." },
+    { "word": "indictment", "ipa": "/ɪnˈdaɪtmənt/", "meaning": "A formal charge or accusation of a serious crime", "translation": "cáo trạng", "example": "The grand jury returned an indictment against the company." },
+    { "word": "acquittal", "ipa": "/əˈkwɪtəl/", "meaning": "A formal judgment that a person is not guilty", "translation": "tuyên trắng án", "example": "The jury returned a unanimous acquittal." }
   ],
   "quiz": [
     {
@@ -460,6 +725,56 @@
         "A lawsuit filed by a group of people with similar claims",
         "A plea bargain",
         "A legal precedent"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'felony'?",
+      "options": [
+        "A minor traffic violation",
+        "A serious crime punishable by more than one year in prison",
+        "A civil lawsuit",
+        "A warning from police"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'plea bargain'?",
+      "options": [
+        "A request for bail",
+        "An agreement where the defendant pleads guilty to a lesser charge",
+        "A type of appeal",
+        "A court hearing"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'exonerate' mean?",
+      "options": [
+        "To find someone guilty",
+        "To clear someone of blame or wrongdoing",
+        "To sentence someone to prison",
+        "To file a lawsuit"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 'embezzlement'?",
+      "options": [
+        "Tax evasion",
+        "The theft of money placed in one's trust",
+        "Breaking a contract",
+        "Trespassing on private property"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'whistleblower'?",
+      "options": [
+        "A court reporter",
+        "A person who reports illegal activity within an organization",
+        "A police informant",
+        "A jury spokesperson"
       ],
       "answer": 1
     }

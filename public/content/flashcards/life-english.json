@@ -88,6 +88,20 @@
     { "word": "garnish", "ipa": "/ˈɡɑːrnɪʃ/", "meaning": "to decorate a dish with a small amount of extra food", "example": "Garnish the soup with fresh parsley." },
     { "word": "serve", "ipa": "/sɜːrv/", "meaning": "to put food or drink in front of someone", "example": "Serve the pasta while it is still hot." },
     { "word": "appetite", "ipa": "/ˈæpɪtaɪt/", "meaning": "a desire for food", "example": "Exercise always increases my appetite." },
-    { "word": "cravings", "ipa": "/ˈkreɪvɪŋz/", "meaning": "strong desires for a particular food or thing", "example": "She had strong cravings for chocolate during her pregnancy." }
+    { "word": "cravings", "ipa": "/ˈkreɪvɪŋz/", "meaning": "strong desires for a particular food or thing", "example": "She had strong cravings for chocolate during her pregnancy." },
+    { "word": "errand", "ipa": "/ˈɛrənd/", "meaning": "a short trip to do a task, such as shopping", "example": "I have a few errands to run before lunch." },
+    { "word": "chore", "ipa": "/tʃɔːr/", "meaning": "a routine household task", "example": "Doing the dishes is my least favourite chore." },
+    { "word": "tenant", "ipa": "/ˈtɛnənt/", "meaning": "a person who rents a room or property", "example": "The new tenant moved in last weekend." },
+    { "word": "landlord", "ipa": "/ˈlændlɔːrd/", "meaning": "a person who owns property and rents it to others", "example": "The landlord agreed to fix the broken window." },
+    { "word": "pedestrian", "ipa": "/pəˈdɛstriən/", "meaning": "a person walking rather than travelling in a vehicle", "example": "Drivers must give way to pedestrians at crossings." },
+    { "word": "hygiene", "ipa": "/ˈhaɪdʒiːn/", "meaning": "practices to maintain health and prevent disease", "example": "Good hygiene includes washing your hands regularly." },
+    { "word": "grateful", "ipa": "/ˈɡreɪtfəl/", "meaning": "feeling or showing thanks", "example": "I am grateful for all the support I received." },
+    { "word": "overwhelmed", "ipa": "/ˌoʊvərˈwɛlmd/", "meaning": "feeling that there is too much to deal with", "example": "She felt overwhelmed by the amount of work." },
+    { "word": "routine", "ipa": "/ruːˈtiːn/", "meaning": "a regular sequence of actions followed daily", "example": "My morning routine includes exercise and breakfast." },
+    { "word": "renovate", "ipa": "/ˈrɛnəveɪt/", "meaning": "to repair and improve a building", "example": "They renovated the kitchen last summer." },
+    { "word": "appliance", "ipa": "/əˈplaɪəns/", "meaning": "a device or machine used in the home", "example": "The washing machine is our most-used appliance." },
+    { "word": "cozy", "ipa": "/ˈkoʊzi/", "meaning": "giving a feeling of comfort and warmth", "example": "The living room is small but very cozy." },
+    { "word": "commuter", "ipa": "/kəˈmjuːtər/", "meaning": "a person who regularly travels between home and work", "example": "The train is packed with commuters every morning." },
+    { "word": "clutter", "ipa": "/ˈklʌtər/", "meaning": "a collection of things lying around in an untidy way", "example": "She cleared the clutter from her desk to focus better." }
   ]
 }

@@ -26,6 +26,9 @@ const ConversationPage = lazy(() =>
 const SearchPage = lazy(() =>
   import('../pages/Search/SearchPage').then((m) => ({ default: m.SearchPage }))
 );
+const GrammarPage = lazy(() =>
+  import('../pages/Grammar/GrammarPage').then((m) => ({ default: m.GrammarPage }))
+);
 
 function Loading() {
   return (
@@ -79,6 +82,10 @@ export const router = createBrowserRouter([
       {
         path: 'saved',
         element: <SuspenseWrap><SavedWordsPage /></SuspenseWrap>,
+      },
+      {
+        path: 'grammar',
+        element: <SuspenseWrap><GrammarPage /></SuspenseWrap>,
       },
     ],
   },

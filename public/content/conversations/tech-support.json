@@ -63,6 +63,65 @@
         { "speaker": "User", "text": "No, that's everything. Thanks again!" },
         { "speaker": "Help Desk", "text": "Have a great rest of your day!" }
       ]
+    },
+    {
+      "id": "password-reset",
+      "title": "Forgotten Password Reset",
+      "speakers": ["Help Desk", "Employee"],
+      "lines": [
+        { "speaker": "Employee", "text": "Hi, I can't log into my work email this morning. It keeps saying my password is incorrect." },
+        { "speaker": "Help Desk", "text": "I can help with that. First, can I confirm your employee ID and full name for security purposes?" },
+        { "speaker": "Employee", "text": "Sure, it's EMP-2847, Sarah Johnson." },
+        { "speaker": "Help Desk", "text": "Thank you, Sarah. I can see your account has been locked after five failed login attempts. I'll reset it for you now. Did you recently change your password on another device?" },
+        { "speaker": "Employee", "text": "Oh! Yes, I changed it on my phone last week but I forgot to update it on my laptop." },
+        { "speaker": "Help Desk", "text": "That explains it. I'm sending a password reset link to your personal email on file. Please check your inbox — it may take a couple of minutes to arrive." },
+        { "speaker": "Employee", "text": "Got it. I can see the email. I've clicked the link and set a new password." },
+        { "speaker": "Help Desk", "text": "Great. Please try logging in now and let me know if it works." },
+        { "speaker": "Employee", "text": "I'm in! That worked perfectly. Thank you so much." },
+        { "speaker": "Help Desk", "text": "You're welcome. As a reminder, if you change your password on one device, update it on all others to avoid future lockouts. Is there anything else I can help with?" },
+        { "speaker": "Employee", "text": "No, that's all I needed. Thanks again!" }
+      ]
+    },
+    {
+      "id": "slow-computer",
+      "title": "Slow Computer Performance",
+      "speakers": ["IT Technician", "User"],
+      "lines": [
+        { "speaker": "User", "text": "Hi, my computer has been running really slowly for the past week. It takes forever to open applications." },
+        { "speaker": "IT Technician", "text": "Hello! How slow are we talking — a few seconds or several minutes?" },
+        { "speaker": "User", "text": "Sometimes a simple Word document takes two or three minutes to open. It's really frustrating." },
+        { "speaker": "IT Technician", "text": "I understand. Let me remote into your machine to take a look. Can you give me your computer ID from the sticker on the bottom?" },
+        { "speaker": "User", "text": "It says CORP-PC-3847." },
+        { "speaker": "IT Technician", "text": "Thanks. I'm connected now. I can see your hard drive is at 97% capacity. That's definitely causing the slowdown. You have about 50 gigabytes of data that could be archived." },
+        { "speaker": "User", "text": "I didn't realize it was that full. Can you help me free up some space?" },
+        { "speaker": "IT Technician", "text": "Absolutely. First, let's move your old project folders to the network drive. That alone should free up about 30 gigabytes. I'm also going to clear the browser cache and temporary files." },
+        { "speaker": "User", "text": "Sure, that sounds good. Will I lose any of my files?" },
+        { "speaker": "IT Technician", "text": "No, I'm only moving them, not deleting them. They'll be accessible on the network drive at any time. I'm also going to disable some startup programmes that are slowing down your boot time." },
+        { "speaker": "User", "text": "Perfect. How long will this take?" },
+        { "speaker": "IT Technician", "text": "About 15 minutes total. I'd suggest restarting your machine after I'm done for the changes to fully take effect. I'll let you know when it's safe to restart." },
+        { "speaker": "User", "text": "Great. I'll grab a coffee while you work on it." },
+        { "speaker": "IT Technician", "text": "All done. Please restart now and try opening a couple of applications to see if the speed has improved." },
+        { "speaker": "User", "text": "Wow, Word opened in under five seconds! That's a huge improvement. Thank you!" }
+      ]
+    },
+    {
+      "id": "cybersecurity",
+      "title": "Suspected Phishing Email",
+      "speakers": ["Security Team", "Employee"],
+      "lines": [
+        { "speaker": "Employee", "text": "Hi, I wanted to report a suspicious email I just received. It looks like it might be a phishing attempt." },
+        { "speaker": "Security Team", "text": "Good instinct to report it. Can you tell me what the email said and who it appeared to be from?" },
+        { "speaker": "Employee", "text": "It says it's from our CEO, but the email address looks slightly wrong — it's ceo@companey.com instead of company.com." },
+        { "speaker": "Security Team", "text": "That's a classic sign of a phishing email — a misspelled domain. Did you click on any links or open any attachments in the email?" },
+        { "speaker": "Employee", "text": "No, I thought it looked wrong so I didn't touch anything." },
+        { "speaker": "Security Team", "text": "Excellent decision. Please forward the email to security@company.com so we can analyze it and block the domain. Then delete the original from your inbox." },
+        { "speaker": "Employee", "text": "Done. I've forwarded it and deleted it. Should I be worried about my account being compromised?" },
+        { "speaker": "Security Team", "text": "Since you didn't click anything, you should be fine. But as a precaution, please change your email password today and enable two-factor authentication if you haven't already." },
+        { "speaker": "Employee", "text": "I'll do that right away. Is there anything else I should do?" },
+        { "speaker": "Security Team", "text": "Please also let your team know about this email. Phishing campaigns often target multiple people at once. We'll send a company-wide alert as well." },
+        { "speaker": "Employee", "text": "Will do. Thanks for taking this seriously." },
+        { "speaker": "Security Team", "text": "Always. Thank you for reporting it promptly. Vigilant employees are our best defence against cyber threats." }
+      ]
     }
   ]
 }

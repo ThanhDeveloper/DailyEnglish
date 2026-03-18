@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { TopicCard } from '../../components/TopicCard';
 import { StreakWidget } from '../../components/StreakWidget';
+import { DailyGoal } from '../../components/DailyGoal';
 import { SearchIcon, BookIcon, HeadphonesIcon, MessageCircleIcon, MicIcon } from '../../components/Icons';
 import { getContentIndex, getAllTopics } from '../../utils/content';
 import type { ContentIndex, Topic } from '../../types';
@@ -39,6 +40,7 @@ export function HomePage() {
         </div>
       </section>
 
+      <DailyGoal />
       <StreakWidget />
 
       <section className="section">

@@ -354,12 +354,368 @@
       "example": "Add half a teaspoon of salt."
     },
     {
-      "word": "garnish",
-      "ipa": "/ˈɡɑːrnɪʃ/",
-      "meaning": "A decoration added to food before serving",
-      "translation": "Trang trí món ăn",
-      "example": "She added a parsley garnish to the soup.",
-      "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=400&q=80"
+      "word": "poach",
+      "ipa": "/pəʊtʃ/",
+      "meaning": "To cook food gently in simmering liquid",
+      "translation": "luộc chín trong nước sôi nhẹ",
+      "example": "Poach the eggs in water with a splash of vinegar."
+    },
+    {
+      "word": "sear",
+      "ipa": "/sɪər/",
+      "meaning": "To brown the surface of food quickly at high temperature",
+      "translation": "áp chảo ở nhiệt độ cao",
+      "example": "Sear the steak for two minutes on each side."
+    },
+    {
+      "word": "grate",
+      "ipa": "/ɡreɪt/",
+      "meaning": "To shred food into small pieces using a grater",
+      "translation": "bào, nạo nhỏ",
+      "example": "Grate the cheese over the pasta."
+    },
+    {
+      "word": "tenderize",
+      "ipa": "/ˈtendəraɪz/",
+      "meaning": "To make meat softer by pounding or marinating",
+      "translation": "làm mềm thịt",
+      "example": "Use a mallet to tenderize the chicken breast."
+    },
+    {
+      "word": "parboil",
+      "ipa": "/ˈpɑːrbɔɪl/",
+      "meaning": "To partially cook food by boiling briefly",
+      "translation": "luộc sơ, nấu chín một phần",
+      "example": "Parboil the potatoes before roasting them."
+    },
+    {
+      "word": "steam",
+      "ipa": "/stiːm/",
+      "meaning": "To cook food using the vapor from boiling water",
+      "translation": "hấp",
+      "example": "Steam the dumplings for ten minutes."
+    },
+    {
+      "word": "roast",
+      "ipa": "/rəʊst/",
+      "meaning": "To cook food in an oven with dry heat",
+      "translation": "nướng trong lò",
+      "example": "Roast the chicken at 180°C for one hour."
+    },
+    {
+      "word": "grill",
+      "ipa": "/ɡrɪl/",
+      "meaning": "To cook food on a metal frame over direct heat",
+      "translation": "nướng trên vỉ",
+      "example": "Grill the burgers for five minutes each side."
+    },
+    {
+      "word": "deep-fry",
+      "ipa": "/diːp fraɪ/",
+      "meaning": "To cook food by submerging it in hot oil",
+      "translation": "chiên ngập dầu",
+      "example": "Deep-fry the spring rolls until crispy."
+    },
+    {
+      "word": "cure",
+      "ipa": "/kjʊər/",
+      "meaning": "To preserve food using salt, sugar, or smoke",
+      "translation": "ướp muối/hun khói để bảo quản",
+      "example": "The salmon was cured with salt and dill."
+    },
+    {
+      "word": "pickle",
+      "ipa": "/ˈpɪkəl/",
+      "meaning": "To preserve food in vinegar or brine solution",
+      "translation": "ngâm giấm, muối chua",
+      "example": "She pickled the cucumbers with garlic and dill."
+    },
+    {
+      "word": "smoke",
+      "ipa": "/sməʊk/",
+      "meaning": "To flavor and preserve food by exposing it to wood smoke",
+      "translation": "hun khói",
+      "example": "The chef smoked the ribs over hickory wood."
+    },
+    {
+      "word": "strain",
+      "ipa": "/streɪn/",
+      "meaning": "To separate liquid from solid food using a sieve",
+      "translation": "lọc, chắt nước",
+      "example": "Strain the pasta and reserve the cooking water."
+    },
+    {
+      "word": "peel",
+      "ipa": "/piːl/",
+      "meaning": "To remove the skin from a fruit or vegetable",
+      "translation": "gọt vỏ",
+      "example": "Peel the potatoes before boiling them."
+    },
+    {
+      "word": "chop",
+      "ipa": "/tʃɒp/",
+      "meaning": "To cut food into pieces with a sharp knife",
+      "translation": "chặt, thái",
+      "example": "Chop the onions into rough pieces."
+    },
+    {
+      "word": "slice",
+      "ipa": "/slaɪs/",
+      "meaning": "To cut food into thin, flat pieces",
+      "translation": "cắt lát mỏng",
+      "example": "Slice the tomatoes thinly for the sandwich."
+    },
+    {
+      "word": "shred",
+      "ipa": "/ʃred/",
+      "meaning": "To tear or cut food into thin strips",
+      "translation": "xé nhỏ, thái sợi",
+      "example": "Shred the cabbage for the coleslaw."
+    },
+    {
+      "word": "skillet",
+      "ipa": "/ˈskɪlɪt/",
+      "meaning": "A flat-bottomed frying pan used for cooking",
+      "translation": "chảo rán",
+      "example": "Heat the skillet before adding the oil."
+    },
+    {
+      "word": "colander",
+      "ipa": "/ˈkɒləndər/",
+      "meaning": "A bowl-shaped kitchen utensil with holes for draining food",
+      "translation": "rổ lọc, rổ chắt nước",
+      "example": "Drain the pasta in a colander."
+    },
+    {
+      "word": "spatula",
+      "ipa": "/ˈspætʃʊlə/",
+      "meaning": "A flat tool used for lifting, flipping, or spreading food",
+      "translation": "cái xẻng lật thức ăn",
+      "example": "Use a spatula to flip the pancakes."
+    },
+    {
+      "word": "ladle",
+      "ipa": "/ˈleɪdəl/",
+      "meaning": "A large spoon with a deep bowl used for serving soup",
+      "translation": "muôi múc canh",
+      "example": "Use a ladle to serve the soup into bowls."
+    },
+    {
+      "word": "tongs",
+      "ipa": "/tɒŋz/",
+      "meaning": "A tool with two arms used for gripping and lifting food",
+      "translation": "kẹp gắp thức ăn",
+      "example": "Turn the meat with tongs to avoid piercing it."
+    },
+    {
+      "word": "savory",
+      "ipa": "/ˈseɪvəri/",
+      "meaning": "Having a salty or spicy flavor rather than sweet",
+      "translation": "mặn, đậm đà (không ngọt)",
+      "example": "The savory pie was filled with meat and vegetables."
+    },
+    {
+      "word": "bland",
+      "ipa": "/blænd/",
+      "meaning": "Lacking strong flavor; tasteless",
+      "translation": "nhạt, không có vị",
+      "example": "The soup was bland and needed more seasoning."
+    },
+    {
+      "word": "tangy",
+      "ipa": "/ˈtæŋi/",
+      "meaning": "Having a sharp, pleasantly acidic taste",
+      "translation": "có vị chua nhẹ dễ chịu",
+      "example": "The yogurt sauce has a tangy flavor."
+    },
+    {
+      "word": "aromatic",
+      "ipa": "/ˌærəˈmætɪk/",
+      "meaning": "Having a pleasant and distinctive smell",
+      "translation": "thơm, có mùi hương",
+      "example": "Fresh basil is highly aromatic."
+    },
+    {
+      "word": "succulent",
+      "ipa": "/ˈsʌkjʊlənt/",
+      "meaning": "Tender, juicy, and delicious",
+      "translation": "mọng nước, ngon",
+      "example": "The lamb was perfectly succulent after slow cooking."
+    },
+    {
+      "word": "pungent",
+      "ipa": "/ˈpʌndʒənt/",
+      "meaning": "Having a strong, sharp smell or taste",
+      "translation": "hăng, nồng",
+      "example": "Blue cheese has a pungent aroma."
+    },
+    {
+      "word": "stale",
+      "ipa": "/steɪl/",
+      "meaning": "No longer fresh; dry and hard",
+      "translation": "cũ, ôi thiu, khô cứng",
+      "example": "The bread went stale after two days."
+    },
+    {
+      "word": "ripe",
+      "ipa": "/raɪp/",
+      "meaning": "Fully grown and ready to eat",
+      "translation": "chín (trái cây)",
+      "example": "Wait until the avocado is ripe before eating."
+    },
+    {
+      "word": "cuisine",
+      "ipa": "/kwɪˈziːn/",
+      "meaning": "A style of cooking associated with a region or culture",
+      "translation": "ẩm thực, nền ẩm thực",
+      "example": "Vietnamese cuisine is known for its fresh herbs."
+    },
+    {
+      "word": "recipe",
+      "ipa": "/ˈresɪpi/",
+      "meaning": "A set of instructions for preparing a particular dish",
+      "translation": "công thức nấu ăn",
+      "example": "This recipe has been in our family for generations."
+    },
+    {
+      "word": "leftovers",
+      "ipa": "/ˈleftəʊvərz/",
+      "meaning": "Food remaining after a meal",
+      "translation": "thức ăn thừa",
+      "example": "We ate the leftovers for lunch the next day."
+    },
+    {
+      "word": "preservative",
+      "ipa": "/prɪˈzɜːrvətɪv/",
+      "meaning": "A substance added to food to prevent spoilage",
+      "translation": "chất bảo quản",
+      "example": "This jam contains no artificial preservatives."
+    },
+    {
+      "word": "calorie",
+      "ipa": "/ˈkæləri/",
+      "meaning": "A unit of energy provided by food",
+      "translation": "calo, đơn vị năng lượng",
+      "example": "This salad is low in calories but high in nutrients."
+    },
+    {
+      "word": "nutrient",
+      "ipa": "/ˈnjuːtriənt/",
+      "meaning": "A substance in food that provides nourishment",
+      "translation": "chất dinh dưỡng",
+      "example": "Vegetables are packed with essential nutrients."
+    },
+    {
+      "word": "fiber",
+      "ipa": "/ˈfaɪbər/",
+      "meaning": "Plant material in food that aids digestion",
+      "translation": "chất xơ",
+      "example": "Whole grains are an excellent source of fiber."
+    },
+    {
+      "word": "carbohydrate",
+      "ipa": "/ˌkɑːrbəʊˈhaɪdreɪt/",
+      "meaning": "A nutrient that provides energy, found in bread, rice, and pasta",
+      "translation": "tinh bột, carbohydrate",
+      "example": "Athletes need carbohydrates for sustained energy."
+    },
+    {
+      "word": "protein",
+      "ipa": "/ˈprəʊtiːn/",
+      "meaning": "A nutrient essential for building and repairing body tissues",
+      "translation": "chất đạm, protein",
+      "example": "Eggs are an affordable source of protein."
+    },
+    {
+      "word": "yeast",
+      "ipa": "/jiːst/",
+      "meaning": "A fungus used as a leavening agent in baking",
+      "translation": "men, nấm men",
+      "example": "Add the yeast to warm water and let it activate."
+    },
+    {
+      "word": "batter",
+      "ipa": "/ˈbætər/",
+      "meaning": "A thin mixture of flour, eggs, and liquid used for coating or baking",
+      "translation": "bột nhão để chiên hoặc nướng",
+      "example": "Dip the fish in batter before frying."
+    },
+    {
+      "word": "dough",
+      "ipa": "/dəʊ/",
+      "meaning": "A thick mixture of flour and liquid used for baking",
+      "translation": "bột nhào",
+      "example": "Let the dough rise for an hour before shaping."
+    },
+    {
+      "word": "stock",
+      "ipa": "/stɒk/",
+      "meaning": "A liquid made by simmering bones, meat, or vegetables",
+      "translation": "nước dùng, nước hầm xương",
+      "example": "Use chicken stock as the base for the soup."
+    },
+    {
+      "word": "broth",
+      "ipa": "/brɒθ/",
+      "meaning": "A thin soup or seasoned liquid in which food has been cooked",
+      "translation": "nước canh, nước lèo",
+      "example": "Sip the warm broth when you have a cold."
+    },
+    {
+      "word": "marinade",
+      "ipa": "/ˌmærɪˈneɪd/",
+      "meaning": "A seasoned liquid in which food is soaked to add flavor",
+      "translation": "nước ướp, nước sốt ướp",
+      "example": "Let the tofu sit in the marinade for at least two hours."
+    },
+    {
+      "word": "dollop",
+      "ipa": "/ˈdɒləp/",
+      "meaning": "A shapeless mass or lump of a soft food",
+      "translation": "một muỗng lớn (kem, sốt)",
+      "example": "Add a dollop of cream on top of the pie."
+    },
+    {
+      "word": "pinch",
+      "ipa": "/pɪntʃ/",
+      "meaning": "A very small amount of a powdered ingredient",
+      "translation": "một nhúm nhỏ",
+      "example": "Add a pinch of salt to enhance the sweetness."
+    },
+    {
+      "word": "dash",
+      "ipa": "/dæʃ/",
+      "meaning": "A small amount of liquid ingredient added quickly",
+      "translation": "một chút (gia vị lỏng)",
+      "example": "Add a dash of soy sauce to the stir-fry."
+    },
+    {
+      "word": "toss",
+      "ipa": "/tɒs/",
+      "meaning": "To mix ingredients lightly by lifting and turning",
+      "translation": "trộn nhẹ",
+      "example": "Toss the salad with the dressing just before serving."
+    },
+    {
+      "word": "canapé",
+      "ipa": "/ˈkænəpeɪ/",
+      "meaning": "A small piece of bread topped with a savory spread or food",
+      "translation": "bánh mì nhỏ với nhân mặn phía trên",
+      "example": "The party featured a selection of elegant canapés."
+    },
+    {
+      "word": "soufflé",
+      "ipa": "/ˈsuːfleɪ/",
+      "meaning": "A light baked dish made fluffy with beaten egg whites",
+      "translation": "bánh soufflé (xốp nhẹ)",
+      "example": "A chocolate soufflé must be served immediately."
+    },
+    {
+      "word": "sieve",
+      "ipa": "/sɪv/",
+      "meaning": "A fine mesh tool used to separate solids from liquids or sift flour",
+      "translation": "rây, cái lọc bột",
+      "example": "Pass the flour through a sieve to remove lumps."
     }
   ],
   "quiz": [
@@ -460,6 +816,56 @@
         "Gently mix ingredients without stirring vigorously",
         "Cut food into strips",
         "Add sauce on top"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'sear' mean?",
+      "options": [
+        "Cook food in cold water",
+        "Brown the surface of food quickly at high temperature",
+        "Slice food into thin pieces",
+        "Marinate food overnight"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'colander' used for?",
+      "options": [
+        "Mixing batter",
+        "Draining liquid from food",
+        "Measuring ingredients",
+        "Cutting vegetables"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'tangy' describe?",
+      "options": [
+        "A very sweet taste",
+        "A sharp, pleasantly acidic taste",
+        "A bitter taste",
+        "A bland taste"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'soufflé'?",
+      "options": [
+        "A thick stew",
+        "A light baked dish made fluffy with beaten egg whites",
+        "A type of bread",
+        "A fried pastry"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'poach' mean in cooking?",
+      "options": [
+        "Fry at very high temperature",
+        "Cook food gently in simmering liquid",
+        "Freeze food quickly",
+        "Grill over charcoal"
       ],
       "answer": 1
     }

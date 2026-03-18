@@ -1,13 +1,24 @@
+/* Mobile-first */
+
 .hero {
   text-align: center;
-  padding: 64px 16px 48px;
+  padding: 36px 0 28px;
 }
 
 .heroTitle {
-  font-size: 2.5rem;
+  font-size: 1.875rem;   /* mobile: comfortable on 360px */
   font-weight: 800;
   line-height: 1.15;
-  margin-bottom: 16px;
+  margin-bottom: 14px;
+}
+
+@media (min-width: 480px) {
+  .heroTitle { font-size: 2.25rem; }
+}
+
+@media (min-width: 768px) {
+  .hero { padding: 64px 16px 48px; }
+  .heroTitle { font-size: 2.5rem; }
 }
 
 .accent {
@@ -15,77 +26,62 @@
 }
 
 .heroDesc {
-  font-size: 1.125rem;
+  font-size: 1rem;
   color: var(--color-text-secondary);
   max-width: 480px;
-  margin: 0 auto 28px;
+  margin: 0 auto 24px;
   line-height: 1.6;
+}
+
+@media (min-width: 768px) {
+  .heroDesc { font-size: 1.125rem; margin-bottom: 28px; }
 }
 
 .heroActions {
   display: flex;
-  gap: 12px;
+  gap: 10px;
   justify-content: center;
   flex-wrap: wrap;
+}
+
+/* Stack buttons on very narrow screens */
+@media (max-width: 380px) {
+  .heroActions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .heroActions > * {
+    width: 100%;
+    justify-content: center;
+  }
 }
 
 .quickCard {
   display: flex;
   align-items: center;
   gap: 16px;
-  padding: 20px;
+  padding: 18px;
   background: var(--color-surface);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-md);
   color: var(--color-primary);
   text-decoration: none;
   transition: transform 0.2s, box-shadow 0.2s;
+  /* ensure tap target height */
+  min-height: var(--tap-min);
 }
-
 .quickCard:hover {
   transform: translateY(-2px);
   box-shadow: var(--shadow-lg);
   text-decoration: none;
 }
-
 .quickCard h3 {
   font-size: 1rem;
   font-weight: 600;
   color: var(--color-text);
   margin-bottom: 2px;
 }
-
 .quickCard p {
   font-size: 0.8125rem;
   color: var(--color-text-secondary);
-}
-
-@media (max-width: 768px) {
-  .hero {
-    padding: 40px 0 32px;
-  }
-
-  .heroTitle {
-    font-size: 2rem;
-  }
-
-  .heroDesc {
-    font-size: 1rem;
-  }
-}
-
-@media (max-width: 380px) {
-  .heroTitle {
-    font-size: 1.75rem;
-  }
-
-  .heroActions {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .heroActions > * {
-    width: 100%;
-    justify-content: center;
-  }
 }

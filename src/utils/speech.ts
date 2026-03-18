@@ -1,28 +1,49 @@
-const PREFERRED_VOICES = [
-  // High-quality neural/natural voices (Chrome/Edge)
+export type Accent = 'us' | 'uk';
+
+const ACCENT_STORAGE_KEY = 'dailyenglish_accent';
+
+const PREFERRED_VOICES_US = [
   'Google US English',
   'Microsoft Aria Online (Natural) - English (United States)',
   'Microsoft Jenny Online (Natural) - English (United States)',
   'Microsoft Guy Online (Natural) - English (United States)',
-  'Google UK English Female',
-  'Google UK English Male',
-  // macOS/iOS
   'Samantha',
-  'Daniel',
-  // Fallback Google
   'Google English',
 ];
 
+const PREFERRED_VOICES_UK = [
+  'Google UK English Female',
+  'Google UK English Male',
+  'Microsoft Ryan Online (Natural) - English (United Kingdom)',
+  'Daniel',
+  'Google English',
+];
+
+export function getAccent(): Accent {
+  const stored = localStorage.getItem(ACCENT_STORAGE_KEY);
+  if (stored === 'uk') return 'uk';
+  return 'us';
+}
+
+export function setAccent(accent: Accent): void {
+  localStorage.setItem(ACCENT_STORAGE_KEY, accent);
+}
+
 function getBestVoice(): SpeechSynthesisVoice | null {
   const voices = window.speechSynthesis.getVoices();
-  for (const preferred of PREFERRED_VOICES) {
+  const accent = getAccent();
+  const preferredList = accent === 'uk' ? PREFERRED_VOICES_UK : PREFERRED_VOICES_US;
+  const primaryLang = accent === 'uk' ? 'en-GB' : 'en-US';
+  const fallbackLang = accent === 'uk' ? 'en-US' : 'en-GB';
+
+  for (const preferred of preferredList) {
     const match = voices.find((v) => v.name === preferred);
     if (match) return match;
   }
-  // Fallback: any en-US or en-GB voice
+  // Fallback: any voice matching the preferred locale, then the other, then any English
   return (
-    voices.find((v) => v.lang === 'en-US') ||
-    voices.find((v) => v.lang === 'en-GB') ||
+    voices.find((v) => v.lang === primaryLang) ||
+    voices.find((v) => v.lang === fallbackLang) ||
     voices.find((v) => v.lang.startsWith('en')) ||
     null
   );
@@ -33,7 +54,7 @@ export function speak(text: string, rate = 0.88): void {
   window.speechSynthesis.cancel();
 
   const utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = 'en-US';
+  utterance.lang = getAccent() === 'uk' ? 'en-GB' : 'en-US';
   utterance.rate = rate;
   utterance.pitch = 1;
 
@@ -70,7 +91,7 @@ export function startListening(): Promise<SpeechRecognitionResult> {
     }
 
     const recognition = new SpeechRecognition();
-    recognition.lang = 'en-US';
+    recognition.lang = getAccent() === 'uk' ? 'en-GB' : 'en-US';
     recognition.interimResults = false;
     recognition.maxAlternatives = 1;
 

@@ -354,12 +354,375 @@
       "example": "Exercise improves sleep quality significantly."
     },
     {
-      "word": "endurance",
-      "ipa": "/ɪnˈdjʊərəns/",
-      "meaning": "The ability to sustain prolonged effort",
-      "translation": "Sức bền",
-      "example": "Marathon runners need exceptional endurance.",
-      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&q=80"
+      "word": "dumbbell",
+      "ipa": "/ˈdʌmbel/",
+      "meaning": "A short bar with weights on each end used for exercise",
+      "translation": "tạ tay",
+      "example": "She lifted a pair of 10-kilogram dumbbells."
+    },
+    {
+      "word": "treadmill",
+      "ipa": "/ˈtredmɪl/",
+      "meaning": "A machine for walking or running in place",
+      "translation": "máy chạy bộ",
+      "example": "He runs on the treadmill for 30 minutes every morning."
+    },
+    {
+      "word": "barbell",
+      "ipa": "/ˈbɑːrbel/",
+      "meaning": "A long metal bar with weights on each end for lifting",
+      "translation": "tạ đòn",
+      "example": "She added more plates to the barbell for squats."
+    },
+    {
+      "word": "sprain",
+      "ipa": "/spreɪn/",
+      "meaning": "An injury caused by twisting a joint beyond its normal range",
+      "translation": "bong gân",
+      "example": "He suffered a sprain in his ankle during the game."
+    },
+    {
+      "word": "fracture",
+      "ipa": "/ˈfræktʃər/",
+      "meaning": "A crack or break in a bone",
+      "translation": "gãy xương",
+      "example": "The X-ray revealed a stress fracture in her foot."
+    },
+    {
+      "word": "ligament",
+      "ipa": "/ˈlɪɡəmənt/",
+      "meaning": "A band of tissue connecting bones at a joint",
+      "translation": "dây chằng",
+      "example": "Tearing a ligament requires months of rehabilitation."
+    },
+    {
+      "word": "tendon",
+      "ipa": "/ˈtendən/",
+      "meaning": "A cord of tissue connecting muscle to bone",
+      "translation": "gân",
+      "example": "Achilles tendon injuries are common among runners."
+    },
+    {
+      "word": "rehabilitation",
+      "ipa": "/ˌriːəˌbɪlɪˈteɪʃən/",
+      "meaning": "The process of restoring health after injury or illness",
+      "translation": "phục hồi chức năng",
+      "example": "Physical rehabilitation helped him walk again."
+    },
+    {
+      "word": "calisthenics",
+      "ipa": "/ˌkælɪsˈθenɪks/",
+      "meaning": "Bodyweight exercises for strength and flexibility",
+      "translation": "bài tập thể dục dùng trọng lượng cơ thể",
+      "example": "Calisthenics includes push-ups, pull-ups, and squats."
+    },
+    {
+      "word": "squat",
+      "ipa": "/skwɒt/",
+      "meaning": "An exercise where you lower your body by bending your knees",
+      "translation": "bài tập ngồi xổm",
+      "example": "Squats are one of the best exercises for leg strength."
+    },
+    {
+      "word": "lunge",
+      "ipa": "/lʌndʒ/",
+      "meaning": "An exercise where you step forward and lower your body",
+      "translation": "bài tập lunge",
+      "example": "Walking lunges strengthen your glutes and quadriceps."
+    },
+    {
+      "word": "plank",
+      "ipa": "/plæŋk/",
+      "meaning": "An exercise where you hold your body straight in a push-up position",
+      "translation": "bài tập plank",
+      "example": "Hold the plank for 60 seconds to build core strength."
+    },
+    {
+      "word": "burpee",
+      "ipa": "/ˈbɜːrpiː/",
+      "meaning": "A full-body exercise combining a squat, push-up, and jump",
+      "translation": "bài tập burpee",
+      "example": "Burpees are one of the most effective cardio exercises."
+    },
+    {
+      "word": "macro",
+      "ipa": "/ˈmækrəʊ/",
+      "meaning": "Short for macronutrient — protein, carbs, or fat",
+      "translation": "chất dinh dưỡng đa lượng",
+      "example": "Tracking your macros helps optimize your diet."
+    },
+    {
+      "word": "fiber",
+      "ipa": "/ˈfaɪbər/",
+      "meaning": "A plant-based nutrient that aids digestion",
+      "translation": "chất xơ",
+      "example": "Whole grains are an excellent source of fiber."
+    },
+    {
+      "word": "antioxidant",
+      "ipa": "/ˌæntiˈɒksɪdənt/",
+      "meaning": "A substance that protects cells from damage",
+      "translation": "chất chống oxy hóa",
+      "example": "Blueberries are rich in antioxidants."
+    },
+    {
+      "word": "gluten",
+      "ipa": "/ˈɡluːtən/",
+      "meaning": "A protein found in wheat that some people cannot digest",
+      "translation": "gluten",
+      "example": "People with celiac disease must avoid gluten."
+    },
+    {
+      "word": "cortisol",
+      "ipa": "/ˈkɔːrtɪzɒl/",
+      "meaning": "A stress hormone that can affect weight and health",
+      "translation": "hormone cortisol",
+      "example": "High cortisol levels can lead to weight gain."
+    },
+    {
+      "word": "testosterone",
+      "ipa": "/teˈstɒstərəʊn/",
+      "meaning": "A hormone important for muscle growth and energy",
+      "translation": "hormone testosterone",
+      "example": "Resistance training naturally boosts testosterone."
+    },
+    {
+      "word": "dopamine",
+      "ipa": "/ˈdəʊpəmiːn/",
+      "meaning": "A brain chemical associated with pleasure and motivation",
+      "translation": "dopamine",
+      "example": "Exercise releases dopamine, improving your mood."
+    },
+    {
+      "word": "serotonin",
+      "ipa": "/ˌserəˈtəʊnɪn/",
+      "meaning": "A brain chemical that regulates mood and sleep",
+      "translation": "serotonin",
+      "example": "Sunlight and exercise increase serotonin levels."
+    },
+    {
+      "word": "electrolyte",
+      "ipa": "/ɪˈlektrəlaɪt/",
+      "meaning": "Minerals in the body that regulate fluid balance",
+      "translation": "chất điện giải",
+      "example": "Sports drinks help replace lost electrolytes."
+    },
+    {
+      "word": "circuit training",
+      "ipa": "/ˈsɜːrkɪt ˈtreɪnɪŋ/",
+      "meaning": "A workout with a series of exercises performed in rotation",
+      "translation": "tập luyện theo vòng",
+      "example": "Circuit training combines cardio and strength exercises."
+    },
+    {
+      "word": "cross-training",
+      "ipa": "/krɒs ˈtreɪnɪŋ/",
+      "meaning": "Doing different types of exercise to improve overall fitness",
+      "translation": "tập đa dạng bài tập",
+      "example": "Cross-training helps prevent overuse injuries."
+    },
+    {
+      "word": "foam roller",
+      "ipa": "/fəʊm ˈrəʊlər/",
+      "meaning": "A cylinder used for self-massage and muscle recovery",
+      "translation": "con lăn foam",
+      "example": "Use a foam roller to release tight muscles after a workout."
+    },
+    {
+      "word": "heart rate zone",
+      "ipa": "/hɑːrt reɪt zəʊn/",
+      "meaning": "A range of heartbeats per minute for a specific training intensity",
+      "translation": "vùng nhịp tim",
+      "example": "Training in the fat-burning heart rate zone is ideal for weight loss."
+    },
+    {
+      "word": "progressive overload",
+      "ipa": "/prəˈɡresɪv ˈəʊvərləʊd/",
+      "meaning": "Gradually increasing exercise difficulty to build strength",
+      "translation": "tăng tải tiến bộ",
+      "example": "Progressive overload is key to continuous muscle growth."
+    },
+    {
+      "word": "plyometrics",
+      "ipa": "/ˌplaɪəˈmetrɪks/",
+      "meaning": "Explosive jump-based exercises for power and speed",
+      "translation": "bài tập nhảy bật",
+      "example": "Plyometrics improve speed and explosive strength."
+    },
+    {
+      "word": "isometric",
+      "ipa": "/ˌaɪsəˈmetrɪk/",
+      "meaning": "An exercise where muscles contract without joint movement",
+      "translation": "bài tập tĩnh",
+      "example": "Wall sits are a classic isometric exercise."
+    },
+    {
+      "word": "range of motion",
+      "ipa": "/reɪndʒ əv ˈməʊʃən/",
+      "meaning": "The full movement potential of a joint",
+      "translation": "biên độ vận động",
+      "example": "Stretching improves your range of motion."
+    },
+    {
+      "word": "spotter",
+      "ipa": "/ˈspɒtər/",
+      "meaning": "A person who assists during heavy weight lifting for safety",
+      "translation": "người hỗ trợ tập tạ",
+      "example": "Always use a spotter when bench pressing heavy weights."
+    },
+    {
+      "word": "hypertrophy",
+      "ipa": "/haɪˈpɜːtrəfi/",
+      "meaning": "The increase in muscle size from exercise",
+      "translation": "phì đại cơ",
+      "example": "High-volume training promotes muscle hypertrophy."
+    },
+    {
+      "word": "lean mass",
+      "ipa": "/liːn mæs/",
+      "meaning": "Body weight that is not fat, including muscle and bone",
+      "translation": "khối lượng cơ nạc",
+      "example": "Building lean mass increases your resting metabolism."
+    },
+    {
+      "word": "body fat percentage",
+      "ipa": "/ˈbɒdi fæt pəˈsentɪdʒ/",
+      "meaning": "The proportion of fat in a person's total body weight",
+      "translation": "tỷ lệ mỡ cơ thể",
+      "example": "Athletes typically have a low body fat percentage."
+    },
+    {
+      "word": "cramp",
+      "ipa": "/kræmp/",
+      "meaning": "A sudden, painful tightening of a muscle",
+      "translation": "chuột rút",
+      "example": "Leg cramps are common during intense exercise."
+    },
+    {
+      "word": "fatigue",
+      "ipa": "/fəˈtiːɡ/",
+      "meaning": "Extreme tiredness resulting from physical or mental effort",
+      "translation": "mệt mỏi",
+      "example": "Chronic fatigue may be a sign of overtraining."
+    },
+    {
+      "word": "pulse",
+      "ipa": "/pʌls/",
+      "meaning": "The rhythmic beating of arteries as blood is pumped",
+      "translation": "mạch đập",
+      "example": "Check your pulse to monitor your heart rate."
+    },
+    {
+      "word": "chronic disease",
+      "ipa": "/ˈkrɒnɪk dɪˈziːz/",
+      "meaning": "A long-lasting health condition that requires ongoing management",
+      "translation": "bệnh mãn tính",
+      "example": "Regular exercise reduces the risk of chronic disease."
+    },
+    {
+      "word": "diabetes",
+      "ipa": "/ˌdaɪəˈbiːtiːz/",
+      "meaning": "A disease affecting how the body processes blood sugar",
+      "translation": "bệnh tiểu đường",
+      "example": "Type 2 diabetes can be managed with diet and exercise."
+    },
+    {
+      "word": "allergen",
+      "ipa": "/ˈælədʒən/",
+      "meaning": "A substance that causes an allergic reaction",
+      "translation": "chất gây dị ứng",
+      "example": "Peanuts are a common food allergen."
+    },
+    {
+      "word": "physiotherapy",
+      "ipa": "/ˌfɪziəʊˈθerəpi/",
+      "meaning": "Treatment using physical methods like massage and exercise",
+      "translation": "vật lý trị liệu",
+      "example": "Physiotherapy helped her recover from knee surgery."
+    },
+    {
+      "word": "wellness",
+      "ipa": "/ˈwelnəs/",
+      "meaning": "The state of being in good health, especially as an active goal",
+      "translation": "sức khỏe toàn diện",
+      "example": "The company offers a wellness program for employees."
+    },
+    {
+      "word": "burnout",
+      "ipa": "/ˈbɜːrnaʊt/",
+      "meaning": "Physical or emotional exhaustion from prolonged stress",
+      "translation": "kiệt sức",
+      "example": "Burnout affects both physical and mental performance."
+    },
+    {
+      "word": "vital signs",
+      "ipa": "/ˈvaɪtəl saɪnz/",
+      "meaning": "Key health indicators including heart rate, temperature, and blood pressure",
+      "translation": "dấu hiệu sinh tồn",
+      "example": "Nurses check vital signs every four hours."
+    },
+    {
+      "word": "cholesterol level",
+      "ipa": "/kəˈlestərɒl ˈlevəl/",
+      "meaning": "The amount of cholesterol measured in the blood",
+      "translation": "mức cholesterol",
+      "example": "High cholesterol levels increase heart disease risk."
+    },
+    {
+      "word": "probiotic",
+      "ipa": "/ˌprəʊbaɪˈɒtɪk/",
+      "meaning": "Live bacteria beneficial for digestive health",
+      "translation": "lợi khuẩn",
+      "example": "Yogurt contains natural probiotics."
+    },
+    {
+      "word": "omega-3",
+      "ipa": "/əʊˈmeɡə θriː/",
+      "meaning": "A fatty acid essential for brain and heart health",
+      "translation": "omega-3",
+      "example": "Fish is an excellent source of omega-3 fatty acids."
+    },
+    {
+      "word": "insomnia",
+      "ipa": "/ɪnˈsɒmniə/",
+      "meaning": "The inability to fall asleep or stay asleep",
+      "translation": "mất ngủ",
+      "example": "Stress and screen time can cause insomnia."
+    },
+    {
+      "word": "meditation",
+      "ipa": "/ˌmedɪˈteɪʃən/",
+      "meaning": "A practice of focused concentration for mental clarity and calm",
+      "translation": "thiền",
+      "example": "Daily meditation reduces stress and anxiety."
+    },
+    {
+      "word": "bodybuilding",
+      "ipa": "/ˈbɒdiˌbɪldɪŋ/",
+      "meaning": "The sport of developing muscles through weightlifting and diet",
+      "translation": "thể hình",
+      "example": "Bodybuilding requires strict discipline in diet and training."
+    },
+    {
+      "word": "bench press",
+      "ipa": "/bentʃ pres/",
+      "meaning": "A weightlifting exercise where you push a barbell upward while lying down",
+      "translation": "bài tập đẩy ngực",
+      "example": "The bench press targets chest and tricep muscles."
+    },
+    {
+      "word": "deadlift",
+      "ipa": "/ˈdedlɪft/",
+      "meaning": "A weightlifting exercise where you lift a barbell from the floor",
+      "translation": "bài tập nâng tạ từ sàn",
+      "example": "Deadlifts work the back, legs, and core muscles."
+    },
+    {
+      "word": "nutrient",
+      "ipa": "/ˈnjuːtriənt/",
+      "meaning": "A substance that provides nourishment for growth and health",
+      "translation": "chất dinh dưỡng",
+      "example": "Fruits and vegetables are rich in essential nutrients."
     }
   ],
   "quiz": [
@@ -414,16 +777,6 @@
       "answer": 1
     },
     {
-      "question": "What is 'endurance' in fitness?",
-      "options": [
-        "The ability to lift heavy weights",
-        "The ability to sustain prolonged physical activity",
-        "The ability to stretch far",
-        "The speed of running"
-      ],
-      "answer": 1
-    },
-    {
       "question": "What is 'overtraining'?",
       "options": [
         "Training at a gym",
@@ -460,6 +813,66 @@
         "Heart beats per minute when at rest",
         "Heart rate when sleeping",
         "Blood pressure level"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 'hypertrophy'?",
+      "options": [
+        "A type of stretching exercise",
+        "The increase in muscle size from exercise",
+        "A medical condition of the heart",
+        "A diet plan for weight loss"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 'progressive overload'?",
+      "options": [
+        "Doing the same exercise every day",
+        "Gradually increasing exercise difficulty to build strength",
+        "Lifting the heaviest weight possible on day one",
+        "Reducing workout duration over time"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What are 'electrolytes'?",
+      "options": [
+        "A type of vitamin pill",
+        "Minerals that regulate fluid balance in the body",
+        "Electric signals in the brain",
+        "Calories stored in fat cells"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 'physiotherapy'?",
+      "options": [
+        "A type of surgery",
+        "Treatment using physical methods like massage and exercise",
+        "A mental health counseling technique",
+        "A diet plan for athletes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'sedentary' mean?",
+      "options": [
+        "Very active and energetic",
+        "Involving little or no physical activity",
+        "Related to swimming exercises",
+        "A type of meditation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'ligament'?",
+      "options": [
+        "A type of muscle",
+        "A band of tissue connecting bones at a joint",
+        "A bone in the leg",
+        "A blood vessel near the heart"
       ],
       "answer": 1
     }

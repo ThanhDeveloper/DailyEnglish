@@ -60,6 +60,74 @@
         { "speaker": "Patient", "text": "Thank you, Doctor. I'll schedule the allergy testing." },
         { "speaker": "Specialist", "text": "Perfect. We'll have results in about a week and then we can build a proper management plan together." }
       ]
+    },
+    {
+      "id": "pharmacy-visit",
+      "title": "Picking Up a Prescription",
+      "speakers": ["Pharmacist", "Customer"],
+      "lines": [
+        { "speaker": "Customer", "text": "Hi, I'm here to pick up a prescription. My doctor called it in earlier today." },
+        { "speaker": "Pharmacist", "text": "Of course. What's the name on the prescription?" },
+        { "speaker": "Customer", "text": "Sarah Mitchell. Date of birth, March 15, 1990." },
+        { "speaker": "Pharmacist", "text": "Let me check. Yes, I have it here — amoxicillin 500mg capsules. Is this your first time taking this medication?" },
+        { "speaker": "Customer", "text": "Yes, it is. My doctor prescribed it for a sinus infection." },
+        { "speaker": "Pharmacist", "text": "I'll go over the important details with you. You'll take one capsule three times a day with food for ten days. It's very important to complete the full course, even if you start feeling better after a few days." },
+        { "speaker": "Customer", "text": "What happens if I stop early?" },
+        { "speaker": "Pharmacist", "text": "Stopping antibiotics early can allow the bacteria to survive and become resistant. That could make future infections harder to treat." },
+        { "speaker": "Customer", "text": "Understood. Are there any side effects I should watch for?" },
+        { "speaker": "Pharmacist", "text": "Common side effects include mild stomach upset, diarrhea, and sometimes a rash. Taking it with food helps reduce stomach issues. If you develop difficulty breathing, swelling of the face or throat, or a severe rash, seek emergency care immediately — that could indicate an allergic reaction." },
+        { "speaker": "Customer", "text": "Should I avoid any foods or drinks while taking this?" },
+        { "speaker": "Pharmacist", "text": "You should avoid alcohol as it can reduce the effectiveness and increase side effects. Also, some people find that dairy products can interfere with absorption, so try to take the capsule at least an hour before or after consuming dairy." },
+        { "speaker": "Customer", "text": "Good to know. How much does it cost with my insurance?" },
+        { "speaker": "Pharmacist", "text": "With your plan, the copay is $10. Would you like a bag?" },
+        { "speaker": "Customer", "text": "Yes, please. Thank you for explaining everything so clearly." },
+        { "speaker": "Pharmacist", "text": "You're welcome. Feel free to call us if you have any questions once you start taking it." }
+      ]
+    },
+    {
+      "id": "emergency-room",
+      "title": "Emergency Room Visit",
+      "speakers": ["Nurse", "Patient"],
+      "lines": [
+        { "speaker": "Nurse", "text": "Good evening. What brings you to the emergency room tonight?" },
+        { "speaker": "Patient", "text": "I was playing basketball and I fell hard on my wrist. It's really swollen and I can't move it without severe pain." },
+        { "speaker": "Nurse", "text": "I'm sorry to hear that. Let me take a look. When did this happen?" },
+        { "speaker": "Patient", "text": "About an hour ago. I put ice on it right away, but the swelling hasn't gone down." },
+        { "speaker": "Nurse", "text": "You did the right thing with the ice. Can you rate the pain from one to ten?" },
+        { "speaker": "Patient", "text": "It's about an eight when I try to move it, and maybe a five when I keep it still." },
+        { "speaker": "Nurse", "text": "I can see significant swelling and some bruising. We'll need an X-ray to determine if it's a fracture or a sprain. Are you allergic to any medications?" },
+        { "speaker": "Patient", "text": "No known allergies." },
+        { "speaker": "Nurse", "text": "Good. I'm going to give you some pain relief while you wait for the X-ray. Have you eaten anything in the last few hours?" },
+        { "speaker": "Patient", "text": "I had lunch around noon, but nothing since then." },
+        { "speaker": "Nurse", "text": "I'll give you ibuprofen and apply a temporary splint to immobilize the wrist. The X-ray technician should be able to see you within thirty minutes." },
+        { "speaker": "Patient", "text": "Will I need a cast if it's broken?" },
+        { "speaker": "Nurse", "text": "That depends on the type of fracture. A simple fracture may just need a splint or a removable brace. A more complex break might require a cast for four to six weeks. The doctor will explain everything after reviewing the images." },
+        { "speaker": "Patient", "text": "I really hope it's just a sprain. I have an important presentation at work next week." },
+        { "speaker": "Nurse", "text": "Let's not worry until we see the results. Even if it is a fracture, most wrist injuries heal well with proper treatment. I'll get you that pain medication now." }
+      ]
+    },
+    {
+      "id": "dental-checkup",
+      "title": "Dental Check-up",
+      "speakers": ["Dentist", "Patient"],
+      "lines": [
+        { "speaker": "Dentist", "text": "Good morning! I'm Dr. Park. Have a seat and make yourself comfortable. When was your last dental visit?" },
+        { "speaker": "Patient", "text": "Good morning. I think it's been about eighteen months. I know that's longer than recommended." },
+        { "speaker": "Dentist", "text": "Don't worry, you're here now. Are you experiencing any pain, sensitivity, or other dental issues?" },
+        { "speaker": "Patient", "text": "Actually, yes. I've been having some sensitivity on my upper left side, especially when I drink cold water or eat ice cream." },
+        { "speaker": "Dentist", "text": "That could be a few things — a cavity, gum recession, or worn enamel. I'll take a close look. First, let me do a full examination and we'll take some X-rays." },
+        { "speaker": "Patient", "text": "Sounds good. I'm also wondering about teeth whitening. Is that something you offer?" },
+        { "speaker": "Dentist", "text": "We do, but let's address any health issues first. Open wide, please." },
+        { "speaker": "Dentist", "text": "I can see the issue. You have a small cavity on your upper left molar — that's what's causing the sensitivity. The good news is it's in the early stages, so a simple filling will take care of it." },
+        { "speaker": "Patient", "text": "Will the filling hurt? I have to admit I'm a bit anxious about dental procedures." },
+        { "speaker": "Dentist", "text": "I completely understand. We'll use a local anesthetic so you won't feel any pain during the procedure. Most patients say they only feel a slight pressure. The whole thing takes about twenty minutes." },
+        { "speaker": "Patient", "text": "That's not as bad as I imagined. How much will it cost?" },
+        { "speaker": "Dentist", "text": "With your insurance plan, a composite filling should be covered at 80%. Your out-of-pocket cost would be around $40 to $60. Shall we schedule it?" },
+        { "speaker": "Patient", "text": "Yes, let's do it. Can I get the filling done today?" },
+        { "speaker": "Dentist", "text": "We have an opening in about an hour if you can wait. In the meantime, I'd also recommend a professional cleaning — I can see some tartar buildup along your lower front teeth." },
+        { "speaker": "Patient", "text": "Let's do both today and get everything taken care of at once." },
+        { "speaker": "Dentist", "text": "Perfect. Going forward, I'd recommend coming in every six months for cleanings and using a sensitivity toothpaste daily. That will help protect against future cavities." }
+      ]
     }
   ]
 }

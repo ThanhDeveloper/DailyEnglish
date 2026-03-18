@@ -441,7 +441,354 @@
       "translation": "dich vu cung cap tiec",
       "example": "We need catering for the company event.",
       "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&q=80"
-    }
+    },
+    {
+      "word": "condiment",
+      "ipa": "/ˈkɒndɪmənt/",
+      "meaning": "A substance such as ketchup or mustard added to food for flavor",
+      "translation": "gia vi / do cham",
+      "example": "Ketchup and mustard are common condiments.",
+      "image": "https://images.unsplash.com/photo-1518778578993-ec3579fee39f?w=400&q=80"
+    },
+    {
+      "word": "cutlery",
+      "ipa": "/ˈkʌtləri/",
+      "meaning": "Knives, forks, and spoons used for eating",
+      "translation": "dao nia muong",
+      "example": "The cutlery is wrapped in the napkin.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "napkin",
+      "ipa": "/ˈnæpkɪn/",
+      "meaning": "A piece of cloth or paper used during a meal to wipe hands and mouth",
+      "translation": "khan an",
+      "example": "Place the napkin on your lap before eating.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "tablecloth",
+      "ipa": "/ˈteɪbəlklɒθ/",
+      "meaning": "A cloth spread over a table during a meal",
+      "translation": "khan trai ban",
+      "example": "The white tablecloth gave the restaurant an elegant look.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80"
+    },
+    {
+      "word": "host",
+      "ipa": "/hoʊst/",
+      "meaning": "A person who greets and seats guests at a restaurant",
+      "translation": "nguoi don khach",
+      "example": "The host showed us to our table by the window.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80"
+    },
+    {
+      "word": "waitress",
+      "ipa": "/ˈweɪtrɪs/",
+      "meaning": "A female server in a restaurant",
+      "translation": "nu phuc vu",
+      "example": "The waitress recommended the seafood platter.",
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=400&q=80"
+    },
+    {
+      "word": "busboy",
+      "ipa": "/ˈbʌsbɔɪ/",
+      "meaning": "A restaurant worker who clears tables",
+      "translation": "nhan vien don ban",
+      "example": "The busboy quickly cleared the empty plates.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80"
+    },
+    {
+      "word": "maitre d'",
+      "ipa": "/ˌmeɪtrə ˈdiː/",
+      "meaning": "The head waiter who manages the dining room",
+      "translation": "quan ly phong an",
+      "example": "The maitre d' escorted us to the best table.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "sous chef",
+      "ipa": "/suː ʃef/",
+      "meaning": "The second-in-command in a restaurant kitchen",
+      "translation": "bep pho",
+      "example": "The sous chef managed the kitchen while the head chef was away.",
+      "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=400&q=80"
+    },
+    {
+      "word": "rare",
+      "ipa": "/rer/",
+      "meaning": "A steak cooked very briefly so it is still red inside",
+      "translation": "tai (thit bo)",
+      "example": "I like my steak rare with just a quick sear.",
+      "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=400&q=80"
+    },
+    {
+      "word": "overcooked",
+      "ipa": "/ˌoʊvərˈkʊkt/",
+      "meaning": "Food that has been cooked too long",
+      "translation": "nau qua chin",
+      "example": "The pasta was overcooked and mushy.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "bland",
+      "ipa": "/blænd/",
+      "meaning": "Food that lacks flavor or taste",
+      "translation": "nhat / khong co vi",
+      "example": "The soup tasted bland and needed more salt.",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=400&q=80"
+    },
+    {
+      "word": "savory",
+      "ipa": "/ˈseɪvəri/",
+      "meaning": "Food that is salty or has a rich non-sweet flavor",
+      "translation": "man / vi dam da",
+      "example": "I prefer savory dishes over sweet ones.",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80"
+    },
+    {
+      "word": "tender",
+      "ipa": "/ˈtendər/",
+      "meaning": "Food that is soft and easy to chew",
+      "translation": "mem",
+      "example": "The lamb was incredibly tender.",
+      "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=400&q=80"
+    },
+    {
+      "word": "crispy",
+      "ipa": "/ˈkrɪspi/",
+      "meaning": "Food that is firm and crunchy",
+      "translation": "gion",
+      "example": "The fried chicken skin was perfectly crispy.",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+    },
+    {
+      "word": "aroma",
+      "ipa": "/əˈroʊmə/",
+      "meaning": "A pleasant smell, especially of food",
+      "translation": "huong thom",
+      "example": "The aroma of freshly baked bread filled the restaurant.",
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&q=80"
+    },
+    {
+      "word": "bistro",
+      "ipa": "/ˈbiːstroʊ/",
+      "meaning": "A small informal restaurant",
+      "translation": "quan an nho",
+      "example": "We had lunch at a charming little bistro.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80"
+    },
+    {
+      "word": "brasserie",
+      "ipa": "/ˌbræsəˈriː/",
+      "meaning": "A type of French restaurant serving simple meals",
+      "translation": "nha hang kieu Phap binh dan",
+      "example": "The brasserie serves classic French dishes all day.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "cater",
+      "ipa": "/ˈkeɪtər/",
+      "meaning": "To provide food and service for an event",
+      "translation": "phuc vu thuc an cho su kien",
+      "example": "They cater for weddings and corporate events.",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&q=80"
+    },
+    {
+      "word": "charcuterie",
+      "ipa": "/ʃɑːrˈkuːtəri/",
+      "meaning": "A board or platter of cold meats, cheeses, and accompaniments",
+      "translation": "dia thit nguoi va pho mat",
+      "example": "We shared a charcuterie board as a starter.",
+      "image": "https://images.unsplash.com/photo-1541014741259-de529411b96a?w=400&q=80"
+    },
+    {
+      "word": "course",
+      "ipa": "/kɔːrs/",
+      "meaning": "One part of a meal served separately",
+      "translation": "mon (trong bua an)",
+      "example": "The dinner consisted of four courses.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "crave",
+      "ipa": "/kreɪv/",
+      "meaning": "To have a strong desire for a particular food",
+      "translation": "them an",
+      "example": "I crave chocolate cake after dinner.",
+      "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=400&q=80"
+    },
+    {
+      "word": "delicacy",
+      "ipa": "/ˈdelɪkəsi/",
+      "meaning": "A rare or expensive food considered a luxury",
+      "translation": "dac san / mon ngon quy hiem",
+      "example": "Caviar is considered a delicacy in many countries.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "dress code",
+      "ipa": "/dres koʊd/",
+      "meaning": "The required standard of clothing for a restaurant",
+      "translation": "quy dinh trang phuc",
+      "example": "This restaurant has a smart casual dress code.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80"
+    },
+    {
+      "word": "food truck",
+      "ipa": "/fuːd trʌk/",
+      "meaning": "A vehicle equipped to cook and sell food on the street",
+      "translation": "xe ban thuc an luu dong",
+      "example": "The food truck sells amazing tacos.",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80"
+    },
+    {
+      "word": "gratuity",
+      "ipa": "/ɡrəˈtjuːɪti/",
+      "meaning": "A tip or sum of money given for good service",
+      "translation": "tien thuong / tien boa",
+      "example": "A 15% gratuity is automatically added for large groups.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
+    },
+    {
+      "word": "high chair",
+      "ipa": "/haɪ tʃer/",
+      "meaning": "A tall chair for a baby or small child at a restaurant table",
+      "translation": "ghe cao cho be",
+      "example": "Could we have a high chair for the baby, please?",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80"
+    },
+    {
+      "word": "ingredient",
+      "ipa": "/ɪnˈɡriːdiənt/",
+      "meaning": "One of the foods used in making a particular dish",
+      "translation": "thanh phan / nguyen lieu",
+      "example": "Fresh ingredients make a big difference in taste.",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80"
+    },
+    {
+      "word": "kosher",
+      "ipa": "/ˈkoʊʃər/",
+      "meaning": "Food prepared according to Jewish dietary law",
+      "translation": "thuc pham kosher",
+      "example": "Is there a kosher restaurant nearby?",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    {
+      "word": "leftovers",
+      "ipa": "/ˈleftoʊvərz/",
+      "meaning": "Food remaining after a meal",
+      "translation": "thuc an thua",
+      "example": "We took the leftovers home in a box.",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80"
+    },
+    {
+      "word": "organic",
+      "ipa": "/ɔːrˈɡænɪk/",
+      "meaning": "Food produced without artificial chemicals or pesticides",
+      "translation": "huu co",
+      "example": "The restaurant uses only organic vegetables.",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80"
+    },
+    {
+      "word": "patio",
+      "ipa": "/ˈpætioʊ/",
+      "meaning": "An outdoor seating area at a restaurant",
+      "translation": "khu ngoi ngoai troi",
+      "example": "Let's sit on the patio — the weather is lovely.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80"
+    },
+    {
+      "word": "platter",
+      "ipa": "/ˈplætər/",
+      "meaning": "A large plate used for serving food",
+      "translation": "dia lon",
+      "example": "We ordered a seafood platter for the whole table.",
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&q=80"
+    },
+    {
+      "word": "refill",
+      "ipa": "/ˈriːfɪl/",
+      "meaning": "A second or additional serving of a drink",
+      "translation": "rot them",
+      "example": "Free coffee refills are available all day.",
+      "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=400&q=80"
+    },
+    {
+      "word": "split the bill",
+      "ipa": "/splɪt ðə bɪl/",
+      "meaning": "To divide the cost of a meal equally among diners",
+      "translation": "chia deu hoa don",
+      "example": "Shall we split the bill four ways?",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "stir-fry",
+      "ipa": "/stɜːr fraɪ/",
+      "meaning": "To cook food quickly by stirring it in a very hot pan",
+      "translation": "xao nhanh",
+      "example": "The stir-fry noodles are full of fresh vegetables.",
+      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&q=80"
+    },
+    {
+      "word": "tapas",
+      "ipa": "/ˈtæpəs/",
+      "meaning": "Small Spanish dishes served as snacks or a light meal",
+      "translation": "mon an nho kieu Tay Ban Nha",
+      "example": "We ordered several tapas to share.",
+      "image": "https://images.unsplash.com/photo-1541014741259-de529411b96a?w=400&q=80"
+    },
+    {
+      "word": "terrace",
+      "ipa": "/ˈterəs/",
+      "meaning": "A raised outdoor area where customers can dine",
+      "translation": "san thuong / hien ngoai troi",
+      "example": "The terrace overlooks the river.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80"
+    },
+    {
+      "word": "wine list",
+      "ipa": "/waɪn lɪst/",
+      "meaning": "A list of wines available at a restaurant",
+      "translation": "danh sach ruou vang",
+      "example": "May I see the wine list, please?",
+      "image": "https://images.unsplash.com/photo-1474722883778-792e7fb1bd9c?w=400&q=80"
+    },
+    {
+      "word": "braise",
+      "ipa": "/breɪz/",
+      "meaning": "To cook food slowly in a covered pot with a small amount of liquid",
+      "translation": "ham / om",
+      "example": "The beef was braised for six hours until tender.",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+    },
+    {
+      "word": "deep-fry",
+      "ipa": "/diːp fraɪ/",
+      "meaning": "To cook food by immersing it completely in hot oil",
+      "translation": "chien ngap dau",
+      "example": "The spring rolls are deep-fried until golden.",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+    },
+    {
+      "word": "food poisoning",
+      "ipa": "/fuːd ˈpɔɪzənɪŋ/",
+      "meaning": "An illness caused by eating contaminated food",
+      "translation": "ngo doc thuc pham",
+      "example": "He got food poisoning from the raw shellfish.",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=400&q=80"
+    },
+    {
+      "word": "Michelin star",
+      "ipa": "/ˈmɪʃəlɪn stɑːr/",
+      "meaning": "A prestigious award given to outstanding restaurants",
+      "translation": "sao Michelin",
+      "example": "The restaurant was awarded two Michelin stars.",
+      "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80"
+    },
+    { "word": "prix fixe", "ipa": "/priː fɪks/", "meaning": "A set menu at a fixed price with limited choices", "translation": "thực đơn cố định giá", "example": "The prix fixe menu includes three courses for $60." },
+    { "word": "gastronomy", "ipa": "/ɡæˈstrɒnəmi/", "meaning": "The art and study of fine food and drink", "translation": "nghệ thuật ẩm thực", "example": "France is celebrated worldwide for its gastronomy." },
+    { "word": "food critic", "ipa": "/fuːd ˈkrɪtɪk/", "meaning": "A journalist who reviews and evaluates restaurants and food", "translation": "nhà phê bình ẩm thực", "example": "The food critic gave the restaurant five stars." }
   ],
   "quiz": [
     {
@@ -463,6 +810,61 @@
       "question": "What extra money do you give for good service?",
       "options": ["Bill", "Tip", "Tax", "Fee"],
       "answer": 1
+    },
+    {
+      "question": "What is the list of food and drinks available at a restaurant?",
+      "options": ["Recipe", "Menu", "Invoice", "Brochure"],
+      "answer": 1
+    },
+    {
+      "question": "What utensils include knives, forks, and spoons?",
+      "options": ["Cookware", "Cutlery", "Crockery", "Tableware"],
+      "answer": 1
+    },
+    {
+      "question": "What is a meal combining breakfast and lunch called?",
+      "options": ["Supper", "Brunch", "Snack", "Feast"],
+      "answer": 1
+    },
+    {
+      "question": "What cooking method involves submerging food in hot oil?",
+      "options": ["Steam", "Poach", "Deep-fry", "Braise"],
+      "answer": 2
+    },
+    {
+      "question": "What do you call a drink refill at no extra cost?",
+      "options": ["Complimentary refill", "Free refill", "Extra refill", "Bonus refill"],
+      "answer": 1
+    },
+    {
+      "question": "What is the person who greets guests at the door called?",
+      "options": ["Chef", "Waiter", "Host", "Busboy"],
+      "answer": 2
+    },
+    {
+      "question": "What is food that lacks flavor called?",
+      "options": ["Spicy", "Bland", "Savory", "Tender"],
+      "answer": 1
+    },
+    {
+      "question": "What prestigious award is given to outstanding restaurants?",
+      "options": ["Golden Fork", "Michelin star", "Food prize", "Chef medal"],
+      "answer": 1
+    },
+    {
+      "question": "What is the outdoor seating area of a restaurant called?",
+      "options": ["Lobby", "Patio", "Lounge", "Kitchen"],
+      "answer": 1
+    },
+    {
+      "question": "What does it mean to split the bill?",
+      "options": ["Pay with cash", "Divide the cost equally", "Leave a big tip", "Ask for a discount"],
+      "answer": 1
+    },
+    {
+      "question": "What is food that is soft and easy to chew called?",
+      "options": ["Crispy", "Bland", "Tender", "Overcooked"],
+      "answer": 2
     }
   ]
 }

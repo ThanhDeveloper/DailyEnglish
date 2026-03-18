@@ -31,6 +31,109 @@
         { "time": "0:12", "text": "To order, you can say: I'd like... or Can I have..." },
         { "time": "0:20", "text": "At the end, ask for the bill: Could I have the check, please?" }
       ]
+    },
+    {
+      "id": "ep3",
+      "title": "Asking for Directions",
+      "description": "Learn how to ask for and give simple directions in English",
+      "youtubeId": "PLACEHOLDER_BEG03",
+      "duration": "9:45",
+      "level": "beginner",
+      "transcript": [
+        { "time": "0:00", "text": "Hello and welcome back! Today's lesson is about asking for directions." },
+        { "time": "0:06", "text": "If you're lost, you can say: Excuse me, can you help me? I'm looking for..." },
+        { "time": "0:14", "text": "Common direction words: turn left, turn right, go straight, cross the road." },
+        { "time": "0:22", "text": "You can also ask: How far is it? Is it walking distance?" },
+        { "time": "0:30", "text": "A helpful response might be: It's about 5 minutes on foot. You can't miss it." },
+        { "time": "0:38", "text": "Always thank the person: Thank you so much! That's very helpful." },
+        { "time": "0:45", "text": "Practice these phrases whenever you visit a new place!" }
+      ]
+    },
+    {
+      "id": "ep4",
+      "title": "Shopping for Clothes",
+      "description": "Essential phrases for shopping and trying on clothes",
+      "youtubeId": "PLACEHOLDER_BEG04",
+      "duration": "11:00",
+      "level": "beginner",
+      "transcript": [
+        { "time": "0:00", "text": "Welcome! Today we're shopping for clothes in English." },
+        { "time": "0:07", "text": "When you enter a shop, staff may say: Can I help you? or Are you looking for anything in particular?" },
+        { "time": "0:16", "text": "You can say: I'm just browsing, thanks. Or: Yes, I'm looking for a blue shirt." },
+        { "time": "0:25", "text": "To ask about sizes: Do you have this in a medium? or What sizes do you have?" },
+        { "time": "0:33", "text": "To try clothes on: Can I try this on? The fitting rooms are usually at the back of the shop." },
+        { "time": "0:42", "text": "If you like it: I'll take it! or I'll buy this one, please." },
+        { "time": "0:50", "text": "If it doesn't fit: It's a bit too tight. Do you have a larger size?" },
+        { "time": "0:58", "text": "Great job! Now you can shop confidently in English." }
+      ]
+    },
+    {
+      "id": "ep5",
+      "title": "At the Doctor's",
+      "description": "Learn how to describe symptoms and talk to a doctor",
+      "youtubeId": "PLACEHOLDER_BEG05",
+      "duration": "10:30",
+      "level": "beginner",
+      "transcript": [
+        { "time": "0:00", "text": "In today's episode, we'll practise visiting the doctor in English." },
+        { "time": "0:06", "text": "When you arrive, the receptionist will ask: Do you have an appointment?" },
+        { "time": "0:13", "text": "You can say: Yes, I have an appointment at 3 PM. Or: I'd like to see a doctor today if possible." },
+        { "time": "0:22", "text": "The doctor will ask: What seems to be the problem? or How are you feeling?" },
+        { "time": "0:30", "text": "Describe your symptoms: I have a headache. My throat is sore. I feel tired all the time." },
+        { "time": "0:39", "text": "If you need medicine: Can you prescribe something? The doctor will write a prescription." },
+        { "time": "0:47", "text": "Always say: Thank you, Doctor. See you at my follow-up appointment." }
+      ]
+    },
+    {
+      "id": "ep6",
+      "title": "Talking About Your Family",
+      "description": "Learn vocabulary and phrases for describing family members",
+      "youtubeId": "PLACEHOLDER_BEG06",
+      "duration": "9:00",
+      "level": "beginner",
+      "transcript": [
+        { "time": "0:00", "text": "Hello everyone! Today we're talking about family in English." },
+        { "time": "0:06", "text": "Core family members: mother, father, sister, brother, grandparents." },
+        { "time": "0:14", "text": "Extended family: aunt, uncle, cousin, niece, nephew." },
+        { "time": "0:22", "text": "To talk about your family: I have two brothers and one sister. My parents live in Hanoi." },
+        { "time": "0:31", "text": "You can describe personalities: My mum is very kind. My brother is funny." },
+        { "time": "0:39", "text": "Common questions: Are you close to your family? Do you have any siblings?" },
+        { "time": "0:47", "text": "Practice talking about your own family in English every day!" }
+      ]
+    },
+    {
+      "id": "ep7",
+      "title": "Talking on the Phone",
+      "description": "Key phrases for making and receiving calls in English",
+      "youtubeId": "PLACEHOLDER_BEG07",
+      "duration": "10:00",
+      "level": "beginner",
+      "transcript": [
+        { "time": "0:00", "text": "Today's topic is making phone calls in English — a skill many learners find challenging." },
+        { "time": "0:08", "text": "To answer the phone: Hello, this is... speaking. Or just: Hello?" },
+        { "time": "0:16", "text": "To ask for someone: Could I speak to Sarah, please? Is Tom available?" },
+        { "time": "0:24", "text": "If the person is unavailable: Could I leave a message? or Can you ask them to call me back?" },
+        { "time": "0:33", "text": "To end the call politely: Thank you for calling. Goodbye! or I'll speak to you soon." },
+        { "time": "0:41", "text": "If you can't hear clearly: Sorry, could you speak up? I'm having trouble hearing you." },
+        { "time": "0:49", "text": "Practise these phrases with a friend or by calling English-speaking services." }
+      ]
+    },
+    {
+      "id": "ep8",
+      "title": "Using Public Transport",
+      "description": "Essential vocabulary for buses, trains and taxis",
+      "youtubeId": "PLACEHOLDER_BEG08",
+      "duration": "9:30",
+      "level": "beginner",
+      "transcript": [
+        { "time": "0:00", "text": "Welcome back! Today we'll learn how to use public transport in English." },
+        { "time": "0:07", "text": "At the bus stop: Which bus goes to the city centre? or Does this bus stop at the station?" },
+        { "time": "0:16", "text": "Buying a train ticket: A single to Oxford, please. or Two return tickets to London." },
+        { "time": "0:25", "text": "Finding your platform: Which platform does the Manchester train leave from?" },
+        { "time": "0:33", "text": "On the train: Is this seat taken? or Excuse me, I think this is my reservation." },
+        { "time": "0:42", "text": "Taking a taxi: Can you take me to the airport? How much will that be roughly?" },
+        { "time": "0:50", "text": "Great work! You're now ready to travel confidently in any English-speaking city." }
+      ]
     }
   ]
 }

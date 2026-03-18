@@ -90,6 +90,18 @@
     { "word": "demonstrate", "ipa": "/ˈdɛmənstreɪt/", "meaning": "to show or prove something clearly", "example": "Use examples to demonstrate your point." },
     { "word": "argue", "ipa": "/ˈɑːrɡjuː/", "meaning": "to present reasons in support of a position", "example": "She argued persuasively for stricter environmental laws." },
     { "word": "persuade", "ipa": "/pərˈsweɪd/", "meaning": "to cause someone to believe or do something through argument", "example": "The essay aims to persuade the reader to act." },
-    { "word": "narrate", "ipa": "/nəˈreɪt/", "meaning": "to tell a story or account of events", "example": "The memoir narrates her journey from poverty to success." }
+    { "word": "narrate", "ipa": "/nəˈreɪt/", "meaning": "to tell a story or account of events", "example": "The memoir narrates her journey from poverty to success." },
+    { "word": "annotate", "ipa": "/ˈænəteɪt/", "meaning": "to add notes or comments to a text", "example": "Annotate the article as you read to remember key points." },
+    { "word": "formulate", "ipa": "/ˈfɔːrmjʊleɪt/", "meaning": "to create or prepare something carefully", "example": "Formulate your research question before collecting data." },
+    { "word": "collaborate", "ipa": "/kəˈlæbəreɪt/", "meaning": "to work together with others on a project", "example": "Students are encouraged to collaborate on group assignments." },
+    { "word": "comprehend", "ipa": "/ˌkɒmprɪˈhɛnd/", "meaning": "to fully understand something", "example": "It takes time to comprehend complex theories." },
+    { "word": "brainstorm", "ipa": "/ˈbreɪnstɔːrm/", "meaning": "to generate ideas freely in a group or individually", "example": "Let us brainstorm ideas for the research topic." },
+    { "word": "outline", "ipa": "/ˈaʊtlaɪn/", "meaning": "a plan showing the main points of a piece of writing", "example": "Write an outline before you start your essay." },
+    { "word": "benchmark", "ipa": "/ˈbɛntʃmɑːrk/", "meaning": "a standard against which performance is measured", "example": "The national exam serves as a benchmark for student achievement." },
+    { "word": "accreditation", "ipa": "/əˌkrɛdɪˈteɪʃən/", "meaning": "official recognition that a school meets certain standards", "example": "The university received accreditation from the national board." },
+    { "word": "postgraduate", "ipa": "/ˌpoʊstˈɡrædʒuɪt/", "meaning": "relating to study done after completing a first degree", "example": "She is pursuing a postgraduate degree in linguistics." },
+    { "word": "plagiarize", "ipa": "/ˈpleɪdʒɪəraɪz/", "meaning": "to copy another person's work and claim it as your own", "example": "Students who plagiarize risk being expelled." },
+    { "word": "proctor", "ipa": "/ˈprɒktər/", "meaning": "a person who supervises students during an examination", "example": "The proctor ensured no one cheated during the test." },
+    { "word": "dissertation defense", "ipa": "/ˌdɪsəˈteɪʃən dɪˈfɛns/", "meaning": "a formal presentation where a student defends their research", "example": "She passed her dissertation defense with distinction." }
   ]
 }

@@ -1,6 +1,9 @@
 import { useState, useCallback } from 'react';
 
 const STORAGE_KEY = 'dailyenglish_progress';
+const DAILY_GOAL_KEY = 'dailyenglish_daily_goal';
+const GOAL_OPTIONS = [10, 20, 50, 100] as const;
+const DEFAULT_GOAL = 20;
 
 export interface SavedWord {
   word: string;
@@ -219,6 +222,30 @@ export function useProgress() {
     return result;
   }, [progress]);
 
+  const getDailyGoal = useCallback((): number => {
+    try {
+      const stored = localStorage.getItem(DAILY_GOAL_KEY);
+      if (stored) {
+        const val = Number(stored);
+        if (GOAL_OPTIONS.includes(val as typeof GOAL_OPTIONS[number])) return val;
+      }
+    } catch { /* ignore */ }
+    return DEFAULT_GOAL;
+  }, []);
+
+  const setDailyGoal = useCallback((goal: number) => {
+    try {
+      localStorage.setItem(DAILY_GOAL_KEY, String(goal));
+    } catch { /* ignore */ }
+  }, []);
+
+  const getDailyGoalProgress = useCallback(() => {
+    const goal = getDailyGoal();
+    const current = progress.dailyActivity[todayKey()] ?? 0;
+    const percentage = Math.min(Math.round((current / goal) * 100), 100);
+    return { goal, current, percentage, completed: current >= goal };
+  }, [progress, getDailyGoal]);
+
   const resetProgress = useCallback(() => {
     const empty = emptyProgress();
     saveProgress(empty);
@@ -243,5 +270,9 @@ export function useProgress() {
     getTotalXP,
     getWeeklyActivity,
     resetProgress,
+    getDailyGoal,
+    setDailyGoal,
+    getDailyGoalProgress,
+    GOAL_OPTIONS,
   };
 }

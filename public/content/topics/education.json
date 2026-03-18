@@ -354,13 +354,338 @@
       "example": "Vocational training prepares students for practical work."
     },
     {
-      "word": "scholarship",
-      "ipa": "/ˈskɒlərʃɪp/",
-      "meaning": "Financial award given for academic achievement",
-      "translation": "Học bổng",
-      "example": "She won a scholarship to study abroad.",
-      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80"
-    }
+      "word": "valedictorian",
+      "ipa": "/ˌvælɪdɪkˈtɔːriən/",
+      "meaning": "The student with the highest academic rank in a graduating class",
+      "translation": "thủ khoa",
+      "example": "She was named valedictorian of her graduating class."
+    },
+    {
+      "word": "alumnus",
+      "ipa": "/əˈlʌmnəs/",
+      "meaning": "A former student of a school or university",
+      "translation": "cựu sinh viên",
+      "example": "He is a proud alumnus of Harvard University."
+    },
+    {
+      "word": "tenure",
+      "ipa": "/ˈtenjər/",
+      "meaning": "A permanent position granted to a professor after review",
+      "translation": "biên chế giáo sư",
+      "example": "She received tenure after six years of teaching and research."
+    },
+    {
+      "word": "provost",
+      "ipa": "/ˈprɒvəst/",
+      "meaning": "A senior academic officer in a university",
+      "translation": "phó hiệu trưởng phụ trách học vụ",
+      "example": "The provost oversees all academic programs at the university."
+    },
+    {
+      "word": "magna cum laude",
+      "ipa": "/ˌmæɡnə kʌm ˈlaʊdi/",
+      "meaning": "A Latin honor meaning 'with great praise' for high academic achievement",
+      "translation": "tốt nghiệp loại giỏi",
+      "example": "She graduated magna cum laude from the law school."
+    },
+    {
+      "word": "matriculation",
+      "ipa": "/məˌtrɪkjʊˈleɪʃən/",
+      "meaning": "The formal process of entering a university as a student",
+      "translation": "nhập học",
+      "example": "Matriculation day marks the official start of university life."
+    },
+    {
+      "word": "sabbatical",
+      "ipa": "/səˈbætɪkəl/",
+      "meaning": "A period of paid leave for a professor to pursue research",
+      "translation": "kỳ nghỉ nghiên cứu",
+      "example": "The professor took a sabbatical to write his book."
+    },
+    {
+      "word": "commencement",
+      "ipa": "/kəˈmensmənt/",
+      "meaning": "A graduation ceremony at a university",
+      "translation": "lễ trao bằng tốt nghiệp",
+      "example": "The commencement speaker inspired the graduating class."
+    },
+    {
+      "word": "dean's list",
+      "ipa": "/diːnz lɪst/",
+      "meaning": "A list of students with outstanding academic performance",
+      "translation": "danh sách sinh viên xuất sắc",
+      "example": "She made the dean's list every semester."
+    },
+    {
+      "word": "academic advisor",
+      "ipa": "/ˌækəˈdemɪk ədˈvaɪzər/",
+      "meaning": "A staff member who guides students on course selection",
+      "translation": "cố vấn học tập",
+      "example": "Meet with your academic advisor to plan your courses."
+    },
+    {
+      "word": "coursework",
+      "ipa": "/ˈkɔːrswɜːrk/",
+      "meaning": "The assignments and tasks completed during a course",
+      "translation": "bài tập trong khóa học",
+      "example": "Coursework accounts for 60% of the final grade."
+    },
+    {
+      "word": "dissertation defense",
+      "ipa": "/ˌdɪsərˈteɪʃən dɪˈfens/",
+      "meaning": "A formal presentation where a student defends their research",
+      "translation": "bảo vệ luận án",
+      "example": "Her dissertation defense lasted two hours."
+    },
+    {
+      "word": "citation",
+      "ipa": "/saɪˈteɪʃən/",
+      "meaning": "A reference to a source used in academic writing",
+      "translation": "trích dẫn",
+      "example": "Every claim must be supported by a proper citation."
+    },
+    {
+      "word": "abstract",
+      "ipa": "/ˈæbstrækt/",
+      "meaning": "A brief summary of a research paper or article",
+      "translation": "tóm tắt bài nghiên cứu",
+      "example": "Read the abstract to understand the paper's main findings."
+    },
+    {
+      "word": "symposium",
+      "ipa": "/sɪmˈpəʊziəm/",
+      "meaning": "A conference where experts present and discuss research",
+      "translation": "hội nghị chuyên đề",
+      "example": "She presented her findings at an international symposium."
+    },
+    {
+      "word": "hypothesis",
+      "ipa": "/haɪˈpɒθəsɪs/",
+      "meaning": "A proposed explanation to be tested through research",
+      "translation": "giả thuyết",
+      "example": "The experiment was designed to test the hypothesis."
+    },
+    {
+      "word": "methodology",
+      "ipa": "/ˌmeθəˈdɒlədʒi/",
+      "meaning": "The system of methods used in a particular area of study",
+      "translation": "phương pháp luận",
+      "example": "The methodology section explains how the study was conducted."
+    },
+    {
+      "word": "empirical",
+      "ipa": "/ɪmˈpɪrɪkəl/",
+      "meaning": "Based on observation and experiment rather than theory",
+      "translation": "thực nghiệm",
+      "example": "The research provides empirical evidence for the theory."
+    },
+    {
+      "word": "qualitative",
+      "ipa": "/ˈkwɒlɪtətɪv/",
+      "meaning": "Research based on descriptions and interpretations rather than numbers",
+      "translation": "nghiên cứu định tính",
+      "example": "Qualitative research often uses interviews and case studies."
+    },
+    {
+      "word": "quantitative",
+      "ipa": "/ˈkwɒntɪtətɪv/",
+      "meaning": "Research based on numerical data and statistical analysis",
+      "translation": "nghiên cứu định lượng",
+      "example": "Quantitative methods were used to analyze the survey results."
+    },
+    {
+      "word": "curriculum vitae",
+      "ipa": "/kəˌrɪkjʊləm ˈviːtaɪ/",
+      "meaning": "A detailed document listing academic and professional history",
+      "translation": "lý lịch học thuật",
+      "example": "Submit your curriculum vitae when applying for the position."
+    },
+    {
+      "word": "diploma",
+      "ipa": "/dɪˈpləʊmə/",
+      "meaning": "An official document certifying completion of a course of study",
+      "translation": "bằng tốt nghiệp",
+      "example": "She proudly displayed her diploma on the wall."
+    },
+    {
+      "word": "orientation",
+      "ipa": "/ˌɔːriənˈteɪʃən/",
+      "meaning": "An introductory programme for new students",
+      "translation": "chương trình định hướng",
+      "example": "Freshman orientation helps students adjust to university life."
+    },
+    {
+      "word": "academic journal",
+      "ipa": "/ˌækəˈdemɪk ˈdʒɜːrnəl/",
+      "meaning": "A publication featuring peer-reviewed research articles",
+      "translation": "tạp chí học thuật",
+      "example": "Her article was published in a top academic journal."
+    },
+    {
+      "word": "plagiarism detector",
+      "ipa": "/ˈpleɪdʒərɪzəm dɪˈtektər/",
+      "meaning": "Software that checks work for copied content",
+      "translation": "phần mềm phát hiện đạo văn",
+      "example": "The university uses a plagiarism detector for all submissions."
+    },
+    {
+      "word": "financial aid",
+      "ipa": "/faɪˈnænʃəl eɪd/",
+      "meaning": "Money provided to students to help pay for education",
+      "translation": "hỗ trợ tài chính",
+      "example": "She applied for financial aid to cover tuition costs."
+    },
+    {
+      "word": "study abroad",
+      "ipa": "/ˈstʌdi əˈbrɔːd/",
+      "meaning": "A programme allowing students to study in a foreign country",
+      "translation": "du học",
+      "example": "He spent a semester on a study abroad program in Japan."
+    },
+    {
+      "word": "exchange student",
+      "ipa": "/ɪksˈtʃeɪndʒ ˈstjuːdənt/",
+      "meaning": "A student attending a partner institution in another country",
+      "translation": "sinh viên trao đổi",
+      "example": "The exchange student from Germany joined our class."
+    },
+    {
+      "word": "dormitory",
+      "ipa": "/ˈdɔːrmɪtɔːri/",
+      "meaning": "A residential building for students at a university",
+      "translation": "ký túc xá",
+      "example": "Most freshmen live in the dormitory on campus."
+    },
+    {
+      "word": "professor emeritus",
+      "ipa": "/prəˈfesər ɪˈmerɪtəs/",
+      "meaning": "A retired professor who retains an honorary title",
+      "translation": "giáo sư danh dự",
+      "example": "The professor emeritus still gives occasional guest lectures."
+    },
+    {
+      "word": "learning disability",
+      "ipa": "/ˈlɜːrnɪŋ ˌdɪsəˈbɪlɪti/",
+      "meaning": "A condition that affects a person's ability to learn",
+      "translation": "khuyết tật học tập",
+      "example": "The school provides support for students with learning disabilities."
+    },
+    {
+      "word": "rubric",
+      "ipa": "/ˈruːbrɪk/",
+      "meaning": "A set of criteria for grading an assignment",
+      "translation": "thang đánh giá",
+      "example": "The teacher shared the rubric so students knew how they would be graded."
+    },
+    {
+      "word": "standardized test",
+      "ipa": "/ˈstændərdaɪzd test/",
+      "meaning": "An exam administered and scored in a consistent manner",
+      "translation": "bài thi chuẩn hóa",
+      "example": "The SAT is a standardized test used for college admissions."
+    },
+    {
+      "word": "honor roll",
+      "ipa": "/ˈɒnər rəʊl/",
+      "meaning": "A list recognizing students with high grades",
+      "translation": "bảng danh dự",
+      "example": "She was on the honor roll for three consecutive years."
+    },
+    {
+      "word": "lecture hall",
+      "ipa": "/ˈlektʃər hɔːl/",
+      "meaning": "A large room designed for lectures with many students",
+      "translation": "giảng đường",
+      "example": "The lecture hall seats over 300 students."
+    },
+    {
+      "word": "major",
+      "ipa": "/ˈmeɪdʒər/",
+      "meaning": "The primary subject a student specializes in at university",
+      "translation": "chuyên ngành chính",
+      "example": "She chose computer science as her major."
+    },
+    {
+      "word": "minor",
+      "ipa": "/ˈmaɪnər/",
+      "meaning": "A secondary subject studied alongside the main degree",
+      "translation": "chuyên ngành phụ",
+      "example": "He has a major in economics and a minor in statistics."
+    },
+    {
+      "word": "credit hour",
+      "ipa": "/ˈkredɪt aʊər/",
+      "meaning": "A unit measuring the amount of instruction in a course",
+      "translation": "tín chỉ",
+      "example": "This course is worth three credit hours."
+    },
+    {
+      "word": "probation",
+      "ipa": "/prəˈbeɪʃən/",
+      "meaning": "A warning period for students with poor academic performance",
+      "translation": "thời gian cảnh cáo học vụ",
+      "example": "Students on academic probation must improve their grades."
+    },
+    {
+      "word": "continuing education",
+      "ipa": "/kənˈtɪnjuːɪŋ ˌedʒʊˈkeɪʃən/",
+      "meaning": "Learning activities pursued after formal education",
+      "translation": "giáo dục thường xuyên",
+      "example": "Many professionals take continuing education courses."
+    },
+    {
+      "word": "boarding school",
+      "ipa": "/ˈbɔːrdɪŋ skuːl/",
+      "meaning": "A school where students live during the academic term",
+      "translation": "trường nội trú",
+      "example": "He attended a prestigious boarding school in England."
+    },
+    {
+      "word": "distance learning",
+      "ipa": "/ˈdɪstəns ˈlɜːrnɪŋ/",
+      "meaning": "Education where students study remotely from the institution",
+      "translation": "học từ xa",
+      "example": "Distance learning allows students to study from home."
+    },
+    {
+      "word": "expulsion",
+      "ipa": "/ɪkˈspʌlʃən/",
+      "meaning": "The permanent removal of a student from a school",
+      "translation": "đuổi học",
+      "example": "Cheating on exams can lead to expulsion."
+    },
+    {
+      "word": "suspension",
+      "ipa": "/səˈspenʃən/",
+      "meaning": "A temporary removal of a student from school as punishment",
+      "translation": "đình chỉ học",
+      "example": "He received a three-day suspension for fighting."
+    },
+    {
+      "word": "recess",
+      "ipa": "/rɪˈses/",
+      "meaning": "A break period during the school day for rest or play",
+      "translation": "giờ ra chơi",
+      "example": "Children play outside during recess."
+    },
+    {
+      "word": "alumni network",
+      "ipa": "/əˈlʌmnaɪ ˈnetwɜːrk/",
+      "meaning": "A community of former students connected to their school",
+      "translation": "mạng lưới cựu sinh viên",
+      "example": "The alumni network provides valuable career connections."
+    },
+    {
+      "word": "endowment",
+      "ipa": "/ɪnˈdaʊmənt/",
+      "meaning": "A fund of money donated to a university for long-term support",
+      "translation": "quỹ hiến tặng",
+      "example": "Harvard's endowment exceeds $50 billion."
+    },
+    { "word": "academic calendar", "ipa": "/ˌækəˈdemɪk ˈkælɪndər/", "meaning": "The schedule of an educational institution's terms and holidays", "translation": "lịch học kỳ", "example": "The academic calendar runs from September to June." },
+    { "word": "elective course", "ipa": "/ɪˈlektɪv kɔːrs/", "meaning": "An optional subject a student can choose to study", "translation": "môn học tự chọn", "example": "I chose photography as an elective course." },
+    { "word": "class representative", "ipa": "/klɑːs ˌreprɪˈzentətɪv/", "meaning": "A student elected to represent a class in discussions", "translation": "lớp trưởng / đại diện lớp", "example": "She was elected class representative for the second year." },
+    { "word": "open enrolment", "ipa": "/ˈəʊpən ɪnˈrəʊlmənt/", "meaning": "A policy allowing students to enrol without selective admission", "translation": "tuyển sinh mở không hạn chế", "example": "The community college operates on open enrolment." }
   ],
   "quiz": [
     {
@@ -460,6 +785,56 @@
         "A small group class for discussion",
         "An online exam",
         "A graduation ceremony"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'valedictorian'?",
+      "options": [
+        "A university professor",
+        "The student with the highest academic rank in a graduating class",
+        "A school principal",
+        "A teaching assistant"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'rubric'?",
+      "options": [
+        "A type of textbook",
+        "A set of criteria for grading an assignment",
+        "A school regulation",
+        "A graduation requirement"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'tenure' mean for a professor?",
+      "options": [
+        "A temporary teaching position",
+        "A permanent position granted after review",
+        "A research grant",
+        "A type of sabbatical"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'hypothesis' in research?",
+      "options": [
+        "The final conclusion of a study",
+        "A proposed explanation to be tested through research",
+        "A research methodology",
+        "A list of references"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an 'alumni network'?",
+      "options": [
+        "A university computer system",
+        "A community of former students connected to their school",
+        "A student government organization",
+        "An online learning platform"
       ],
       "answer": 1
     }

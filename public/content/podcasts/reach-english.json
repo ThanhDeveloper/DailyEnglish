@@ -1,0 +1,252 @@
+{
+  "id": "reach-english",
+  "title": "REACH - English Podcast",
+  "description": "Improve your English listening and speaking skills with REACH — engaging podcast episodes covering everyday topics, culture, and practical conversations",
+  "episodes": [
+    {
+      "id": "reach-ep1",
+      "title": "How to Introduce Yourself in English",
+      "description": "Learn natural ways to introduce yourself in both casual and formal situations",
+      "youtubeId": "PLACEHOLDER_01",
+      "duration": "10:15",
+      "level": "beginner",
+      "tags": ["introduction", "greeting", "self-introduction"],
+      "transcript": [
+        { "time": "0:00", "text": "Hey everyone, welcome to the REACH English Podcast. I'm your host, and today we're going to talk about how to introduce yourself in English." },
+        { "time": "0:10", "text": "Whether you're meeting someone at a party, a job interview, or a new class — first impressions matter." },
+        { "time": "0:20", "text": "Let's start with the basics. The simplest way is: Hi, I'm [your name]. Nice to meet you." },
+        { "time": "0:30", "text": "In more formal situations, you might say: Good morning, my name is [full name]. It's a pleasure to meet you." },
+        { "time": "0:42", "text": "After the greeting, people usually ask: What do you do? or Where are you from?" },
+        { "time": "0:52", "text": "A natural response could be: I'm a software engineer, or I work in marketing." },
+        { "time": "1:02", "text": "You can also add something personal: I'm originally from Vietnam but I've been living in London for three years." },
+        { "time": "1:14", "text": "Practice tip: try introducing yourself in front of a mirror. It helps build confidence." },
+        { "time": "1:25", "text": "Thanks for listening! See you in the next episode." }
+      ]
+    },
+    {
+      "id": "reach-ep2",
+      "title": "Ordering Food at a Restaurant",
+      "description": "Useful phrases and vocabulary for dining out and ordering food in English",
+      "youtubeId": "PLACEHOLDER_02",
+      "duration": "12:30",
+      "level": "beginner",
+      "tags": ["restaurant", "food", "ordering"],
+      "transcript": [
+        { "time": "0:00", "text": "Welcome back to REACH English Podcast. Today's topic is ordering food at a restaurant." },
+        { "time": "0:08", "text": "Eating out is one of the most common situations where you need to speak English." },
+        { "time": "0:16", "text": "When you arrive, the host might say: Do you have a reservation? or How many in your party?" },
+        { "time": "0:26", "text": "To order, you can say: I'd like the grilled chicken, please. Or: Can I have the pasta?" },
+        { "time": "0:36", "text": "If you're not sure what to order, try asking: What do you recommend?" },
+        { "time": "0:44", "text": "For drinks: I'll have a glass of water, please. Or: Could I get a coffee?" },
+        { "time": "0:54", "text": "When you're finished: Could we have the bill, please? or Can I pay by card?" },
+        { "time": "1:04", "text": "Remember, being polite is key. Use 'please', 'thank you', and 'excuse me' often." },
+        { "time": "1:14", "text": "That's all for today. Practice these phrases and you'll feel much more confident next time you eat out!" }
+      ]
+    },
+    {
+      "id": "reach-ep3",
+      "title": "Talking About Your Daily Routine",
+      "description": "Describe your daily activities using common English phrases and time expressions",
+      "youtubeId": "PLACEHOLDER_03",
+      "duration": "11:45",
+      "level": "beginner",
+      "tags": ["daily routine", "habits", "time"],
+      "transcript": [
+        { "time": "0:00", "text": "Hey there! Welcome to REACH English Podcast. Today we're talking about daily routines." },
+        { "time": "0:08", "text": "Being able to describe your day is one of the first things you learn in English." },
+        { "time": "0:16", "text": "We use the simple present tense for habits. For example: I wake up at 7 AM every day." },
+        { "time": "0:26", "text": "Then: I brush my teeth, take a shower, and have breakfast." },
+        { "time": "0:34", "text": "For work or school: I leave the house at 8 and commute by bus." },
+        { "time": "0:42", "text": "In the evening: I usually cook dinner, watch some TV, and go to bed around 11." },
+        { "time": "0:52", "text": "Time expressions are important: in the morning, at noon, in the afternoon, in the evening, at night." },
+        { "time": "1:02", "text": "Frequency adverbs help too: always, usually, often, sometimes, rarely, never." },
+        { "time": "1:12", "text": "Try describing your own daily routine using these words. See you next time!" }
+      ]
+    },
+    {
+      "id": "reach-ep4",
+      "title": "Making Small Talk at Work",
+      "description": "Learn how to have casual conversations with colleagues in a professional setting",
+      "youtubeId": "PLACEHOLDER_04",
+      "duration": "13:20",
+      "level": "intermediate",
+      "tags": ["work", "small talk", "office"],
+      "transcript": [
+        { "time": "0:00", "text": "Welcome to REACH English Podcast. Today's episode is all about small talk at work." },
+        { "time": "0:08", "text": "Small talk is casual conversation about unimportant things. But in reality, it's very important for building relationships." },
+        { "time": "0:18", "text": "Common topics include: the weather, weekends, hobbies, sports, and current events." },
+        { "time": "0:28", "text": "For example, on a Monday morning you might say: Hey, how was your weekend?" },
+        { "time": "0:36", "text": "Or: Did you watch the game last night? That was an amazing match!" },
+        { "time": "0:44", "text": "Near the coffee machine: This weather is crazy, right? I can't believe how hot it's been." },
+        { "time": "0:54", "text": "Avoid controversial topics like politics or religion — keep it light and friendly." },
+        { "time": "1:04", "text": "Active listening is also key. Nod, smile, and say things like: Oh really? That sounds great! Tell me more." },
+        { "time": "1:16", "text": "Practice makes perfect. Start with one small talk conversation today!" }
+      ]
+    },
+    {
+      "id": "reach-ep5",
+      "title": "Traveling by Plane — Airport English",
+      "description": "Essential English for navigating airports, checking in, and boarding your flight",
+      "youtubeId": "PLACEHOLDER_05",
+      "duration": "14:00",
+      "level": "intermediate",
+      "tags": ["travel", "airport", "transportation"],
+      "transcript": [
+        { "time": "0:00", "text": "Hello and welcome to REACH English Podcast. Today we're learning airport English!" },
+        { "time": "0:08", "text": "Flying can be stressful, especially when English isn't your first language." },
+        { "time": "0:16", "text": "At check-in, you'll hear: May I see your passport and booking confirmation?" },
+        { "time": "0:24", "text": "You might be asked: Would you like a window seat or an aisle seat?" },
+        { "time": "0:32", "text": "At security: Please remove your laptop and any liquids from your bag." },
+        { "time": "0:40", "text": "At the gate: Flight BA245 to London is now boarding at gate 12." },
+        { "time": "0:50", "text": "On the plane: Could I have a blanket, please? And: Excuse me, I think that's my seat." },
+        { "time": "1:00", "text": "Key vocabulary: boarding pass, carry-on luggage, departure, arrival, layover, connecting flight." },
+        { "time": "1:12", "text": "A layover is a stop between flights. A connecting flight is the second flight you take." },
+        { "time": "1:22", "text": "That's it for today. Safe travels, and we'll see you in the next episode!" }
+      ]
+    },
+    {
+      "id": "reach-ep6",
+      "title": "English for Job Interviews",
+      "description": "Prepare for your next job interview with common questions and strong answers",
+      "youtubeId": "PLACEHOLDER_06",
+      "duration": "15:10",
+      "level": "intermediate",
+      "tags": ["job interview", "career", "professional"],
+      "transcript": [
+        { "time": "0:00", "text": "Welcome to REACH English Podcast. Today we're preparing you for job interviews in English." },
+        { "time": "0:10", "text": "Job interviews can be nerve-wracking, but preparation is the key to success." },
+        { "time": "0:18", "text": "The most common first question is: Tell me about yourself." },
+        { "time": "0:26", "text": "Keep your answer professional and brief — about 1 to 2 minutes. Focus on your experience and skills." },
+        { "time": "0:36", "text": "Another common question: What are your strengths and weaknesses?" },
+        { "time": "0:44", "text": "For strengths, give specific examples. For weaknesses, mention something you're working to improve." },
+        { "time": "0:54", "text": "Why do you want to work here? — Research the company beforehand and connect your goals to theirs." },
+        { "time": "1:06", "text": "At the end, they'll ask: Do you have any questions for us? Always say yes!" },
+        { "time": "1:16", "text": "Good questions include: What does a typical day look like? or What are the growth opportunities?" },
+        { "time": "1:28", "text": "Practice answering these questions out loud. Good luck with your interviews!" }
+      ]
+    },
+    {
+      "id": "reach-ep7",
+      "title": "Understanding English Idioms",
+      "description": "Common English idioms explained with examples so you can use them naturally",
+      "youtubeId": "PLACEHOLDER_07",
+      "duration": "11:50",
+      "level": "intermediate",
+      "tags": ["idioms", "vocabulary", "expressions"],
+      "transcript": [
+        { "time": "0:00", "text": "Hey everyone! Welcome back to REACH English Podcast. Today let's dive into English idioms." },
+        { "time": "0:08", "text": "An idiom is a phrase where the meaning is different from the individual words." },
+        { "time": "0:16", "text": "For example: It's raining cats and dogs. This doesn't mean animals are falling from the sky — it means it's raining very heavily." },
+        { "time": "0:28", "text": "Break the ice means to start a conversation in an awkward or new social situation." },
+        { "time": "0:38", "text": "Hit the nail on the head means to describe exactly what is causing a situation or problem." },
+        { "time": "0:48", "text": "A piece of cake means something is very easy. For example: The test was a piece of cake!" },
+        { "time": "0:58", "text": "Bite the bullet means to decide to do something difficult that you've been avoiding." },
+        { "time": "1:08", "text": "Under the weather means feeling sick or unwell. I'm feeling a bit under the weather today." },
+        { "time": "1:18", "text": "The best way to learn idioms is to hear them in context. Listen to English podcasts, watch movies, and read books." },
+        { "time": "1:28", "text": "That wraps up today's episode. Keep learning, and see you next time!" }
+      ]
+    },
+    {
+      "id": "reach-ep8",
+      "title": "Talking About Technology",
+      "description": "Discuss gadgets, apps, and tech trends using modern English vocabulary",
+      "youtubeId": "PLACEHOLDER_08",
+      "duration": "12:40",
+      "level": "upper-intermediate",
+      "tags": ["technology", "gadgets", "digital"],
+      "transcript": [
+        { "time": "0:00", "text": "Welcome to REACH English Podcast! Today we're talking about technology in English." },
+        { "time": "0:08", "text": "Technology is everywhere, and being able to discuss it in English is essential in today's world." },
+        { "time": "0:18", "text": "Let's start with some basic vocabulary: smartphone, laptop, tablet, wearable, app, software, hardware." },
+        { "time": "0:30", "text": "When talking about phones, you might say: I just upgraded to the latest model. The camera is amazing." },
+        { "time": "0:40", "text": "For apps: I use this app for everything — it's so user-friendly. The interface is really intuitive." },
+        { "time": "0:50", "text": "Cloud storage means saving your files on the internet instead of on your device." },
+        { "time": "1:00", "text": "AI — artificial intelligence — is a hot topic. You might hear: AI is transforming the way we work." },
+        { "time": "1:10", "text": "Privacy concerns are also important: I'm worried about my data being collected by these companies." },
+        { "time": "1:22", "text": "Try discussing your favorite apps or gadgets in English with a friend. See you next time!" }
+      ]
+    },
+    {
+      "id": "reach-ep9",
+      "title": "How to Give Opinions and Disagree Politely",
+      "description": "Express your views and handle disagreements with respectful English phrases",
+      "youtubeId": "PLACEHOLDER_09",
+      "duration": "13:05",
+      "level": "intermediate",
+      "tags": ["opinion", "discussion", "communication"],
+      "transcript": [
+        { "time": "0:00", "text": "Hello and welcome to REACH English Podcast. Today's topic: giving opinions and disagreeing politely." },
+        { "time": "0:10", "text": "Sharing your opinion is important, but how you say it matters just as much." },
+        { "time": "0:18", "text": "To give an opinion: In my opinion... I think that... I believe... From my point of view..." },
+        { "time": "0:28", "text": "To agree: I totally agree. That's a good point. I feel the same way." },
+        { "time": "0:36", "text": "To disagree politely: I see your point, but... I'm not sure I agree. I understand what you're saying, however..." },
+        { "time": "0:48", "text": "Avoid saying: You're wrong! or That's a terrible idea. These can sound rude." },
+        { "time": "0:58", "text": "Instead, use softening language: I might be wrong, but... Perhaps we could consider... Don't you think that...?" },
+        { "time": "1:10", "text": "In a meeting, you could say: That's an interesting perspective. Could I offer an alternative view?" },
+        { "time": "1:22", "text": "Practice these phrases in your next conversation. Being polite and clear is the goal!" }
+      ]
+    },
+    {
+      "id": "reach-ep10",
+      "title": "English Pronunciation Tips",
+      "description": "Common pronunciation mistakes and how to sound more natural in English",
+      "youtubeId": "PLACEHOLDER_10",
+      "duration": "14:25",
+      "level": "intermediate",
+      "tags": ["pronunciation", "speaking", "accent"],
+      "transcript": [
+        { "time": "0:00", "text": "Welcome to REACH English Podcast! Today we have some pronunciation tips to help you sound more natural." },
+        { "time": "0:10", "text": "Pronunciation is one of the biggest challenges for English learners, but small improvements make a big difference." },
+        { "time": "0:20", "text": "Tip one: Focus on word stress. In English, we stress certain syllables more than others." },
+        { "time": "0:30", "text": "For example: it's phoTOgraphy, not PHOtography. And comPUter, not COMputer." },
+        { "time": "0:42", "text": "Tip two: Connected speech. Native speakers link words together. 'What are you' becomes 'Whatareyou' or even 'Whaddaya'." },
+        { "time": "0:54", "text": "Tip three: The schwa sound — the most common vowel sound in English. It sounds like 'uh'." },
+        { "time": "1:04", "text": "You hear it in words like: about, banana, support. The unstressed syllables use the schwa." },
+        { "time": "1:16", "text": "Tip four: Practice with shadowing. Listen to a native speaker and repeat immediately after them, copying their rhythm and intonation." },
+        { "time": "1:28", "text": "Tip five: Record yourself and compare with native speakers. You'll notice patterns to improve." },
+        { "time": "1:40", "text": "Remember, perfect pronunciation isn't the goal — being understood clearly is. Keep practicing!" }
+      ]
+    },
+    {
+      "id": "reach-ep11",
+      "title": "Shopping in English",
+      "description": "Learn how to ask about prices, sizes, and returns while shopping in English",
+      "youtubeId": "PLACEHOLDER_11",
+      "duration": "11:30",
+      "level": "beginner",
+      "tags": ["shopping", "retail", "money"],
+      "transcript": [
+        { "time": "0:00", "text": "Hey everyone, welcome to REACH English Podcast. Today we're going shopping — in English!" },
+        { "time": "0:08", "text": "Whether you're buying clothes, groceries, or electronics, these phrases will help." },
+        { "time": "0:16", "text": "To ask about price: How much is this? or How much does this cost?" },
+        { "time": "0:24", "text": "To ask about sizes: Do you have this in a medium? or Do you have this in a different color?" },
+        { "time": "0:34", "text": "To try something on: Can I try this on? Where are the fitting rooms?" },
+        { "time": "0:42", "text": "To ask about discounts: Is this on sale? Do you have any promotions?" },
+        { "time": "0:50", "text": "To pay: I'll take this, please. Can I pay by card? Do you accept contactless?" },
+        { "time": "1:00", "text": "For returns: I'd like to return this. Do you have the receipt? What's your return policy?" },
+        { "time": "1:10", "text": "Useful vocabulary: receipt, refund, exchange, discount, clearance sale." },
+        { "time": "1:20", "text": "Practice these next time you go shopping. Happy shopping, and see you next time!" }
+      ]
+    },
+    {
+      "id": "reach-ep12",
+      "title": "Describing People and Personality",
+      "description": "Rich vocabulary for describing appearance and personality traits in English",
+      "youtubeId": "PLACEHOLDER_12",
+      "duration": "12:15",
+      "level": "intermediate",
+      "tags": ["personality", "description", "vocabulary"],
+      "transcript": [
+        { "time": "0:00", "text": "Welcome to REACH English Podcast. Today we're learning how to describe people in English." },
+        { "time": "0:08", "text": "Describing people involves two things: appearance — how they look — and personality — how they behave." },
+        { "time": "0:18", "text": "For appearance: She's tall with curly brown hair. He has blue eyes and a beard." },
+        { "time": "0:28", "text": "More examples: She looks young for her age. He's well-built and athletic." },
+        { "time": "0:36", "text": "For personality, we have positive adjectives: friendly, generous, ambitious, reliable, easy-going." },
+        { "time": "0:48", "text": "And some negative ones: stubborn, impatient, arrogant, moody, selfish." },
+        { "time": "0:58", "text": "You can combine them: My sister is really outgoing and sociable, but she can be a bit impulsive sometimes." },
+        { "time": "1:10", "text": "A useful structure: He's the kind of person who always helps others. She's someone you can really count on." },
+        { "time": "1:22", "text": "Try describing someone you know using at least five adjectives. Great practice for building vocabulary!" }
+      ]
+    }
+  ]
+}

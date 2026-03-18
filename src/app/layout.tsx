@@ -1,5 +1,6 @@
 import { Outlet, Link, useLocation } from 'react-router-dom';
-import { HomeIcon, SearchIcon, BookIcon, HeadphonesIcon, HeartFilledIcon } from '../components/Icons';
+import { HomeIcon, SearchIcon, BookIcon, HeadphonesIcon, HeartFilledIcon, PencilIcon } from '../components/Icons';
+import { useAccent } from '../hooks/useAccent';
 import styles from './layout.module.css';
 
 const navItems = [
@@ -8,10 +9,12 @@ const navItems = [
   { to: '/flashcards', icon: BookIcon, label: 'Cards' },
   { to: '/podcasts', icon: HeadphonesIcon, label: 'Podcasts' },
   { to: '/saved', icon: HeartFilledIcon, label: 'Saved' },
+  { to: '/grammar', icon: PencilIcon, label: 'Grammar' },
 ];
 
 export function Layout() {
   const { pathname } = useLocation();
+  const { accent, toggleAccent } = useAccent();
 
   return (
     <div className={styles.layout}>
@@ -21,6 +24,15 @@ export function Layout() {
             <span className={styles.logoIcon}>E</span>
             DailyEnglish
           </Link>
+          <div className={styles.headerRight}>
+          <button
+            className={styles.accentToggle}
+            onClick={toggleAccent}
+            title={`Switch to ${accent === 'us' ? 'UK' : 'US'} English`}
+            aria-label={`Current accent: ${accent === 'us' ? 'US' : 'UK'} English. Click to switch.`}
+          >
+            <span className={styles.accentLabel}>{accent === 'us' ? 'US' : 'UK'}</span>
+          </button>
           <nav className={styles.desktopNav}>
             {navItems.map((item) => (
               <Link
@@ -33,6 +45,7 @@ export function Layout() {
               </Link>
             ))}
           </nav>
+          </div>
         </div>
       </header>
 

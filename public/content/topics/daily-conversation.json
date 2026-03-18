@@ -409,7 +409,379 @@
       "translation": "lang nghe",
       "example": "Active listening is key to good communication.",
       "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
-    }
+    },
+    {
+      "word": "acknowledge",
+      "ipa": "/əkˈnɒlɪdʒ/",
+      "meaning": "To accept or recognize something as true or valid",
+      "translation": "thua nhan / cong nhan",
+      "example": "He acknowledged my contribution to the project.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "appreciate",
+      "ipa": "/əˈpriːʃieɪt/",
+      "meaning": "To recognize the value or importance of something",
+      "translation": "tran trong / danh gia cao",
+      "example": "I really appreciate your help with this.",
+      "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=400&q=80"
+    },
+    {
+      "word": "congratulate",
+      "ipa": "/kənˈɡrætʃʊleɪt/",
+      "meaning": "To express pleasure at someone's success",
+      "translation": "chuc mung",
+      "example": "Let me congratulate you on your promotion!",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "condolence",
+      "ipa": "/kənˈdəʊləns/",
+      "meaning": "An expression of sympathy for someone who has experienced loss",
+      "translation": "loi chia buon",
+      "example": "Please accept my sincere condolences.",
+      "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=400&q=80"
+    },
+    {
+      "word": "embarrassed",
+      "ipa": "/ɪmˈbærəst/",
+      "meaning": "Feeling ashamed or awkward in a social situation",
+      "translation": "xau ho / lung tung",
+      "example": "I felt embarrassed when I forgot her name.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "awkward",
+      "ipa": "/ˈɔːkwərd/",
+      "meaning": "Causing or feeling discomfort in social interaction",
+      "translation": "lung tung / kho xu",
+      "example": "There was an awkward silence after his joke.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "considerate",
+      "ipa": "/kənˈsɪdərət/",
+      "meaning": "Thoughtful about the feelings and needs of others",
+      "translation": "chu dao / quan tam",
+      "example": "She is always considerate of other people's feelings.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "sincere",
+      "ipa": "/sɪnˈsɪər/",
+      "meaning": "Genuine and honest in feelings or intentions",
+      "translation": "chan thanh",
+      "example": "He gave a sincere apology for the mistake.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "decline",
+      "ipa": "/dɪˈklaɪn/",
+      "meaning": "To politely refuse an offer or invitation",
+      "translation": "tu choi lich su",
+      "example": "I had to decline the invitation because I was busy.",
+      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&q=80"
+    },
+    {
+      "word": "respond",
+      "ipa": "/rɪˈspɒnd/",
+      "meaning": "To give a reply or answer to someone",
+      "translation": "phan hoi / tra loi",
+      "example": "Please respond to the message by tomorrow.",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "mention",
+      "ipa": "/ˈmenʃən/",
+      "meaning": "To refer briefly to something in speech",
+      "translation": "nhac den / de cap",
+      "example": "She mentioned that she would be late.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "exaggerate",
+      "ipa": "/ɪɡˈzædʒəreɪt/",
+      "meaning": "To describe something as larger or more important than it really is",
+      "translation": "phong dai / noi qua",
+      "example": "Don't exaggerate — tell me exactly what happened.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "summarize",
+      "ipa": "/ˈsʌməraɪz/",
+      "meaning": "To give a brief statement of the main points",
+      "translation": "tom tat",
+      "example": "Could you summarize what we discussed?",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "persuade",
+      "ipa": "/pərˈsweɪd/",
+      "meaning": "To convince someone to do or believe something",
+      "translation": "thuyet phuc",
+      "example": "She persuaded him to join the club.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "hesitate",
+      "ipa": "/ˈhezɪteɪt/",
+      "meaning": "To pause before doing something due to uncertainty",
+      "translation": "do du / lưỡng lự",
+      "example": "Don't hesitate to ask if you need help.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "emphasize",
+      "ipa": "/ˈemfəsaɪz/",
+      "meaning": "To give special importance or attention to something",
+      "translation": "nhan manh",
+      "example": "I want to emphasize the importance of being on time.",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "elaborate",
+      "ipa": "/ɪˈlæbəreɪt/",
+      "meaning": "To provide more detail about something",
+      "translation": "giai thich them / trinh bay chi tiet",
+      "example": "Could you elaborate on that point?",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "rumor",
+      "ipa": "/ˈruːmər/",
+      "meaning": "An unverified story passed from person to person",
+      "translation": "tin don",
+      "example": "There is a rumor that the office is moving.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "sarcasm",
+      "ipa": "/ˈsɑːrkæzəm/",
+      "meaning": "The use of irony to mock or convey the opposite meaning",
+      "translation": "loi noi mai mia / chám biém",
+      "example": "His comment was full of sarcasm.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "literally",
+      "ipa": "/ˈlɪtərəli/",
+      "meaning": "In an exact sense, without exaggeration",
+      "translation": "theo nghia den",
+      "example": "I literally waited for two hours at the airport.",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "figuratively",
+      "ipa": "/ˈfɪɡjərətɪvli/",
+      "meaning": "In a way that uses metaphor rather than literal meaning",
+      "translation": "theo nghia bong",
+      "example": "She figuratively hit the roof when she heard the news.",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "converse",
+      "ipa": "/kənˈvɜːrs/",
+      "meaning": "To engage in spoken exchange with someone",
+      "translation": "tro chuyen",
+      "example": "They conversed in French during the dinner.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "cheer up",
+      "ipa": "/tʃɪər ʌp/",
+      "meaning": "To make someone feel happier",
+      "translation": "lam vui len / dong vien",
+      "example": "I bought her flowers to cheer her up.",
+      "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=400&q=80"
+    },
+    {
+      "word": "turn down",
+      "ipa": "/tɜːrn daʊn/",
+      "meaning": "To reject or refuse something",
+      "translation": "tu choi",
+      "example": "He turned down the offer to go out tonight.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "bring up",
+      "ipa": "/brɪŋ ʌp/",
+      "meaning": "To introduce a topic into a conversation",
+      "translation": "dua ra / de cap den",
+      "example": "She brought up the issue of overtime pay.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "hang out",
+      "ipa": "/hæŋ aʊt/",
+      "meaning": "To spend time with someone casually",
+      "translation": "di choi / giao luu",
+      "example": "We like to hang out at the park on Sundays.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "look forward to",
+      "ipa": "/lʊk ˈfɔːrwərd tuː/",
+      "meaning": "To feel excited about something that is going to happen",
+      "translation": "mong cho / trong doi",
+      "example": "I look forward to seeing you at the party.",
+      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&q=80"
+    },
+    {
+      "word": "run into",
+      "ipa": "/rʌn ˈɪntuː/",
+      "meaning": "To meet someone unexpectedly",
+      "translation": "tinh co gap",
+      "example": "I ran into an old friend at the supermarket.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "manners",
+      "ipa": "/ˈmænərz/",
+      "meaning": "Social behavior considered polite and correct",
+      "translation": "phep lich su / cach cu xu",
+      "example": "Good manners are important in every culture.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "slang",
+      "ipa": "/slæŋ/",
+      "meaning": "Very informal language used by a particular group",
+      "translation": "tieng long",
+      "example": "Young people use a lot of slang in daily talk.",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "pronunciation",
+      "ipa": "/prəˌnʌnsiˈeɪʃən/",
+      "meaning": "The way a word is spoken",
+      "translation": "cach phat am",
+      "example": "Correct pronunciation helps others understand you.",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "context",
+      "ipa": "/ˈkɒntekst/",
+      "meaning": "The situation or background that helps explain something",
+      "translation": "boi canh / ngu canh",
+      "example": "Understanding context is important for clear communication.",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    {
+      "word": "express",
+      "ipa": "/ɪkˈspres/",
+      "meaning": "To communicate thoughts or feelings in words",
+      "translation": "bieu dat / dien dat",
+      "example": "It is hard to express how grateful I am.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "appropriate",
+      "ipa": "/əˈprəʊpriət/",
+      "meaning": "Suitable or proper for a particular situation",
+      "translation": "phu hop / thich hop",
+      "example": "That joke was not appropriate for the occasion.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "casual",
+      "ipa": "/ˈkæʒuəl/",
+      "meaning": "Relaxed and informal in style or manner",
+      "translation": "thoai mai / khong trang trong",
+      "example": "The meeting had a casual, friendly atmosphere.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "formal",
+      "ipa": "/ˈfɔːrməl/",
+      "meaning": "Following official or traditional rules of behavior",
+      "translation": "trang trong / chinh thuc",
+      "example": "Please use formal language in your email.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "nod",
+      "ipa": "/nɒd/",
+      "meaning": "To move your head up and down to show agreement",
+      "translation": "gat dau",
+      "example": "She nodded in agreement during the discussion.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "eye contact",
+      "ipa": "/aɪ ˈkɒntækt/",
+      "meaning": "Looking directly into someone's eyes during a conversation",
+      "translation": "giao tiep bang mat",
+      "example": "Maintaining eye contact shows confidence.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
+    },
+    {
+      "word": "gesture",
+      "ipa": "/ˈdʒestʃər/",
+      "meaning": "A movement of hands or body to express meaning",
+      "translation": "cu chi / dong tac",
+      "example": "He used a hand gesture to wave goodbye.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "confide",
+      "ipa": "/kənˈfaɪd/",
+      "meaning": "To tell someone a secret or private matter in trust",
+      "translation": "tam su / tin tuong chia se",
+      "example": "She confided in me about her plans to resign.",
+      "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=400&q=80"
+    },
+    {
+      "word": "reassure",
+      "ipa": "/ˌriːəˈʃʊər/",
+      "meaning": "To say or do something to remove doubts or fears",
+      "translation": "tran an",
+      "example": "The doctor reassured the patient that everything was fine.",
+      "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=400&q=80"
+    },
+    {
+      "word": "offend",
+      "ipa": "/əˈfend/",
+      "meaning": "To cause someone to feel upset or hurt",
+      "translation": "xuc pham / lam phien long",
+      "example": "I didn't mean to offend you with that comment.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "rapport",
+      "ipa": "/ræˈpɔːr/",
+      "meaning": "A close and harmonious relationship with good understanding",
+      "translation": "moi quan he tot dep / su hoa hop",
+      "example": "Building rapport with clients is essential.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "tactful",
+      "ipa": "/ˈtæktfʊl/",
+      "meaning": "Having sensitivity and skill in dealing with others",
+      "translation": "kheo leo / te nhi",
+      "example": "She gave a tactful response to the difficult question.",
+      "image": "https://images.unsplash.com/photo-1557425955-df376b5903c8?w=400&q=80"
+    },
+    {
+      "word": "miscommunication",
+      "ipa": "/ˌmɪskəˌmjuːnɪˈkeɪʃən/",
+      "meaning": "A failure to communicate ideas clearly",
+      "translation": "su hieu nham / truyen dat sai",
+      "example": "The delay was caused by a miscommunication between teams.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=400&q=80"
+    },
+    {
+      "word": "recap",
+      "ipa": "/ˈriːkæp/",
+      "meaning": "A summary of what has been said or discussed",
+      "translation": "tom tat lai",
+      "example": "Let me give a quick recap of our conversation.",
+      "image": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&q=80"
+    },
+    { "word": "take care", "ipa": "/teɪk ker/", "meaning": "A phrase used when saying goodbye to wish someone well", "translation": "giữ gìn sức khỏe (lời chào tạm biệt)", "example": "It was great seeing you — take care!" },
+    { "word": "heads up", "ipa": "/hedz ʌp/", "meaning": "An advance warning or notification about something", "translation": "thông báo trước", "example": "Just a heads up — the meeting has been moved to 3 PM." },
+    { "word": "keep in touch", "ipa": "/kiːp ɪn tʌtʃ/", "meaning": "To maintain contact with someone", "translation": "giữ liên lạc", "example": "Let's keep in touch after you move abroad." },
+    { "word": "hang on", "ipa": "/hæŋ ɒn/", "meaning": "Wait a moment", "translation": "đợi một chút", "example": "Hang on — I'll be right with you." }
   ],
   "quiz": [
     {
@@ -430,6 +802,61 @@
     {
       "question": "What is suggesting something good called?",
       "options": ["Introducing", "Recommending", "Inviting", "Scheduling"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'paraphrase' mean?",
+      "options": ["To copy exactly", "To restate in different words", "To translate", "To summarize briefly"],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'rapport'?",
+      "options": ["A formal report", "A close harmonious relationship", "A type of greeting", "A business agreement"],
+      "answer": 1
+    },
+    {
+      "question": "What does it mean to 'decline' an invitation?",
+      "options": ["To accept eagerly", "To politely refuse", "To ignore completely", "To postpone"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'elaborate' mean in conversation?",
+      "options": ["To end a discussion", "To provide more detail", "To change the subject", "To disagree strongly"],
+      "answer": 1
+    },
+    {
+      "question": "What is 'sarcasm'?",
+      "options": ["A sincere compliment", "Using irony to mock or convey the opposite", "A formal greeting", "A type of accent"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'tactful' mean?",
+      "options": ["Being rude on purpose", "Having sensitivity in dealing with others", "Speaking very loudly", "Avoiding all conversation"],
+      "answer": 1
+    },
+    {
+      "question": "What is an 'icebreaker'?",
+      "options": ["A cold drink", "A tool to break ice", "An activity to start a conversation", "A way to end a meeting"],
+      "answer": 2
+    },
+    {
+      "question": "What does 'hang out' mean?",
+      "options": ["To do laundry", "To spend time casually with someone", "To wait in a queue", "To leave in a hurry"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'miscommunication' mean?",
+      "options": ["Perfect understanding", "A failure to communicate ideas clearly", "A formal announcement", "An angry argument"],
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'emphasize'?",
+      "options": ["To whisper quietly", "To give special importance to something", "To repeat a word many times", "To skip over a topic"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'reassure' someone mean?",
+      "options": ["To frighten them", "To remove their doubts or fears", "To ignore their concerns", "To argue with them"],
       "answer": 1
     }
   ]

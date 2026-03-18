@@ -52,6 +52,76 @@
         { "speaker": "Manager", "text": "Wonderful. Your new keys are ready and I'll have your belongings transferred within 30 minutes. Once again, I'm truly sorry for the disruption to your stay." },
         { "speaker": "Guest", "text": "I appreciate how you handled this. I'll look forward to a good night's sleep finally." }
       ]
+    },
+    {
+      "id": "room-service",
+      "title": "Ordering Room Service",
+      "speakers": ["Guest", "Room Service"],
+      "lines": [
+        { "speaker": "Room Service", "text": "Good evening, room service. How may I help you?" },
+        { "speaker": "Guest", "text": "Hi, I'd like to order dinner to my room, please. I'm in room 906." },
+        { "speaker": "Room Service", "text": "Of course, Ms. Anderson. What would you like to order?" },
+        { "speaker": "Guest", "text": "Could I start with the French onion soup? And for the main course, I'll have the grilled chicken with roasted vegetables." },
+        { "speaker": "Room Service", "text": "Excellent choices. How would you like the chicken prepared — with our herb butter sauce or the lemon and thyme?" },
+        { "speaker": "Guest", "text": "The lemon and thyme, please. Could I also get a side of mashed potatoes?" },
+        { "speaker": "Room Service", "text": "Absolutely. Would you like anything to drink with your meal?" },
+        { "speaker": "Guest", "text": "A glass of white wine, please. What do you recommend?" },
+        { "speaker": "Room Service", "text": "We have a lovely Sauvignon Blanc from New Zealand, or a Chardonnay from California. Both pair well with chicken." },
+        { "speaker": "Guest", "text": "I'll go with the Sauvignon Blanc. And could I order dessert now or should I call back later?" },
+        { "speaker": "Room Service", "text": "You can order now if you'd like. We'll bring dessert separately about 30 minutes after your main course." },
+        { "speaker": "Guest", "text": "In that case, I'll have the chocolate lava cake. How long will the order take?" },
+        { "speaker": "Room Service", "text": "Your meal should be delivered within 35 to 40 minutes. Shall I set up the dining tray by the window or the desk area?" },
+        { "speaker": "Guest", "text": "By the window would be lovely. One more thing — I have an early morning flight tomorrow. Is it possible to order a breakfast box for a 5 AM departure?" },
+        { "speaker": "Room Service", "text": "Certainly. We offer an early departure breakfast that includes a croissant, fresh fruit, yogurt, orange juice, and coffee in a takeaway bag. I can have it delivered to your room at 4:30 AM or left at the front desk." },
+        { "speaker": "Guest", "text": "Delivered to the room at 4:30 would be perfect. Thank you." }
+      ]
+    },
+    {
+      "id": "concierge-help",
+      "title": "Asking the Concierge for Recommendations",
+      "speakers": ["Tourist", "Concierge"],
+      "lines": [
+        { "speaker": "Tourist", "text": "Good morning. I'm visiting the city for the first time and I was hoping you could recommend some things to see and do." },
+        { "speaker": "Concierge", "text": "Welcome! I'd be happy to help. How many days do you have, and what are your interests?" },
+        { "speaker": "Tourist", "text": "I'm here for three days. I love history, local food, and art museums. I'm not so interested in touristy shopping districts." },
+        { "speaker": "Concierge", "text": "You're in for a treat. For history, I'd strongly recommend the Old Town walking tour. It's a two-hour guided walk through the medieval quarter. Tours depart twice daily at 10 AM and 2 PM." },
+        { "speaker": "Tourist", "text": "That sounds wonderful. How do I book it?" },
+        { "speaker": "Concierge", "text": "I can book it for you right now. It's $25 per person. Would you prefer the morning or afternoon tour?" },
+        { "speaker": "Tourist", "text": "The morning tour, please. What about restaurants? I'd love to try authentic local cuisine, not tourist traps." },
+        { "speaker": "Concierge", "text": "For authentic local food, I recommend three places. First, Casa Manuel in the old quarter — it's family-run and serves traditional dishes that locals love. Second, the Central Market has incredible street food stalls. Third, for a special evening meal, La Terraza has a rooftop with stunning views and a seasonal menu." },
+        { "speaker": "Tourist", "text": "Do I need reservations for La Terraza?" },
+        { "speaker": "Concierge", "text": "I'd strongly recommend it, especially for dinner. I can make a reservation for you. What evening and how many guests?" },
+        { "speaker": "Tourist", "text": "Tomorrow evening, just for one. Is that awkward, dining alone?" },
+        { "speaker": "Concierge", "text": "Not at all! Many guests dine solo and it's completely normal. I'll request a nice table with a view for you. Eight o'clock?" },
+        { "speaker": "Tourist", "text": "Perfect. And for art — which museum would you prioritize if I only have time for one?" },
+        { "speaker": "Concierge", "text": "The National Gallery is the must-see. They have an incredible collection spanning five centuries. Allow at least three hours. Admission is free but I'd suggest going early to avoid crowds." },
+        { "speaker": "Tourist", "text": "What's the best way to get around the city? Should I use taxis or public transport?" },
+        { "speaker": "Concierge", "text": "The metro is excellent — fast, clean, and very affordable. I can give you a transit card with unlimited rides for three days. It's only $15 and covers buses and the metro." },
+        { "speaker": "Tourist", "text": "That's a great deal. I'll take one. Thank you so much — you've planned my entire trip!" }
+      ]
+    },
+    {
+      "id": "checkout",
+      "title": "Checking Out of the Hotel",
+      "speakers": ["Guest", "Front Desk"],
+      "lines": [
+        { "speaker": "Guest", "text": "Good morning. I'd like to check out, please. Room 1204." },
+        { "speaker": "Front Desk", "text": "Good morning, Mr. Patel. I hope you enjoyed your stay. Let me pull up your bill." },
+        { "speaker": "Guest", "text": "Yes, it was an excellent stay overall. The room was very comfortable." },
+        { "speaker": "Front Desk", "text": "I'm glad to hear that. Here's your itemized bill. The room charges for four nights come to $920, plus the restaurant charge of $85 from Tuesday evening, and the spa treatment for $120. The total is $1,125." },
+        { "speaker": "Guest", "text": "Could I review the bill? I don't recall a restaurant charge of $85." },
+        { "speaker": "Front Desk", "text": "Let me check the details. It shows a charge at the Terrace Restaurant on Tuesday at 8:15 PM. Does that ring a bell?" },
+        { "speaker": "Guest", "text": "Oh yes, you're right. I forgot about the wine. That's correct then." },
+        { "speaker": "Front Desk", "text": "Shall I charge the total to the Visa card on file?" },
+        { "speaker": "Guest", "text": "Yes, please. Could I also get a receipt emailed to me? I'll need it for my expense report." },
+        { "speaker": "Front Desk", "text": "Of course. I'll send the detailed receipt to the email address we have on file. Is it still david.patel@company.com?" },
+        { "speaker": "Guest", "text": "That's correct. One more thing — I have a late flight this evening. Would it be possible to leave my luggage here until this afternoon?" },
+        { "speaker": "Front Desk", "text": "Absolutely. Our luggage storage is complimentary for the day of checkout. Just bring your bags to the bell desk and they'll give you a claim ticket." },
+        { "speaker": "Guest", "text": "That's very convenient. And could you arrange a taxi to the airport for around 5 PM?" },
+        { "speaker": "Front Desk", "text": "I'll schedule that now. The taxi will be waiting at the main entrance at 5 PM. The ride to the airport takes about 40 minutes, depending on traffic." },
+        { "speaker": "Guest", "text": "Perfect. Thank you for everything. I'll definitely be coming back on my next business trip." },
+        { "speaker": "Front Desk", "text": "We'd love to have you back, Mr. Patel. As a returning guest, you'll automatically receive a 10% discount on your next booking. Safe travels!" }
+      ]
     }
   ]
 }

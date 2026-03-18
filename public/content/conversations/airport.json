@@ -31,6 +31,69 @@
         { "speaker": "Officer", "text": "You're all clear. Have a nice flight!" },
         { "speaker": "Traveler", "text": "Thank you!" }
       ]
+    },
+    {
+      "id": "delayed-flight",
+      "title": "Dealing with a Flight Delay",
+      "speakers": ["Passenger", "Gate Agent"],
+      "lines": [
+        { "speaker": "Gate Agent", "text": "Attention passengers on Flight BA247 to New York. We regret to inform you that your flight has been delayed by approximately two hours due to weather conditions." },
+        { "speaker": "Passenger", "text": "Excuse me, I have a connecting flight in New York. Will I still make it?" },
+        { "speaker": "Gate Agent", "text": "What time is your connecting flight?" },
+        { "speaker": "Passenger", "text": "It departs at 8:15 PM local time." },
+        { "speaker": "Gate Agent", "text": "With the delay, you would arrive at 7:45 PM. That's very tight. I'd recommend we rebook your connection to be safe." },
+        { "speaker": "Passenger", "text": "That would be great. Can you find me a later flight to Chicago?" },
+        { "speaker": "Gate Agent", "text": "There's a 10:30 PM departure to Chicago. I can put you on that at no extra charge since this is an airline-caused delay." },
+        { "speaker": "Passenger", "text": "Yes, please book that one. Will I receive a meal voucher for the wait?" },
+        { "speaker": "Gate Agent", "text": "Absolutely. Here's a $15 voucher valid at any restaurant in Terminal 3. I apologize for the inconvenience." },
+        { "speaker": "Passenger", "text": "Thank you for your help. Where can I charge my phone while I wait?" },
+        { "speaker": "Gate Agent", "text": "There are charging stations near Gate B8 and also in the lounge area across from the bookshop." },
+        { "speaker": "Passenger", "text": "Perfect. I appreciate your assistance." }
+      ]
+    },
+    {
+      "id": "customs-immigration",
+      "title": "Going Through Immigration",
+      "speakers": ["Traveler", "Immigration Officer"],
+      "lines": [
+        { "speaker": "Immigration Officer", "text": "Next, please. Good afternoon. Passport, please." },
+        { "speaker": "Traveler", "text": "Here you are." },
+        { "speaker": "Immigration Officer", "text": "What is the purpose of your visit?" },
+        { "speaker": "Traveler", "text": "I'm here on business. I have meetings with a client in London." },
+        { "speaker": "Immigration Officer", "text": "How long do you plan to stay in the United Kingdom?" },
+        { "speaker": "Traveler", "text": "Five days. I'm flying back on Friday." },
+        { "speaker": "Immigration Officer", "text": "Do you have a return ticket?" },
+        { "speaker": "Traveler", "text": "Yes, here's my return booking confirmation." },
+        { "speaker": "Immigration Officer", "text": "Where will you be staying during your visit?" },
+        { "speaker": "Traveler", "text": "At the Hilton Hotel in central London. I have the reservation printed here." },
+        { "speaker": "Immigration Officer", "text": "Are you carrying more than ten thousand pounds in cash or equivalent?" },
+        { "speaker": "Traveler", "text": "No, I only have about two hundred pounds in cash." },
+        { "speaker": "Immigration Officer", "text": "Do you have anything to declare — food, plants, or agricultural products?" },
+        { "speaker": "Traveler", "text": "No, nothing to declare." },
+        { "speaker": "Immigration Officer", "text": "Very well. Welcome to the United Kingdom. Enjoy your stay." },
+        { "speaker": "Traveler", "text": "Thank you very much." }
+      ]
+    },
+    {
+      "id": "lost-luggage",
+      "title": "Reporting Lost Luggage",
+      "speakers": ["Passenger", "Baggage Agent"],
+      "lines": [
+        { "speaker": "Passenger", "text": "Excuse me, I've been waiting at the carousel for thirty minutes and my suitcase hasn't appeared." },
+        { "speaker": "Baggage Agent", "text": "I'm sorry to hear that. Can I see your baggage claim tag? It should be attached to your boarding pass." },
+        { "speaker": "Passenger", "text": "Yes, here it is. Tag number LH-482917." },
+        { "speaker": "Baggage Agent", "text": "Thank you. Let me check the system. Which flight did you arrive on?" },
+        { "speaker": "Passenger", "text": "Flight LH 1042 from Frankfurt. It landed about forty-five minutes ago." },
+        { "speaker": "Baggage Agent", "text": "I can see your bag was scanned in Frankfurt but doesn't appear to have been loaded onto your flight. It may arrive on the next flight at 6:15 PM." },
+        { "speaker": "Passenger", "text": "That's really frustrating. I have important documents and medication in that suitcase." },
+        { "speaker": "Baggage Agent", "text": "I completely understand. Let me file a delayed baggage report. Could you describe the suitcase for me?" },
+        { "speaker": "Passenger", "text": "It's a large black hard-shell suitcase with a red ribbon tied to the handle." },
+        { "speaker": "Baggage Agent", "text": "I've noted that. Can I have your local address and phone number? We'll deliver the bag to you free of charge once it arrives." },
+        { "speaker": "Passenger", "text": "I'm staying at the Marriott on Park Avenue. My number is 555-0192." },
+        { "speaker": "Baggage Agent", "text": "In the meantime, you're entitled to a toiletries kit and up to $50 reimbursement for essential purchases. Here's the claim form and your reference number." },
+        { "speaker": "Passenger", "text": "Thank you. How soon will I hear back about the bag?" },
+        { "speaker": "Baggage Agent", "text": "We'll call you within four hours with an update. You can also track the status online using that reference number." }
+      ]
     }
   ]
 }

@@ -88,6 +88,20 @@
     { "word": "mutual fund", "ipa": "/ˈmjuːtʃuəl fʌnd/", "meaning": "a pool of money invested by many people together", "example": "Mutual funds spread risk across many investments." },
     { "word": "index fund", "ipa": "/ˈɪndɛks fʌnd/", "meaning": "a fund that tracks a stock market index", "example": "Index funds offer low fees and broad market exposure." },
     { "word": "IPO", "ipa": "/aɪ piː oʊ/", "meaning": "Initial Public Offering; a company's first stock sale to the public", "example": "The tech firm raised billions in its IPO." },
-    { "word": "savings", "ipa": "/ˈseɪvɪŋz/", "meaning": "money kept aside and not spent", "example": "She put part of each paycheck into her savings account." }
+    { "word": "savings", "ipa": "/ˈseɪvɪŋz/", "meaning": "money kept aside and not spent", "example": "She put part of each paycheck into her savings account." },
+    { "word": "bear market", "ipa": "/bɛər ˈmɑːrkɪt/", "meaning": "a market in which prices are falling", "example": "Investors often sell stocks during a bear market." },
+    { "word": "bull market", "ipa": "/bʊl ˈmɑːrkɪt/", "meaning": "a market in which prices are rising", "example": "The bull market attracted many new investors." },
+    { "word": "volatility", "ipa": "/ˌvɒləˈtɪlɪti/", "meaning": "the degree of variation in the price of a financial asset", "example": "High volatility makes some investors nervous." },
+    { "word": "diversification", "ipa": "/daɪˌvɜːrsɪfɪˈkeɪʃən/", "meaning": "spreading investments across different assets to reduce risk", "example": "Diversification is a key principle of smart investing." },
+    { "word": "yield", "ipa": "/jiːld/", "meaning": "the income return on an investment", "example": "Government bonds offer a modest but steady yield." },
+    { "word": "liquidity", "ipa": "/lɪˈkwɪdɪti/", "meaning": "how easily an asset can be converted to cash", "example": "Stocks generally have higher liquidity than real estate." },
+    { "word": "credit score", "ipa": "/ˈkrɛdɪt skɔːr/", "meaning": "a number representing a person's creditworthiness", "example": "A high credit score makes it easier to get a loan." },
+    { "word": "default", "ipa": "/dɪˈfɔːlt/", "meaning": "failure to repay a loan or meet a financial obligation", "example": "The company defaulted on its debt payments." },
+    { "word": "principal", "ipa": "/ˈprɪnsɪpəl/", "meaning": "the original sum of money borrowed or invested", "example": "She is paying off the principal of her student loan." },
+    { "word": "securities", "ipa": "/sɪˈkjʊərɪtiz/", "meaning": "tradable financial assets such as stocks and bonds", "example": "The firm deals in government securities." },
+    { "word": "underwriting", "ipa": "/ˈʌndəˌraɪtɪŋ/", "meaning": "assessing and assuming financial risk for a fee", "example": "Insurance underwriting determines the premium you pay." },
+    { "word": "inflation rate", "ipa": "/ɪnˈfleɪʃən reɪt/", "meaning": "the percentage increase in general price levels over time", "example": "The inflation rate reached five percent last year." },
+    { "word": "balance sheet", "ipa": "/ˈbæləns ʃiːt/", "meaning": "a financial statement listing assets, liabilities, and equity", "example": "The balance sheet shows the company is in good financial health." },
+    { "word": "venture capital", "ipa": "/ˈvɛntʃər ˈkæpɪtəl/", "meaning": "funding given to startups and small businesses with growth potential", "example": "The startup raised ten million dollars in venture capital." }
   ]
 }

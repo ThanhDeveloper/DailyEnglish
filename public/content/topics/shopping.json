@@ -409,7 +409,302 @@
       "translation": "thanh toan tu dong",
       "example": "I used the self-checkout to avoid the queue.",
       "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
-    }
+    },
+    {
+      "word": "merchandise",
+      "ipa": "/ˈmɜːrtʃəndaɪz/",
+      "meaning": "Goods available for sale in a store",
+      "translation": "hang hoa",
+      "example": "The store has a wide selection of merchandise.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "inventory",
+      "ipa": "/ˈɪnvəntɔːri/",
+      "meaning": "A complete list of goods available in a store",
+      "translation": "hang ton kho",
+      "example": "The manager checked the inventory after closing.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
+    },
+    {
+      "word": "wholesale",
+      "ipa": "/ˈhoʊlseɪl/",
+      "meaning": "Selling goods in large quantities at lower prices",
+      "translation": "ban si / ban buon",
+      "example": "We buy our supplies from a wholesale distributor.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
+    },
+    {
+      "word": "markup",
+      "ipa": "/ˈmɑːrkʌp/",
+      "meaning": "The amount added to the cost price to set the selling price",
+      "translation": "muc chenh lech gia",
+      "example": "The markup on designer goods can be very high.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "coupon",
+      "ipa": "/ˈkuːpɒn/",
+      "meaning": "A printed ticket giving a discount on a product",
+      "translation": "phieu giam gia",
+      "example": "I clipped a coupon from the newspaper for 10% off.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "haggle",
+      "ipa": "/ˈhæɡəl/",
+      "meaning": "To negotiate the price of something in a market",
+      "translation": "mac ca",
+      "example": "You can haggle for a better price at the flea market.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "debit card",
+      "ipa": "/ˈdebɪt kɑːrd/",
+      "meaning": "A card that takes money directly from your bank account",
+      "translation": "the ghi no",
+      "example": "I prefer to pay with my debit card.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
+    },
+    {
+      "word": "cash register",
+      "ipa": "/kæʃ ˈredʒɪstər/",
+      "meaning": "A machine used to record sales and store money",
+      "translation": "may tinh tien",
+      "example": "The cash register showed the total amount.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
+    },
+    {
+      "word": "purchase",
+      "ipa": "/ˈpɜːrtʃəs/",
+      "meaning": "The act of buying something",
+      "translation": "mua / viec mua hang",
+      "example": "Thank you for your purchase.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "transaction",
+      "ipa": "/trænˈzækʃən/",
+      "meaning": "An exchange of goods or services for payment",
+      "translation": "giao dich",
+      "example": "The transaction was completed successfully.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&q=80"
+    },
+    {
+      "word": "try on",
+      "ipa": "/traɪ ɒn/",
+      "meaning": "To put on a piece of clothing to see if it fits",
+      "translation": "thu do",
+      "example": "Can I try on these shoes?",
+      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400&q=80"
+    },
+    {
+      "word": "browse",
+      "ipa": "/braʊz/",
+      "meaning": "To look at items casually without a specific plan to buy",
+      "translation": "xem qua / luot xem",
+      "example": "I'm just browsing, thank you.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "display",
+      "ipa": "/dɪˈspleɪ/",
+      "meaning": "An arrangement of products shown in a store",
+      "translation": "trung bay",
+      "example": "The new arrivals are on display in the window.",
+      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400&q=80"
+    },
+    {
+      "word": "shelf",
+      "ipa": "/ʃelf/",
+      "meaning": "A flat board fixed to a wall or frame for holding items",
+      "translation": "ke hang",
+      "example": "The product was on the top shelf.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
+    },
+    {
+      "word": "promotion",
+      "ipa": "/prəˈməʊʃən/",
+      "meaning": "A special offer to encourage customers to buy",
+      "translation": "chuong trinh khuyen mai",
+      "example": "There is a buy-one-get-one-free promotion this week.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "seasonal",
+      "ipa": "/ˈsiːzənəl/",
+      "meaning": "Available or occurring during a particular time of year",
+      "translation": "theo mua",
+      "example": "Seasonal items go on sale after the holidays.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "affordable",
+      "ipa": "/əˈfɔːrdəbəl/",
+      "meaning": "Reasonably priced and within one's budget",
+      "translation": "gia phai chang",
+      "example": "This store has affordable clothing for families.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "overpriced",
+      "ipa": "/ˌəʊvərˈpraɪst/",
+      "meaning": "Costing more than it is worth",
+      "translation": "dat qua / gia cao qua",
+      "example": "The souvenirs at the airport are overpriced.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "vendor",
+      "ipa": "/ˈvendər/",
+      "meaning": "A person or company that sells goods",
+      "translation": "nguoi ban hang",
+      "example": "Street vendors sell fresh fruit along the road.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
+    },
+    {
+      "word": "consumer",
+      "ipa": "/kənˈsjuːmər/",
+      "meaning": "A person who buys goods or services for personal use",
+      "translation": "nguoi tieu dung",
+      "example": "Consumer rights protect shoppers from fraud.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "shipping",
+      "ipa": "/ˈʃɪpɪŋ/",
+      "meaning": "The process of sending goods from a seller to a buyer",
+      "translation": "van chuyen",
+      "example": "Shipping is free for orders over $25.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
+    },
+    {
+      "word": "in stock",
+      "ipa": "/ɪn stɒk/",
+      "meaning": "Available for purchase right now",
+      "translation": "con hang",
+      "example": "The product is back in stock.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "fitting",
+      "ipa": "/ˈfɪtɪŋ/",
+      "meaning": "How well a piece of clothing suits the body",
+      "translation": "su vua van",
+      "example": "The fitting of this dress is perfect.",
+      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400&q=80"
+    },
+    {
+      "word": "textile",
+      "ipa": "/ˈtekstaɪl/",
+      "meaning": "A type of cloth or woven fabric",
+      "translation": "vai / det may",
+      "example": "This textile is made from organic cotton.",
+      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400&q=80"
+    },
+    {
+      "word": "counterfeit",
+      "ipa": "/ˈkaʊntərfɪt/",
+      "meaning": "A fake product made to look like the original",
+      "translation": "hang gia / hang nhai",
+      "example": "Beware of counterfeit goods at street markets.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "receipt printer",
+      "ipa": "/rɪˈsiːt ˈprɪntər/",
+      "meaning": "A machine that prints transaction records for customers",
+      "translation": "may in hoa don",
+      "example": "The receipt printer ran out of paper.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
+    },
+    {
+      "word": "reward points",
+      "ipa": "/rɪˈwɔːrd pɔɪnts/",
+      "meaning": "Points earned through purchases that can be redeemed for discounts",
+      "translation": "diem thuong",
+      "example": "You've earned 500 reward points on this purchase.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
+    },
+    {
+      "word": "contactless payment",
+      "ipa": "/ˈkɒntæktləs ˈpeɪmənt/",
+      "meaning": "Paying by tapping a card or phone near a reader",
+      "translation": "thanh toan khong tiep xuc",
+      "example": "Contactless payment makes checkout faster.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80"
+    },
+    {
+      "word": "subscription",
+      "ipa": "/səbˈskrɪpʃən/",
+      "meaning": "A recurring payment for regular delivery of a product or service",
+      "translation": "dang ky mua dinh ky",
+      "example": "I have a monthly subscription for coffee beans.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "boutique",
+      "ipa": "/buːˈtiːk/",
+      "meaning": "A small store selling fashionable or specialty items",
+      "translation": "cua hang thoi trang nho",
+      "example": "She found a beautiful dress at a local boutique.",
+      "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=400&q=80"
+    },
+    {
+      "word": "department store",
+      "ipa": "/dɪˈpɑːrtmənt stɔːr/",
+      "meaning": "A large store organized into sections selling different types of goods",
+      "translation": "cua hang bach hoa",
+      "example": "The department store has floors for clothing, electronics, and furniture.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "splurge",
+      "ipa": "/splɜːrdʒ/",
+      "meaning": "To spend a large amount of money on a luxury item",
+      "translation": "tieu xai hoang phi / xa xi",
+      "example": "She decided to splurge on a designer handbag.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "thrift store",
+      "ipa": "/θrɪft stɔːr/",
+      "meaning": "A store selling used goods at low prices",
+      "translation": "cua hang do cu gia re",
+      "example": "I found a great vintage jacket at the thrift store.",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400&q=80"
+    },
+    {
+      "word": "shopping list",
+      "ipa": "/ˈʃɒpɪŋ lɪst/",
+      "meaning": "A written list of items to buy",
+      "translation": "danh sach mua sam",
+      "example": "Don't forget to bring the shopping list to the store.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
+    },
+    {
+      "word": "restock",
+      "ipa": "/riːˈstɒk/",
+      "meaning": "To fill shelves with new supplies of a product",
+      "translation": "nhap hang lai",
+      "example": "The shelves will be restocked by tomorrow morning.",
+      "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?w=400&q=80"
+    },
+    { "word": "buy one get one free", "ipa": "/baɪ wʌn ɡet wʌn friː/", "meaning": "A promotion where buying one item earns you another for free", "translation": "mua một tặng một", "example": "The supermarket has a buy one get one free offer on pasta." },
+    { "word": "impulse buy", "ipa": "/ˈɪmpʌls baɪ/", "meaning": "An unplanned purchase made on a sudden urge", "translation": "mua sắm bốc đồng", "example": "Placing sweets at the checkout encourages impulse buys." },
+    { "word": "shopping basket", "ipa": "/ˈʃɒpɪŋ ˈbɑːskɪt/", "meaning": "A hand-held basket used to carry items in a shop", "translation": "giỏ đựng hàng", "example": "I only need a shopping basket for a few items." },
+    { "word": "shopping trolley", "ipa": "/ˈʃɒpɪŋ ˈtrɒli/", "meaning": "A large wheeled cart used to collect goods in a supermarket", "translation": "xe đẩy siêu thị", "example": "Load your shopping trolley at the entrance." },
+    { "word": "queue", "ipa": "/kjuː/", "meaning": "A line of people waiting to be served", "translation": "hàng đợi", "example": "The queue at the till stretched to the door." },
+    { "word": "self-checkout", "ipa": "/self ˈtʃekaʊt/", "meaning": "An automated checkout system operated by the customer", "translation": "quầy tự thanh toán", "example": "Use the self-checkout to avoid long queues." },
+    { "word": "contactless payment", "ipa": "/ˈkɒntæktlɪs ˈpeɪmənt/", "meaning": "Paying by tapping a card or phone on a reader", "translation": "thanh toán không tiếp xúc", "example": "Tap your card for contactless payment." },
+    { "word": "shop window", "ipa": "/ʃɒp ˈwɪndəʊ/", "meaning": "A display window at the front of a store", "translation": "tủ kính cửa hàng", "example": "The shop window drew shoppers inside with its display." },
+    { "word": "seasonal sale", "ipa": "/ˈsiːzənəl seɪl/", "meaning": "A sale held at a particular time of year, like summer or winter", "translation": "sale theo mùa", "example": "Grab great deals at the seasonal sale." },
+    { "word": "loyalty card", "ipa": "/ˈlɔɪəlti kɑːrd/", "meaning": "A card offering rewards for repeat purchases at a shop", "translation": "thẻ khách hàng thân thiết", "example": "Earn points on your loyalty card with every purchase." },
+    { "word": "fitting room", "ipa": "/ˈfɪtɪŋ ruːm/", "meaning": "A room in a clothes shop to try on garments", "translation": "phòng thử đồ", "example": "The fitting room has a maximum of five items." },
+    { "word": "price comparison", "ipa": "/praɪs kəmˈpærɪsən/", "meaning": "Checking prices across different shops to find the best deal", "translation": "so sánh giá", "example": "Use a price comparison website before buying electronics." },
+    { "word": "online marketplace", "ipa": "/ˈɒnlaɪn ˈmɑːrkɪtpleɪs/", "meaning": "A website where multiple sellers list products for sale", "translation": "sàn thương mại điện tử", "example": "Amazon and eBay are large online marketplaces." },
+    { "word": "counterfeit", "ipa": "/ˈkaʊntərfɪt/", "meaning": "A fake product made to look like a genuine brand", "translation": "hàng giả, hàng nhái", "example": "Never buy counterfeit goods — they can be dangerous." },
+    { "word": "customer service desk", "ipa": "/ˈkʌstəmər ˈsɜːrvɪs desk/", "meaning": "The counter in a store where customers get help or resolve issues", "translation": "quầy dịch vụ khách hàng", "example": "Go to the customer service desk to exchange your item." }
   ],
   "quiz": [
     {
@@ -435,6 +730,56 @@
     {
       "question": "What do you use to carry items while shopping?",
       "options": ["Bag", "Cart", "Basket", "Trolley"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'haggle' mean?",
+      "options": ["To complain loudly", "To negotiate the price", "To return an item", "To try on clothes"],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'counterfeit' product?",
+      "options": ["A discounted item", "A fake product made to look like the original", "A limited edition item", "A second-hand product"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'browse' mean in a store?",
+      "options": ["To buy everything", "To look at items casually", "To argue with staff", "To wait in line"],
+      "answer": 1
+    },
+    {
+      "question": "What is 'wholesale'?",
+      "options": ["Selling one item at a time", "Selling goods in large quantities at lower prices", "An online store", "A type of clearance sale"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'overpriced' mean?",
+      "options": ["Very affordable", "On sale", "Costing more than it is worth", "Free of charge"],
+      "answer": 2
+    },
+    {
+      "question": "What is a 'boutique'?",
+      "options": ["A large supermarket", "A small store selling fashionable items", "An online marketplace", "A wholesale warehouse"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'splurge' mean?",
+      "options": ["To save money carefully", "To spend a large amount on a luxury item", "To return merchandise", "To compare prices"],
+      "answer": 1
+    },
+    {
+      "question": "What is 'contactless payment'?",
+      "options": ["Paying with cash only", "Paying by tapping a card or phone", "Writing a check", "Paying in installments"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'restock' mean?",
+      "options": ["To remove items from sale", "To fill shelves with new supplies", "To close a store", "To count the money"],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'thrift store'?",
+      "options": ["A luxury brand shop", "A store selling used goods at low prices", "An electronics store", "A grocery store"],
       "answer": 1
     }
   ]

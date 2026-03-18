@@ -30,6 +30,108 @@
         { "time": "0:14", "text": "You can talk about weather, weekends, or current events." },
         { "time": "0:22", "text": "Keep it light and friendly. Avoid controversial topics." }
       ]
+    },
+    {
+      "id": "daily3",
+      "title": "Giving and Receiving Compliments",
+      "description": "How to give sincere compliments and respond naturally",
+      "youtubeId": "PLACEHOLDER_DAILY03",
+      "duration": "8:00",
+      "level": "beginner",
+      "transcript": [
+        { "time": "0:00", "text": "Welcome to today's episode — compliments in English!" },
+        { "time": "0:07", "text": "Giving a compliment: That looks great on you! You did an amazing job!" },
+        { "time": "0:15", "text": "Responding to a compliment: Thank you! That's so kind. or Oh, it's nothing really." },
+        { "time": "0:24", "text": "In British English, people often downplay compliments: Oh, I just got lucky." },
+        { "time": "0:32", "text": "In American English, responses are often more direct: Thanks, I worked really hard on it!" },
+        { "time": "0:40", "text": "Returning a compliment: Thank you! I love your outfit too!" },
+        { "time": "0:48", "text": "Practise by giving one genuine compliment to someone today." }
+      ]
+    },
+    {
+      "id": "daily4",
+      "title": "Expressing Emotions",
+      "description": "Key vocabulary for describing how you feel",
+      "youtubeId": "PLACEHOLDER_DAILY04",
+      "duration": "8:30",
+      "level": "beginner",
+      "transcript": [
+        { "time": "0:00", "text": "Hello! Today we're talking about emotions in English." },
+        { "time": "0:07", "text": "Basic emotions: happy, sad, angry, scared, surprised, disgusted." },
+        { "time": "0:15", "text": "More nuanced: anxious, overwhelmed, content, frustrated, excited, nervous." },
+        { "time": "0:24", "text": "Using them in sentences: I feel overwhelmed with work this week." },
+        { "time": "0:32", "text": "Asking about someone's feelings: Are you okay? You seem a bit down today." },
+        { "time": "0:40", "text": "Expressing strong feelings: I'm over the moon! or I'm absolutely furious!" },
+        { "time": "0:48", "text": "Building emotional vocabulary is key to authentic English communication." }
+      ]
+    },
+    {
+      "id": "daily5",
+      "title": "Agreeing and Disagreeing Politely",
+      "description": "Phrases for expressing agreement and polite disagreement",
+      "youtubeId": "PLACEHOLDER_DAILY05",
+      "duration": "9:15",
+      "level": "intermediate",
+      "transcript": [
+        { "time": "0:00", "text": "Today's episode: how to agree and disagree politely in English." },
+        { "time": "0:08", "text": "Strong agreement: Absolutely! I couldn't agree more. Exactly right." },
+        { "time": "0:17", "text": "Partial agreement: That's a fair point, but... I see what you mean, however..." },
+        { "time": "0:26", "text": "Polite disagreement: I'm afraid I don't quite agree. With respect, I think..." },
+        { "time": "0:35", "text": "Avoid blunt disagreement: Not saying 'No, you're wrong' — soften it instead." },
+        { "time": "0:44", "text": "Asking for opinions: What do you think? Do you agree? How do you feel about that?" },
+        { "time": "0:52", "text": "Master these phrases for confident, professional discussions in any setting." }
+      ]
+    },
+    {
+      "id": "daily6",
+      "title": "Describing Your Job",
+      "description": "How to talk about your work and career in English",
+      "youtubeId": "PLACEHOLDER_DAILY06",
+      "duration": "10:00",
+      "level": "intermediate",
+      "transcript": [
+        { "time": "0:00", "text": "Welcome! Today you'll learn how to describe your job in English." },
+        { "time": "0:07", "text": "Start with: I work as a... or My job title is... or I work in the..." },
+        { "time": "0:16", "text": "Describe your responsibilities: I'm responsible for... My role involves..." },
+        { "time": "0:25", "text": "Talk about your workplace: I work for a tech company. I'm based in the city centre." },
+        { "time": "0:34", "text": "Mention your team: I work in a team of ten. I report to the marketing director." },
+        { "time": "0:43", "text": "Discuss what you enjoy: The best part of my job is... I find it rewarding because..." },
+        { "time": "0:52", "text": "Great! Now you can describe your career confidently to anyone." }
+      ]
+    },
+    {
+      "id": "daily7",
+      "title": "Making Requests Politely",
+      "description": "Learn polite ways to ask for things in English",
+      "youtubeId": "PLACEHOLDER_DAILY07",
+      "duration": "8:45",
+      "level": "beginner",
+      "transcript": [
+        { "time": "0:00", "text": "Good morning! Today we focus on making polite requests." },
+        { "time": "0:07", "text": "Formal requests: Could you please...? Would you mind...? I would appreciate it if..." },
+        { "time": "0:16", "text": "Informal requests: Can you...? Could you...? Would you...?" },
+        { "time": "0:24", "text": "In shops: Could I have a coffee, please? I'd like two tickets to London." },
+        { "time": "0:33", "text": "At work: Could you send me the report by Friday? Would you mind reviewing this?" },
+        { "time": "0:42", "text": "Adding please makes any request more polite in English." },
+        { "time": "0:50", "text": "Practice forming requests in your daily conversations today!" }
+      ]
+    },
+    {
+      "id": "daily8",
+      "title": "Talking About the Weekend",
+      "description": "Common phrases and vocabulary for weekend conversations",
+      "youtubeId": "PLACEHOLDER_DAILY08",
+      "duration": "9:00",
+      "level": "beginner",
+      "transcript": [
+        { "time": "0:00", "text": "Hello everyone! Today we practise talking about the weekend." },
+        { "time": "0:07", "text": "Ask: How was your weekend? Did you do anything fun?" },
+        { "time": "0:15", "text": "Responses: I had a great time! I went to the cinema. I stayed at home and relaxed." },
+        { "time": "0:24", "text": "Describing activities: I went hiking. I caught up with old friends. I cooked a new recipe." },
+        { "time": "0:33", "text": "Expressing how you felt: It was exhausting but worth it. I really needed that break." },
+        { "time": "0:42", "text": "Plans for next weekend: I'm thinking of... I'm not sure yet. Probably just relax." },
+        { "time": "0:50", "text": "Talking about your weekend is perfect for practising past tense in English!" }
+      ]
     }
   ]
 }

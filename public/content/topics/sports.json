@@ -354,13 +354,326 @@
       "example": "The team held a two-week training camp."
     },
     {
-      "word": "tournament",
-      "ipa": "/ˈtʊənəmənt/",
-      "meaning": "A series of contests to determine a champion",
-      "translation": "Giải đấu",
-      "example": "The team qualified for the national tournament.",
-      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=400&q=80"
-    }
+      "word": "dribble",
+      "ipa": "/ˈdrɪbəl/",
+      "meaning": "To move a ball forward with repeated small kicks or bounces",
+      "translation": "rê bóng",
+      "example": "He dribbled past three defenders before scoring."
+    },
+    {
+      "word": "header",
+      "ipa": "/ˈhedər/",
+      "meaning": "Hitting the ball with the head in football",
+      "translation": "đánh đầu",
+      "example": "She scored a brilliant header from the corner kick."
+    },
+    {
+      "word": "volley",
+      "ipa": "/ˈvɒli/",
+      "meaning": "Striking the ball before it bounces on the ground",
+      "translation": "đánh bóng khi chưa chạm đất",
+      "example": "He hit a powerful volley into the top corner."
+    },
+    {
+      "word": "crossbar",
+      "ipa": "/ˈkrɒsbɑːr/",
+      "meaning": "The horizontal bar connecting the two goalposts",
+      "translation": "xà ngang",
+      "example": "The shot rattled the crossbar and bounced away."
+    },
+    {
+      "word": "shutout",
+      "ipa": "/ˈʃʌtaʊt/",
+      "meaning": "A game in which one team prevents the other from scoring",
+      "translation": "trận giữ sạch lưới",
+      "example": "The goalkeeper recorded her fifth shutout of the season."
+    },
+    {
+      "word": "relay",
+      "ipa": "/ˈriːleɪ/",
+      "meaning": "A race in which team members take turns running stages",
+      "translation": "chạy tiếp sức",
+      "example": "They won gold in the 4x100 meter relay."
+    },
+    {
+      "word": "hurdle",
+      "ipa": "/ˈhɜːrdəl/",
+      "meaning": "A barrier that runners must jump over in a race",
+      "translation": "rào chắn, chạy vượt rào",
+      "example": "She cleared every hurdle with perfect technique."
+    },
+    {
+      "word": "javelin",
+      "ipa": "/ˈdʒævəlɪn/",
+      "meaning": "A light spear thrown in an athletic competition",
+      "translation": "lao, môn phóng lao",
+      "example": "He set a personal best in the javelin throw."
+    },
+    {
+      "word": "gymnasium",
+      "ipa": "/dʒɪmˈneɪziəm/",
+      "meaning": "A large room or building equipped for indoor sports",
+      "translation": "phòng tập thể dục",
+      "example": "The school gymnasium hosts basketball games."
+    },
+    {
+      "word": "amateur",
+      "ipa": "/ˈæmətər/",
+      "meaning": "A person who does a sport without being paid",
+      "translation": "nghiệp dư",
+      "example": "She competed as an amateur before turning professional."
+    },
+    {
+      "word": "rookie",
+      "ipa": "/ˈrʊki/",
+      "meaning": "A player in their first season of a professional sport",
+      "translation": "tân binh, cầu thủ mùa đầu",
+      "example": "The rookie impressed everyone with her debut performance."
+    },
+    {
+      "word": "draft",
+      "ipa": "/drɑːft/",
+      "meaning": "A system for selecting new players for professional teams",
+      "translation": "tuyển chọn cầu thủ",
+      "example": "He was the first pick in the NBA draft."
+    },
+    {
+      "word": "season",
+      "ipa": "/ˈsiːzən/",
+      "meaning": "The period during which a sport's matches are played",
+      "translation": "mùa giải",
+      "example": "The football season runs from August to May."
+    },
+    {
+      "word": "playoff",
+      "ipa": "/ˈpleɪɒf/",
+      "meaning": "A series of games played to decide a championship",
+      "translation": "vòng playoff, trận tranh hạng",
+      "example": "They advanced to the playoffs for the first time."
+    },
+    {
+      "word": "scoreboard",
+      "ipa": "/ˈskɔːrbɔːrd/",
+      "meaning": "A board that displays the score during a game",
+      "translation": "bảng tỉ số",
+      "example": "All eyes were on the scoreboard in the final seconds."
+    },
+    {
+      "word": "umpire",
+      "ipa": "/ˈʌmpaɪər/",
+      "meaning": "An official who watches a game and enforces rules in cricket, baseball, or tennis",
+      "translation": "trọng tài (cricket, bóng chày, quần vợt)",
+      "example": "The umpire called it out on the baseline."
+    },
+    {
+      "word": "formation",
+      "ipa": "/fɔːˈmeɪʃən/",
+      "meaning": "The arrangement of players on the field",
+      "translation": "đội hình",
+      "example": "The team played in a 4-3-3 formation."
+    },
+    {
+      "word": "assist",
+      "ipa": "/əˈsɪst/",
+      "meaning": "A pass that directly leads to a teammate scoring",
+      "translation": "đường kiến tạo",
+      "example": "She had two goals and three assists this season."
+    },
+    {
+      "word": "rebound",
+      "ipa": "/ˈriːbaʊnd/",
+      "meaning": "Gaining possession of the ball after a missed shot",
+      "translation": "bắt bóng bật lại",
+      "example": "He grabbed the rebound and scored immediately."
+    },
+    {
+      "word": "inning",
+      "ipa": "/ˈɪnɪŋ/",
+      "meaning": "A division of a baseball game during which each team bats",
+      "translation": "hiệp đánh bóng (bóng chày)",
+      "example": "They took the lead in the seventh inning."
+    },
+    {
+      "word": "serve",
+      "ipa": "/sɜːrv/",
+      "meaning": "The act of hitting the ball to start play in tennis or volleyball",
+      "translation": "giao bóng, phát bóng",
+      "example": "Her serve was clocked at 200 km/h."
+    },
+    {
+      "word": "set piece",
+      "ipa": "/set piːs/",
+      "meaning": "A planned move from a dead-ball situation such as a free kick",
+      "translation": "tình huống cố định",
+      "example": "They scored from a well-rehearsed set piece."
+    },
+    {
+      "word": "time-out",
+      "ipa": "/ˈtaɪm aʊt/",
+      "meaning": "A brief stoppage requested by a team for rest or strategy",
+      "translation": "thời gian tạm nghỉ",
+      "example": "The coach called a time-out to change tactics."
+    },
+    {
+      "word": "clinch",
+      "ipa": "/klɪntʃ/",
+      "meaning": "To secure a win or qualification decisively",
+      "translation": "giành được chắc chắn",
+      "example": "A victory tonight would clinch the title."
+    },
+    {
+      "word": "exhibition match",
+      "ipa": "/ˌeksɪˈbɪʃən mætʃ/",
+      "meaning": "A game played for show rather than as part of a competition",
+      "translation": "trận đấu giao hữu, trình diễn",
+      "example": "The two legends played an exhibition match for charity."
+    },
+    {
+      "word": "offseason",
+      "ipa": "/ˈɒfsiːzən/",
+      "meaning": "The period when no official games are played",
+      "translation": "thời gian nghỉ giữa mùa giải",
+      "example": "Players often rest and recover during the offseason."
+    },
+    {
+      "word": "stamina",
+      "ipa": "/ˈstæmɪnə/",
+      "meaning": "The ability to sustain physical effort for a long time",
+      "translation": "sức bền",
+      "example": "Long-distance runners need incredible stamina."
+    },
+    {
+      "word": "penalty shootout",
+      "ipa": "/ˈpenəlti ˈʃuːtaʊt/",
+      "meaning": "A method of deciding a tied game by each team taking penalty kicks",
+      "translation": "loạt đá luân lưu",
+      "example": "The final was decided in a dramatic penalty shootout."
+    },
+    {
+      "word": "relegation",
+      "ipa": "/ˌrelɪˈɡeɪʃən/",
+      "meaning": "The demotion of a team to a lower division",
+      "translation": "xuống hạng",
+      "example": "The team fought hard to avoid relegation."
+    },
+    {
+      "word": "promotion",
+      "ipa": "/prəˈməʊʃən/",
+      "meaning": "The advancement of a team to a higher division",
+      "translation": "thăng hạng",
+      "example": "They celebrated promotion to the top league."
+    },
+    {
+      "word": "medal",
+      "ipa": "/ˈmedəl/",
+      "meaning": "A flat piece of metal given as an award for achievement",
+      "translation": "huy chương",
+      "example": "She won a gold medal at the Olympics."
+    },
+    {
+      "word": "handicap",
+      "ipa": "/ˈhændɪkæp/",
+      "meaning": "An advantage given to a weaker competitor to equalize chances",
+      "translation": "điểm chấp",
+      "example": "In golf, a handicap allows players of different levels to compete."
+    },
+    {
+      "word": "bout",
+      "ipa": "/baʊt/",
+      "meaning": "A boxing or wrestling match",
+      "translation": "trận đấu (quyền anh, đấu vật)",
+      "example": "The heavyweight bout attracted millions of viewers."
+    },
+    {
+      "word": "gymnasium",
+      "ipa": "/dʒɪmˈneɪziəm/",
+      "meaning": "A large room or building equipped for sports and exercise",
+      "translation": "phòng tập thể dục",
+      "example": "The school gymnasium was packed for the basketball final."
+    },
+    {
+      "word": "sideline",
+      "ipa": "/ˈsaɪdlaɪn/",
+      "meaning": "The boundary line along the side of a playing field",
+      "translation": "đường biên",
+      "example": "The coach shouted instructions from the sideline."
+    },
+    {
+      "word": "physique",
+      "ipa": "/fɪˈziːk/",
+      "meaning": "The form and size of a person's body",
+      "translation": "thể hình, vóc dáng",
+      "example": "Swimmers typically have a lean, muscular physique."
+    },
+    {
+      "word": "dexterity",
+      "ipa": "/dekˈsterɪti/",
+      "meaning": "Skill and grace in physical movement, especially with the hands",
+      "translation": "sự khéo léo",
+      "example": "Table tennis requires exceptional hand dexterity."
+    },
+    {
+      "word": "morale",
+      "ipa": "/məˈrɑːl/",
+      "meaning": "The confidence and enthusiasm of a team or player",
+      "translation": "tinh thần, nhuệ khí",
+      "example": "The early goal boosted the team's morale."
+    },
+    {
+      "word": "contender",
+      "ipa": "/kənˈtendər/",
+      "meaning": "A person or team competing seriously for a title",
+      "translation": "ứng cử viên, đối thủ nặng ký",
+      "example": "They are a strong contender for the championship this year."
+    },
+    {
+      "word": "sportscast",
+      "ipa": "/ˈspɔːrtskɑːst/",
+      "meaning": "A broadcast of sports news or a live game",
+      "translation": "chương trình thể thao truyền hình",
+      "example": "Millions tuned in to watch the sportscast of the final."
+    },
+    {
+      "word": "venue",
+      "ipa": "/ˈvenjuː/",
+      "meaning": "The place where a sporting event is held",
+      "translation": "địa điểm thi đấu",
+      "example": "The Olympic venue can seat 80,000 spectators."
+    },
+    {
+      "word": "fencing",
+      "ipa": "/ˈfensɪŋ/",
+      "meaning": "A sport in which two competitors fight with swords",
+      "translation": "môn đấu kiếm",
+      "example": "Fencing requires quick reflexes and precise footwork."
+    },
+    {
+      "word": "archery",
+      "ipa": "/ˈɑːrtʃəri/",
+      "meaning": "The sport of shooting arrows at a target using a bow",
+      "translation": "môn bắn cung",
+      "example": "She took up archery at the age of twelve."
+    },
+    {
+      "word": "triathlon",
+      "ipa": "/traɪˈæθlɒn/",
+      "meaning": "An athletic contest of swimming, cycling, and running",
+      "translation": "môn ba môn phối hợp",
+      "example": "Completing a triathlon requires months of training."
+    },
+    {
+      "word": "decathlon",
+      "ipa": "/dɪˈkæθlɒn/",
+      "meaning": "An athletic contest consisting of ten track-and-field events",
+      "translation": "môn mười môn phối hợp",
+      "example": "The decathlon winner is often called the world's greatest athlete."
+    },
+    { "word": "play-off", "ipa": "/ˈpleɪɒf/", "meaning": "A game or series to decide a championship or break a tie", "translation": "trận đấu tranh hạng / vòng loại", "example": "The team reached the national play-offs for the first time." },
+    { "word": "clean sheet", "ipa": "/kliːn ʃiːt/", "meaning": "A match where a team's goalkeeper concedes no goals", "translation": "giữ sạch lưới", "example": "The goalkeeper kept a clean sheet in four consecutive matches." },
+    { "word": "hat-trick", "ipa": "/ˈhæt trɪk/", "meaning": "Scoring three goals in a single match", "translation": "hat-trick ba bàn thắng", "example": "He scored a hat-trick in his debut match." },
+    { "word": "brace", "ipa": "/breɪs/", "meaning": "Scoring two goals in one match", "translation": "ghi hai bàn trong một trận", "example": "She scored a brace to lead her team to victory." },
+    { "word": "stoppage time", "ipa": "/ˈstɒpɪdʒ taɪm/", "meaning": "Extra minutes added at the end of each half to compensate for delays", "translation": "thời gian bù giờ", "example": "They scored the winner in stoppage time." },
+    { "word": "golden goal", "ipa": "/ˈɡəʊldən ɡəʊl/", "meaning": "A goal in extra time that immediately ends the match", "translation": "bàn thắng vàng", "example": "France won the Euro 2000 final with a golden goal." }
   ],
   "quiz": [
     {
@@ -460,6 +773,56 @@
         "A competitor expected to lose",
         "A new team member",
         "The match referee"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'rookie'?",
+      "options": [
+        "A retired player",
+        "A player in their first professional season",
+        "A team manager",
+        "An experienced veteran"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'relegation' mean?",
+      "options": [
+        "Winning a championship",
+        "The demotion of a team to a lower division",
+        "Signing a new player",
+        "Hosting an event"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is an 'assist' in sports?",
+      "options": [
+        "A defensive block",
+        "A pass that directly leads to a teammate scoring",
+        "A type of foul",
+        "A warm-up exercise"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'penalty shootout'?",
+      "options": [
+        "A training drill",
+        "A method of deciding a tied game by taking penalty kicks",
+        "A disciplinary hearing",
+        "A half-time show"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'triathlon'?",
+      "options": [
+        "A three-day sports festival",
+        "An athletic contest of swimming, cycling, and running",
+        "A team of three players",
+        "Three rounds of boxing"
       ],
       "answer": 1
     }

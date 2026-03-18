@@ -54,6 +54,74 @@
         { "speaker": "HR Manager", "text": "Excellent! I'll send the updated offer letter by tomorrow morning. Welcome aboard — we're thrilled to have you joining the team." },
         { "speaker": "Candidate", "text": "Thank you so much. I look forward to contributing from day one." }
       ]
+    },
+    {
+      "id": "partnership-proposal",
+      "title": "Proposing a Business Partnership",
+      "speakers": ["Startup Founder", "Investor"],
+      "lines": [
+        { "speaker": "Startup Founder", "text": "Thank you for meeting with me today, Ms. Nakamura. I'm excited to discuss how a strategic partnership could benefit both our organizations." },
+        { "speaker": "Investor", "text": "I've read your proposal with interest. Your platform has impressive user growth. Tell me more about what you're looking for in a partner." },
+        { "speaker": "Startup Founder", "text": "We've grown to 50,000 active users organically, but to reach the next level, we need distribution. Your company has an established network of 200 enterprise clients that would be an ideal audience for our product." },
+        { "speaker": "Investor", "text": "What's in it for us? Our clients already have existing solutions in place." },
+        { "speaker": "Startup Founder", "text": "Our analytics show that companies using our tool alongside traditional solutions see a 35% improvement in team productivity. We'd offer your clients an exclusive discount and your company a 15% revenue share on all enterprise subscriptions we generate through your network." },
+        { "speaker": "Investor", "text": "15% is a starting point, but given the value of our network and brand credibility, we'd need at least 20%." },
+        { "speaker": "Startup Founder", "text": "I can do 18% with a performance bonus that brings it to 22% if we exceed a hundred enterprise sign-ups in the first year." },
+        { "speaker": "Investor", "text": "That's creative. I appreciate the performance incentive. What about exclusivity? Would we be your only distribution partner in this market?" },
+        { "speaker": "Startup Founder", "text": "I can offer six-month exclusivity in the Asia-Pacific market. After that, we'd revisit based on results. Full global exclusivity wouldn't be feasible at this stage." },
+        { "speaker": "Investor", "text": "Six months is short. Could we extend to twelve months for Asia-Pacific and add first right of refusal for Europe?" },
+        { "speaker": "Startup Founder", "text": "Twelve months for Asia-Pacific is acceptable. For Europe, I can offer a ninety-day first right of refusal window before we approach other partners." },
+        { "speaker": "Investor", "text": "I think we're getting close. What does the integration look like technically?" },
+        { "speaker": "Startup Founder", "text": "We have a plug-and-play API. Most clients can integrate within two weeks. We'd provide dedicated technical support for your client base at no extra cost during the first year." },
+        { "speaker": "Investor", "text": "That's reassuring. I'll take this to our board next Thursday. Can you send me the revised proposal with these terms by Monday?" },
+        { "speaker": "Startup Founder", "text": "Absolutely. I'll have the updated proposal in your inbox by Monday morning." }
+      ]
+    },
+    {
+      "id": "supplier-pricing",
+      "title": "Negotiating with a Supplier",
+      "speakers": ["Buyer", "Supplier"],
+      "lines": [
+        { "speaker": "Buyer", "text": "Thank you for taking my call. We've been a loyal customer for three years now, and I'd like to discuss our pricing for the upcoming year." },
+        { "speaker": "Supplier", "text": "Of course, Mr. Garcia. We value your business. What's on your mind?" },
+        { "speaker": "Buyer", "text": "We're planning to increase our order volume by about 40% next year. Naturally, we'd expect a volume discount to reflect that growth." },
+        { "speaker": "Supplier", "text": "A 40% increase is significant and we'd welcome the additional business. Currently, you're at our standard pricing of $12.50 per unit. For that volume, I could offer $11.75 per unit." },
+        { "speaker": "Buyer", "text": "I appreciate the gesture, but that's only a 6% reduction for a 40% increase in volume. I was expecting something closer to $10.50 per unit." },
+        { "speaker": "Supplier", "text": "I understand your position, but our raw material costs have increased by 8% this year. $10.50 would be below our margin threshold." },
+        { "speaker": "Buyer", "text": "I hear you on the cost pressures. What if we committed to a minimum order quantity per quarter? That would give you predictable demand and reduce your inventory risk." },
+        { "speaker": "Supplier", "text": "A quarterly commitment would help our planning considerably. If you guarantee minimum orders of 5,000 units per quarter, I could bring the price down to $11.00 per unit." },
+        { "speaker": "Buyer", "text": "That's more reasonable. One additional request — we've been experiencing some quality inconsistencies in recent shipments. Three of our last ten deliveries had defect rates above 2%." },
+        { "speaker": "Supplier", "text": "I apologize for that. I'll speak with our quality control team immediately. Would a written quality guarantee with penalty clauses address your concern?" },
+        { "speaker": "Buyer", "text": "Yes. I'd want a maximum defect rate of 1% with replacement at no cost for any batch exceeding that threshold." },
+        { "speaker": "Supplier", "text": "That's fair. We'll include a quality guarantee in the contract. Can we also discuss payment terms? Currently you're on net-30." },
+        { "speaker": "Buyer", "text": "We'd prefer to move to net-45 given the larger order sizes." },
+        { "speaker": "Supplier", "text": "I can offer net-45 if you agree to electronic payments rather than checks. That speeds up our processing." },
+        { "speaker": "Buyer", "text": "That works for us. So we're looking at $11.00 per unit, minimum 5,000 units per quarter, net-45 with electronic payment, and a 1% defect guarantee. Do we have a deal?" },
+        { "speaker": "Supplier", "text": "We have a deal. I'll send the updated contract by end of week. Thank you for your continued partnership, Mr. Garcia." }
+      ]
+    },
+    {
+      "id": "lease-negotiation",
+      "title": "Negotiating an Office Lease",
+      "speakers": ["Tenant", "Landlord"],
+      "lines": [
+        { "speaker": "Tenant", "text": "Good afternoon. I'm interested in the office space on the fourth floor. I understand it's listed at $45 per square foot annually?" },
+        { "speaker": "Landlord", "text": "That's correct. It's 3,000 square feet of modern office space with great natural light and access to shared meeting rooms." },
+        { "speaker": "Tenant", "text": "The space is ideal for our needs. However, we're a growing startup with twelve employees and we're conscious of costs. Is there room to negotiate on the rate?" },
+        { "speaker": "Landlord", "text": "What lease term are you considering? Longer commitments give us more flexibility on pricing." },
+        { "speaker": "Tenant", "text": "We're thinking three years. We need stability, but we also want the option to expand if our team grows." },
+        { "speaker": "Landlord", "text": "For a three-year lease, I can bring the rate down to $42 per square foot. That brings your annual rent to $126,000, or $10,500 per month." },
+        { "speaker": "Tenant", "text": "We were hoping for closer to $38 per square foot. There are comparable spaces in this neighborhood at that rate." },
+        { "speaker": "Landlord", "text": "Those spaces don't include the amenities we offer — 24-hour access, on-site parking, and building security. But I'll tell you what — I can offer $40 per square foot if you agree to a three-year term with the first month rent-free as a move-in incentive." },
+        { "speaker": "Tenant", "text": "The rent-free month is attractive. What about tenant improvements? The space would need some modifications for our open-plan office layout." },
+        { "speaker": "Landlord", "text": "We provide a tenant improvement allowance of $15 per square foot for leases over two years. That's $45,000 toward your buildout." },
+        { "speaker": "Tenant", "text": "Our buildout estimate is closer to $60,000. Could you increase the allowance to $20 per square foot?" },
+        { "speaker": "Landlord", "text": "I can go to $18 per square foot, which gives you $54,000. The remaining $6,000 would be your responsibility." },
+        { "speaker": "Tenant", "text": "That's workable. One last point — we'd like a right of first refusal on the adjacent suite in case we need to expand." },
+        { "speaker": "Landlord", "text": "I can include that in the lease. If the adjacent space becomes available, you'll have 30 days to decide before we market it to other tenants." },
+        { "speaker": "Tenant", "text": "Excellent. I'll have my lawyer review the terms and we should be ready to sign within two weeks." },
+        { "speaker": "Landlord", "text": "Wonderful. I'll have the lease agreement drafted and sent to your attorney by Friday." }
+      ]
     }
   ]
 }

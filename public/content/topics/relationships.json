@@ -354,13 +354,326 @@
       "example": "He suffered from unrequited love for years."
     },
     {
-      "word": "compromise",
-      "ipa": "/ˈkɒmprəmaɪz/",
-      "meaning": "An agreement reached by both sides making concessions",
-      "translation": "Sự thỏa hiệp",
-      "example": "Good relationships require compromise.",
-      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=80"
-    }
+      "word": "compassion",
+      "ipa": "/kəmˈpæʃən/",
+      "meaning": "Sympathetic concern for the sufferings of others",
+      "translation": "lòng trắc ẩn, sự thương cảm",
+      "example": "She treated everyone with compassion and kindness."
+    },
+    {
+      "word": "resentment",
+      "ipa": "/rɪˈzentmənt/",
+      "meaning": "Bitter anger caused by feeling unfairly treated",
+      "translation": "sự oán giận, bực tức",
+      "example": "Unresolved issues can lead to deep resentment."
+    },
+    {
+      "word": "gratitude",
+      "ipa": "/ˈɡrætɪtjuːd/",
+      "meaning": "The quality of being thankful and appreciative",
+      "translation": "lòng biết ơn",
+      "example": "She expressed her gratitude for his constant support."
+    },
+    {
+      "word": "fidelity",
+      "ipa": "/fɪˈdelɪti/",
+      "meaning": "Faithfulness to a partner in a relationship",
+      "translation": "sự chung thủy",
+      "example": "Fidelity is considered essential in most marriages."
+    },
+    {
+      "word": "betray",
+      "ipa": "/bɪˈtreɪ/",
+      "meaning": "To be disloyal to someone who trusts you",
+      "translation": "phản bội",
+      "example": "She felt betrayed when she discovered the lie."
+    },
+    {
+      "word": "confide",
+      "ipa": "/kənˈfaɪd/",
+      "meaning": "To tell someone about a secret or private matter in trust",
+      "translation": "tâm sự, giãi bày",
+      "example": "She confided in her best friend about her worries."
+    },
+    {
+      "word": "bond",
+      "ipa": "/bɒnd/",
+      "meaning": "A strong connection between people",
+      "translation": "sợi dây kết nối",
+      "example": "The shared experience created a strong bond between them."
+    },
+    {
+      "word": "mentor",
+      "ipa": "/ˈmentɔːr/",
+      "meaning": "An experienced person who advises and guides someone younger",
+      "translation": "người cố vấn, người hướng dẫn",
+      "example": "Her mentor helped her navigate the challenges of her career."
+    },
+    {
+      "word": "rivalry",
+      "ipa": "/ˈraɪvəlri/",
+      "meaning": "Competition between people for the same thing",
+      "translation": "sự cạnh tranh, ganh đua",
+      "example": "Sibling rivalry is common in large families."
+    },
+    {
+      "word": "rapport",
+      "ipa": "/ræˈpɔːr/",
+      "meaning": "A close and harmonious relationship with good understanding",
+      "translation": "mối quan hệ hòa hợp, gần gũi",
+      "example": "The teacher quickly built a rapport with her students."
+    },
+    {
+      "word": "esteem",
+      "ipa": "/ɪˈstiːm/",
+      "meaning": "Respect and admiration for someone",
+      "translation": "sự kính trọng, quý mến",
+      "example": "He held his grandmother in high esteem."
+    },
+    {
+      "word": "neglect",
+      "ipa": "/nɪˈɡlekt/",
+      "meaning": "To fail to give proper attention or care to someone",
+      "translation": "bỏ bê, sao nhãng",
+      "example": "Neglecting a friendship can cause it to fade."
+    },
+    {
+      "word": "codependent",
+      "ipa": "/ˌkəʊdɪˈpendənt/",
+      "meaning": "Excessively relying on a partner for emotional needs",
+      "translation": "phụ thuộc lẫn nhau quá mức",
+      "example": "A codependent relationship can be unhealthy for both people."
+    },
+    {
+      "word": "toxic",
+      "ipa": "/ˈtɒksɪk/",
+      "meaning": "Harmful and destructive to one's wellbeing",
+      "translation": "độc hại (về mối quan hệ)",
+      "example": "She ended the toxic relationship for her own health."
+    },
+    {
+      "word": "rekindle",
+      "ipa": "/riːˈkɪndəl/",
+      "meaning": "To revive or renew a relationship or feeling",
+      "translation": "thắp lại, hâm nóng lại",
+      "example": "They rekindled their romance after meeting again."
+    },
+    {
+      "word": "elope",
+      "ipa": "/ɪˈləʊp/",
+      "meaning": "To run away secretly to get married",
+      "translation": "bỏ trốn đi kết hôn",
+      "example": "They eloped to Las Vegas without telling anyone."
+    },
+    {
+      "word": "courteous",
+      "ipa": "/ˈkɜːrtiəs/",
+      "meaning": "Polite, respectful, and considerate toward others",
+      "translation": "lịch sự, nhã nhặn",
+      "example": "He was always courteous to everyone he met."
+    },
+    {
+      "word": "amicable",
+      "ipa": "/ˈæmɪkəbəl/",
+      "meaning": "Friendly and without disagreement",
+      "translation": "thân thiện, hòa nhã",
+      "example": "They had an amicable divorce with no bitterness."
+    },
+    {
+      "word": "consolation",
+      "ipa": "/ˌkɒnsəˈleɪʃən/",
+      "meaning": "Comfort received after a loss or disappointment",
+      "translation": "sự an ủi",
+      "example": "Her words were a great consolation during his grief."
+    },
+    {
+      "word": "tender",
+      "ipa": "/ˈtendər/",
+      "meaning": "Showing gentleness and concern for someone",
+      "translation": "dịu dàng, trìu mến",
+      "example": "He gave her a tender look that expressed his love."
+    },
+    {
+      "word": "spouse",
+      "ipa": "/spaʊs/",
+      "meaning": "A husband or wife",
+      "translation": "vợ hoặc chồng",
+      "example": "You may bring your spouse to the company event."
+    },
+    {
+      "word": "fiancé",
+      "ipa": "/fiˈɒnseɪ/",
+      "meaning": "A man who is engaged to be married",
+      "translation": "chồng chưa cưới, vị hôn phu",
+      "example": "She introduced her fiancé to her parents."
+    },
+    {
+      "word": "in-laws",
+      "ipa": "/ˈɪn lɔːz/",
+      "meaning": "Relatives by marriage",
+      "translation": "họ hàng bên chồng/vợ",
+      "example": "She gets along well with her in-laws."
+    },
+    {
+      "word": "custody",
+      "ipa": "/ˈkʌstədi/",
+      "meaning": "The legal right to care for a child after divorce",
+      "translation": "quyền nuôi con",
+      "example": "They agreed to share custody of their children."
+    },
+    {
+      "word": "anniversary",
+      "ipa": "/ˌænɪˈvɜːrsəri/",
+      "meaning": "The yearly return of the date of a special event, especially a wedding",
+      "translation": "ngày kỷ niệm",
+      "example": "They celebrated their 25th wedding anniversary."
+    },
+    {
+      "word": "flirt",
+      "ipa": "/flɜːrt/",
+      "meaning": "To behave in a playfully romantic way toward someone",
+      "translation": "tán tỉnh",
+      "example": "He always flirts with her at parties."
+    },
+    {
+      "word": "crush",
+      "ipa": "/krʌʃ/",
+      "meaning": "An informal term for an intense but brief romantic attraction",
+      "translation": "tình cảm mê thầm",
+      "example": "She had a crush on her classmate for months."
+    },
+    {
+      "word": "blind date",
+      "ipa": "/blaɪnd deɪt/",
+      "meaning": "A social meeting arranged for two people who have not met before",
+      "translation": "buổi hẹn hò với người chưa gặp",
+      "example": "Her friend set her up on a blind date."
+    },
+    {
+      "word": "vow",
+      "ipa": "/vaʊ/",
+      "meaning": "A solemn promise, especially in a wedding ceremony",
+      "translation": "lời thề, lời hứa",
+      "example": "They exchanged vows in front of their families."
+    },
+    {
+      "word": "kinship",
+      "ipa": "/ˈkɪnʃɪp/",
+      "meaning": "A family relationship or a feeling of being closely connected",
+      "translation": "quan hệ họ hàng, sự thân thuộc",
+      "example": "She felt a deep kinship with her colleagues."
+    },
+    {
+      "word": "offspring",
+      "ipa": "/ˈɒfsprɪŋ/",
+      "meaning": "A person's children or an animal's young",
+      "translation": "con cái, thế hệ sau",
+      "example": "Many species protect their offspring fiercely."
+    },
+    {
+      "word": "camaraderie",
+      "ipa": "/ˌkæməˈrɑːdəri/",
+      "meaning": "Mutual trust and friendship among people who spend time together",
+      "translation": "tình đồng đội, đồng chí",
+      "example": "There was a strong sense of camaraderie in the team."
+    },
+    {
+      "word": "nostalgia",
+      "ipa": "/nɒˈstældʒə/",
+      "meaning": "Sentimental longing for the past, especially happy times",
+      "translation": "nỗi nhớ quá khứ, hoài niệm",
+      "example": "Looking at old photos filled her with nostalgia."
+    },
+    {
+      "word": "unconditional",
+      "ipa": "/ˌʌnkənˈdɪʃənəl/",
+      "meaning": "Without any conditions or limitations",
+      "translation": "vô điều kiện",
+      "example": "A parent's love for their child is often unconditional."
+    },
+    {
+      "word": "dependable",
+      "ipa": "/dɪˈpendəbəl/",
+      "meaning": "Trustworthy and reliable",
+      "translation": "đáng tin cậy",
+      "example": "She is a dependable friend who is always there for you."
+    },
+    {
+      "word": "bicker",
+      "ipa": "/ˈbɪkər/",
+      "meaning": "To argue about unimportant things",
+      "translation": "cãi vặt",
+      "example": "The couple often bickers about household chores."
+    },
+    {
+      "word": "affinity",
+      "ipa": "/əˈfɪnɪti/",
+      "meaning": "A natural liking or connection with someone",
+      "translation": "sự gần gũi, đồng cảm tự nhiên",
+      "example": "She felt an immediate affinity with her new neighbor."
+    },
+    {
+      "word": "adoration",
+      "ipa": "/ˌædəˈreɪʃən/",
+      "meaning": "Deep love and respect",
+      "translation": "sự ngưỡng mộ sâu sắc, tôn sùng",
+      "example": "The look of adoration on his face was unmistakable."
+    },
+    {
+      "word": "alienate",
+      "ipa": "/ˈeɪliəneɪt/",
+      "meaning": "To cause someone to feel isolated or distant",
+      "translation": "làm xa lánh, cô lập",
+      "example": "His behavior alienated many of his friends."
+    },
+    {
+      "word": "animosity",
+      "ipa": "/ˌænɪˈmɒsɪti/",
+      "meaning": "Strong hostility or ill will toward someone",
+      "translation": "sự thù hằn, ác cảm",
+      "example": "There was no animosity between them after the argument."
+    },
+    {
+      "word": "endearment",
+      "ipa": "/ɪnˈdɪərmənt/",
+      "meaning": "A word or phrase expressing affection",
+      "translation": "lời nói âu yếm",
+      "example": "'Honey' and 'darling' are common terms of endearment."
+    },
+    {
+      "word": "inseparable",
+      "ipa": "/ɪnˈsepərəbəl/",
+      "meaning": "Unable to be separated; always together",
+      "translation": "không thể tách rời",
+      "example": "The two friends have been inseparable since childhood."
+    },
+    {
+      "word": "matchmaker",
+      "ipa": "/ˈmætʃmeɪkər/",
+      "meaning": "A person who arranges relationships between others",
+      "translation": "người mai mối",
+      "example": "Her aunt loves playing matchmaker for the family."
+    },
+    {
+      "word": "platitude",
+      "ipa": "/ˈplætɪtjuːd/",
+      "meaning": "A remark that has been used too often to be interesting or meaningful",
+      "translation": "lời nói sáo rỗng",
+      "example": "Saying 'time heals all wounds' felt like a platitude."
+    },
+    {
+      "word": "reciprocate",
+      "ipa": "/rɪˈsɪprəkeɪt/",
+      "meaning": "To respond to a gesture or action by making a similar one in return",
+      "translation": "đáp lại, đền đáp",
+      "example": "He hoped she would reciprocate his feelings."
+    },
+    { "word": "platonic", "ipa": "/pləˈtɒnɪk/", "meaning": "A close relationship that is not romantic or sexual", "translation": "tình bạn thuần túy, phi lãng mạn", "example": "They have a platonic friendship despite being very close." },
+    { "word": "unrequited love", "ipa": "/ˌʌnrɪˈkwaɪtɪd lʌv/", "meaning": "Love that is not returned by the other person", "translation": "tình yêu đơn phương", "example": "He suffered from unrequited love for years." },
+    { "word": "attachment style", "ipa": "/əˈtætʃmənt staɪl/", "meaning": "A pattern of relating to others formed in childhood", "translation": "phong cách gắn bó cảm xúc", "example": "Understanding your attachment style improves relationships." },
+    { "word": "personal space", "ipa": "/ˈpɜːrsənəl speɪs/", "meaning": "The physical and emotional distance a person needs to feel comfortable", "translation": "không gian cá nhân", "example": "Everyone needs personal space in a healthy relationship." },
+    { "word": "codependency", "ipa": "/ˌkəʊdɪˈpendənsi/", "meaning": "An unhealthy reliance on another person in a relationship", "translation": "sự phụ thuộc lẫn nhau không lành mạnh", "example": "Therapy helped her recognize the codependency in her marriage." },
+    { "word": "long-distance relationship", "ipa": "/lɒŋ ˈdɪstəns rɪˈleɪʃənʃɪp/", "meaning": "A romantic relationship between people living far apart", "translation": "tình yêu xa", "example": "They maintained a long-distance relationship for two years before reuniting." }
   ],
   "quiz": [
     {
@@ -460,6 +773,56 @@
         "A person ideally suited to another as a life partner",
         "A childhood friend",
         "A distant relative"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'fidelity' mean?",
+      "options": [
+        "Breaking a promise",
+        "Faithfulness to a partner in a relationship",
+        "Having many friends",
+        "Living independently"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'confide' mean?",
+      "options": [
+        "To argue with someone",
+        "To tell someone a secret or private matter in trust",
+        "To compete with someone",
+        "To avoid someone"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is 'camaraderie'?",
+      "options": [
+        "A type of competition",
+        "Mutual trust and friendship among people who spend time together",
+        "A formal business relationship",
+        "A family gathering"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'reciprocate' mean?",
+      "options": [
+        "To reject someone's feelings",
+        "To respond to a gesture by making a similar one in return",
+        "To break up with someone",
+        "To ignore a person"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does 'codependent' describe?",
+      "options": [
+        "A perfectly balanced relationship",
+        "Excessively relying on a partner for emotional needs",
+        "Living in different cities",
+        "Having no emotional connection"
       ],
       "answer": 1
     }

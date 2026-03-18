@@ -99,6 +99,9 @@
     { "word": "blue", "ipa": "/bluː/", "meaning": "a colour like the sky", "example": "The sky is blue today." },
     { "word": "one", "ipa": "/wʌn/", "meaning": "the number 1", "example": "I have one brother." },
     { "word": "two", "ipa": "/tuː/", "meaning": "the number 2", "example": "I have two sisters." },
-    { "word": "three", "ipa": "/θriː/", "meaning": "the number 3", "example": "There are three cats." }
+    { "word": "three", "ipa": "/θriː/", "meaning": "the number 3", "example": "There are three cats." },
+    { "word": "green", "ipa": "/ɡriːn/", "meaning": "a colour like grass or leaves", "example": "The grass is green in spring." },
+    { "word": "yellow", "ipa": "/ˈjɛloʊ/", "meaning": "a colour like the sun or bananas", "example": "She wore a yellow hat." },
+    { "word": "white", "ipa": "/waɪt/", "meaning": "the lightest colour, like snow", "example": "The wall is white." }
   ]
 }

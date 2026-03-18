@@ -29,6 +29,64 @@
         { "speaker": "Customer", "text": "Great. The food was delicious, thank you." },
         { "speaker": "Waiter", "text": "Thank you! We hope to see you again." }
       ]
+    },
+    {
+      "id": "reservation",
+      "title": "Making a Reservation",
+      "speakers": ["Caller", "Host"],
+      "lines": [
+        { "speaker": "Host", "text": "Thank you for calling La Trattoria. How can I help you?" },
+        { "speaker": "Caller", "text": "Hi, I'd like to make a reservation for this Saturday evening, please." },
+        { "speaker": "Host", "text": "Of course. How many guests will there be?" },
+        { "speaker": "Caller", "text": "Six people. It's a birthday celebration, actually." },
+        { "speaker": "Host", "text": "How lovely! What time would you prefer? We have availability at 6:30, 7:00, and 8:30." },
+        { "speaker": "Caller", "text": "7:00 would be perfect. Could we have a table near the window if possible?" },
+        { "speaker": "Host", "text": "I'll make a note of your preference. Window tables are first come, first served, but we'll do our best. Can I have a name for the reservation?" },
+        { "speaker": "Caller", "text": "It's under Rodriguez. R-O-D-R-I-G-U-E-Z." },
+        { "speaker": "Host", "text": "Perfect, Mr. Rodriguez. Would you like us to prepare anything special for the birthday? We offer a complimentary dessert with a candle." },
+        { "speaker": "Caller", "text": "That would be wonderful! Also, one of our guests has a nut allergy. Can the kitchen accommodate that?" },
+        { "speaker": "Host", "text": "Absolutely. I'll flag it in the reservation so the chef is aware. We take allergies very seriously." },
+        { "speaker": "Caller", "text": "That's reassuring. Thank you so much." },
+        { "speaker": "Host", "text": "You're welcome. We look forward to seeing you Saturday at 7:00. Please call us if anything changes." }
+      ]
+    },
+    {
+      "id": "dietary-requirements",
+      "title": "Asking About Dietary Options",
+      "speakers": ["Diner", "Server"],
+      "lines": [
+        { "speaker": "Server", "text": "Good evening. Are you ready to order, or would you like a few more minutes?" },
+        { "speaker": "Diner", "text": "I have a couple of questions first. I'm vegan, so I was wondering which dishes on the menu are plant-based." },
+        { "speaker": "Server", "text": "Of course. We have several vegan options. The mushroom risotto, the roasted vegetable pasta, and our Thai coconut curry are all fully plant-based." },
+        { "speaker": "Diner", "text": "The Thai coconut curry sounds interesting. Does it contain any soy? I'm also soy-intolerant." },
+        { "speaker": "Server", "text": "Let me check with the kitchen. One moment, please." },
+        { "speaker": "Server", "text": "The chef confirms the curry is soy-free. It uses coconut aminos instead of soy sauce." },
+        { "speaker": "Diner", "text": "Perfect. I'll have the coconut curry, then. Is the bread vegan as well?" },
+        { "speaker": "Server", "text": "Our sourdough is vegan, but the garlic bread contains butter. I can ask the kitchen to make it with olive oil instead." },
+        { "speaker": "Diner", "text": "That would be great. And for dessert, do you have any vegan options?" },
+        { "speaker": "Server", "text": "We have a dark chocolate avocado mousse and a coconut milk panna cotta. Both are dairy-free and egg-free." },
+        { "speaker": "Diner", "text": "I'll decide on dessert later. Thank you for being so helpful with the dietary questions." },
+        { "speaker": "Server", "text": "It's my pleasure. We want everyone to enjoy their meal comfortably." }
+      ]
+    },
+    {
+      "id": "complaint",
+      "title": "Handling a Problem with the Order",
+      "speakers": ["Customer", "Manager"],
+      "lines": [
+        { "speaker": "Customer", "text": "Excuse me, could I speak to the manager, please?" },
+        { "speaker": "Manager", "text": "I'm the manager. Is everything all right?" },
+        { "speaker": "Customer", "text": "I'm afraid not. I ordered my steak medium-rare, but it arrived well-done. And we've been waiting over an hour for our food." },
+        { "speaker": "Manager", "text": "I sincerely apologize for both issues. That's not the experience we want our guests to have. Let me take care of this right away." },
+        { "speaker": "Customer", "text": "I appreciate that. My partner's pasta was fine, but my dish really isn't what I ordered." },
+        { "speaker": "Manager", "text": "I'll have the kitchen prepare a new steak for you immediately — medium-rare as you requested. It should be ready in about ten minutes." },
+        { "speaker": "Customer", "text": "Thank you. We also noticed we were charged for a bottle of wine we didn't order." },
+        { "speaker": "Manager", "text": "Let me check that. You're absolutely right — that's a billing error. I'll correct it immediately. As an apology for the wait and the steak, I'd like to offer your desserts on the house tonight." },
+        { "speaker": "Customer", "text": "That's very generous. We appreciate you handling this so well." },
+        { "speaker": "Manager", "text": "It's the least I can do. Your new steak is being prepared by our head chef personally. Is there anything else I can do for you?" },
+        { "speaker": "Customer", "text": "No, I think that covers everything. Thank you for listening." },
+        { "speaker": "Manager", "text": "Thank you for letting us know. We always want a chance to make things right." }
+      ]
     }
   ]
 }

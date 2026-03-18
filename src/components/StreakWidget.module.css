@@ -57,6 +57,52 @@
   flex-shrink: 0;
 }
 
+.goalMini {
+  margin-bottom: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.goalMiniHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+
+.goalMiniLabel {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  color: var(--color-text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.goalMiniValue {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.goalMiniTrack {
+  height: 6px;
+  background: var(--color-border);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.goalMiniBar {
+  height: 100%;
+  background: var(--color-primary);
+  border-radius: 3px;
+  transition: width 0.4s ease;
+  min-width: 0;
+}
+
+.goalMiniBarDone {
+  background: var(--color-success);
+}
+
 .chart {
   border-top: 1px solid var(--color-border);
   padding-top: 16px;

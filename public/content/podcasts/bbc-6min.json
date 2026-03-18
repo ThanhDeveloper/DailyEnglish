@@ -94,6 +94,133 @@
         { "time": "2:03", "text": "Today's vocabulary: milestone, bias, displacement, upskilling, algorithm." },
         { "time": "2:15", "text": "Thanks for listening to 6 Minute English. See you next time!" }
       ]
+    },
+    {
+      "id": "bbc6-ep4",
+      "title": "The Benefits of Learning a Second Language",
+      "description": "Discover how bilingualism boosts brain health and opens doors",
+      "youtubeId": "PLACEHOLDER_BBC6_04",
+      "duration": "6:00",
+      "level": "intermediate",
+      "tags": ["education", "language", "brain"],
+      "transcript": [
+        { "time": "0:00", "text": "Hello and welcome to 6 Minute English. I'm Beth." },
+        { "time": "0:04", "text": "And I'm Neil. Today we're asking: does learning a second language make you smarter?" },
+        { "time": "0:12", "text": "Today's question: How many languages does the average European citizen speak? Is it 1, 2 or 3?" },
+        { "time": "0:22", "text": "I'd say 2 — most Europeans I've met speak at least some English as well as their native tongue." },
+        { "time": "0:30", "text": "That's correct! The average EU citizen speaks 2 languages. Some speak 3 or more." },
+        { "time": "0:40", "text": "Our key word today is bilingual — someone who speaks two languages fluently." },
+        { "time": "0:48", "text": "Researchers have found that bilingual people switch between tasks more efficiently than monolinguals." },
+        { "time": "0:58", "text": "A monolingual is someone who speaks only one language. The prefix mono- means one." },
+        { "time": "1:08", "text": "This mental agility comes from constantly managing two language systems in the brain." },
+        { "time": "1:17", "text": "Agility means the ability to move or think quickly and easily." },
+        { "time": "1:25", "text": "Studies also show bilingualism can delay the onset of dementia by several years." },
+        { "time": "1:35", "text": "Onset means the beginning of something, often something unpleasant." },
+        { "time": "1:43", "text": "Beyond health, second languages open up career opportunities and cultural understanding." },
+        { "time": "1:52", "text": "Today's vocabulary: bilingual, monolingual, agility, onset, fluency, immersion." },
+        { "time": "2:02", "text": "Thanks for joining us. Keep practising — see you next time!" }
+      ]
+    },
+    {
+      "id": "bbc6-ep5",
+      "title": "Plastic Pollution in Our Oceans",
+      "description": "The alarming reality of plastic waste and what can be done",
+      "youtubeId": "PLACEHOLDER_BBC6_05",
+      "duration": "6:00",
+      "level": "intermediate",
+      "tags": ["environment", "ocean", "pollution"],
+      "transcript": [
+        { "time": "0:00", "text": "Welcome to 6 Minute English. I'm Sam, and with me is Neil." },
+        { "time": "0:05", "text": "Today's topic is plastic pollution — a problem that threatens our oceans and wildlife." },
+        { "time": "0:13", "text": "Today's question: How many tonnes of plastic enter the ocean every year? 1 million, 8 million or 20 million?" },
+        { "time": "0:24", "text": "I'll guess 8 million. That sounds horrifying but plausible." },
+        { "time": "0:30", "text": "You're right — around 8 million tonnes of plastic enter the ocean annually." },
+        { "time": "0:38", "text": "Once in the ocean, plastic breaks down into microplastics — tiny particles less than 5 millimetres in size." },
+        { "time": "0:48", "text": "Microplastics have been found in fish, drinking water, and even human blood." },
+        { "time": "0:57", "text": "Our word today is pervasive — meaning present everywhere, very widespread." },
+        { "time": "1:05", "text": "Plastic pollution is pervasive — it reaches from Arctic ice to deep ocean trenches." },
+        { "time": "1:15", "text": "Some countries have introduced single-use plastic bans to tackle the crisis." },
+        { "time": "1:23", "text": "Single-use means something designed to be used once and then thrown away." },
+        { "time": "1:31", "text": "However, critics say bans alone are insufficient without better waste management globally." },
+        { "time": "1:40", "text": "Insufficient means not enough — the opposite of sufficient." },
+        { "time": "1:47", "text": "Today's vocabulary: microplastics, pervasive, single-use, sufficient, pollution, marine." },
+        { "time": "1:56", "text": "That's 6 Minute English. Thank you for listening!" }
+      ]
+    },
+    {
+      "id": "bbc6-ep6",
+      "title": "Mental Health at Work",
+      "description": "How companies are tackling stress, burnout and wellbeing in the workplace",
+      "youtubeId": "PLACEHOLDER_BBC6_06",
+      "duration": "6:00",
+      "level": "intermediate",
+      "tags": ["health", "work", "wellbeing"],
+      "transcript": [
+        { "time": "0:00", "text": "Hello and welcome to 6 Minute English. I'm Neil and I'm joined by Beth." },
+        { "time": "0:06", "text": "Today we're talking about mental health at work — an increasingly important topic." },
+        { "time": "0:14", "text": "Our question: What percentage of sick days in the UK are caused by mental health issues? 25%, 40% or 57%?" },
+        { "time": "0:25", "text": "I'd guess 40% — mental health problems are very common." },
+        { "time": "0:30", "text": "The answer is actually 57% — mental health issues are the leading cause of sick leave in the UK." },
+        { "time": "0:40", "text": "Today's key term is burnout — a state of physical and emotional exhaustion caused by prolonged stress." },
+        { "time": "0:50", "text": "Signs of burnout include constant fatigue, cynicism about work, and reduced performance." },
+        { "time": "1:00", "text": "Cynicism means a general distrust or negative view — being cynical means always expecting the worst." },
+        { "time": "1:10", "text": "Many forward-thinking employers are now introducing wellbeing programmes." },
+        { "time": "1:18", "text": "These might include mental health days, access to therapists, and flexible working." },
+        { "time": "1:27", "text": "Flexible working allows employees to choose when and where they work within agreed boundaries." },
+        { "time": "1:37", "text": "Research shows that workplaces with strong wellbeing cultures have lower turnover — meaning fewer people leave." },
+        { "time": "1:47", "text": "Today's vocabulary: burnout, cynicism, wellbeing, flexibility, turnover, resilience." },
+        { "time": "1:56", "text": "Join us again next time for more 6 Minute English!" }
+      ]
+    },
+    {
+      "id": "bbc6-ep7",
+      "title": "The Rise of Veganism",
+      "description": "Why more people than ever are choosing a plant-based lifestyle",
+      "youtubeId": "PLACEHOLDER_BBC6_07",
+      "duration": "6:00",
+      "level": "beginner",
+      "tags": ["food", "health", "lifestyle"],
+      "transcript": [
+        { "time": "0:00", "text": "Welcome to 6 Minute English. I'm Sam and today I'm with Neil." },
+        { "time": "0:05", "text": "We're discussing veganism — a lifestyle that avoids all animal products." },
+        { "time": "0:12", "text": "Today's question: How much has the number of vegans in the UK grown in the last decade? 200%, 350% or 600%?" },
+        { "time": "0:24", "text": "I'll say 350% — it feels like vegan options are everywhere now." },
+        { "time": "0:30", "text": "The answer is over 600% — veganism has grown dramatically in the UK." },
+        { "time": "0:38", "text": "Our word today is plant-based — food or products made entirely from plants, with nothing from animals." },
+        { "time": "0:48", "text": "Vegans avoid meat, fish, dairy, eggs, and often honey and leather too." },
+        { "time": "0:57", "text": "Reasons for going vegan include environmental concerns, animal welfare, and health benefits." },
+        { "time": "1:07", "text": "Animal welfare refers to how well animals are treated — their physical and mental wellbeing." },
+        { "time": "1:16", "text": "Producing one kilogram of beef generates 20 times more greenhouse gas than tofu." },
+        { "time": "1:25", "text": "However, critics say plant-based diets require careful planning to avoid nutritional deficiencies." },
+        { "time": "1:35", "text": "A deficiency is when you don't have enough of something your body needs — like vitamin B12 or iron." },
+        { "time": "1:44", "text": "Today's vocabulary: veganism, plant-based, welfare, emissions, deficiency, sustainable." },
+        { "time": "1:53", "text": "That's 6 Minute English for today. Thanks for listening!" }
+      ]
+    },
+    {
+      "id": "bbc6-ep8",
+      "title": "Space Exploration Today",
+      "description": "From Mars missions to private spaceflight — the new era of space exploration",
+      "youtubeId": "PLACEHOLDER_BBC6_08",
+      "duration": "6:00",
+      "level": "upper-intermediate",
+      "tags": ["science", "space", "technology"],
+      "transcript": [
+        { "time": "0:00", "text": "Hello and welcome to 6 Minute English. I'm Beth and I'm with Sam." },
+        { "time": "0:05", "text": "We're discussing what many call the new space race — but this time with private companies involved." },
+        { "time": "0:14", "text": "Today's question: In what year did SpaceX first successfully land a reusable rocket booster? 2013, 2015 or 2018?" },
+        { "time": "0:26", "text": "I'll guess 2015 — that sounds about right." },
+        { "time": "0:30", "text": "Correct! In 2015 SpaceX landed a Falcon 9 booster for the first time, transforming space economics." },
+        { "time": "0:40", "text": "A reusable rocket can be flown multiple times, dramatically cutting the cost of reaching space." },
+        { "time": "0:50", "text": "Our word today is unprecedented — meaning never done or seen before. That landing was truly unprecedented." },
+        { "time": "1:00", "text": "NASA's Artemis programme aims to return humans to the Moon by the mid-2020s." },
+        { "time": "1:09", "text": "Ultimately, Mars is the destination — a crewed mission may happen within the next 20 years." },
+        { "time": "1:18", "text": "Crewed means carrying human astronauts, as opposed to robotic or unmanned missions." },
+        { "time": "1:27", "text": "Critics question whether the enormous cost is justified when so many problems remain on Earth." },
+        { "time": "1:37", "text": "Proponents argue space technology generates innovations that benefit everyone — from GPS to memory foam." },
+        { "time": "1:47", "text": "Today's vocabulary: reusable, unprecedented, crewed, proponents, innovation, trajectory." },
+        { "time": "1:56", "text": "That's 6 Minute English. We'll be back next week!" }
+      ]
     }
   ]
 }

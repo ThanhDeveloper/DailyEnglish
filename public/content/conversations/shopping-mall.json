@@ -62,6 +62,73 @@
         { "speaker": "Shopper", "text": "Let me go with the financing option. This is exactly what I needed. Thank you for your patience explaining everything." },
         { "speaker": "Tech Advisor", "text": "It's my pleasure! Let me set up the financing paperwork. You're going to love this machine." }
       ]
+    },
+    {
+      "id": "returning-item",
+      "title": "Returning a Product",
+      "speakers": ["Customer", "Store Associate"],
+      "lines": [
+        { "speaker": "Customer", "text": "Hi, I'd like to return these headphones I bought last week." },
+        { "speaker": "Store Associate", "text": "Of course. Do you have your receipt or proof of purchase?" },
+        { "speaker": "Customer", "text": "Yes, here it is. I paid by credit card." },
+        { "speaker": "Store Associate", "text": "Thank you. Can I ask the reason for the return? Was there a problem with the product?" },
+        { "speaker": "Customer", "text": "The noise cancellation doesn't work as well as I expected. I tried them on a plane and I could still hear a lot of background noise." },
+        { "speaker": "Store Associate", "text": "I'm sorry to hear that. These are a mid-range model. If noise cancellation is your priority, you might want to consider upgrading to the premium model, which has significantly better active noise cancellation." },
+        { "speaker": "Customer", "text": "How much more is the premium model?" },
+        { "speaker": "Store Associate", "text": "The premium model is $299 compared to the $149 you paid for these. If you'd like to exchange rather than return, I can apply your $149 as credit toward the upgrade." },
+        { "speaker": "Customer", "text": "Can I try the premium ones before deciding?" },
+        { "speaker": "Store Associate", "text": "Absolutely. We have a demo pair right here. Put them on and I'll play some music while we talk — you'll notice the difference immediately." },
+        { "speaker": "Customer", "text": "Wow, these are significantly better. The noise cancellation is incredible. I'll do the exchange." },
+        { "speaker": "Store Associate", "text": "Great choice. So with the $149 credit from your return, the remaining balance is $150 plus tax. Would you like to pay the difference on the same card?" },
+        { "speaker": "Customer", "text": "Yes, please. And these come with a warranty?" },
+        { "speaker": "Store Associate", "text": "They include a two-year manufacturer warranty. I'll process the return and the new purchase together. You'll get two receipts — one for the refund and one for the new purchase." },
+        { "speaker": "Customer", "text": "Perfect. Thank you for suggesting the upgrade. I should have gone with these in the first place." }
+      ]
+    },
+    {
+      "id": "shoe-shopping",
+      "title": "Shopping for Shoes",
+      "speakers": ["Shopper", "Sales Associate"],
+      "lines": [
+        { "speaker": "Sales Associate", "text": "Welcome! What can I help you find today?" },
+        { "speaker": "Shopper", "text": "I need a pair of running shoes. I've been getting into jogging and my regular sneakers just aren't comfortable enough." },
+        { "speaker": "Sales Associate", "text": "Running shoes are definitely important if you're jogging regularly. How often do you run and on what surface — pavement, trails, or treadmill?" },
+        { "speaker": "Shopper", "text": "Mostly pavement. I run about three times a week, usually five kilometers each time." },
+        { "speaker": "Sales Associate", "text": "For road running at that frequency, you'll want good cushioning and support. Do you know if you overpronate — that is, does your foot roll inward when you run?" },
+        { "speaker": "Shopper", "text": "I'm not sure, actually. How would I know?" },
+        { "speaker": "Sales Associate", "text": "We can do a quick gait analysis. Just step on this pressure mat and walk naturally for me. It takes about thirty seconds." },
+        { "speaker": "Shopper", "text": "Sure, that sounds helpful." },
+        { "speaker": "Sales Associate", "text": "It looks like you have a neutral gait with slight overpronation. I'd recommend a stability shoe rather than a neutral one. What size do you normally wear?" },
+        { "speaker": "Shopper", "text": "I'm a size 9, but it depends on the brand." },
+        { "speaker": "Sales Associate", "text": "For running shoes, I'd suggest going half a size up to give your toes room. Let me bring out a 9.5 in two models — the Brooks Adrenaline and the ASICS GT-2000. Both are excellent stability shoes." },
+        { "speaker": "Shopper", "text": "The Brooks feel really comfortable. There's a lot of cushioning but they don't feel heavy." },
+        { "speaker": "Sales Associate", "text": "The Brooks Adrenaline is one of our best sellers for exactly that reason. It's $130. Would you like to take a short jog around the store to test them properly?" },
+        { "speaker": "Shopper", "text": "Can I really? That would be great." },
+        { "speaker": "Sales Associate", "text": "Of course — we encourage it. The carpet area by the entrance is perfect for a quick test run." },
+        { "speaker": "Shopper", "text": "These feel amazing. I'll take them. Do you also sell running socks? My cotton socks get soaked with sweat." },
+        { "speaker": "Sales Associate", "text": "Absolutely. Moisture-wicking running socks make a huge difference. These are $15 for a three-pack. They prevent blisters too." },
+        { "speaker": "Shopper", "text": "I'll add those. Thanks for all the expert advice — I had no idea there was so much to choosing the right shoe." }
+      ]
+    },
+    {
+      "id": "grocery-store",
+      "title": "At the Grocery Store",
+      "speakers": ["Customer", "Employee"],
+      "lines": [
+        { "speaker": "Customer", "text": "Excuse me, could you tell me where the gluten-free products are?" },
+        { "speaker": "Employee", "text": "Sure! We have a dedicated gluten-free section in aisle seven, but you'll also find gluten-free options scattered throughout the store with a special label on the shelf tag." },
+        { "speaker": "Customer", "text": "Thank you. I've just been diagnosed with celiac disease, so I'm still learning what I can and can't eat." },
+        { "speaker": "Employee", "text": "I understand. Our gluten-free labels are green with a wheat symbol crossed out. If you're ever unsure, the ingredients list on the back will tell you if it contains wheat, barley, or rye." },
+        { "speaker": "Customer", "text": "That's helpful. Do you carry gluten-free bread that actually tastes good? I've tried a few brands and they were terrible." },
+        { "speaker": "Employee", "text": "I'd recommend the Canyon Bakehouse brand in the freezer section. It's our most popular gluten-free bread — customers say it tastes closest to regular bread. We also have Schär rolls which are excellent." },
+        { "speaker": "Customer", "text": "I'll try both. What about pasta? I love Italian food and I'm worried I'll have to give it up." },
+        { "speaker": "Employee", "text": "Not at all! We have brown rice pasta, chickpea pasta, and lentil pasta. The chickpea pasta holds its shape well and has extra protein. It's in aisle seven next to the regular pasta." },
+        { "speaker": "Customer", "text": "This is really reassuring. One more question — are your deli meats gluten-free?" },
+        { "speaker": "Employee", "text": "Most are, but some processed meats contain fillers that may include gluten. I'd recommend asking at the deli counter — our staff can check the ingredient list for any specific product." },
+        { "speaker": "Customer", "text": "Thank you so much. You've been incredibly helpful." },
+        { "speaker": "Employee", "text": "You're very welcome. We also have a store newsletter that features new gluten-free products each month. You can sign up at the customer service desk." },
+        { "speaker": "Customer", "text": "I'll do that. It's nice to know I still have plenty of options." }
+      ]
     }
   ]
 }
