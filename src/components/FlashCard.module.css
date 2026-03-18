@@ -5,6 +5,8 @@
   width: 100%;
   max-width: 400px;
   margin: 0 auto;
+  /* Allow vertical scroll to pass through on touch devices */
+  touch-action: pan-y;
 }
 
 .inner {

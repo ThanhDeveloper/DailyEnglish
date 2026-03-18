@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import { VolumeIcon } from './Icons';
 import { speak } from '../utils/speech';
 import styles from './FlashCard.module.css';
@@ -13,11 +13,40 @@ interface FlashCardProps {
 
 export function FlashCard({ word, ipa, meaning, example, image }: FlashCardProps) {
   const [flipped, setFlipped] = useState(false);
+  const touchStartY = useRef<number | null>(null);
+
+  const handleTouchStart = (e: React.TouchEvent) => {
+    touchStartY.current = e.touches[0].clientY;
+  };
+
+  const isTouchRef = useRef(false);
+
+  const handleTouchEnd = (e: React.TouchEvent) => {
+    if (touchStartY.current === null) return;
+    const delta = Math.abs(e.changedTouches[0].clientY - touchStartY.current);
+    touchStartY.current = null;
+    // Only flip if touch moved less than 10px (a tap, not a scroll)
+    if (delta < 10) {
+      isTouchRef.current = true;
+      setFlipped((f) => !f);
+    }
+  };
+
+  const handleClick = () => {
+    // Skip click event if already handled by touch
+    if (isTouchRef.current) {
+      isTouchRef.current = false;
+      return;
+    }
+    setFlipped((f) => !f);
+  };
 
   return (
     <div
       className={`${styles.card} ${flipped ? styles.flipped : ''}`}
-      onClick={() => setFlipped(!flipped)}
+      onTouchStart={handleTouchStart}
+      onTouchEnd={handleTouchEnd}
+      onClick={handleClick}
       role="button"
       tabIndex={0}
       onKeyDown={(e) => e.key === 'Enter' && setFlipped(!flipped)}
