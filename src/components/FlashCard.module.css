@@ -1,12 +1,9 @@
 .card {
   perspective: 1000px;
-  cursor: pointer;
   height: 320px;
   width: 100%;
   max-width: 400px;
   margin: 0 auto;
-  /* Allow vertical scroll to pass through on touch devices */
-  touch-action: pan-y;
 }
 
 .inner {
@@ -87,15 +84,16 @@
   border-color: var(--color-primary);
 }
 
-.hint {
-  font-size: 0.75rem;
-  color: var(--color-text-secondary);
+.flipBtn {
   margin-top: auto;
+  font-size: 0.875rem;
+  padding: 8px 20px;
+  min-height: var(--tap-min);
 }
 
 @media (max-width: 768px) {
   .card {
-    height: 360px;
+    height: 380px;
     max-width: 100%;
   }
 
